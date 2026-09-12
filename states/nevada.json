@@ -1,0 +1,1316 @@
+[
+  {
+    "id": "nv-black-rock-desert-blm",
+    "name": "Black Rock Desert National Conservation Area BLM Free Primitive Camping",
+    "state": "Nevada",
+    "county": "Humboldt County / Washoe County",
+    "coordinates": {
+      "latitude": 40.8812,
+      "longitude": -119.0184,
+      "elevation_ft": 3910
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management - Winnemucca District",
+      "type": "BLM",
+      "phone": "(775) 623-1500",
+      "website": "https://www.blm.gov/nevada"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for primitive dispersed camping on BLM land (excluding fee closure window during Burning Man event)",
+      "stay_limit": "14 consecutive days max stay within 28-day period",
+      "guidelines": "Dispersed primitive camping permitted throughout the 1.2-million-acre Black Rock Desert High Rock Canyon NCA. Do not drive on wet playa."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Playa mud / desert alkali soil: full human waste pack-out using portable toilet or WAG bags strictly required on playa surface. Deep cat-hole 6 inches deep in upland sandy soil 200ft from hot springs.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out. Zero trash collection on playa."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring your own firewood. Gathering sagebrush or playa vegetation strictly prohibited.",
+      "safety_requirements": "Campfires must be contained in elevated metal fire pans. Never ignite fires directly on playa clay (causes permanent fire scars).",
+      "seasonal_fire_bans": "Obey BLM Winnemucca fire restrictions."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway to unpaved flat alkali playa lakebed / gravel washboard roads (NV-347 / Soldier Meadows Road)",
+      "road_conditions": "Flat smooth dry playa when dry; turns into liquid mud when wet (vehicles freeze in place). Gravel side roads have sharp volcanic rocks.",
+      "vehicle_recommendation": "High clearance car or 4x4 recommended (Normal low clearance 2WD cars can drive on dry playa near Gerlach access points with caution)",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 7
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Weak to Moderate / Starlink Recommended",
+      "verizon_reliability": "2-3 bars 4G LTE near Gerlach access point; 0-1 bar on open playa",
+      "att_reliability": "1-2 bars 4G LTE near main highway corridor",
+      "tmobile_reliability": "No signal",
+      "terrain_obstruction_risk": "Low (Vast flat alkali desert valley bounded by Calico & Jackson mountain ranges)",
+      "distance_from_tower_corridor_miles": 12.5,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Vast Infinite Alkali Playa Horizon",
+      "Natural Hot Springs (Soldier Meadows / Trego)",
+      "100% Unshaded Solar Power Exposure",
+      "World-Class Dark Sky Astrophotography"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 2,
+      "distance_to_library_score": 2,
+      "distance_to_gym_score": 1,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Gerlach, NV",
+        "distance_miles": 18.5,
+        "services_available": [
+          "Gas Station",
+          "Bruno's Country Club / Saloon",
+          "Post Office",
+          "Water Refill"
+        ]
+      },
+      {
+        "town_name": "Winnemucca / Reno, NV",
+        "distance_miles": 105.0,
+        "services_available": [
+          "Full City Services",
+          "Walmart Supercenters",
+          "Hospitals",
+          "24/7 Gyms",
+          "International Airport"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "55-70\u00b0F, high wind storms, wet playa sections, hot spring soaks.",
+      "summer": "Hot (95-105\u00b0F), intense desert sun, dust storms (whiteout dust devils), 100% dry playa.",
+      "fall": "Ideal boondocking season (65-80\u00b0F daytime, 35-45\u00b0F nights), low wind, clear skies.",
+      "winter": "Cold High Desert winter (30-45\u00b0F daytime, 10-25\u00b0F nights), mud on playa."
+    },
+    "dangers_and_hazards": [
+      "Getting stuck in wet alkali mud (towing costs exceed $1,500 in remote desert)",
+      "Whiteout dust storms with 50+ mph wind gusts",
+      "Extreme isolation: no cell service, water, or gas for 50+ miles",
+      "High thermal temperature hot springs (scalding water hazard)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "10/10 - Pure desert silence",
+      "common_human_made_sounds": [
+        "Infrequent high-speed land vehicles on open playa",
+        "Wind blowing across dry lakebed"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Black Sagebrush (Artemisia nova)",
+        "Shadscale Saltbush",
+        "Greasewood (Sarcobatus vermiculatus)",
+        "Desert Indian Paintbrush"
+      ],
+      "common_animals": [
+        "Pronghorn",
+        "Wild Horses / Mustangs (Equus caballus)",
+        "Wild Burros",
+        "Kit Fox",
+        "Great Basin Rattlesnake"
+      ]
+    },
+    "human_demographics_and_culture": "Off-grid nomads, rockhounds, hot spring enthusiasts, amateur astronomers, high-speed land record teams, and overlanders.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Northern Paiute indigenous traditions honor the Black Rock Desert and Hot Springs as sacred domains of the water and fire spirits.",
+      "energetic_and_spiritual_features": "Profound silent desert energy, vast void spatial clearance, pristine Bortle 1 night sky."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "High Rock Canyon National Historic Trail",
+        "length_miles": 18.0,
+        "difficulty": "Strenuous (4x4 / Hike)",
+        "features": "Deep volcanic canyon walls, emigrant wagon trail inscriptions"
+      }
+    ],
+    "public_reviews_summary": "One of the most surreal and vast primitive camping expanses in North America. Absolute silence and infinite horizons. Starlink mandatory for remote internet.",
+    "other_data": "Bortle Class 1 night sky (darkest skies in USA). 100% solar efficiency.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "nv-ruby-mountains-humboldt-toiyabe-nf",
+    "name": "Lamoille Canyon / Ruby Mountains Dispersed Primitive Camping",
+    "state": "Nevada",
+    "county": "Elko County",
+    "coordinates": {
+      "latitude": 40.6812,
+      "longitude": -115.4712,
+      "elevation_ft": 6400
+    },
+    "management_agency": {
+      "name": "US Forest Service - Humboldt-Toiyabe National Forest (Mountain City-Ruby Mountains-Jarbidge Ranger District)",
+      "type": "USFS",
+      "phone": "(775) 752-3357",
+      "website": "https://www.fs.usda.gov/htnf"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Humboldt-Toiyabe NF Dispersed Primitive Land (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed camping at pullouts along Lamoille Canyon Road and lower canyon dirt spurs. Camp 100ft minimum from Lamoille Creek."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in soil 200 feet from Lamoille Creek. Pack out all hygiene items.",
+      "trash_policy": "Strict Leave No Trace."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully extinguish with water.",
+      "seasonal_fire_bans": "Summer desert mountain fire bans active July-September."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved Scenic Byway (Lamoille Canyon Road) to dirt pullouts",
+      "road_conditions": "Paved scenic main road, smooth gravel pullouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance vehicles.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate / Canyon Mouth Line",
+      "verizon_reliability": "3-4 bars 4G LTE at canyon mouth; 1-2 bars up canyon",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate (Glacial alpine canyon walls reduce signal further up valley)",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Alpine Stream Primitive Campsites",
+      "Glacial Cirque Valley Views ('Alps of Nevada')",
+      "Lamoille Creek Water Source (Filter mandatory)",
+      "Paved Scenic Access"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Elko, NV",
+        "distance_miles": 20.0,
+        "services_available": [
+          "Walmart Supercenter",
+          "Gas Stations",
+          "Elko County Library",
+          "Hospitals",
+          "Gyms",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "42-60\u00b0F, rushing snowmelt cascades, green alpine meadows.",
+      "summer": "75-88\u00b0F, pleasant high mountain escape from Nevada desert heat.",
+      "fall": "48-68\u00b0F, world-class golden quaking aspen foliage.",
+      "winter": "15-35\u00b0F, heavy alpine snowpack, road snowplowed to power plant."
+    },
+    "dangers_and_hazards": [
+      "High elevation altitude sickness risk (up to 8,800ft at road end)",
+      "Sudden summer alpine thunderstorms",
+      "High mountain summer UV exposure"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Alpine stream cascades and mountain wind",
+      "common_human_made_sounds": [
+        "Occasional scenic drive vehicle on main road"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Quaking Aspen",
+        "Limber Pine",
+        "Mountain Mahogany",
+        "Alpine Wildflowers"
+      ],
+      "common_animals": [
+        "Himalayan Snowcock",
+        "Mountain Goat",
+        "Bighorn Sheep",
+        "Mule Deer",
+        "Beaver"
+      ]
+    },
+    "human_demographics_and_culture": "Nevada ranchers, alpine hikers, fly anglers, outdoor nomads, winter backcountry skiers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Western Shoshone ancestral mountains (Newe Sogobia). The Ruby Mountains are held in deep sacred honor for their life-giving waters.",
+      "energetic_and_spiritual_features": "Breathtaking glacial alpine energy, towering granite peaks, golden aspen serenity."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Lamoille Canyon to Island Lake Trail",
+        "length_miles": 3.6,
+        "difficulty": "Moderate",
+        "features": "Glacial alpine lake, towering granite cirque bluffs, wildflower basins"
+      }
+    ],
+    "public_reviews_summary": "The 'Alps of Nevada'. Stunning free primitive camping in Lamoille Canyon with smooth paved access, great cell coverage near Elko, and unbelievable alpine views.",
+    "other_data": "Humboldt-Toiyabe National Forest. Free dispersed camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "nv-black-rock-desert-blm-primitive",
+    "name": "Black Rock Desert / High Rock Canyon BLM Dispersed Camping",
+    "state": "Nevada",
+    "county": "Humboldt / Washoe County",
+    "coordinates": {
+      "latitude": 40.9124,
+      "longitude": -119.0214,
+      "elevation_ft": 3900
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Winnemucca District",
+      "type": "Federal BLM",
+      "phone": "(775) 623-1500",
+      "website": "https://www.blm.gov/office/winnemucca-district-office"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Public BLM Land Dispersed Primitive Camping (zero fees)",
+      "stay_limit": "14 consecutive days within a 28-day period",
+      "guidelines": "Dispersed primitive camping permitted throughout public BLM playa edge and canyon areas outside designated event closures. Carry out human waste where required."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Portable toilet system or pack-out human waste (WAG bags) recommended on dry alkali playa. Dig cat-hole 6-8 inches deep in dirt areas 200ft from hot springs.",
+      "trash_policy": "Strict Leave No Trace. Zero trash left in desert."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Must bring your own firewood. Gathering wood on playa is prohibited.",
+      "safety_requirements": "Campfires must be contained in metal fire pan. Fully extinguish before leaving.",
+      "seasonal_fire_bans": "Summer desert fire restrictions active June through August."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved NV 447 to unpaved dirt/playa entrance roads",
+      "road_conditions": "Smooth dry alkali playa when dry; severe unpassable mud when wet.",
+      "vehicle_recommendation": "High clearance 2WD or 4x4 recommended; standard 2WD vehicles can access dry playa edges carefully in dry weather.",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair near Gerlach / Tower Line",
+      "verizon_reliability": "2-3 bars 4G LTE near Gerlach / NV 447; SOS deep on playa",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Low across flat open dry desert playa",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Vast Open Salt Flat Playa Panoramas",
+      "Nearby Geothermal Hot Springs (Soldier Meadows access)",
+      "Flat Salt Flat Van/RV Parking",
+      "World-Class Dark Sky Stargazing"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 3,
+      "distance_to_library_score": 3,
+      "distance_to_gym_score": 2,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Gerlach, NV",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Bruno's Country Club / Store",
+          "Gas Station",
+          "Local Saloon",
+          "Water Fill"
+        ]
+      },
+      {
+        "town_name": "Fernley / Reno, NV",
+        "distance_miles": 78.0,
+        "services_available": [
+          "Full Metro Services",
+          "Walmart / Costco",
+          "Hospitals",
+          "24/7 Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "50-70\u00b0F, cool desert breeze, occasional spring rain squalls.",
+      "summer": "88-102\u00b0F, intense dry desert heat, blazing sun.",
+      "fall": "60-78\u00b0F, prime desert camping weather, clear starry nights.",
+      "winter": "25-45\u00b0F, freezing desert nights, playa wet/muddy."
+    },
+    "dangers_and_hazards": [
+      "Playa surface turns into unpassable sticky mud after rain (never drive on wet playa)",
+      "Severe dehydration in dry high desert heat",
+      "Extremely high dust winds"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "10/10 - Absolute desert playa silence",
+      "common_human_made_sounds": [
+        "None (Wilderness area)"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Big Sagebrush",
+        "Greasewood",
+        "Shadscale",
+        "Desert Paintbrush"
+      ],
+      "common_animals": [
+        "Pronghorn Antelope",
+        "Wild Horses (Mustangs)",
+        "Coyote",
+        "Kit Fox",
+        "Raven"
+      ]
+    },
+    "human_demographics_and_culture": "Northern Paiute ancestral lands, Nevada ranchers, desert nomads, overland adventurers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Ancestral territory of the Northern Paiute people. Iconic vast dry lakebed known worldwide for its surreal alien-like vastness.",
+      "energetic_and_spiritual_features": "Infinite dry salt flat horizons, cosmic dark night sky stargazing."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "High Rock Canyon Trail",
+        "length_miles": 12.0,
+        "difficulty": "Strenuous Overland",
+        "features": "Narrow volcanic canyon bluffs, historic pioneer wagon ruts, petroglyphs"
+      }
+    ],
+    "public_reviews_summary": "Mind-blowing open desert primitive camping on Nevada's Black Rock Desert playa. Infinite horizon sunsets, world-class dark sky stargazing, and free BLM access.",
+    "other_data": "BLM Black Rock Desert-High Rock Canyon NCA. Free dispersed camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "nevada-004",
+    "name": "Ruby Mountains Lamoille Canyon Dispersed Primitive Zone - Humboldt-Toiyabe National Forest",
+    "state": "Nevada",
+    "county": "Elko",
+    "coordinates": {
+      "latitude": 40.6412,
+      "longitude": -115.4512,
+      "elevation_ft": 7450.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Humboldt-Toiyabe National Forest (Mountain City-Ruby Mountains Ranger District)",
+      "type": "Federal",
+      "phone": "(775) 752-3357",
+      "website": "https://www.fs.usda.gov/htnf"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed forest camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive backcountry camping allowed along Ruby Crest Trail and designated road pullouts outside developed camp loops. Camp 100 ft from streams. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from Lamoille Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down firewood locally.",
+      "safety_requirements": "Campfires allowed in existing stone fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS dry summer fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved Lamoille Canyon National Scenic Byway to trailheads",
+      "road_conditions": "Smooth paved scenic byway climbs into alpine canyon.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2.5/5 Stars)",
+      "verizon_reliability": "2 bars 4G LTE near canyon mouth, spotty deep in canyon",
+      "att_reliability": "1-2 bars 4G LTE",
+      "tmobile_reliability": "1 bar 4G LTE",
+      "terrain_obstruction_risk": "High - U-shaped alpine glacial canyon walls rising 3,000 feet",
+      "distance_from_tower_corridor_miles": 8.5,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Glacial Alpine Canyon Views",
+      "Lamoille Creek Water Access",
+      "Primitive Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Lamoille, NV",
+        "distance_miles": 7.2,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "Local Saloon & Dining"
+        ]
+      },
+      {
+        "town_name": "Elko, NV",
+        "distance_miles": 24.5,
+        "services_available": [
+          "Supercenter",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Airport"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "High snowpack melt in May/June creates roaring waterfalls down canyon walls.",
+      "summer": "Cool alpine summer weather (72-82\u00b0F), escaping Nevada valley heat.",
+      "fall": "Spectacular golden aspen foliage in late September.",
+      "winter": "Snowbound alpine valley; avalanche hazard; popular for backcountry skiing."
+    },
+    "dangers_and_hazards": [
+      "High Altitude Weather Shifts & Sudden Thunderstorms",
+      "Himalayan Snowcock / High Altitude Cliff Drops",
+      "Cold Alpine Night Temperatures"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Alpine Creek Silence (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Occasional passing scenic byway car",
+        "High altitude flights"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Quaking Aspen",
+        "Limber Pine",
+        "Subalpine Fir",
+        "Mountain Mahogany"
+      ],
+      "common_animals": [
+        "Mountain Goat",
+        "Bighorn Sheep",
+        "Mule Deer",
+        "Himalayan Snowcock",
+        "Himalayan Snowcock (Exotic Mountain Gamebird)"
+      ]
+    },
+    "human_demographics_and_culture": "Northeastern Nevada cattle ranching, Basque dining, and Great Basin alpine wilderness heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Shoshone traditions honor the Ruby Mountains ('The Alps of Nevada') as a high mountain sanctuary of spirit water springs.",
+      "energetic_and_spiritual_features": "Glacial cirques and alpine aspen groves radiate intense alpine freshness."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Ruby Crest National Recreation Trail",
+        "length_miles": 38.0,
+        "difficulty": "Strenuous",
+        "features": "Alpine glacial lakes (Island Lake, Dollar Lakes), 10,000-ft mountain passes"
+      }
+    ],
+    "public_reviews_summary": "Nevada's premier alpine mountain canyon with unbelievable glacial scenery and cool summer air.",
+    "other_data": "Camp at least 100 feet away from Lamoille Creek and alpine lakes.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "nevada-005",
+    "name": "Monte Cristo Range Dispersed BLM Primitive Spot",
+    "state": "Nevada",
+    "county": "Esmeralda / Nye",
+    "coordinates": {
+      "latitude": 38.2812,
+      "longitude": -117.6541,
+      "elevation_ft": 5820.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Tonopah Field Office",
+      "type": "Federal",
+      "phone": "(775) 482-7800",
+      "website": "https://www.blm.gov/nevada"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive public land dispersed camping)",
+      "stay_limit": "14 days maximum stay limit within a 28-day period",
+      "guidelines": "Dispersed primitive camping allowed on open BLM lands. Maintain 300 feet distance from natural springs and wildlife water guzzlers. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep in cat-holes at least 200 feet from springs. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down pinyon-juniper wood.",
+      "safety_requirements": "Clear 10 ft fire line around campfire ring. Douse cold with water.",
+      "seasonal_fire_bans": "Subject to BLM Stage 1 and Stage 2 dry desert fire restrictions."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel and dirt desert wash roads",
+      "road_conditions": "Graded gravel road to dirt canyon pullouts; high clearance recommended.",
+      "vehicle_recommendation": "CUV, SUV, or high-clearance 2WD car fine in dry weather; 4WD helpful after rains.",
+      "scores": {
+        "road_grade": 5,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 6
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2/5 Stars)",
+      "verizon_reliability": "1-2 bars 4G LTE spotty on high ridge pullouts",
+      "att_reliability": "1 bar 4G LTE",
+      "tmobile_reliability": "No signal",
+      "terrain_obstruction_risk": "High - Great Basin mountain range and canyon walls",
+      "distance_from_tower_corridor_miles": 18.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Volcanic Desert Canyon Scenery",
+      "Dark Sky Star Observation",
+      "Primitive Rock Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 4,
+      "distance_to_library_score": 4,
+      "distance_to_gym_score": 3,
+      "terrain_score": 9,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Tonopah, NV",
+        "distance_miles": 28.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Hospital",
+          "Historic Hotels & Dining"
+        ]
+      },
+      {
+        "town_name": "Bishop, CA",
+        "distance_miles": 94.0,
+        "services_available": [
+          "Supermarkets",
+          "Outfitters",
+          "Public Library",
+          "Gym & Fitness Center"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool high desert spring with blooming desert cacti.",
+      "summer": "Hot desert summer (90-98\u00b0F) with cool high elevation night air (55\u00b0F).",
+      "fall": "Crisp dry autumn weather with crystal clear skies.",
+      "winter": "Cold high desert winter (20-38\u00b0F) with light snow on mountain tops."
+    },
+    "dangers_and_hazards": [
+      "Extreme High Desert Isolation",
+      "Dehydration & Severe Sun",
+      "Flash Floods in Desert Wash Beds",
+      "Great Basin Rattlesnakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Pure High Desert Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "High altitude military jets from Nellis Range"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Single-leaf Pinyon Pine",
+        "Utah Juniper",
+        "Great Basin Sagebrush",
+        "Mormon Tea"
+      ],
+      "common_animals": [
+        "Wild Horses (Mustangs)",
+        "Pronghorn Antelope",
+        "Desert Bighorn Sheep",
+        "Chukar Partridge",
+        "Coyote"
+      ]
+    },
+    "human_demographics_and_culture": "Central Nevada mining history (Tonopah silver mining era) and wild horse conservation country.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Northern Paiute and Shoshone traditions honor the quiet desert mountain ranges as places of ancient power and starlight.",
+      "energetic_and_spiritual_features": "Unmatched dark night skies (International Dark Sky corridor) radiate deep cosmic quiet."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Monte Cristo Range Crest Exploration Route",
+        "length_miles": 6.5,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Volcanic mountain ridge walk, wild horse viewing, panoramic Great Basin desert views"
+      }
+    ],
+    "public_reviews_summary": "Incredible dark skies, wild horses roaming nearby, and absolute solitude on Nevada public land.",
+    "other_data": "Bring all water, extra gas, and two spare tires for remote desert travel.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "nevada-006",
+    "name": "BLM Logandale Trails Primitive Dispersed Zone",
+    "state": "Nevada",
+    "county": "Clark",
+    "coordinates": {
+      "latitude": 36.5812,
+      "longitude": -114.4812,
+      "elevation_ft": 1850.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Las Vegas Field Office",
+      "type": "Federal",
+      "phone": "(702) 515-5000",
+      "website": "https://www.blm.gov/nevada"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive BLM dispersed camping)",
+      "stay_limit": "14 days maximum stay within a 28-day window",
+      "guidelines": "Dispersed primitive camping allowed along Logandale Trails dirt roads among red sandstone hoodoos outside Valley of Fire state park. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from washes or pack out using WAG bags.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring firewood; no wood collecting in desert area.",
+      "safety_requirements": "Campfires permitted in cleared metal or stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to BLM Stage 1 & 2 fire restrictions during summer."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel and sand desert wash roads",
+      "road_conditions": "Graded gravel access road; soft sand spots require careful driving.",
+      "vehicle_recommendation": "CUV, SUV, or FWD passenger car fine on main gravel road; 4WD helpful for soft sand.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate - red sandstone rock formations",
+      "distance_from_tower_corridor_miles": 2.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Aztec Red Sandstone Hoodoo Views",
+      "Ancient Petroglyph Viewing nearby",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 10,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Logandale / Overton, NV",
+        "distance_miles": 6.8,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Las Vegas, NV",
+        "distance_miles": 52.0,
+        "services_available": [
+          "International Airport",
+          "Major Hospitals",
+          "Full Urban Amenities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Ideal spring weather (75-84\u00b0F) with blooming desert flora.",
+      "summer": "Extremely hot desert summer (105-112\u00b0F); dangerous heat.",
+      "fall": "Warm sunny days and cool desert nights.",
+      "winter": "Ideal winter climate (58-68\u00b0F); popular nomad winter hub."
+    },
+    "dangers_and_hazards": [
+      "Extreme Summer Heat",
+      "Rattlesnakes",
+      "Getting Stuck in Soft Sand"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Red Rock Canyon Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Occasional OHV vehicle",
+        "Distant I-15 traffic hum"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Creosote Bush",
+        "White Bursage",
+        "Joshua Tree",
+        "Beaver tail Cactus"
+      ],
+      "common_animals": [
+        "Desert Tortoise (Protected)",
+        "Desert Bighorn Sheep",
+        "Gambel's Quail",
+        "Coyote"
+      ]
+    },
+    "human_demographics_and_culture": "Southern Nevada Moapa Valley, Southern Paiute, and OHV desert recreation culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Southern Paiute traditions honor the Aztec red sandstone formations as sacred ancestral spirit lands.",
+      "energetic_and_spiritual_features": "Vivid fiery red sandstone cliffs and natural petroglyph arches generate an energizing desert power."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Logandale Petroglyph & Red Rock Canyon Trail",
+        "length_miles": 3.8,
+        "difficulty": "Easy to Moderate",
+        "features": "Aztec red sandstone hoodoos, ancient Native petroglyphs, desert wash canyons"
+      }
+    ],
+    "public_reviews_summary": "Valley of Fire scenery without the state park fees, plus blazing fast 5G cell internet near Las Vegas.",
+    "other_data": "Do not touch or alter protected petroglyphs.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "nevada-007",
+    "name": "BLM Fairview Peak Dispersed Primitive Zone",
+    "state": "Nevada",
+    "county": "Churchill",
+    "coordinates": {
+      "latitude": 39.2148,
+      "longitude": -118.1214,
+      "elevation_ft": 5250.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Carson City District",
+      "type": "Federal",
+      "phone": "(775) 885-6000",
+      "website": "https://www.blm.gov/nevada"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive BLM dispersed camping)",
+      "stay_limit": "14 days maximum stay within a 28-day window",
+      "guidelines": "Dispersed primitive camping allowed on open BLM lands along Fairview Peak Road off US-50 ('Loneliest Road in America'). Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from dry washes. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down pinyon-juniper wood.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to BLM Stage 1 & 2 fire restrictions during summer."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved US-50 to gravel BLM dirt roads",
+      "road_conditions": "Paved highway access to graded gravel basin turnouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE on high valley basin rim",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - vast open Great Basin valley floor",
+      "distance_from_tower_corridor_miles": 2.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "1.4-Billion-Year-Old Fault Scarp Views",
+      "Dark Sky Astronomy",
+      "Great Basin Mountain Vistas"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 8,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Fallon, NV",
+        "distance_miles": 38.0,
+        "services_available": [
+          "Supermarket",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Hardware Store",
+          "Naval Air Station Amenities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool dry Great Basin spring weather (65-75\u00b0F).",
+      "summer": "Warm to hot dry summer (90-96\u00b0F) with cool desert nights (52\u00b0F).",
+      "fall": "Crisp autumn days with crystal clear stargazing skies.",
+      "winter": "Cold high desert winter (25-42\u00b0F) with light snow."
+    },
+    "dangers_and_hazards": [
+      "Great Basin Rattlesnakes",
+      "Remote Desert Travel",
+      "High Desert Sun Exposure"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Great Basin Wind Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "High altitude Top Gun naval fighter jets from Fallon NAS",
+        "Occasional US-50 car"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Single-leaf Pinyon Pine",
+        "Utah Juniper",
+        "Great Basin Sagebrush",
+        "Mormon Tea"
+      ],
+      "common_animals": [
+        "Wild Horses (Mustangs)",
+        "Pronghorn Antelope",
+        "Chukar",
+        "Desert Horned Lizard",
+        "Coyote"
+      ]
+    },
+    "human_demographics_and_culture": "Central Nevada Pony Express history, 1954 earthquake fault scarp geology, and 'Loneliest Road' highway culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Northern Paiute and Shoshone traditions honor Fairview Peak as a high mountain sentinel of starlight.",
+      "energetic_and_spiritual_features": "Historic 1954 earthquake fault scarps and wide open desert basin generate humbling geological energy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Fairview Peak Earthquake Scarp & Summit Trail",
+        "length_miles": 4.5,
+        "difficulty": "Moderate",
+        "features": "1954 earthquake fault line scarps, 8,300-ft summit fire lookout views"
+      }
+    ],
+    "public_reviews_summary": "Solid 4G cell signal along US-50, incredible night skies, wild horses roaming, and zero fees.",
+    "other_data": "Bring fresh drinking water and extra fuel.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "nevada-008",
+    "name": "BLM Black Rock Desert Edge Dispersed Zone",
+    "state": "Nevada",
+    "county": "Humboldt / Washoe",
+    "coordinates": {
+      "latitude": 40.9812,
+      "longitude": -119.0142,
+      "elevation_ft": 3920.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Winnemucca District",
+      "type": "Federal",
+      "phone": "(775) 623-1500",
+      "website": "https://www.blm.gov/nevada"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive BLM dispersed camping outside Burning Man event period)",
+      "stay_limit": "14 days maximum stay within a 28-day window",
+      "guidelines": "Dispersed primitive camping allowed along Soldier Meadows Road and playa edge pullouts. Do not drive on wet playa surface. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Pack out human waste using WAG bags / Portable Toilet due to flat alkali playa soils.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy. Absolute Leave No Trace."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring firewood; no collecting on playa.",
+      "safety_requirements": "Campfires permitted ONLY in raised metal burn pans to prevent playa scars. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to BLM Stage 1 & 2 fire restrictions during summer."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel and alkali dirt playa roads",
+      "road_conditions": "Graded gravel access road along playa edge; playa surface becomes impassable sticky mud when wet.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car in dry weather; 4WD required when wet.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 6
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2/5 Stars)",
+      "verizon_reliability": "1-2 bars 4G LTE spotty near Gerlach highway corridor",
+      "att_reliability": "1 bar 4G LTE",
+      "tmobile_reliability": "No signal",
+      "terrain_obstruction_risk": "Low - vast flat alkali playa expanse",
+      "distance_from_tower_corridor_miles": 18.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Vast Alkali Playa Horizons",
+      "Dark Sky Astronomy",
+      "Geothermal Hot Springs nearby"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 3,
+      "distance_to_library_score": 3,
+      "distance_to_gym_score": 2,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Gerlach, NV",
+        "distance_miles": 14.5,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "Local Saloon & Dining"
+        ]
+      },
+      {
+        "town_name": "Winnemucca, NV",
+        "distance_miles": 85.0,
+        "services_available": [
+          "Supermarket",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Playa holds standing water thaws; impassable mud.",
+      "summer": "Hot dry desert summer (95-104\u00b0F) with dust storms ('whiteouts').",
+      "fall": "Crisp dry autumn weather; ideal playa exploration weather.",
+      "winter": "Cold winter (20-38\u00b0F) with snow thaws turning playa to mud."
+    },
+    "dangers_and_hazards": [
+      "Getting Vehicle Stuck in Wet Alkali Mud",
+      "Severe Dust Storms (Whiteouts)",
+      "Extreme Remote Desert Isolation"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Playa Horizon Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Occasional high altitude aircraft"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Black Greasewood",
+        "Shadscale",
+        "Fourwing Saltbush",
+        "Iodine Bush"
+      ],
+      "common_animals": [
+        "Pronghorn Antelope",
+        "Wild Horses",
+        "Kit Fox",
+        "Raven",
+        "Great Basin Rattlesnake"
+      ]
+    },
+    "human_demographics_and_culture": "Black Rock Desert High Rock Canyon Emigrant Trail history, Burning Man art culture, and land speed record testing grounds.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Northern Paiute traditions honor the Black Rock Desert as a sacred dry lake realm of ancient winds.",
+      "energetic_and_spiritual_features": "360-degree flat alkali playa extending to infinity under cosmic night skies generates unforgettable surreal freedom."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Applegate-Lassen Historic Emigrant Trail",
+        "length_miles": 12.0,
+        "difficulty": "Moderate",
+        "features": "1840s wagon ruts, Black Rock point landmark, hot spring pools"
+      }
+    ],
+    "public_reviews_summary": "Surreal alien landscape with unmatched dark skies, but requires complete desert self-sufficiency and dry weather.",
+    "other_data": "Never drive onto the playa if there is any moisture.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "nevada-009",
+    "name": "BLM Sand Mountain Recreation Dispersed Buffer Zone",
+    "state": "Nevada",
+    "county": "Churchill",
+    "coordinates": {
+      "latitude": 39.2812,
+      "longitude": -118.4125,
+      "elevation_ft": 4120.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Carson City District",
+      "type": "Federal",
+      "phone": "(775) 885-6000",
+      "website": "https://www.blm.gov/nevada"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive BLM dispersed camping outside central sand dune OHV fee area)",
+      "stay_limit": "14 days maximum stay within a 28-day window",
+      "guidelines": "Dispersed primitive camping allowed along US-50 pullouts outside Sand Mountain Recreation Area fee entrance. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from dry washes or pack out using WAG bags.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring firewood; no wood on dunes.",
+      "safety_requirements": "Campfires permitted in cleared metal or stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to BLM Stage 1 & 2 fire restrictions in summer."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved US-50 to hard-packed gravel pullouts",
+      "road_conditions": "Smooth paved main road to gravel pullouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car, camper vans, and rigs.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE along US-50 highway corridor",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open desert basin looking towards 600-foot singing sand dune",
+      "distance_from_tower_corridor_miles": 1.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "600-ft Singing Sand Dune Views",
+      "Pony Express Station Ruins nearby",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 9,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Fallon, NV",
+        "distance_miles": 22.4,
+        "services_available": [
+          "Supermarket",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Hardware Store",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Mild dry desert spring weather (68-78\u00b0F).",
+      "summer": "Hot dry summer (94-102\u00b0F) with cool night breezes.",
+      "fall": "Crisp sunny autumn days.",
+      "winter": "Cool high desert winter (42-52\u00b0F)."
+    },
+    "dangers_and_hazards": [
+      "Getting Vehicle Stuck in Deep Sand Off-Road",
+      "Rattlesnakes",
+      "High Summer Heat"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Desert Basin Audio (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Distant US-50 traffic hum",
+        "Occasional OHV sand dune motor hum"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Sand Mountain Blue Butterfly Habitat",
+        "Fourwing Saltbush",
+        "Creosote Bush",
+        "Indian Ricegrass"
+      ],
+      "common_animals": [
+        "Sand Mountain Blue Butterfly (Endemic)",
+        "Wild Horses",
+        "Desert Horned Lizard",
+        "Coyote"
+      ]
+    },
+    "human_demographics_and_culture": "Central Nevada Pony Express historical trail, sand dune OHV riding, and Great Basin geological culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Northern Paiute traditions honor Sand Mountain as a sacred 'Singing Dune' that hums when sand avalanches glide down slopes.",
+      "energetic_and_spiritual_features": "600-foot white sand dune rising out of a dark volcanic basin produces a mesmerizing, resonant energy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Sand Mountain Dune Ridge Walk & Sand Springs Pony Express Trail",
+        "length_miles": 3.8,
+        "difficulty": "Moderate (Walking on Soft Sand)",
+        "features": "600-ft sand dune ridge walk, 1860 Pony Express stone station ruins"
+      }
+    ],
+    "public_reviews_summary": "Blazing fast cell service right off US-50 with views of the famous 600-foot singing sand dune.",
+    "other_data": "Do not drive off paved/gravel roads onto soft sand without airing down tires.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "nevada-010",
+    "name": "BLM Snake Valley Primitive Dispersed Zone",
+    "state": "Nevada",
+    "county": "White Pine",
+    "coordinates": {
+      "latitude": 38.9125,
+      "longitude": -114.1214,
+      "elevation_ft": 5320.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Ely District",
+      "type": "Federal",
+      "phone": "(775) 289-1800",
+      "website": "https://www.blm.gov/nevada"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive BLM dispersed camping)",
+      "stay_limit": "14 days maximum stay within a 28-day window",
+      "guidelines": "Dispersed primitive camping allowed along Sacramento Pass / Snake Valley dirt roads outside Great Basin National Park boundary. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from mountain streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down pinyon-juniper wood locally.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to BLM Stage 1 & 2 fire restrictions in summer."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved US-50 to gravel BLM roads",
+      "road_conditions": "Paved highway access to smooth gravel basin turnouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Good (3/5 Stars)",
+      "verizon_reliability": "3 bars 4G LTE",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "2 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate - broad Snake Valley basin looking towards 13,063-ft Wheeler Peak",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "13,063-ft Wheeler Peak Views",
+      "Dark Sky Reserve Stargazing",
+      "Great Basin National Park Access"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Baker, NV",
+        "distance_miles": 8.5,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "National Park Visitor Center",
+          "Local Dining"
+        ]
+      },
+      {
+        "town_name": "Ely, NV",
+        "distance_miles": 58.0,
+        "services_available": [
+          "Supermarket",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Hardware Store"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool high desert spring weather (60-70\u00b0F) with snowcapped Wheeler Peak.",
+      "summer": "Pleasant summer weather (78-85\u00b0F) with cool mountain night air (48\u00b0F).",
+      "fall": "Crisp autumn weather with golden aspen foliage on Wheeler Peak.",
+      "winter": "Cold winter (20-38\u00b0F) with snow on mountain slopes."
+    },
+    "dangers_and_hazards": [
+      "High Altitude Weather Shifts on Nearby Peaks",
+      "Great Basin Rattlesnakes",
+      "Remote Desert Distance"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Great Basin National Park Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "High altitude commercial flights"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Single-leaf Pinyon Pine",
+        "Utah Juniper",
+        "Great Basin Sagebrush",
+        "Bristlecone Pine (High Peaks)"
+      ],
+      "common_animals": [
+        "Pronghorn Antelope",
+        "Mule Deer",
+        "Rocky Mountain Bighorn Sheep",
+        "Bonneville Cutthroat Trout"
+      ]
+    },
+    "human_demographics_and_culture": "Eastern Nevada Great Basin National Park gateway, Lehman Caves exploration, and dark sky astronomy culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Western Shoshone traditions honor 13,063-foot Wheeler Peak as a sacred cosmic mountain of ancient bristlecone pine spirits.",
+      "energetic_and_spiritual_features": "Certified International Dark Sky Park corridor beneath 13,000-foot peaks generates unmatched cosmic silence."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Wheeler Peak Summit & Ancient Bristlecone Pine Grove Trail",
+        "length_miles": 8.2,
+        "difficulty": "Strenuous",
+        "features": "4,900-year-old ancient bristlecone pine trees, 13,063-ft summit, alpine glacier cirque"
+      }
+    ],
+    "public_reviews_summary": "Sublime mountain views of Wheeler Peak, world-class dark sky stargazing, and decent cell service outside Great Basin NP.",
+    "other_data": "Bring fresh drinking water.",
+    "last_updated": "2026-09-12"
+  }
+]

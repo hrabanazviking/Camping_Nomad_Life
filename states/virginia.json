@@ -1,0 +1,1287 @@
+[
+  {
+    "id": "va-gw-jefferson-coal-road",
+    "name": "Coal Road Dispersed Primitive Camping - George Washington & Jefferson National Forests",
+    "state": "Virginia",
+    "county": "Augusta County / Nelson County",
+    "coordinates": {
+      "latitude": 37.9812,
+      "longitude": -79.0814,
+      "elevation_ft": 1820
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Glenwood-Pedlar Ranger District",
+      "type": "USFS",
+      "phone": "(540) 291-2188",
+      "website": "https://www.fs.usda.gov/gwj"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for general forest dispersed camping",
+      "stay_limit": "14 consecutive days max stay within 30-day period",
+      "guidelines": "Dispersed primitive camping permitted along Forest Service Road 162 (Coal Road). Campsites set back 100ft from St. Mary's Wilderness boundary and streams."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6-8 inches deep in organic soil, 200 feet from St. Mary's River. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out. Black bears active: bear canister or vehicle storage mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only within forest.",
+      "safety_requirements": "Campfires in established rock fire rings only. Extinguish cold to touch.",
+      "seasonal_fire_bans": "Obey Virginia Department of Forestry burn bans during spring (Feb-April 4 PM rule) and autumn."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved gravel forest service road (FS 162 / Coal Road)",
+      "road_conditions": "Washboard gravel forest road with small potholes and dips.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (easily accessible along main Coal Road gravel turnouts in dry weather)",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Internet",
+      "verizon_reliability": "3-4 bars 5G/LTE (20-45 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 5G LTE",
+      "terrain_obstruction_risk": "Low to Moderate (Blue Ridge Mountain foothill valley)",
+      "distance_from_tower_corridor_miles": 3.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "St. Mary's Wilderness Access",
+      "Mountain Stream Water Source (Filter required)",
+      "Established Rock Fire Rings",
+      "High-speed 5G Cellular Internet"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 9,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Waynesboro / Stuarts Draft, VA",
+        "distance_miles": 12.5,
+        "services_available": [
+          "Kroger / Walmart Supercenter",
+          "Gas Stations",
+          "Pharmacy",
+          "Waynesboro Public Library",
+          "Augusta Health Hospital"
+        ]
+      },
+      {
+        "town_name": "Charlottesville, VA",
+        "distance_miles": 32.0,
+        "services_available": [
+          "University of Virginia",
+          "UVA Medical Center",
+          "Full City Services",
+          "24/7 Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "55-70°F, blooming mountain laurel, high waterfall flow in St. Mary's gorge.",
+      "summer": "78-86°F, shaded oak canopy, mountain river swimming holes.",
+      "fall": "Spectacular Blue Ridge autumn foliage (55-70°F daytime, 35-45°F nights), prime camping.",
+      "winter": "Cool 35-50°F, freezing night temperatures, light snow dustings."
+    },
+    "dangers_and_hazards": [
+      "Black Bears active throughout GWNF - store food securely",
+      "Copperheads and Timber Rattlesnakes near rocky outcrops",
+      "Flash flooding along St. Mary's River after heavy rain"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Mountain stream and forest quiet",
+      "common_human_made_sounds": [
+        "Occasional camper vehicle on Coal Road",
+        "High commercial aircraft contrails"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Chestnut Oak",
+        "Pitch Pine",
+        "Tulip Poplar",
+        "Mountain Laurel",
+        "Rhododendron catawbiense"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Timber Rattlesnake",
+        "Brook Trout"
+      ]
+    },
+    "human_demographics_and_culture": "St. Mary's Wilderness backpackers, Blue Ridge Parkway travelers, digital nomads, and local trout anglers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Monacan indigenous traditions revere the Blue Ridge Mountains and Shenandoah river valleys as sacred spirit vision lands.",
+      "energetic_and_spiritual_features": "Blue Ridge quartzite mountain energy, crystal-clear stream acoustics, fast 5G connectivity."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "St. Mary's Waterfall Trail (St. Mary's Wilderness)",
+        "length_miles": 4.5,
+        "difficulty": "Moderate",
+        "features": "Winding stream trail leading to 15-foot waterfall swimming hole"
+      }
+    ],
+    "public_reviews_summary": "Top choice for free primitive camping in Virginia. Easy road access, beautiful Blue Ridge Mountain setting, and fast 5G cell internet.",
+    "other_data": "Bortle Class 3 night sky. Abundant firewood.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "va-george-washington-nf-reddish-knob",
+    "name": "Reddish Knob / Flagpole Knob Dispersed Primitive Camping",
+    "state": "Virginia",
+    "county": "Rockingham / Augusta County",
+    "coordinates": {
+      "latitude": 38.4612,
+      "longitude": -79.2412,
+      "elevation_ft": 4350
+    },
+    "management_agency": {
+      "name": "US Forest Service - George Washington & Jefferson National Forests (North River Ranger District)",
+      "type": "USFS",
+      "phone": "(540) 432-0187",
+      "website": "https://www.fs.usda.gov/gwj"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - GWNF Dispersed Primitive Land (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed camping at primitive pullout sites along Briery Branch Road (FR 85) and Flagpole Knob ridge. Camp 100ft minimum from water."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in organic mountain soil 200 feet from streams. Pack out all hygiene items.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted.",
+      "safety_requirements": "Campfires in established rock rings only. Extinguish completely before departing.",
+      "seasonal_fire_bans": "Spring and autumn high wind fire restrictions."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved mountain road to unpaved dirt/gravel Forest Road (FR 85)",
+      "road_conditions": "Winding paved ascent to narrow gravel ridge road with steep turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance vehicles to Reddish Knob summit pullouts; 4x4 required for Flagpole Knob rough trail.",
+      "scores": {
+        "road_grade": 6,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / High Ridge Line Elevation",
+      "verizon_reliability": "4-5 bars 4G/5G LTE (25-60 Mbps download)",
+      "att_reliability": "4-5 bars 4G/5G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low along 4,350ft mountain ridge line",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Panoramic 360-Degree Shenandoah & Allegheny Mountain Views",
+      "High Altitude Summer Breeze",
+      "Flat Ridge Vehicle Pullouts",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Harrisonburg, VA",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Kroger / Martin's",
+          "JMU Metro City",
+          "Rockingham Memorial Hospital",
+          "24/7 Gyms",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Bridgewater / Dayton, VA",
+        "distance_miles": 16.0,
+        "services_available": [
+          "Farmers Markets",
+          "Gas Stations",
+          "Pharmacies",
+          "Hardware Stores"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "45-62°F, mountain laurel blooms, cool crisp breezes.",
+      "summer": "68-80°F, cool high-elevation escape from humid Shenandoah Valley heat.",
+      "fall": "45-65°F, world-class Shenandoah Valley autumn color vistas.",
+      "winter": "18-35°F, severe freezing mountain winds, snow and ice on ridge roads."
+    },
+    "dangers_and_hazards": [
+      "High cliff edges along Reddish Knob summit",
+      "Sudden mountain fog and high wind squalls",
+      "Black bears in surrounding George Washington NF"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - High mountain wind and songbird calls",
+      "common_human_made_sounds": [
+        "Occasional sightseer vehicle on Reddish Knob summit loop"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Red Spruce",
+        "Mountain Ash",
+        "Chestnut Oak",
+        "Rhododendron",
+        "Highbush Blueberry"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "Broad-winged Hawk",
+        "White-tailed Deer",
+        "Raven",
+        "Shenandoah Salamander"
+      ]
+    },
+    "human_demographics_and_culture": "JMU students, Shenandoah Valley local outdoorsmen, 4x4 overland nomads, stargazers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Monongahela and Shenandoah mountain traditions honor these high peaks as sacred lookout crests of the Blue Ridge.",
+      "energetic_and_spiritual_features": "Exhilarating 4,300ft mountain ridge line energy, sweeping sunrise and sunset views over two states."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Shenandoah Mountain Crest Trail",
+        "length_miles": 8.2,
+        "difficulty": "Moderate to Strenuous",
+        "features": "State line ridge walking, Virginia & West Virginia mountain panoramas"
+      }
+    ],
+    "public_reviews_summary": "Spectacular 4,350ft summit ridge camping in Virginia. Fast 5G cell internet, cool summer mountain air, and unmatched 360-degree vistas.",
+    "other_data": "George Washington National Forest. Free dispersed primitive camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "va-jefferson-nf-mount-rogers-nra",
+    "name": "Mount Rogers National Recreation Area High Country Primitive Camping",
+    "state": "Virginia",
+    "county": "Grayson / Smyth County",
+    "coordinates": {
+      "latitude": 36.6812,
+      "longitude": -81.5214,
+      "elevation_ft": 4850
+    },
+    "management_agency": {
+      "name": "US Forest Service - George Washington & Jefferson National Forests (Mount Rogers NRA)",
+      "type": "USFS",
+      "phone": "(276) 783-5196",
+      "website": "https://www.fs.usda.gov/gwj"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - GWJ National Forests Dispersed Primitive Camping (zero fee outside developed campgrounds)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted throughout Mount Rogers High Country along Scales Road (FR 613) and Appalachian Trail corridor. Camp 100ft minimum from water."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in organic mountain soil 200 feet from mountain springs. Pack out hygiene products.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on forest lands.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Spring and fall dry weather high wind fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved US 58 to gravel/dirt Forest Service roads (FR 613 / Scales Road)",
+      "road_conditions": "Winding paved access to narrow mountain gravel ridge road.",
+      "vehicle_recommendation": "High clearance recommended for Scales Road; standard 2WD vehicles can access US 58 pullouts near Whitetop Mountain.",
+      "scores": {
+        "road_grade": 5,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / High Ridge Line Elevation",
+      "verizon_reliability": "4-5 bars 4G/5G LTE along 4,850ft Whitetop & Mount Rogers crests",
+      "att_reliability": "4-5 bars 4G/5G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low along exposed 4,850ft high mountain balds",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "360-Degree Blue Ridge High Country Bald Views",
+      "Wild Pony Grazing Area Access",
+      "Flat Ridge Dirt/Gravel Pullouts",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Marion / Damascus, VA",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Food City Supermarket",
+          "Gas Stations",
+          "Marion Public Library",
+          "Smyth County Hospital",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "45-62°F, blooming wild rhododendron, cool high mountain breezes.",
+      "summer": "65-78°F, cool high-elevation escape from humid Virginia lowlands.",
+      "fall": "45-65°F, world-class Virginia High Country autumn foliage.",
+      "winter": "18-35°F, freezing mountain winds, heavy snowpack on Whitetop."
+    },
+    "dangers_and_hazards": [
+      "High wind and sudden mountain fog squalls along exposed mountain balds",
+      "Do not feed or pet the wild ponies (strictly enforced rule for pony safety)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - High mountain bald wind and raven calls",
+      "common_human_made_sounds": [
+        "Occasional AT backpacker on trail"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Fraser Fir",
+        "Red Spruce",
+        "Catawba Rhododendron",
+        "Highland Grass Balds"
+      ],
+      "common_animals": [
+        "Wild Ponies (famous Grayson Highlands herd)",
+        "Black Bear",
+        "White-tailed Deer",
+        "Raven"
+      ]
+    },
+    "human_demographics_and_culture": "Cherokee ancestral lands, Virginia High Country mountain locals, AT hikers, overland nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Highest mountain peak in Virginia (Mount Rogers 5,729ft). Famous for its wild high-country roaming ponies and open mountain balds.",
+      "energetic_and_spiritual_features": "Exhilarating 4,800+ ft high bald mountain energy, sweeping 360-degree vistas over three states."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Appalachian Trail (Mount Rogers Crest Section)",
+        "length_miles": 8.5,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Wild pony balds, Fraser fir spruce-fir summit forest, rock outcrops"
+      }
+    ],
+    "public_reviews_summary": "Unrivaled high-country primitive camping in Virginia's Mount Rogers NRA. Wild roaming ponies, 360-degree mountain views, fast 5G cell internet, and free USFS access.",
+    "other_data": "George Washington & Jefferson National Forests. Free dispersed primitive camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "virginia-004",
+    "name": "Ramsey's Draft Wilderness Dispersed Primitive Zone - George Washington National Forest",
+    "state": "Virginia",
+    "county": "Augusta",
+    "coordinates": {
+      "latitude": 38.3125,
+      "longitude": -79.3412,
+      "elevation_ft": 2250.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - George Washington & Jefferson National Forests (North River Ranger District)",
+      "type": "Federal",
+      "phone": "(540) 432-0187",
+      "website": "https://www.fs.usda.gov/gwj"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive wilderness dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Ramsey's Draft Trail and mountain ridges. Camp 100 ft from streams and trails. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from stream. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in existing stone fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS dry spring/fall burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved US-250 highway to gravel trailhead lot",
+      "road_conditions": "Paved access roads to trailhead parking area; hike required for wilderness spots.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2/5 Stars)",
+      "verizon_reliability": "1-2 bars 4G LTE on high Shenandoah mountain ridges",
+      "att_reliability": "1 bar 4G LTE",
+      "tmobile_reliability": "No signal in deep hemlock gorge",
+      "terrain_obstruction_risk": "High - steep Allegheny Mountain gorge walls and old-growth hemlock canopy",
+      "distance_from_tower_corridor_miles": 11.5,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Old-Growth Hemlock Canopy",
+      "Virgin Mountain Stream Access",
+      "Primitive Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 9,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Staunton, VA",
+        "distance_miles": 18.5,
+        "services_available": [
+          "Supermarket",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Historic Downtown & Dining"
+        ]
+      },
+      {
+        "town_name": "Harrisonburg, VA",
+        "distance_miles": 34.0,
+        "services_available": [
+          "Supercenters",
+          "University City Amenities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush mountain hemlock greening and rushing trout stream thaw.",
+      "summer": "Cool mountain summer (74-82°F) under dense virgin hemlock canopy.",
+      "fall": "Vibrant Shenandoah mountain autumn foliage in October.",
+      "winter": "Cold mountain winter (22-38°F) with light snow."
+    },
+    "dangers_and_hazards": [
+      "Black Bears (Food storage required)",
+      "Venomous Snakes (Timber Rattlesnakes)",
+      "Stream Crossings after Rain"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Old-Growth Gorge Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "High altitude commercial flights"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Virgin Eastern Hemlock (Old Growth)",
+        "Sugar Maple",
+        "Red Spruce",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "Native Brook Trout",
+        "White-tailed Deer",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Shenandoah Valley Appalachian wilderness, old-growth forest conservation, and historic Staunton heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Shenandoah mountain traditions honor ancient old-growth hemlock groves as sacred cathedrals of nature.",
+      "energetic_and_spiritual_features": "300-year-old virgin hemlocks towering over crystal trout streams generate an ancient, holy stillness."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Ramsey's Draft Wilderness Loop Trail",
+        "length_miles": 7.5,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Old-growth virgin hemlock grove, native brook trout stream, mountain ridge views"
+      }
+    ],
+    "public_reviews_summary": "One of Virginia's rare old-growth wilderness areas with crystal trout streams and pristine quiet.",
+    "other_data": "Store food in bear-proof containers.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "virginia-005",
+    "name": "Patterson Mountain Primitive Zone - Jefferson National Forest",
+    "state": "Virginia",
+    "county": "Botetourt",
+    "coordinates": {
+      "latitude": 37.6412,
+      "longitude": -79.9812,
+      "elevation_ft": 2180.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - George Washington & Jefferson National Forests (Eastern Divide Ranger District)",
+      "type": "Federal",
+      "phone": "(540) 552-4641",
+      "website": "https://www.fs.usda.gov/gwj"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed forest camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Price Mountain / Patterson Mountain forest service roads. Camp 100 ft from water and roads. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from streams.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS dry season burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest service roads",
+      "road_conditions": "Graded gravel roads with flat mountain ridge pullouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE on high ridge lines",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate - high Appalachian ridge top",
+      "distance_from_tower_corridor_miles": 2.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Appalachian Ridge Crest Vistas",
+      "Shaded Oak Canopy",
+      "Primitive Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 8,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Fincastle, VA",
+        "distance_miles": 8.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Roanoke, VA",
+        "distance_miles": 24.0,
+        "services_available": [
+          "Regional Airport",
+          "Major Supercenters",
+          "Hospitals",
+          "Gym & Fitness Chains",
+          "Full Metro Amenities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush mountain greening with wild rhododendron blooms.",
+      "summer": "Warm days (78-85°F) with cool mountain ridge breezes.",
+      "fall": "Spectacular Appalachian ridge fall foliage in October.",
+      "winter": "Cool to cold (25-42°F) with light snow."
+    },
+    "dangers_and_hazards": [
+      "Black Bears",
+      "Copperheads",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Appalachian Crest Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Distant valley train horn",
+        "Overhead commercial flights"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Chestnut Oak",
+        "Virginia Pine",
+        "Mountain Laurel",
+        "Flame Azalea"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Black Bear",
+        "Wild Turkey",
+        "Scarlet Tanager"
+      ]
+    },
+    "human_demographics_and_culture": "Roanoke Valley Appalachian ridge timber, iron furnace history, and outdoor hiking culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Appalachian mountain lore recalls ancient ridge trails guarded by mountain winds.",
+      "energetic_and_spiritual_features": "Panoramic views over Craig Creek valley provide an inspiring, sunlit perspective."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Patterson Mountain Trail System",
+        "length_miles": 6.8,
+        "difficulty": "Moderate",
+        "features": "Appalachian ridge line walking, valley overlooks, pine-oak forests"
+      }
+    ],
+    "public_reviews_summary": "Fast 5G cell internet on high ridge line campsites, close to Roanoke, completely free.",
+    "other_data": "Store food in bear-proof containers.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "virginia-006",
+    "name": "Potts Mountain Dispersed Area - GW & Jefferson NF",
+    "state": "Virginia",
+    "county": "Craig",
+    "coordinates": {
+      "latitude": 37.5123,
+      "longitude": -80.1234,
+      "elevation_ft": 3200.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - George Washington & Jefferson National Forests",
+      "type": "Federal",
+      "phone": "(540) 552-4641",
+      "website": "https://www.fs.usda.gov/gwj"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along Potts Mountain Jeep Road / FS 176. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from mountain drainages. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road to rocky ridge track",
+      "road_conditions": "Lower access graded gravel; upper ridge track rocky with exposed sandstone ledges.",
+      "vehicle_recommendation": "High clearance 2WD/4WD recommended for upper ridge pullouts.",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great on Ridge (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low on 3,200-foot Potts Mountain ridge top",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "3,200-Foot Ridge Top Panoramic Views",
+      "Craig Creek Valley Overlook",
+      "Dark Sky Astronomy",
+      "4x4 Trail Access"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "New Castle / Roanoke, VA",
+        "distance_miles": 16.0,
+        "services_available": [
+          "Grocery Stores",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush mountain spring (58-70°F).",
+      "summer": "Cool mountain ridge breezes (76-84°F).",
+      "fall": "Spectacular Allegheny mountain autumn foliage.",
+      "winter": "Cool winter (28-40°F) with light snow."
+    },
+    "dangers_and_hazards": [
+      "High Ridge Wind Gusts",
+      "Exposed Rock Ledges"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Allegheny Ridge Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind over mountain oak crest",
+        "Raven calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Chestnut Oak",
+        "Pitch Pine",
+        "Table Mountain Pine",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Black Bear",
+        "Broad-winged Hawk",
+        "Timber Rattlesnake"
+      ]
+    },
+    "human_demographics_and_culture": "Monacan ancestral lands and Craig County Allegheny mountain culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "High sandstone ridge of the Ridge-and-Valley Appalachians offering 360-degree views into Virginia and West Virginia valleys.",
+      "energetic_and_spiritual_features": "3,200-foot ridge crest radiating clear high elevation Appalachian mountain air."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Potts Mountain Ridge Trail",
+        "length_miles": 4.5,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Sandstone rock outcrops, 360-degree Allegheny panoramas, pitch pine groves"
+      }
+    ],
+    "public_reviews_summary": "Panoramic mountain ridge camping with incredible sunset views and blazing 5G cell service.",
+    "other_data": "Potts Mountain Pond nearby.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "virginia-007",
+    "name": "Big Levels Dispersed Area - GW & Jefferson NF",
+    "state": "Virginia",
+    "county": "Augusta",
+    "coordinates": {
+      "latitude": 37.9123,
+      "longitude": -79.0812,
+      "elevation_ft": 2800.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Glenwood-Pedlar Ranger District",
+      "type": "Federal",
+      "phone": "(540) 291-2188",
+      "website": "https://www.fs.usda.gov/gwj"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along Coal Road (FS 42). Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from mountain streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel Coal Road; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low along Coal Road corridor",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Blue Ridge Parkway Proximity",
+      "Sherando Lake Proximity",
+      "Appalachian Hardwood Shade",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 6,
+      "terrain_score": 9,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Waynesboro / Stuarts Draft, VA",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Full City Services",
+          "Hospital",
+          "Walmart",
+          "Target",
+          "Gas Stations",
+          "Hardware"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush green Blue Ridge spring (58-70°F).",
+      "summer": "Cool mountain breezes (76-84°F).",
+      "fall": "World-class Shenandoah autumn foliage.",
+      "winter": "Cool winter (30-42°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Habitat",
+      "Timber Rattlesnakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Blue Ridge Forest Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Wind through chestnut oaks",
+        "Songbird calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Chestnut Oak",
+        "White Pine",
+        "Red Maple",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Black Bear",
+        "Wild Turkey",
+        "Broad-winged Hawk"
+      ]
+    },
+    "human_demographics_and_culture": "Monacan ancestral lands and Blue Ridge Parkway & Shenandoah Valley culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Big Levels Game Refuge established in 1930s as one of America's first wildlife restoration areas.",
+      "energetic_and_spiritual_features": "High Blue Ridge mountain forest plateau adjacent to the Blue Ridge Parkway."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Torry Ridge Trail",
+        "length_miles": 4.0,
+        "difficulty": "Moderate",
+        "features": "Blue Ridge Parkway views, Torry Pond, mountain oak forest"
+      }
+    ],
+    "public_reviews_summary": "Super easy Blue Ridge Parkway basecamp near Waynesboro with blazing 5G cell service.",
+    "other_data": "5 minutes from Blue Ridge Parkway entrance.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "virginia-008",
+    "name": "Shenandoah Mountain Dispersed Area - GW NF",
+    "state": "Virginia",
+    "county": "Rockingham",
+    "coordinates": {
+      "latitude": 38.4812,
+      "longitude": -79.1412,
+      "elevation_ft": 3400.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - North River Ranger District",
+      "type": "Federal",
+      "phone": "(540) 432-0187",
+      "website": "https://www.fs.usda.gov/gwj"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along Reddish Knob Road / FS 85. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from mountain drainages. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved road to gravel ridge roads",
+      "road_conditions": "Paved access climbing mountain; gravel ridge turnouts smooth when dry.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great on Crest (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low on 3,400-foot Shenandoah Mountain crest",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "3,400-Foot Crest Panoramic Views",
+      "Reddish Knob Proximity (4,397 ft)",
+      "Shenandoah Valley Overlook",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Harrisonburg, VA",
+        "distance_miles": 18.0,
+        "services_available": [
+          "JMU Campus",
+          "Full City Services",
+          "Hospital",
+          "Walmart",
+          "REI",
+          "Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush mountain spring (55-68°F).",
+      "summer": "Cool mountain crest breezes (72-80°F).",
+      "fall": "Spectacular Shenandoah mountain autumn foliage.",
+      "winter": "Cool winter (25-38°F) with light snow."
+    },
+    "dangers_and_hazards": [
+      "High Ridge Wind Gusts",
+      "Sudden Mountain Fog"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Mountain Crest Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind over Shenandoah Mountain crest",
+        "Raven calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Red Spruce",
+        "Chestnut Oak",
+        "Mountain Ash",
+        "Rhododendron"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Black Bear",
+        "Raven",
+        "Cowknob Salamander"
+      ]
+    },
+    "human_demographics_and_culture": "Monacan ancestral lands and Harrisonburg / Shenandoah Valley mountain culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "High mountain crest dividing Virginia's Shenandoah Valley from West Virginia's Potomac Highlands.",
+      "energetic_and_spiritual_features": "3,400-foot mountain ridge crest commanding 360-degree views across two states."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Shenandoah Mountain Crest Trail",
+        "length_miles": 6.0,
+        "difficulty": "Moderate",
+        "features": "Reddish Knob 360-degree peak view, high ridge crest walk, mountain laurels"
+      }
+    ],
+    "public_reviews_summary": "Unbelievable high mountain crest sunset views near Harrisonburg with blazing 5G cell service.",
+    "other_data": "Reddish Knob elevation is 4,397 feet.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "virginia-009",
+    "name": "Laurel Fork Dispersed Area - GW NF",
+    "state": "Virginia",
+    "county": "Highland",
+    "coordinates": {
+      "latitude": 38.5123,
+      "longitude": -79.5812,
+      "elevation_ft": 3600.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Warm Springs Ranger District",
+      "type": "Federal",
+      "phone": "(540) 839-2521",
+      "website": "https://www.fs.usda.gov/gwj"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free dispersed primitive camping on national forest pullouts along Locust Spring Road (FS 142). Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Laurel Fork stream. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel mountain forest road",
+      "road_conditions": "Graded gravel Forest Service road; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 6
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair / Spotty (3/5 Stars)",
+      "verizon_reliability": "2-3 bars 4G LTE",
+      "att_reliability": "2 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate in high Allegheny plateau valley",
+      "distance_from_tower_corridor_miles": 16.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "High Allegheny Red Spruce Forest",
+      "Native Brook Trout Stream",
+      "Virginia's Little Canada",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 4,
+      "distance_to_library_score": 4,
+      "distance_to_gym_score": 2,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Monterey, VA",
+        "distance_miles": 18.0,
+        "services_available": [
+          "Maple Syrup Capital",
+          "Gas Station",
+          "Grocery Store",
+          "Diner",
+          "Hardware"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool high-elevation spring (48-60°F).",
+      "summer": "Cool refreshing summer (68-76°F) with spruce breezes.",
+      "fall": "Crisp autumn foliage & maple season.",
+      "winter": "Snowy winter (18-32°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Habitat",
+      "Severe High Elevation Winter Cold"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "High Allegheny Spruce Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Wind through red spruces",
+        "Laurel Fork stream flow"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Red Spruce",
+        "Balsam Fir",
+        "Paper Birch",
+        "Mountain Cranberry"
+      ],
+      "common_animals": [
+        "Native Brook Trout",
+        "Black Bear",
+        "Northern Flying Squirrel",
+        "Hermit Thrush"
+      ]
+    },
+    "human_demographics_and_culture": "Monacan ancestral lands and Highland County maple syrup heritage ('Virginia's Switzerland').",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Unique Canadian boreal forest enclave in Virginia, featuring red spruce bogs and northern plant species.",
+      "energetic_and_spiritual_features": "High subalpine spruce bog plateau offering profound quiet and cool summer mountain air."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Locust Spring Trail",
+        "length_miles": 4.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Red spruce bog, native brook trout stream, northern hardwood forest"
+      }
+    ],
+    "public_reviews_summary": "Virginia's 'Little Canada' subalpine spruce forest basecamp with cool summer air and usable 4G cell service.",
+    "other_data": "Highland County is famous for maple syrup.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "virginia-010",
+    "name": "Mount Rogers Dispersed Area - Mount Rogers NRA",
+    "state": "Virginia",
+    "county": "Grayson",
+    "coordinates": {
+      "latitude": 36.6412,
+      "longitude": -81.4812,
+      "elevation_ft": 3600.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Mount Rogers National Recreation Area",
+      "type": "Federal",
+      "phone": "(276) 783-5196",
+      "website": "https://www.fs.usda.gov/gwj"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside Grayson Highlands fee park)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along Whitetop Mountain Road (FS 89) outside state park boundary. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from mountain streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy. Bear safety mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel mountain forest road",
+      "road_conditions": "Graded gravel Whitetop Mountain road climbing to 5,000 ft; smooth when dry.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great on Peak (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low on 5,000-foot Whitetop mountain ridge",
+      "distance_from_tower_corridor_miles": 5.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "High Elevation Wild Pony Balds Nearby",
+      "Virginia's Highest Peak Proximity",
+      "Appalachian Trail Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Marion / Damascus, VA",
+        "distance_miles": 16.0,
+        "services_available": [
+          "Virginia Creeper Trail Hub",
+          "Grocery Store",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Outfitters"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool mountain spring (50-62°F).",
+      "summer": "Cool refreshing high elevation summer (68-76°F).",
+      "fall": "Spectacular High Country autumn colors.",
+      "winter": "Cold windy winter (20-35°F) with snow."
+    },
+    "dangers_and_hazards": [
+      "Sudden Mountain Blizzards",
+      "High Ridge Winds",
+      "Black Bear Habitat"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "High Appalachian Bald Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Mountain wind over grassy balds",
+        "Wild pony whinnies"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Fraser Fir",
+        "Red Spruce",
+        "Rhododendron",
+        "Mountain Ash"
+      ],
+      "common_animals": [
+        "Wild Ponies",
+        "White-tailed Deer",
+        "Black Bear",
+        "Appalachian Cottontail"
+      ]
+    },
+    "human_demographics_and_culture": "Cherokee ancestral lands and Damascus Appalachian Trail town culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "High mountain balds home to wild grazing ponies and Virginia's highest peak (Mount Rogers, 5,729 ft).",
+      "energetic_and_spiritual_features": "5,000-foot high mountain balds commanding views across Virginia, North Carolina, and Tennessee."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Appalachian Trail (Whitetop to Mount Rogers)",
+        "length_miles": 5.0,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Grassy balds, wild ponies, Fraser fir spruce-fir forest"
+      }
+    ],
+    "public_reviews_summary": "High elevation mountain paradise with wild ponies nearby and blazing 5G cell service on Whitetop Mountain.",
+    "other_data": "Whitetop Mountain elevation is 5,520 feet.",
+    "last_updated": "2026-09-12"
+  }
+]

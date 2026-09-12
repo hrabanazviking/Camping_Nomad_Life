@@ -1,0 +1,1296 @@
+[
+  {
+    "id": "wy-bridger-teton-shadow-mountain",
+    "name": "Shadow Mountain Free Dispersed Primitive Camping Area - Bridger-Teton NF",
+    "state": "Wyoming",
+    "county": "Teton County",
+    "coordinates": {
+      "latitude": 43.7012,
+      "longitude": -110.6014,
+      "elevation_ft": 7450
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Jackson Ranger District",
+      "type": "USFS",
+      "phone": "(307) 739-5500",
+      "website": "https://www.fs.usda.gov/btnf"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Designated dispersed campsites (no fees)",
+      "stay_limit": "5 consecutive days max stay limit within Teton Basin area",
+      "guidelines": "Dispersed primitive camping permitted only at designated designated campsites along Forest Service Road 30340. Must park within designated site post markers."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6 inches deep in granitic soil, 200 feet from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out. Grizzly Bear territory: IGBC-approved bear canister or hard-sided vehicle food storage mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only.",
+      "safety_requirements": "Campfires in designated stone/metal fire rings only. Extinguish cold to touch with water.",
+      "seasonal_fire_bans": "Stage 1 and Stage 2 fire restrictions enforced in late summer."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved dirt and gravel mountain forest road (FS 30340 / Shadow Mountain Road)",
+      "road_conditions": "Washboard dirt road with steep grades, ruts, and deep dust. Slow speeds required.",
+      "vehicle_recommendation": "High clearance car or CUV/SUV recommended (Normal low clearance 2WD cars can reach lower site turnouts in dry weather, but high clearance required for upper mountain sites)",
+      "scores": {
+        "road_grade": 7,
+        "road_terrain_difficulty": 6,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Connectivity",
+      "verizon_reliability": "4-5 bars 5G/LTE (30-90 Mbps download speeds overlooking Jackson Hole valley)",
+      "att_reliability": "4-5 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 5G Ultra Capacity",
+      "terrain_obstruction_risk": "Low (Direct line of sight across Jackson Hole valley to Grand Teton towers)",
+      "distance_from_tower_corridor_miles": 3.1,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Jaw-Dropping Unobstructed Views of Grand Teton (13,775 ft)",
+      "Designated Campsite Posts",
+      "Established Rock Fire Rings",
+      "High-speed 5G Cellular Internet"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 10,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Jackson, WY",
+        "distance_miles": 16.5,
+        "services_available": [
+          "Albertsons / Whole Foods",
+          "REI / Outdoor Outfitters",
+          "St. John's Health Hospital",
+          "Teton County Library",
+          "24/7 Gyms"
+        ]
+      },
+      {
+        "town_name": "Moose / Moran, WY",
+        "distance_miles": 10.0,
+        "services_available": [
+          "Grand Teton National Park Visitor Center",
+          "Gas Stations",
+          "Basic Supplies"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Late May thaw: cold (35-50°F), high snowmelt mud, road opening around late May.",
+      "summer": "Ideal Rocky Mountain summer (75-85°F daytime, crisp 40-45°F nights), dry sunny skies, afternoon lightning storms.",
+      "fall": "Spectacular aspen leaf color in September (50-65°F daytime, freezing 20-30°F nights), prime boondocking.",
+      "winter": "Severe sub-zero mountain winter (-15 to 20°F), heavy snowpack, Shadow Mountain road unplowed."
+    },
+    "dangers_and_hazards": [
+      "Grizzly Bears (Ursus arctos horribilis) and Black Bears active - bear spray mandatory",
+      "High altitude exertion (7,450+ feet elevation)",
+      "Steep mountain road inclines and ruts"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Mountain breeze and forest quiet",
+      "common_human_made_sounds": [
+        "Occasional camper or overlander vehicle on Shadow Mountain Road",
+        "High-altitude mountain aircraft"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Lodgepole Pine",
+        "Quaking Aspen",
+        "Douglas Fir",
+        "Mountain Big Sagebrush",
+        "Wyoming Wildflowers"
+      ],
+      "common_animals": [
+        "Grizzly Bear",
+        "Rocky Mountain Elk",
+        "Moose",
+        "Bison",
+        "Pronghorn",
+        "Bighorn Sheep"
+      ]
+    },
+    "human_demographics_and_culture": "Full-time digital nomads, Grand Teton mountain climbers, overlanders, landscape photographers, and vanlifers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Shoshone and Bannock indigenous traditions revere the Teton peaks ('Teewinot' - Many Pinnacles) and Jackson Hole valley as sacred high-elevation spirit domains.",
+      "energetic_and_spiritual_features": "World-famous Teton mountain peak energy, high atmospheric ionization, blazing 5G connected solar boondocking."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Shadow Mountain Summit Loop Trail",
+        "length_miles": 4.5,
+        "difficulty": "Moderate",
+        "features": "Winding aspen forest trail to summit overlook of the entire Teton Range"
+      }
+    ],
+    "public_reviews_summary": "One of the absolute greatest free boondocking spots on Earth! Unsurpassed 360-degree views of Grand Teton National Park combined with blazing 5G cell internet.",
+    "other_data": "Bortle Class 2 night sky. High solar panel efficiency.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "wy-bridger-teton-nf-shadow-mountain",
+    "name": "Shadow Mountain USFS / BLM Dispersed Primitive Camping",
+    "state": "Wyoming",
+    "county": "Teton County",
+    "coordinates": {
+      "latitude": 43.7012,
+      "longitude": -110.6012,
+      "elevation_ft": 7100
+    },
+    "management_agency": {
+      "name": "US Forest Service - Bridger-Teton National Forest (Jackson Ranger District)",
+      "type": "USFS",
+      "phone": "(307) 739-5500",
+      "website": "https://www.fs.usda.gov/btnf"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS / BLM Dispersed Primitive Camping (zero fee)",
+      "stay_limit": "16 consecutive days stay limit",
+      "guidelines": "Dispersed camping at designated pullout sites along Shadow Mountain Loop Road (FR 30340). Strict Forest Service food storage order in effect (grizzly & black bear zone)."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in soil 200 feet from natural springs and drainages. Pack out all toilet paper.",
+      "trash_policy": "Strict Pack-In / Pack-Out. Mandatory bear safety disposal."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down pine firewood collection permitted.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water until cold before leaving.",
+      "seasonal_fire_bans": "Summer high wind dry mountain fire restrictions common July-August."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved Dirt / Gravel Mountain Loop Road (FR 30340)",
+      "road_conditions": "Washboard dirt, steep switchbacks, deep ruts, muddy after rain.",
+      "vehicle_recommendation": "High clearance recommended; standard 2WD vehicles can access lower sites near Antelope Flats Road in dry weather.",
+      "scores": {
+        "road_grade": 6,
+        "road_terrain_difficulty": 6,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Direct Line of Sight to Jackson Hole Towers",
+      "verizon_reliability": "4-5 bars 4G/5G LTE (30-80 Mbps download)",
+      "att_reliability": "4-5 bars 4G/5G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low (Unobstructed line of sight across Jackson Hole valley to Teton Range)",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Unrivaled Iconic Grand Teton Range Panorama Views",
+      "Lodgepole Pine Forest Shade",
+      "Flat Dirt Vehicle Pullouts",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Jackson, WY",
+        "distance_miles": 16.0,
+        "services_available": [
+          "Albertsons / Jackson Whole Grocer",
+          "Gas Stations",
+          "Teton County Library",
+          "St. John's Hospital",
+          "24/7 Gyms",
+          "REI"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "38-55°F, snow melt on mountain loop, crisp sunny mountain air.",
+      "summer": "70-84°F, prime mountain camping weather, clear starry nights.",
+      "fall": "42-65°F, golden aspen groves in Jackson Hole, crisp chilly nights.",
+      "winter": "10-28°F, deep mountain snowpack, road closed to wheeled vehicles."
+    },
+    "dangers_and_hazards": [
+      "Grizzly and black bear country (certified bear spray & bear canister mandatory)",
+      "Steep dirt mountain road ruts when wet",
+      "High elevation sun exposure (7,100+ ft)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - High mountain breeze and elk bugles in autumn",
+      "common_human_made_sounds": [
+        "Occasional 4x4 vehicle on Shadow Mountain dirt loop"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Lodgepole Pine",
+        "Quaking Aspen",
+        "Sagebrush",
+        "Indian Paintbrush (Wyoming state flower)"
+      ],
+      "common_animals": [
+        "Grizzly Bear",
+        "Elk",
+        "Bison",
+        "Moose",
+        "Mule Deer",
+        "Bighorn Sheep"
+      ]
+    },
+    "human_demographics_and_culture": "Shoshone, Bannock, & Blackfeet ancestral lands, Grand Teton climbers, Jackson Hole digital nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "The Teton peaks (Teewinot - 'Many Pinnacles') carry profound Native American spiritual history as sacred spires of the Creator.",
+      "energetic_and_spiritual_features": "Unrivaled awe-inspiring Teton peak reflections, expansive mountain valley energy, world-class sunsets."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Shadow Mountain Summit Trail",
+        "length_miles": 4.5,
+        "difficulty": "Moderate",
+        "features": "Direct Grand Teton peak overlooks, wildflowers, lodgepole forest"
+      }
+    ],
+    "public_reviews_summary": "The absolute single best free camping site in the United States. Direct front-row views of Grand Teton National Park, blazing 5G cell internet, and 100% free USFS access.",
+    "other_data": "Bridger-Teton National Forest. Strict bear food storage order enforced.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "wy-shoshone-nf-beartooth-plateau",
+    "name": "Beartooth Plateau Dispersed Primitive Camping",
+    "state": "Wyoming",
+    "county": "Park County",
+    "coordinates": {
+      "latitude": 44.9412,
+      "longitude": -109.6512,
+      "elevation_ft": 8900
+    },
+    "management_agency": {
+      "name": "US Forest Service - Shoshone National Forest (Clarks Fork Ranger District)",
+      "type": "USFS",
+      "phone": "(307) 527-6921",
+      "website": "https://www.fs.usda.gov/shoshone"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Dispersed Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted along Chief Joseph Scenic Byway (WY 296) and Crandall Creek forest roads. Strict food storage order in effect (grizzly bear country)."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in soil 200 feet from Clarks Fork River. Pack out all hygiene items.",
+      "trash_policy": "Strict Pack-In / Pack-Out. Mandatory bear safety disposal."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down pine wood gathering permitted on forest lands.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Summer high wind dry mountain fire restrictions common July-August."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved Chief Joseph Scenic Byway (WY 296) to gravel Forest Service roads",
+      "road_conditions": "Paved main scenic highway, smooth gravel turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars.",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / High Highway Pass Signal",
+      "verizon_reliability": "3-4 bars 4G LTE along WY 296 mountain pass pullouts",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low along high mountain ridge pass",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Spectacular Beartooth & Absaroka Peak Panoramas",
+      "Clarks Fork Yellowstone River Access",
+      "Flat Dirt/Gravel Vehicle Pullouts",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Cody, WY",
+        "distance_miles": 28.0,
+        "services_available": [
+          "Albertsons / Walmart",
+          "Gas Stations",
+          "Cody Public Library",
+          "West Park Hospital",
+          "24/7 Gyms",
+          "REI"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "35-50°F, snow melt on high pass, crisp sunny mountain air.",
+      "summer": "70-82°F, prime alpine mountain camping, clear starry nights.",
+      "fall": "42-62°F, golden aspen colors, crisp chilly nights.",
+      "winter": "10-25°F, heavy mountain snowpack, snowshoe and ski season."
+    },
+    "dangers_and_hazards": [
+      "Grizzly and black bear country (bear spray and certified bear canister mandatory)",
+      "High elevation altitude exertion (8,900+ ft)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - High mountain wind and river water cascades",
+      "common_human_made_sounds": [
+        "Occasional vehicle on Chief Joseph Byway"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Lodgepole Pine",
+        "Quaking Aspen",
+        "Subalpine Fir",
+        "Wyoming Indian Paintbrush"
+      ],
+      "common_animals": [
+        "Grizzly Bear",
+        "Elk",
+        "Bison",
+        "Moose",
+        "Bighorn Sheep",
+        "Bald Eagle"
+      ]
+    },
+    "human_demographics_and_culture": "Nez Perce, Crow, & Shoshone ancestral lands, Chief Joseph historical route, Wyoming nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Historic route of Chief Joseph and the Nez Perce flight in 1877. Deeply sacred mountain wilderness for Plains tribes.",
+      "energetic_and_spiritual_features": "Exhilarating 8,900ft Absaroka mountain pass energy, crystal clear Yellowstone river headwaters."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Clarks Fork Canyon Trail",
+        "length_miles": 7.0,
+        "difficulty": "Moderate",
+        "features": "Deep granite river canyon, waterfalls, Absaroka peak vistas"
+      }
+    ],
+    "public_reviews_summary": "World-class free primitive camping outside Yellowstone National Park. Breathtaking Absaroka peak views, fast cell internet along Chief Joseph Byway, and 100% free USFS access.",
+    "other_data": "Shoshone National Forest. Free dispersed primitive camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "wyoming-004",
+    "name": "Cloud Peak Wilderness Dispersed Primitive Zone - Bighorn National Forest",
+    "state": "Wyoming",
+    "county": "Johnson / Sheridan",
+    "coordinates": {
+      "latitude": 44.3125,
+      "longitude": -107.1214,
+      "elevation_ft": 8450.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Bighorn National Forest (Powder River Ranger District)",
+      "type": "Federal",
+      "phone": "(307) 684-7800",
+      "website": "https://www.fs.usda.gov/bighorn"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive wilderness dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive wilderness camping allowed along Cloud Peak Wilderness trails outside developed fee sites. Camp 100 ft from lakes and streams. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from alpine lakes. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out wilderness policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in existing stone fire rings below 9,200 ft. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS dry summer fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved US-16 to gravel forest service roads",
+      "road_conditions": "Paved Cloud Peak Skyway to graded gravel trailhead turnouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2.5/5 Stars)",
+      "verizon_reliability": "2 bars 4G LTE on high ridge viewpoints",
+      "att_reliability": "2 bars 4G LTE",
+      "tmobile_reliability": "1 bar 4G LTE",
+      "terrain_obstruction_risk": "Moderate - 13,000-foot Bighorn alpine mountain peaks",
+      "distance_from_tower_corridor_miles": 8.5,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Glacial Alpine Lake Water Access",
+      "13,000-ft Bighorn Mountain Views",
+      "Primitive Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Buffalo, WY",
+        "distance_miles": 18.5,
+        "services_available": [
+          "Supermarket",
+          "Gas Station",
+          "Hardware Store",
+          "Outfitter",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Sheridan, WY",
+        "distance_miles": 42.0,
+        "services_available": [
+          "Supercenters",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "High snowpack thaw through June.",
+      "summer": "Pleasant 8,000-ft subalpine summer (70-78°F) with cool mountain night air (42°F).",
+      "fall": "Spectacular golden aspen foliage in September before snow.",
+      "winter": "Closed to vehicle traffic due to heavy mountain snowpack."
+    },
+    "dangers_and_hazards": [
+      "Black Bears & Grizzly Bears (Food storage required)",
+      "High Altitude Sudden Weather Shifts & Thunderstorms",
+      "Freezing Night Temps"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Alpine Bighorn Quiet (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "High altitude commercial flights"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Lodgepole Pine",
+        "Engelmann Spruce",
+        "Quaking Aspen",
+        "Alpine Forget-Me-Not"
+      ],
+      "common_animals": [
+        "Elk",
+        "Moose",
+        "Mule Deer",
+        "Bighorn Sheep",
+        "Black Bear"
+      ]
+    },
+    "human_demographics_and_culture": "Wyoming Bighorn Mountain cattle ranching, historic Dude Ranching, and mountain wilderness culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Crow and Cheyenne sacred traditions honor the Bighorn Mountains (including Medicine Wheel) as a sacred high sky sanctuary.",
+      "energetic_and_spiritual_features": "13,000-foot granite peaks reflecting in glacial lakes generate profound cosmic quiet."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Misty Moon & Cloud Peak Wilderness Trail",
+        "length_miles": 7.5,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Glacial alpine lakes, 13,167-ft Cloud Peak views, lodgepole forests"
+      }
+    ],
+    "public_reviews_summary": "Unbelievable alpine wilderness lake camping in the Bighorns with easy access off US-16.",
+    "other_data": "Store food in bear-proof containers.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "wyoming-005",
+    "name": "Vedauwoo Rocks Dispersed Primitive BLM Zone",
+    "state": "Wyoming",
+    "county": "Albany",
+    "coordinates": {
+      "latitude": 41.1612,
+      "longitude": -105.3812,
+      "elevation_ft": 8150.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) / U.S. Forest Service - Medicine Bow National Forest",
+      "type": "Federal",
+      "phone": "(307) 745-2300",
+      "website": "https://www.fs.usda.gov/mbr"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed camping on BLM/USFS lands outside developed fee loop)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Vedauwoo dirt spur roads outside developed fee campground. Do not camp on rock climbing routes. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from dry washes. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold due to high wind hazards.",
+      "seasonal_fire_bans": "Subject to Stage 1 & Stage 2 dry summer fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved I-80 to gravel forest service roads",
+      "road_conditions": "Paved interstate access to graded gravel pullouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE due to high 8,000-ft summit plateau elevation",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low to Moderate - giant granite hoodoos and open pine parks",
+      "distance_from_tower_corridor_miles": 1.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "1.4 Billion-Year-Old Granite Hoodoo Formations",
+      "Rock Climbing Access",
+      "Dark Sky Star Observation"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 10,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Laramie, WY",
+        "distance_miles": 14.5,
+        "services_available": [
+          "Supermarket",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "University of Wyoming Amenities"
+        ]
+      },
+      {
+        "town_name": "Cheyenne, WY",
+        "distance_miles": 32.0,
+        "services_available": [
+          "State Capital Amenities",
+          "Supercenters",
+          "Airport"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Vast prairie winds and melting mountain snow thaws.",
+      "summer": "Pleasant 8,000-ft summer weather (75-84°F) with cool mountain night air (48°F).",
+      "fall": "Crisp autumn weather with golden aspen patches against pink granite.",
+      "winter": "Cold high mountain winter (15-30°F) with heavy snow and wind."
+    },
+    "dangers_and_hazards": [
+      "High Wind Hazard",
+      "Rockfall Hazard near Cliff Climbs",
+      "High Altitude Sun & Lightning"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Granite Hoodoo Wind Audio (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Distant I-80 traffic hum in valley",
+        "High altitude commercial flights"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Limber Pine",
+        "Lodgepole Pine",
+        "Quaking Aspen",
+        "Mountain Mahogany"
+      ],
+      "common_animals": [
+        "Moose",
+        "Mule Deer",
+        "Golden Eagle",
+        "Pronghorn Antelope",
+        "Pika"
+      ]
+    },
+    "human_demographics_and_culture": "Wyoming University (Laramie), rock climbing, and historic Overland Trail transportation heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Arapaho tradition names this area 'Land of the Earthborn Spirits' (Vedauwoo), honoring the massive 1.4-billion-year-old pink granite towers.",
+      "energetic_and_spiritual_features": "Surreal giant granite hoodoos rising out of pine parks radiate an ancient, otherworldly power."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Vedauwoo Turtle Rock Loop Trail",
+        "length_miles": 3.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Giant pink granite hoodoos, aspen groves, beaver ponds, rock climber viewing"
+      }
+    ],
+    "public_reviews_summary": "Blazing fast 5G cell internet, surreal 1.4-billion-year-old pink granite rock towers, zero cost right off I-80.",
+    "other_data": "Bring fresh drinking water as dispersed sites lack hydrants.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "wyoming-006",
+    "name": "Vedauwoo Dispersed Area - Medicine Bow National Forest",
+    "state": "Wyoming",
+    "county": "Albany",
+    "coordinates": {
+      "latitude": 41.1612,
+      "longitude": -105.3789,
+      "elevation_ft": 8000.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Medicine Bow NF",
+      "type": "Federal",
+      "phone": "(307) 745-2300",
+      "website": "https://www.fs.usda.gov/mbnf"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside recreation fee boundary)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed camping allowed on Forest Service lands outside developed Vedauwoo fee campground. Camp in existing pullouts. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from rock formations. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest road",
+      "road_conditions": "Gravel forest roads off I-80; smooth with minor washboard.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low to Moderate around granite domes",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Granite Dome Rock Climbing",
+      "Iconic Sherman Granite Formations",
+      "Aspen Groves",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 7,
+      "terrain_score": 10,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Laramie, WY",
+        "distance_miles": 16.0,
+        "services_available": [
+          "UW Campus",
+          "Full Groceries",
+          "Hospital",
+          "Gear Shops"
+        ]
+      },
+      {
+        "town_name": "Cheyenne, WY",
+        "distance_miles": 30.0,
+        "services_available": [
+          "State Capital Services",
+          "Full Urban Amenities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool windy spring (48-60°F).",
+      "summer": "Crisp mountain summer (70-80°F).",
+      "fall": "Golden autumn aspens.",
+      "winter": "Snow blocks forest roads; freezing cold."
+    },
+    "dangers_and_hazards": [
+      "High Wind Gusts",
+      "Summer Afternoon Lightning",
+      "Severe Cold outside Summer"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Granite Dome Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Distant I-80 freeway hum",
+        "Climber voices"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Quaking Aspen",
+        "Lodgepole Pine",
+        "Limber Pine",
+        "Sherman Granite"
+      ],
+      "common_animals": [
+        "Moose",
+        "Mule Deer",
+        "Pronghorn Antelope",
+        "Bobcat"
+      ]
+    },
+    "human_demographics_and_culture": "Arapaho and Cheyenne indigenous history and rock climbing outdoors culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Sacred place to Arapaho and Cheyenne peoples known as 'Land of the Earthborn Spirits'.",
+      "energetic_and_spiritual_features": "1.4 billion-year-old weathered granite domes radiating ancient geological power."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Turtle Rock Trail",
+        "length_miles": 2.8,
+        "difficulty": "Easy to Moderate",
+        "features": "Granite bouldering domes, aspen groves, beaver ponds"
+      }
+    ],
+    "public_reviews_summary": "World-class rock climbing landscape right off I-80 with lightning fast cell service.",
+    "other_data": "High winds common year-round.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "wyoming-007",
+    "name": "Upper Green River Dispersed Area - Bridger-Teton NF",
+    "state": "Wyoming",
+    "county": "Sublette",
+    "coordinates": {
+      "latitude": 43.2845,
+      "longitude": -109.9812,
+      "elevation_ft": 7800.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Bridger-Teton NF",
+      "type": "Federal",
+      "phone": "(307) 367-4326",
+      "website": "https://www.fs.usda.gov/btnf"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed camping allowed along Green River Lakes road (FR 600). Food storage rules strictly enforced due to Grizzly bear territory. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Green River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy. Bear canister mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved washboard gravel forest road",
+      "road_conditions": "25 miles of unpaved washboard gravel road off US-191.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars in summer.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 7
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "No Service (1/5 Stars)",
+      "verizon_reliability": "0-1 bar (Weak/No Data)",
+      "att_reliability": "0 bars",
+      "tmobile_reliability": "0 bars",
+      "terrain_obstruction_risk": "High in deep river valley beneath Wind River peaks",
+      "distance_from_tower_corridor_miles": 32.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Squaretop Mountain Views",
+      "Green River Fly Fishing",
+      "Wind River Wilderness Gateway",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 3,
+      "distance_to_library_score": 3,
+      "distance_to_gym_score": 2,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Pinedale, WY",
+        "distance_miles": 38.0,
+        "services_available": [
+          "Groceries",
+          "Hardware Store",
+          "Outfitters",
+          "Medical Clinic",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Snow blocks road until June.",
+      "summer": "Pristine mountain summer (70-78°F) with crisp nights (35°F).",
+      "fall": "Crisp autumn foliage before snow.",
+      "winter": "Impassable; heavy snow."
+    },
+    "dangers_and_hazards": [
+      "Grizzly and Black Bear Territory",
+      "High Altitude Cold",
+      "Extreme Remote Distance"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Wind River Wilderness Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Green River water flow",
+        "Wind through lodgepole pines"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Lodgepole Pine",
+        "Engelmann Spruce",
+        "Quaking Aspen"
+      ],
+      "common_animals": [
+        "Grizzly Bear",
+        "Gray Wolf",
+        "Moose",
+        "Trumpeter Swan",
+        "Cutthroat Trout"
+      ]
+    },
+    "human_demographics_and_culture": "Mountain man fur trapper Rendezvous history and Wind River wilderness conservation.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Headwaters of the 730-mile Green River; historic 1830s mountain man rendezvous grounds.",
+      "energetic_and_spiritual_features": "Squaretop Mountain sheer glacial peak looming over pristine emerald lake waters."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Green River Lakes Loop Trail",
+        "length_miles": 4.5,
+        "difficulty": "Easy to Moderate",
+        "features": "Glacial lake shore, Squaretop Mountain reflections, cutthroat trout fishing"
+      }
+    ],
+    "public_reviews_summary": "One of the most postcard-perfect mountain landscapes in North America; zero cell service requires Starlink.",
+    "other_data": "Certified bear canisters or food hanging mandatory.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "wyoming-008",
+    "name": "Red Gulch Dispersed Camping Area - BLM Worland",
+    "state": "Wyoming",
+    "county": "Big Horn",
+    "coordinates": {
+      "latitude": 44.2812,
+      "longitude": -107.8214,
+      "elevation_ft": 4500.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Worland Field Office",
+      "type": "Federal",
+      "phone": "(307) 347-5100",
+      "website": "https://www.blm.gov/wyoming"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive BLM dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free primitive dispersed camping on BLM land along Red Gulch Byway. Protect dinosaur tracksite fossils. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from dry gullies. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring firewood; no wood gathering in badlands.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to BLM fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved gravel and clay scenic byway",
+      "road_conditions": "32-mile unpaved gravel and clay scenic byway; bentonite clay impassable when wet.",
+      "vehicle_recommendation": "High clearance 2WD/4WD recommended.",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 6,
+        "supply_run_pain": 6
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great on Ridge (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "2 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate in badland canyons",
+      "distance_from_tower_corridor_miles": 18.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Red Rock Canyon Badlands",
+      "Dinosaur Trackway Nearby",
+      "Red Gulch Scenic Byway",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 4,
+      "distance_to_library_score": 4,
+      "distance_to_gym_score": 2,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Greybull, WY",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Groceries",
+          "Gas Station",
+          "Hardware",
+          "Diner"
+        ]
+      },
+      {
+        "town_name": "Worland, WY",
+        "distance_miles": 38.0,
+        "services_available": [
+          "Full Groceries",
+          "Hospital",
+          "Gas Stations",
+          "Auto Parts"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Mild spring (60-72°F).",
+      "summer": "Warm to hot summer (88-95°F) with zero shade.",
+      "fall": "Crisp autumn weather (65-75°F).",
+      "winter": "Cold winter (25-38°F)."
+    },
+    "dangers_and_hazards": [
+      "Bentonite Clay Slick Roads when Wet",
+      "Flash Floods in Badlands",
+      "Zero Shade"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Badland Canyon Silence (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind blowing through red rock canyons"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Utah Juniper",
+        "Big Sagebrush",
+        "Wild Buckwheat"
+      ],
+      "common_animals": [
+        "Pronghorn Antelope",
+        "Horned Lizard",
+        "Golden Eagle",
+        "Coyote"
+      ]
+    },
+    "human_demographics_and_culture": "Middle Jurassic paleontology heritage and Bighorn Basin ranching culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Site of 167-million-year-old Middle Jurassic dinosaur footprints preserved in limestone.",
+      "energetic_and_spiritual_features": "Vast red canyon badlands revealing millions of years of earth history."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Dinosaur Trackway Boardwalk Hike",
+        "length_miles": 0.8,
+        "difficulty": "Easy",
+        "features": "Middle Jurassic dinosaur footprints in limestone bed"
+      }
+    ],
+    "public_reviews_summary": "Surreal red rock badlands with real dinosaur tracks and solid ridge cell service.",
+    "other_data": "Never drive on bentonite road during heavy rain.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "wyoming-009",
+    "name": "Muddy Mountain Dispersed Area - BLM Casper",
+    "state": "Wyoming",
+    "county": "Natrona",
+    "coordinates": {
+      "latitude": 42.6612,
+      "longitude": -106.2845,
+      "elevation_ft": 8200.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Casper Field Office",
+      "type": "Federal",
+      "phone": "(307) 261-7600",
+      "website": "https://www.blm.gov/wyoming"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive BLM dispersed camping outside developed campgrounds)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed camping allowed on BLM lands along Muddy Mountain Road outside fee campgrounds. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to BLM fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved road transitioning to graded gravel",
+      "road_conditions": "Paved Casper Mountain road transitioning to well-graded gravel Muddy Mountain road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars in summer.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low on mountain plateau",
+      "distance_from_tower_corridor_miles": 7.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Cool Mountain Pine Forest",
+      "Casper City Lights Overlook Views",
+      "Interpretive Trails",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 9,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Casper, WY",
+        "distance_miles": 20.0,
+        "services_available": [
+          "Full Urban Services",
+          "Hospital",
+          "Walmart",
+          "REI",
+          "Regional Airport"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Snow blocks road until late May.",
+      "summer": "Cool mountain summer (70-78°F).",
+      "fall": "Crisp mountain autumn.",
+      "winter": "Impassable; heavy snow."
+    },
+    "dangers_and_hazards": [
+      "Sudden Mountain Thunderstorms",
+      "Black Bears"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Mountain Forest Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Wind through lodgepole pine canopy",
+        "Distant city lightglow"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Lodgepole Pine",
+        "Subalpine Fir",
+        "Quaking Aspen",
+        "Mountain Meadows"
+      ],
+      "common_animals": [
+        "Elk",
+        "Mule Deer",
+        "Wild Turkey",
+        "Black Bear"
+      ]
+    },
+    "human_demographics_and_culture": "Oregon Trail history and Casper outdoor recreation culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Prominent mountain landmark overlooking historic Oregon and Mormon emigrant trails.",
+      "energetic_and_spiritual_features": "High elevation mountain plateau escape offering 360-degree views of the North Platte river valley."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Rim Rock Interpretive Trail",
+        "length_miles": 2.0,
+        "difficulty": "Easy",
+        "features": "Pine forest, limestone rim cliffs, valley overlooks"
+      }
+    ],
+    "public_reviews_summary": "Cool mountain pine air escape from summer valley heat with blazing fast cell service overlooking Casper.",
+    "other_data": "Road closed by snow in winter.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "wyoming-010",
+    "name": "Oregon Basin Dispersed Area - BLM Cody",
+    "state": "Wyoming",
+    "county": "Park",
+    "coordinates": {
+      "latitude": 44.3812,
+      "longitude": -108.9812,
+      "elevation_ft": 5200.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Cody Field Office",
+      "type": "Federal",
+      "phone": "(307) 578-5900",
+      "website": "https://www.blm.gov/wyoming"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive BLM dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free primitive dispersed camping on BLM badland tracks outside active oil lease operations. Leave No Trace. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from dry drainages. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to BLM fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel access road",
+      "road_conditions": "Well-graded gravel access roads off WY-120.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars on main gravel tracks.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low - open desert basin",
+      "distance_from_tower_corridor_miles": 6.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Absaroka Mountain Panorama Views",
+      "Yellowstone Gateway Proximity",
+      "Open High Desert",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 7,
+      "terrain_score": 8,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Cody, WY",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Full Groceries",
+          "Hospital",
+          "Rodeo",
+          "Outdoor Gear",
+          "Cody Airport"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Breezy spring (55-68°F).",
+      "summer": "Warm summer (82-90°F) with mountain breezes.",
+      "fall": "Crisp clear autumn days.",
+      "winter": "Cold winter (22-38°F)."
+    },
+    "dangers_and_hazards": [
+      "High Wind Gusts",
+      "Rattlesnakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "High Desert Basin Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Distant WY-120 highway hum",
+        "Wind gusts"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Big Sagebrush",
+        "Rabbitbrush",
+        "Wheatgrass"
+      ],
+      "common_animals": [
+        "Pronghorn Antelope",
+        "Sage Grouse",
+        "Coyote",
+        "Mule Deer"
+      ]
+    },
+    "human_demographics_and_culture": "Buffalo Bill Cody western frontier heritage and Yellowstone gateway culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Crow and Shoshone traditional territory.",
+      "energetic_and_spiritual_features": "Panoramic views of the rugged Absaroka snowcaps framing the high desert basin."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Oregon Basin Badland Trail",
+        "length_miles": 3.5,
+        "difficulty": "Easy",
+        "features": "Badland rock formations, Absaroka views, pronghorn watching"
+      }
+    ],
+    "public_reviews_summary": "Super convenient free basecamp just minutes from Cody with fast cell service and stunning mountain views.",
+    "other_data": "14 miles south of Cody.",
+    "last_updated": "2026-09-12"
+  }
+]

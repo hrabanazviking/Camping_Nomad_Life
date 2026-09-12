@@ -1,0 +1,1286 @@
+[
+  {
+    "id": "sc-francis-marion-swamp-fox",
+    "name": "Swamp Fox Passage Dispersed Primitive Camping - Francis Marion National Forest",
+    "state": "South Carolina",
+    "county": "Berkeley County / Charleston County",
+    "coordinates": {
+      "latitude": 33.1812,
+      "longitude": -79.7814,
+      "elevation_ft": 40
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Francis Marion District",
+      "type": "USFS",
+      "phone": "(843) 336-3248",
+      "website": "https://www.fs.usda.gov/scnfs"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for general forest dispersed camping",
+      "stay_limit": "14 consecutive days max stay within 30-day period",
+      "guidelines": "Dispersed primitive camping permitted throughout general national forest lands outside developed fee areas. Campsites set back 100ft from trails and water bodies."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6 inches deep in sandy soil, 200 feet from swamps and streams. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only.",
+      "safety_requirements": "Clear pine straw 10 feet around fire ring. Extinguish cold to touch.",
+      "seasonal_fire_bans": "Obey South Carolina Forestry Commission burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway changing to unpaved gravel forest roads (FS 204 / FS 212)",
+      "road_conditions": "Flat gravel forest roads; low spots can turn muddy after heavy coastal rainstorms.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (accessible on main gravel forest roads in dry weather)",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Connectivity",
+      "verizon_reliability": "3-4 bars 4G LTE (20-45 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 5G LTE",
+      "terrain_obstruction_risk": "Low (Flat Atlantic coastal plain pine flatwoods)",
+      "distance_from_tower_corridor_miles": 3.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Loblolly Pine & Longleaf Savannah",
+      "Palmetto Trail (Swamp Fox Passage) Access",
+      "Established Rock Fire Rings",
+      "High-speed 4G/5G Cell Service"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 7,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Moncks Corner, SC",
+        "distance_miles": 14.5,
+        "services_available": [
+          "Walmart Supercenter",
+          "Gas Stations",
+          "Pharmacy",
+          "Berkeley County Library",
+          "Hospital"
+        ]
+      },
+      {
+        "town_name": "Charleston, SC",
+        "distance_miles": 32.0,
+        "services_available": [
+          "Full City Services",
+          "MUSC Health Hospital",
+          "International Airport",
+          "24/7 Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "65-80°F, pleasant coastal climate, blooming azaleas and dogwood.",
+      "summer": "Hot and humid (90-95°F), high mosquito / yellow fly activity, afternoon downpours.",
+      "fall": "Ideal camping season (65-78°F daytime, 45-55°F nights), low rain.",
+      "winter": "Mild coastal winter (55-65°F daytime, 38-45°F nights), premier winter boondocking."
+    },
+    "dangers_and_hazards": [
+      "Venomous snakes: Copperheads, Cottonmouths, and Eastern Diamondback Rattlesnakes active in warm months",
+      "Mosquitoes and ticks near cypress swamps",
+      "American Alligators in swamp drainages"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Pine flatwoods quiet",
+      "common_human_made_sounds": [
+        "Occasional passing car on US-17 / SC-45",
+        "Wind blowing through pine canopy"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Loblolly Pine",
+        "Longleaf Pine",
+        "Bald Cypress (Taxodium distichum)",
+        "Spanish Moss",
+        "Saw Palmetto"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Boar (Sus scrofa)",
+        "Red-cockaded Woodpecker",
+        "American Alligator",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Palmetto Trail backpackers, winter vanlifers, coastal kayakers, and local hunters.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Santi and Sewee indigenous traditions revere the coastal cypress swamps and pine flatwoods of Francis Marion as sacred spirit lands.",
+      "energetic_and_spiritual_features": "Peaceful coastal pine savannah grounding energy, gentle winter climate, rich history."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Palmetto Trail - Swamp Fox Passage",
+        "length_miles": 47.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Winding boardwalks and dirt paths through coastal pine flatwoods and cypress swamps"
+      }
+    ],
+    "public_reviews_summary": "Excellent free winter primitive camping destination in South Carolina. Flat, quiet pine woods with dependable cell service.",
+    "other_data": "Bortle Class 3 night sky. Great solar panel output.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "sc-sumter-nf-chattooga-river",
+    "name": "Chattooga River Corridor Dispersed Primitive Camping",
+    "state": "South Carolina",
+    "county": "Oconee County",
+    "coordinates": {
+      "latitude": 34.8812,
+      "longitude": -83.1812,
+      "elevation_ft": 1450
+    },
+    "management_agency": {
+      "name": "US Forest Service - Sumter National Forest (Andrew Pickens Ranger District)",
+      "type": "USFS",
+      "phone": "(864) 638-9568",
+      "website": "https://www.fs.usda.gov/scnfs"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Wild & Scenic River Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted along Chattooga Wild & Scenic River corridor. Camp 50ft minimum from river and 50ft from trails."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in organic soil 200 feet from Chattooga River. Pack out hygiene products.",
+      "trash_policy": "Strict Leave No Trace."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on site.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully extinguish with water before departing.",
+      "seasonal_fire_bans": "Fall dry leaf fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved SC Hwy 28 to gravel Forest Service roads (FR 711 / Burrells Ford Road)",
+      "road_conditions": "Paved state highway main access, graded gravel forest roads.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate / Ridge Highway Tower Line",
+      "verizon_reliability": "3-4 bars 4G LTE along SC Hwy 28 ridge pullouts",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate inside deep river gorge; high on surrounding ridges",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "National Wild & Scenic Riverfront Campsites",
+      "Waterfalls & Emerald River Pools",
+      "Blue Ridge Escarpment Views",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Walhalla, SC",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Ingles Market",
+          "Gas Stations",
+          "Oconee County Library",
+          "Hospital",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Seneca, SC",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Publix / Walmart",
+          "Clemson Metro Services",
+          "24/7 Gyms",
+          "Hardware Stores"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "58-75°F, roaring waterfall flows, blooming mountain laurel.",
+      "summer": "75-88°F, prime river swimming & whitewater kayaking weather.",
+      "fall": "52-72°F, vibrant Blue Ridge Escarpment autumn foliage.",
+      "winter": "35-55°F, mild winter, crisp clear days."
+    },
+    "dangers_and_hazards": [
+      "Fast river rapids and deep hydraulic pools in Chattooga River",
+      "High cliff drop-offs around waterfalls"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Roaring river rapids and forest wind",
+      "common_human_made_sounds": [
+        "Occasional whitewater kayaker on river"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Catawba Rhododendron",
+        "Mountain Laurel",
+        "Eastern Hemlock",
+        "Shortleaf Pine"
+      ],
+      "common_animals": [
+        "Rainbow Trout",
+        "Black Bear",
+        "White-tailed Deer",
+        "Peregrine Falcon"
+      ]
+    },
+    "human_demographics_and_culture": "Cherokee ancestral land (Keowee territory), whitewater kayakers, South Carolina backpackers, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Traditional Cherokee lands honoring the sacred Chattooga ('He who has crossed the river') as a sacred lifegiving river.",
+      "energetic_and_spiritual_features": "Powerful Wild & Scenic river energy, roaring waterfall thunder, pristine mountain solitude."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Foothills Trail (Chattooga River Section)",
+        "length_miles": 8.5,
+        "difficulty": "Moderate",
+        "features": "King Creek Falls, Spoonauger Falls, river gorge bluffs"
+      }
+    ],
+    "public_reviews_summary": "Unmatched Wild & Scenic river primitive camping in South Carolina. Emerald river pools, roaring waterfalls, fast cell internet near Walhalla, and 100% free USFS access.",
+    "other_data": "Sumter National Forest. Free primitive dispersed camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "sc-francis-marion-nf-swamp-fox",
+    "name": "Swamp Fox Passage Dispersed Campsites",
+    "state": "South Carolina",
+    "county": "Berkeley / Charleston County",
+    "coordinates": {
+      "latitude": 33.1412,
+      "longitude": -79.7812,
+      "elevation_ft": 40
+    },
+    "management_agency": {
+      "name": "US Forest Service - Francis Marion National Forest (Francis Marion Ranger District)",
+      "type": "USFS",
+      "phone": "(843) 336-3248",
+      "website": "https://www.fs.usda.gov/scnfs"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Dispersed Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted along Swamp Fox Passage of Palmetto Trail and Forest Service dirt roads outside developed fee campgrounds."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6 inches deep in soil 200 feet from water drainages. Pack out all paper.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on site.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Observe dry weather pine burn warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved US 17 / SC 45 to gravel Forest Service roads",
+      "road_conditions": "Graded gravel access roads, flat dirt turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Charleston Coastal Tower Line",
+      "verizon_reliability": "4-5 bars 4G/5G LTE (30-65 Mbps download)",
+      "att_reliability": "4-5 bars 4G/5G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low across flat coastal pine savanna",
+      "distance_from_tower_corridor_miles": 2.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Longleaf Pine Savanna & Live Oak Campsites",
+      "Palmetto Trailhead Access",
+      "Flat Dirt/Gravel Pullouts",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 7,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Moncks Corner / Mount Pleasant, SC",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Publix / Walmart",
+          "Gas Stations",
+          "Berkeley County Library",
+          "Hospital",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Charleston, SC",
+        "distance_miles": 28.0,
+        "services_available": [
+          "Full Metro City Services",
+          "Costco / Target",
+          "24/7 Gyms",
+          "Hardware Stores"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "65-80°F, blooming wild azaleas, pleasant coastal pine breezes.",
+      "summer": "85-94°F, hot humid Lowcountry summer weather under pine canopy.",
+      "fall": "62-80°F, prime mild coastal camping weather.",
+      "winter": "42-65°F, mild winter, dry clear days."
+    },
+    "dangers_and_hazards": [
+      "Ticks and chiggers in summer (use permethrin)",
+      "American alligators in coastal swamp channels"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Pine forest wind and coastal bird calls",
+      "common_human_made_sounds": [
+        "Distant highway traffic on US 17 corridor"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Longleaf Pine",
+        "Loblolly Pine",
+        "Live Oak",
+        "Spanish Moss",
+        "Cabbage Palm"
+      ],
+      "common_animals": [
+        "Red-cockaded Woodpecker",
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Alligator",
+        "Bobcat"
+      ]
+    },
+    "human_demographics_and_culture": "Sewee & Santee ancestral lands, Lowcountry Gullah Geechee culture, South Carolina nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Revolutionary War history of General Francis Marion ('The Swamp Fox'). Deeply sacred ancestral Lowcountry territory.",
+      "energetic_and_spiritual_features": "Relaxing coastal longleaf pine savanna energy, soothing Spanish moss oak canopy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Palmetto Trail (Swamp Fox Passage)",
+        "length_miles": 14.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Longleaf pine savanna, boardwalk swamp crossings, historic causeways"
+      }
+    ],
+    "public_reviews_summary": "Best free nomad camping outside Charleston, South Carolina. Blazing 5G cell internet, flat pine campsites, and 15 minutes to Moncks Corner.",
+    "other_data": "Francis Marion National Forest. Free dispersed primitive camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "south_carolina-004",
+    "name": "Foothills Trail Dispersed Primitive Zone - Sumter National Forest",
+    "state": "South Carolina",
+    "county": "Oconee",
+    "coordinates": {
+      "latitude": 34.9812,
+      "longitude": -83.1214,
+      "elevation_ft": 2180.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Sumter National Forest (Andrew Pickens Ranger District)",
+      "type": "Federal",
+      "phone": "(864) 638-9568",
+      "website": "https://www.fs.usda.gov/scnfs"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive wilderness trailside camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive trailside camping allowed along the 77-mile Foothills Trail. Camp 50 ft from trails and water. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from Chattooga River and streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in existing stone fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS dry season burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway to gravel trailhead lot",
+      "road_conditions": "Paved roads to gravel trailhead parking lots; hike required for trail sites.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2.5/5 Stars)",
+      "verizon_reliability": "2 bars 4G LTE on high ridge points",
+      "att_reliability": "2 bars 4G LTE",
+      "tmobile_reliability": "1 bar 4G LTE",
+      "terrain_obstruction_risk": "High - Blue Ridge escarpment gorges and rhododendron thickets",
+      "distance_from_tower_corridor_miles": 8.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Chattooga Wild River Access",
+      "Waterfall Overlooks",
+      "Primitive Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Walhalla, SC",
+        "distance_miles": 12.8,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Seneca, SC",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Supercenter",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cascading waterfalls, blooming mountain laurel, and lush mountain greenery.",
+      "summer": "Warm mountain summer days (78-85°F); refreshing Chattooga river swims.",
+      "fall": "Vibrant Blue Ridge escarpment autumn foliage in October.",
+      "winter": "Mild mountain winter (35-50°F) with light snow on high peaks."
+    },
+    "dangers_and_hazards": [
+      "Black Bears",
+      "Copperheads & Timber Rattlesnakes",
+      "High Water / Rapid Chattooga River Currents"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Mountain River Audio (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Occasional passing trail backpacker",
+        "High altitude aircraft"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Tulip Poplar",
+        "Eastern Hemlock",
+        "Rosebay Rhododendron",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Brook Trout"
+      ]
+    },
+    "human_demographics_and_culture": "South Carolina Blue Ridge escarpment, Chattooga wild river, and mountain backpacking tradition.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Cherokee traditions honor the Chattooga River valley as a sacred ancestral mountain waterway.",
+      "energetic_and_spiritual_features": "Blue Ridge escarpment waterfalls generate an invigorating, pure mountain energy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Foothills Trail - Chattooga River Section",
+        "length_miles": 8.0,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Wild & Scenic Chattooga River views, waterfalls, mountain escarpment vistas"
+      }
+    ],
+    "public_reviews_summary": "One of the Southeast's premier primitive backpacking trails with pristine river waterfalls and zero cost.",
+    "other_data": "Store all food in bear-proof canisters or suspend from trees.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "south_carolina-005",
+    "name": "Manchester State Forest Dispersed Primitive Zone",
+    "state": "South Carolina",
+    "county": "Sumter",
+    "coordinates": {
+      "latitude": 33.7812,
+      "longitude": -80.4512,
+      "elevation_ft": 240.0
+    },
+    "management_agency": {
+      "name": "South Carolina Forestry Commission",
+      "type": "State",
+      "phone": "(803) 494-8488",
+      "website": "https://www.scfc.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed state forest camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along forest service roads and Palmetto Trail section. Camp 100 ft from roads and streams. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from creeks.",
+      "trash_policy": "Strict Carry-In Carry-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down pine wood locally.",
+      "safety_requirements": "Campfires permitted in cleared ground rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to SC Forestry Commission burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest service roads",
+      "road_conditions": "Graded sand-gravel roads with flat longleaf pine pullouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low - flat sandhills longleaf pine forest",
+      "distance_from_tower_corridor_miles": 2.2,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Longleaf Pine Canopy",
+      "Gravel Flat Campsites",
+      "Palmetto Trail Access"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 4,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Sumter, SC",
+        "distance_miles": 11.2,
+        "services_available": [
+          "Supercenter",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Columbia, SC",
+        "distance_miles": 34.0,
+        "services_available": [
+          "State Capital Amenities",
+          "Metropolitan Facilities",
+          "Airport"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Mild spring weather with songbirds returning.",
+      "summer": "Hot and humid (88-95°F); pine canopy shade.",
+      "fall": "Pleasant, mild autumn weather; great camping conditions.",
+      "winter": "Mild winter climate (45-62°F)."
+    },
+    "dangers_and_hazards": [
+      "Ticks and Chiggers",
+      "High Summer Heat"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Quiet Sandhills Forest (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Distant highway hum",
+        "High altitude military jets from Shaw AFB"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Longleaf Pine",
+        "Turkey Oak",
+        "Wiregrass",
+        "Saw Palmetto"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Red-cockaded Woodpecker",
+        "Wild Turkey",
+        "Gopher Tortoise"
+      ]
+    },
+    "human_demographics_and_culture": "South Carolina Sandhills timber, agriculture, and Palmetto Trail conservation culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Catawba and Wateree traditions honor the open longleaf pine sandhills as peaceful hunting grounds.",
+      "energetic_and_spiritual_features": "Open longleaf pine savanna provides a warm, sun-dappled natural peace."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Palmetto Trail - High Hills of Santee Passage",
+        "length_miles": 9.5,
+        "difficulty": "Easy to Moderate",
+        "features": "Sandhills longleaf pine forest, historic mill sites, rolling sand ridges"
+      }
+    ],
+    "public_reviews_summary": "Fast 5G cell internet, open longleaf pine woods, zero fees, and easy access right off US-378.",
+    "other_data": "Wear fluorescent orange during fall hunting season.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "south_carolina-006",
+    "name": "Sumter National Forest Long Creek Dispersed Area",
+    "state": "South Carolina",
+    "county": "Oconee",
+    "coordinates": {
+      "latitude": 34.7812,
+      "longitude": -83.2112,
+      "elevation_ft": 1650.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Sumter National Forest (Andrew Pickens District)",
+      "type": "Federal",
+      "phone": "(864) 638-9568",
+      "website": "https://www.fs.usda.gov/scnfs"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Forest Service road 757 pullouts near Chattooga River corridor. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Chattooga River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved US Route 76 to gravel Forest Service road",
+      "road_conditions": "Paved highway access; smooth gravel forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - ridge plateau line of sight",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Chattooga National Wild & Scenic River Access",
+      "Pine-Hardwood Forest Canopy",
+      "Rafting Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Mountain Rest, SC",
+        "distance_miles": 6.0,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "Outfitters",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush mountain spring (60-74°F).",
+      "summer": "Pleasant summer (80-86°F) with river rafting.",
+      "fall": "Spectacular Blue Ridge autumn colors.",
+      "winter": "Cool mountain winter (34-48°F)."
+    },
+    "dangers_and_hazards": [
+      "Chattooga River Rapids",
+      "Copperhead & Timber Rattlesnakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Blue Ridge Ridge Quiet (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Chattooga River rushing water",
+        "Wind through shortleaf pine"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "White Oak",
+        "Rhododendron",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Black Bear",
+        "Native Brook Trout",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Cherokee ancestral lands and Chattooga Wild & Scenic River rafting culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Chattooga River was designated a National Wild & Scenic River in 1974, famous for pristine Blue Ridge gorge white-water.",
+      "energetic_and_spiritual_features": "Pristine mountain pine ridges overlooking rushing crystalline river rapids."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Chattooga River Trail (Long Creek Section)",
+        "length_miles": 4.5,
+        "difficulty": "Moderate",
+        "features": "River gorge views, rhododendron tunnels, white-water rapids"
+      }
+    ],
+    "public_reviews_summary": "World-class wild river basecamp in the Blue Ridge near Mountain Rest with solid cell coverage.",
+    "other_data": "National Wild & Scenic River corridor.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "south_carolina-007",
+    "name": "Francis Marion NF Wambaw Cycle Trail Dispersed Area",
+    "state": "South Carolina",
+    "county": "Charleston",
+    "coordinates": {
+      "latitude": 33.1112,
+      "longitude": -79.5812,
+      "elevation_ft": 40.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Francis Marion National Forest",
+      "type": "Federal",
+      "phone": "(843) 336-3248",
+      "website": "https://www.fs.usda.gov/scnfs"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Forest Service road pullouts outside paid OHV area. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Wambaw Swamp. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared sand fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved US Route 17 to gravel Forest Service road",
+      "road_conditions": "Paved highway access; smooth gravel forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - flat coastal plain pine savanna",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Longleaf Pine Savanna",
+      "Wambaw Swamp Wilderness Access",
+      "Flat Level Pullouts",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "McClellanville, SC",
+        "distance_miles": 6.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Seafood Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush longleaf spring (64-78°F).",
+      "summer": "Warm humid coastal summer (86-92°F).",
+      "fall": "Mild pleasant autumn days.",
+      "winter": "Mild coastal winter (40-56°F)."
+    },
+    "dangers_and_hazards": [
+      "Mosquitoes in Summer",
+      "Alligators in Swamps"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Coastal Pine Savanna Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through longleaf pine needles",
+        "Swamp songbirds"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Longleaf Pine",
+        "Loblolly Pine",
+        "Sweetbay Magnolia",
+        "Carnivorous Pitcher Plants"
+      ],
+      "common_animals": [
+        "Red-cockaded Woodpecker",
+        "White-tailed Deer",
+        "American Alligator",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Sewee ancestral lands and Gullah Geechee coastal heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Wambaw Swamp is a 4,800-acre wilderness preserving ancient bald cypress and longleaf pine savannas.",
+      "energetic_and_spiritual_features": "Open sunny longleaf pine flatwoods with wildflower groundcover."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Wambaw Swamp Wilderness Trail",
+        "length_miles": 3.8,
+        "difficulty": "Easy",
+        "features": "Longleaf pine savanna walk, cypress swamp overlook, birding"
+      }
+    ],
+    "public_reviews_summary": "Peaceful coastal longleaf pine basecamp near McClellanville with dependable cell service.",
+    "other_data": "Near Gullah Geechee culture.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "south_carolina-008",
+    "name": "Sumter NF Andrew Pickens District Primitive Zone",
+    "state": "South Carolina",
+    "county": "Oconee",
+    "coordinates": {
+      "latitude": 34.8812,
+      "longitude": -83.1112,
+      "elevation_ft": 1450.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Sumter National Forest",
+      "type": "Federal",
+      "phone": "(864) 638-9568",
+      "website": "https://www.fs.usda.gov/scnfs"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Forest Service road 744 pullouts near Chauga River corridor. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Chauga River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway to gravel Forest Service road",
+      "road_conditions": "Paved access road; smooth gravel forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - ridge line of sight",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Chauga River Shoreline Access",
+      "Chauga Narrows Waterfall Views",
+      "Oak-Pine Canopy",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Walhalla, SC",
+        "distance_miles": 8.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush waterfall spring (58-72°F).",
+      "summer": "Pleasant summer (80-86°F) with river swimming.",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cool winter (32-46°F)."
+    },
+    "dangers_and_hazards": [
+      "Slippery Waterfall Rocks",
+      "Copperhead Snakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Chauga River Valley Quiet (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Chauga Narrows waterfall cascade",
+        "Wind through red oak"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "White Oak",
+        "Rhododendron",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Native Brook Trout",
+        "Red Fox"
+      ]
+    },
+    "human_demographics_and_culture": "Cherokee ancestral lands and Blue Ridge mountain foothills heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Chauga River rushes through narrow granite gorges creating Chauga Narrows waterfall cascades.",
+      "energetic_and_spiritual_features": "Quiet hardwood hollows with crystalline mountain water."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Chauga Narrows Trail",
+        "length_miles": 3.2,
+        "difficulty": "Moderate",
+        "features": "Chauga River gorge, waterfall cascades, rhododendron canopy"
+      }
+    ],
+    "public_reviews_summary": "Awesome mountain waterfall basecamp near Walhalla with strong cell service.",
+    "other_data": "Famous Chauga Narrows waterfall.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "south_carolina-009",
+    "name": "Sumter NF Enoree District Turkey Creek Dispersed",
+    "state": "South Carolina",
+    "county": "Union",
+    "coordinates": {
+      "latitude": 34.5112,
+      "longitude": -81.4812,
+      "elevation_ft": 480.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Sumter National Forest (Enoree District)",
+      "type": "Federal",
+      "phone": "(803) 276-4810",
+      "website": "https://www.fs.usda.gov/scnfs"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Forest Service road pullouts throughout Enoree District. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Turkey Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway to gravel Forest Service road",
+      "road_conditions": "Paved highway access; smooth gravel forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - gently rolling Piedmont pine hills",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Turkey Creek Shoreline Access",
+      "Piedmont Loblolly Pine Canopy",
+      "Palmetto Trail Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Whitmire, SC",
+        "distance_miles": 6.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush Piedmont spring (62-76°F).",
+      "summer": "Warm summer (86-92°F).",
+      "fall": "Crisp autumn days.",
+      "winter": "Mild winter (36-52°F)."
+    },
+    "dangers_and_hazards": [
+      "Copperhead Snakes",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Enoree Piedmont Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through loblolly pine",
+        "Songbirds"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Loblolly Pine",
+        "Shortleaf Pine",
+        "Post Oak",
+        "Sweetgum"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Red Fox",
+        "Broad-winged Hawk"
+      ]
+    },
+    "human_demographics_and_culture": "Catawba ancestral lands and South Carolina Piedmont timber and farming heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Enoree District protects 170,000 acres of rolling Piedmont pine forests traversed by the Palmetto Trail.",
+      "energetic_and_spiritual_features": "Quiet pine hollows with gently flowing Piedmont streams."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Palmetto Trail (Enoree Passage)",
+        "length_miles": 4.5,
+        "difficulty": "Easy",
+        "features": "Piedmont pine walk, Turkey Creek bridge, wildlife viewing"
+      }
+    ],
+    "public_reviews_summary": "Peaceful Piedmont pine forest basecamp near Whitmire with strong cell coverage.",
+    "other_data": "Traversed by Palmetto Trail.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "south_carolina-010",
+    "name": "Francis Marion NF Battery Warren Primitive Area",
+    "state": "South Carolina",
+    "county": "Berkeley",
+    "coordinates": {
+      "latitude": 33.2112,
+      "longitude": -79.4112,
+      "elevation_ft": 30.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Francis Marion National Forest",
+      "type": "Federal",
+      "phone": "(843) 336-3248",
+      "website": "https://www.fs.usda.gov/scnfs"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Forest Service road pullouts near Battery Warren historic site on Santee River. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Santee River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared sand fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway to gravel Forest Service road",
+      "road_conditions": "Paved highway access; smooth gravel forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open river bluff line of sight",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Santee River Bluff Overlooks",
+      "Historic Civil War Earthen Fort",
+      "Live Oak Canopy",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Jamestown, SC",
+        "distance_miles": 7.0,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush river spring (64-78°F).",
+      "summer": "Warm humid coastal summer (86-92°F).",
+      "fall": "Mild crisp autumn days.",
+      "winter": "Mild coastal winter (40-56°F)."
+    },
+    "dangers_and_hazards": [
+      "Mosquitoes in Summer",
+      "Alligators in Santee River"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Santee River Bluff Quiet (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Santee River water flow",
+        "Wind through live oak Spanish moss"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Live Oak",
+        "Spanish Moss",
+        "Bald Cypress",
+        "Loblolly Pine"
+      ],
+      "common_animals": [
+        "Swallow-tailed Kite",
+        "Bald Eagle",
+        "American Alligator",
+        "White-tailed Deer"
+      ]
+    },
+    "human_demographics_and_culture": "Santee ancestral lands and Civil War earthen fortification history.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Battery Warren preserves a remarkably well-preserved 1862 Civil War earthen artillery fort overlooking the Santee River.",
+      "energetic_and_spiritual_features": "Ancient live oaks draped in Spanish moss on high river bluffs."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Battery Warren Historic Trail",
+        "length_miles": 2.5,
+        "difficulty": "Easy",
+        "features": "Civil War earthen fort, Santee River bluff view, live oak canopy"
+      }
+    ],
+    "public_reviews_summary": "Historic river bluff basecamp near Jamestown with Spanish moss live oaks and dependable cell service.",
+    "other_data": "Historic 1862 Civil War fort.",
+    "last_updated": "2026-09-12"
+  }
+]

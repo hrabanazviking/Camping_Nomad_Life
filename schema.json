@@ -1,0 +1,225 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "StateCampingDataset",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "id",
+      "name",
+      "state",
+      "county",
+      "coordinates",
+      "management_agency",
+      "rules_and_regulations",
+      "waste_disposal_rules",
+      "campfire_rules",
+      "access_and_road_conditions",
+      "nomad_connectivity_rating",
+      "amenities",
+      "location_scores",
+      "nearest_supply_towns",
+      "seasonal_weather_effects",
+      "dangers_and_hazards",
+      "acoustic_environment",
+      "flora_and_fauna",
+      "human_demographics_and_culture",
+      "spiritual_and_folklore_data",
+      "nearby_hiking_trails",
+      "public_reviews_summary",
+      "other_data",
+      "last_updated"
+    ],
+    "properties": {
+      "id": { "type": "string" },
+      "name": { "type": "string" },
+      "state": { "type": "string" },
+      "county": { "type": "string" },
+      "coordinates": {
+        "type": "object",
+        "required": ["latitude", "longitude", "elevation_ft"],
+        "properties": {
+          "latitude": { "type": "number" },
+          "longitude": { "type": "number" },
+          "elevation_ft": { "type": "number" }
+        }
+      },
+      "management_agency": {
+        "type": "object",
+        "required": ["name", "type", "phone", "website"],
+        "properties": {
+          "name": { "type": "string" },
+          "type": { "type": "string" },
+          "phone": { "type": "string" },
+          "website": { "type": "string" }
+        }
+      },
+      "rules_and_regulations": {
+        "type": "object",
+        "required": ["cost", "stay_limit", "guidelines"],
+        "properties": {
+          "cost": { "type": "string" },
+          "stay_limit": { "type": "string" },
+          "guidelines": { "type": "string" }
+        }
+      },
+      "waste_disposal_rules": {
+        "type": "object",
+        "required": ["poop_disposal", "trash_policy"],
+        "properties": {
+          "poop_disposal": { "type": "string" },
+          "trash_policy": { "type": "string" }
+        }
+      },
+      "campfire_rules": {
+        "type": "object",
+        "required": ["permitted", "firewood_policy", "safety_requirements", "seasonal_fire_bans"],
+        "properties": {
+          "permitted": { "type": "boolean" },
+          "firewood_policy": { "type": "string" },
+          "safety_requirements": { "type": "string" },
+          "seasonal_fire_bans": { "type": "string" }
+        }
+      },
+      "access_and_road_conditions": {
+        "type": "object",
+        "required": ["road_type", "road_conditions", "vehicle_recommendation", "scores"],
+        "properties": {
+          "road_type": { "type": "string" },
+          "road_conditions": { "type": "string" },
+          "vehicle_recommendation": { "type": "string" },
+          "scores": {
+            "type": "object",
+            "required": ["road_grade", "road_terrain_difficulty", "supply_run_pain"],
+            "properties": {
+              "road_grade": { "type": "integer", "minimum": 1, "maximum": 10 },
+              "road_terrain_difficulty": { "type": "integer", "minimum": 1, "maximum": 10 },
+              "supply_run_pain": { "type": "integer", "minimum": 1, "maximum": 10 }
+            }
+          }
+        }
+      },
+      "nomad_connectivity_rating": {
+        "type": "object",
+        "required": [
+          "overall_rating",
+          "verizon_reliability",
+          "att_reliability",
+          "tmobile_reliability",
+          "terrain_obstruction_risk",
+          "distance_from_tower_corridor_miles",
+          "cellular_internet_dependable"
+        ],
+        "properties": {
+          "overall_rating": { "type": "string" },
+          "verizon_reliability": { "type": "string" },
+          "att_reliability": { "type": "string" },
+          "tmobile_reliability": { "type": "string" },
+          "terrain_obstruction_risk": { "type": "string" },
+          "distance_from_tower_corridor_miles": { "type": "number" },
+          "cellular_internet_dependable": { "type": "boolean" }
+        }
+      },
+      "amenities": {
+        "type": "array",
+        "items": { "type": "string" }
+      },
+      "location_scores": {
+        "type": "object",
+        "required": [
+          "distance_to_groceries_score",
+          "distance_to_library_score",
+          "distance_to_gym_score",
+          "terrain_score",
+          "quietness_score"
+        ],
+        "properties": {
+          "distance_to_groceries_score": { "type": "integer", "minimum": 1, "maximum": 10 },
+          "distance_to_library_score": { "type": "integer", "minimum": 1, "maximum": 10 },
+          "distance_to_gym_score": { "type": "integer", "minimum": 1, "maximum": 10 },
+          "terrain_score": { "type": "integer", "minimum": 1, "maximum": 10 },
+          "quietness_score": { "type": "integer", "minimum": 1, "maximum": 10 }
+        }
+      },
+      "nearest_supply_towns": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": ["town_name", "distance_miles", "services_available"],
+          "properties": {
+            "town_name": { "type": "string" },
+            "distance_miles": { "type": "number" },
+            "services_available": {
+              "type": "array",
+              "items": { "type": "string" }
+            }
+          }
+        }
+      },
+      "seasonal_weather_effects": {
+        "type": "object",
+        "required": ["spring", "summer", "fall", "winter"],
+        "properties": {
+          "spring": { "type": "string" },
+          "summer": { "type": "string" },
+          "fall": { "type": "string" },
+          "winter": { "type": "string" }
+        }
+      },
+      "dangers_and_hazards": {
+        "type": "array",
+        "items": { "type": "string" }
+      },
+      "acoustic_environment": {
+        "type": "object",
+        "required": ["quietness_rating", "common_human_made_sounds"],
+        "properties": {
+          "quietness_rating": { "type": "string" },
+          "common_human_made_sounds": {
+            "type": "array",
+            "items": { "type": "string" }
+          }
+        }
+      },
+      "flora_and_fauna": {
+        "type": "object",
+        "required": ["common_plants_and_trees", "common_animals"],
+        "properties": {
+          "common_plants_and_trees": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "common_animals": {
+            "type": "array",
+            "items": { "type": "string" }
+          }
+        }
+      },
+      "human_demographics_and_culture": { "type": "string" },
+      "spiritual_and_folklore_data": {
+        "type": "object",
+        "required": ["nature_spirits_and_mythological_lore", "energetic_and_spiritual_features"],
+        "properties": {
+          "nature_spirits_and_mythological_lore": { "type": "string" },
+          "energetic_and_spiritual_features": { "type": "string" }
+        }
+      },
+      "nearby_hiking_trails": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": ["trail_name", "length_miles", "difficulty", "features"],
+          "properties": {
+            "trail_name": { "type": "string" },
+            "length_miles": { "type": "number" },
+            "difficulty": { "type": "string" },
+            "features": { "type": "string" }
+          }
+        }
+      },
+      "public_reviews_summary": { "type": "string" },
+      "other_data": { "type": "string" },
+      "last_updated": { "type": "string" }
+    }
+  }
+}

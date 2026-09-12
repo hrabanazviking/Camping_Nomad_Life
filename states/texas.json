@@ -1,0 +1,1324 @@
+[
+  {
+    "id": "tx-sam-houston-lone-star",
+    "name": "Lone Star Hiking Trail Corridor Dispersed Camping - Sam Houston National Forest",
+    "state": "Texas",
+    "county": "Walker County / San Jacinto County",
+    "coordinates": {
+      "latitude": 30.5412,
+      "longitude": -95.6814,
+      "elevation_ft": 280
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Sam Houston Ranger District",
+      "type": "USFS",
+      "phone": "(936) 344-6205",
+      "website": "https://www.fs.usda.gov/texas"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for general dispersed primitive camping (outside general deer hunting season when primitive hunter camps apply)",
+      "stay_limit": "14 consecutive days max stay within 30-day period",
+      "guidelines": "Dispersed primitive camping permitted throughout general national forest lands outside developed fee areas. Must be set back 100ft from trails and water bodies."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6 inches deep in sandy loam soil, 200 feet from streams and Lake Conroe drainages. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only within forest.",
+      "safety_requirements": "Clear pine straw 10 feet around fire ring. Extinguish cold to touch.",
+      "seasonal_fire_bans": "Obey Texas A&M Forest Service burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway changing to unpaved gravel forest service roads (FS 215 / FS 208)",
+      "road_conditions": "Flat gravel forest roads; side tracks can turn muddy after heavy Gulf rainstorms.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (easily accessible on main gravel forest roads in dry weather)",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Internet",
+      "verizon_reliability": "3-4 bars 5G/LTE (20-50 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 5G Ultra Capacity",
+      "terrain_obstruction_risk": "Low (Flat pine flatwoods topography)",
+      "distance_from_tower_corridor_miles": 3.2,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Loblolly Pine & Oak Shade",
+      "Lone Star National Recreation Trail Access",
+      "Established Rock Fire Rings",
+      "High-speed 5G Cellular Internet"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 7,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Huntsville, TX",
+        "distance_miles": 14.5,
+        "services_available": [
+          "H-E-B Grocery",
+          "Walmart Supercenter",
+          "Sam Houston State University",
+          "Huntsville Memorial Hospital",
+          "Public Library"
+        ]
+      },
+      {
+        "town_name": "Conroe / Houston, TX",
+        "distance_miles": 32.0,
+        "services_available": [
+          "Full City Services",
+          "Houston Methodist Hospital",
+          "International Airport",
+          "24/7 Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "65-80°F, pleasant pine forest climate, spring wildflowers.",
+      "summer": "Hot and humid (90-98°F), high insect activity, afternoon downpours.",
+      "fall": "Ideal camping season (65-78°F daytime, 45-55°F nights), dry forest roads.",
+      "winter": "Mild Texas winter (55-68°F daytime, 38-48°F nights), premier winter boondocking."
+    },
+    "dangers_and_hazards": [
+      "Venomous snakes: Copperheads, Cottonmouths, and Timber Rattlesnakes active in warm months",
+      "Mosquitoes and ticks in forest underbrush",
+      "Prescribed burns conducted by USFS during winter/spring"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Pine forest quiet",
+      "common_human_made_sounds": [
+        "Lone Star Trail hikers",
+        "Distant highway hum on FM 1375 (2 miles away)"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Loblolly Pine",
+        "Shortleaf Pine",
+        "Southern Red Oak",
+        "Sweetgum",
+        "Yaupon Holly (Ilex vomitoria)"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Feral Hog (Sus scrofa - invasive species)",
+        "Nine-banded Armadillo",
+        "Red-cockaded Woodpecker",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Lone Star Trail backpackers, Houston area vanlifers, digital nomads, and local hunters.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Bidai and Atakapa indigenous traditions honor the pine flatwoods and creek drainages of East Texas as ancient spirit lands.",
+      "energetic_and_spiritual_features": "Calming pine savannah grounding energy, mild winter climate, fast 5G connectivity."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Lone Star National Recreation Trail",
+        "length_miles": 96.0,
+        "difficulty": "Moderate",
+        "features": "Continuous backpacking trail through East Texas pine forests and creek bridges"
+      }
+    ],
+    "public_reviews_summary": "Great free primitive camping spot in East Texas. Peaceful pine forests, easy driving access, and blazing fast 5G cell internet.",
+    "other_data": "Bortle Class 3 night sky. Great solar power output.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "tx-sam-houston-nf-lone-star-trail",
+    "name": "Sam Houston National Forest Dispersed Primitive Camping",
+    "state": "Texas",
+    "county": "Walker / Montgomery County",
+    "coordinates": {
+      "latitude": 30.5214,
+      "longitude": -95.6312,
+      "elevation_ft": 310
+    },
+    "management_agency": {
+      "name": "US Forest Service - National Forests and Grasslands in Texas (Sam Houston District)",
+      "type": "USFS",
+      "phone": "(936) 344-6205",
+      "website": "https://www.fs.usda.gov/texas"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Dispersed Primitive Camping (zero fee outside designated fee campgrounds)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed camping permitted throughout Sam Houston National Forest along Lone Star Hiking Trail corridor and forest roads outside deer hunting season."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6 inches deep in soil 200 feet from streams and Lake Conroe drainages. Pack out all paper.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on forest lands.",
+      "safety_requirements": "Campfires in established rock rings only. Extinguish fully with water.",
+      "seasonal_fire_bans": "Summer East Texas burn bans common July-August."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved FM roads to gravel Forest Service roads (FR 208 / FR 213)",
+      "road_conditions": "Graded gravel, red clay dirt spur pullouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Near Metro Cell Towers",
+      "verizon_reliability": "4-5 bars 4G/5G LTE (30-65 Mbps download)",
+      "att_reliability": "4-5 bars 4G/5G LTE",
+      "tmobile_reliability": "3-4 bars 4G/5G LTE",
+      "terrain_obstruction_risk": "Low (Gentle piney woods topography)",
+      "distance_from_tower_corridor_miles": 2.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Shaded Piney Woods Primitive Campsites",
+      "Flat Dirt/Gravel RV & Van Pullouts",
+      "Lone Star Hiking Trailhead Access",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 7,
+      "terrain_score": 6,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Huntsville, TX",
+        "distance_miles": 12.0,
+        "services_available": [
+          "H-E-B Supermarket",
+          "Target / Walmart",
+          "Sam Houston State Univ Library",
+          "Hospital",
+          "24/7 Gyms"
+        ]
+      },
+      {
+        "town_name": "Conroe / Willis, TX",
+        "distance_miles": 16.0,
+        "services_available": [
+          "Full Houston Metro Services",
+          "Hardware Stores",
+          "Restaurants",
+          "Laundromats"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "62-78°F, blooming wild azaleas, pleasant warm weather.",
+      "summer": "85-96°F, hot humid East Texas piney woods summer.",
+      "fall": "60-78°F, prime mild camping weather, warm days and cool nights.",
+      "winter": "42-62°F, mild short winters, occasional light rain."
+    },
+    "dangers_and_hazards": [
+      "Feral hogs in forested creek bottoms",
+      "Copperhead and cottonmouth snakes near water",
+      "High summer heat and humidity"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Pine forest wind and cicadas",
+      "common_human_made_sounds": [
+        "Distant highway traffic on I-45 corridor"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Loblolly Pine",
+        "Shortleaf Pine",
+        "Post Oak",
+        "Yaupon Holly",
+        "Spanish Moss"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Red-cockaded Woodpecker (endangered)",
+        "Feral Hog",
+        "Armadillo",
+        "Broad-headed Skink"
+      ]
+    },
+    "human_demographics_and_culture": "East Texas piney woods locals, SHSU college students, Houston nomads, long-distance backpackers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Traditional lands of the Atakapa-Ishak and Caddo nations. Rich frontier lore of Sam Houston and Texas independence.",
+      "energetic_and_spiritual_features": "Soothing pine needle forest floor, gentle warm breeze tranquility."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Lone Star Hiking Trail (Section 4)",
+        "length_miles": 8.5,
+        "difficulty": "Easy to Moderate",
+        "features": "Piney woods canopy, creek bridge crossings, lush fern gulches"
+      }
+    ],
+    "public_reviews_summary": "Best free nomad camping close to Houston. Lightning-fast 5G cell internet, flat pine campsites, and easy 15-minute drive to H-E-B and gyms in Huntsville.",
+    "other_data": "National Forests in Texas. Free dispersed camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "tx-sabine-nf-trail-between-the-lakes",
+    "name": "Trail Between the Lakes Primitive Campsites",
+    "state": "Texas",
+    "county": "Sabine / San Augustine County",
+    "coordinates": {
+      "latitude": 31.3812,
+      "longitude": -93.8812,
+      "elevation_ft": 280
+    },
+    "management_agency": {
+      "name": "US Forest Service - National Forests and Grasslands in Texas (Sabine District)",
+      "type": "USFS",
+      "phone": "(409) 625-1940",
+      "website": "https://www.fs.usda.gov/texas"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Dispersed Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted along 28-mile Trail Between the Lakes corridor connecting Toledo Bend and Sam Rayburn Reservoirs."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6 inches deep in soil 200 feet from Toledo Bend / Sam Rayburn lake drainages. Pack out all paper.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on site.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Summer East Texas burn bans active July-August."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway to gravel Forest Service roads (FR 111)",
+      "road_conditions": "Graded gravel access roads, flat dirt turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Hemphill & Lake Toledo Tower Line",
+      "verizon_reliability": "4-5 bars 4G/5G LTE (25-50 Mbps download)",
+      "att_reliability": "4-5 bars 4G/5G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low (Gentle rolling piney woods topography)",
+      "distance_from_tower_corridor_miles": 2.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Piney Woods & Toledo Bend Lake Campsites",
+      "Flat Dirt/Gravel RV & Van Pullouts",
+      "Trailhead Access",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 7,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Hemphill / San Augustine, TX",
+        "distance_miles": 10.0,
+        "services_available": [
+          "Supermarket",
+          "Gas Stations",
+          "Sabine County Library",
+          "Hospital",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "62-78°F, blooming wild dogwood, warm lake breezes.",
+      "summer": "85-95°F, hot humid East Texas piney woods summer.",
+      "fall": "60-78°F, prime mild camping weather.",
+      "winter": "42-62°F, mild winter, dry clear days."
+    },
+    "dangers_and_hazards": [
+      "Feral hogs in forest bottoms",
+      "Ticks and chiggers in summer (use permethrin)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Pine forest wind and lake water lapping",
+      "common_human_made_sounds": [
+        "Occasional fishing boat on Toledo Bend reservoir"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Loblolly Pine",
+        "Shortleaf Pine",
+        "Post Oak",
+        "Dogwood"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Feral Hog",
+        "Bald Eagle",
+        "Large-mouth Bass",
+        "Armadillo"
+      ]
+    },
+    "human_demographics_and_culture": "Caddo ancestral lands, East Texas piney woods outdoorsmen, lake anglers, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Traditional Caddo nation territory honoring the ancient piney woods connecting the major East Texas river valleys.",
+      "energetic_and_spiritual_features": "Relaxing East Texas pine needle aroma, peaceful lake reflection views."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Trail Between the Lakes",
+        "length_miles": 12.0,
+        "difficulty": "Moderate",
+        "features": "Piney woods canopy, creek bridge crossings, lake vistas"
+      }
+    ],
+    "public_reviews_summary": "Top free primitive camping in Sabine National Forest. Fast 5G cell internet, flat pine campsites, and 10 minutes to Hemphill.",
+    "other_data": "Sabine National Forest. Free dispersed primitive camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "texas-004",
+    "name": "Sam Houston National Forest Stubblefield Primitive Zone",
+    "state": "Texas",
+    "county": "New Waverly / Walker",
+    "coordinates": {
+      "latitude": 30.5412,
+      "longitude": -95.6214,
+      "elevation_ft": 240.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - National Forests and Grasslands in Texas (Sam Houston Ranger District)",
+      "type": "Federal",
+      "phone": "(936) 344-6205",
+      "website": "https://www.fs.usda.gov/texas"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed forest camping along Lone Star Trail outside deer season)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Lone Star Hiking Trail and forest service roads outside developed fee sites. Camp 100 ft from trail. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from Lake Conroe and streams. Pack out paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to county burn bans during dry periods."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest service roads",
+      "road_conditions": "Graded gravel roads with flat pine pullouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low - flat East Texas piney woods",
+      "distance_from_tower_corridor_miles": 2.1,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Loblolly Pine Canopy",
+      "Lone Star Hiking Trail Access",
+      "Lake Conroe Water Access"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 5,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "New Waverly, TX",
+        "distance_miles": 8.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Conroe, TX",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Supercenters",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Full Suburban Amenities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush green piney woods with blooming dogwood and wild azalea.",
+      "summer": "Hot and humid (90-98°F); pine canopy shade and lake breezes.",
+      "fall": "Pleasant autumn weather (70-82°F); ideal camping conditions.",
+      "winter": "Mild winter climate (48-65°F); great winter hiking."
+    },
+    "dangers_and_hazards": [
+      "Feral Hogs",
+      "Venomous Snakes (Copperheads, Cottonmouths)",
+      "Ticks and Mosquitoes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Piney Woods Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Distant I-45 traffic hum",
+        "High altitude flights into Houston Intercontinental"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Loblolly Pine",
+        "Shortleaf Pine",
+        "Southern Red Oak",
+        "Palmetto"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Feral Hog",
+        "Red-cockaded Woodpecker",
+        "Bald Eagle"
+      ]
+    },
+    "human_demographics_and_culture": "East Texas Piney Woods timber, Lone Star Hiking Trail, and Houston outdoor escape culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Caddo traditions honor the East Texas pine forests as ancient sacred timberlands.",
+      "energetic_and_spiritual_features": "Sun-dappled loblolly pine floor provides a bright, calming natural space."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Lone Star National Recreation Trail - Stubblefield Section",
+        "length_miles": 9.2,
+        "difficulty": "Easy to Moderate",
+        "features": "Tall pine canopy, creek bridge crossings, Lake Conroe views"
+      }
+    ],
+    "public_reviews_summary": "Blazing fast 5G cell internet, peaceful piney woods, zero fees, and easy access from Houston.",
+    "other_data": "Wear fluorescent orange during fall deer firearm hunting season.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "texas-005",
+    "name": "Sabine National Forest Moore Plantation Dispersed Zone",
+    "state": "Texas",
+    "county": "Sabine",
+    "coordinates": {
+      "latitude": 31.2812,
+      "longitude": -93.8412,
+      "elevation_ft": 280.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - National Forests and Grasslands in Texas (Sabine Ranger District)",
+      "type": "Federal",
+      "phone": "(409) 625-1940",
+      "website": "https://www.fs.usda.gov/texas"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed forest camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Trail between the Lakes and forest roads across 160,000 acres. Camp 100 ft from water. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from Toledo Bend Reservoir. Pack out paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to county burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest service roads",
+      "road_conditions": "Graded gravel roads with flat longleaf pine pullouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Good (3.5/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - flat to rolling East Texas pine forest",
+      "distance_from_tower_corridor_miles": 3.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Toledo Bend Reservoir Access",
+      "Longleaf Pine Canopy",
+      "Trail Between the Lakes Access"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 5,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Hemphill, TX",
+        "distance_miles": 9.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Hospital",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Lufkin, TX",
+        "distance_miles": 46.0,
+        "services_available": [
+          "Supercenters",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Auto Repair"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush East Texas pine and hardwood greening.",
+      "summer": "Hot and humid (90-96°F); Toledo Bend reservoir swimming and bass fishing.",
+      "fall": "Pleasant autumn weather with mild days and cool nights.",
+      "winter": "Mild winter climate (45-62°F)."
+    },
+    "dangers_and_hazards": [
+      "Alligators (Toledo Bend cove margins)",
+      "Feral Hogs",
+      "Ticks and Mosquitoes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Pine Forest Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Distant bass boat motor on reservoir",
+        "Passing logging truck"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Longleaf Pine",
+        "Loblolly Pine",
+        "Southern Magnolia",
+        "Dogwood"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "American Alligator",
+        "Largemouth Bass",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Deep East Texas timber, Toledo Bend bass fishing, and historic El Camino Real heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Hasinai Caddo history honors the ancient pine savannas of East Texas.",
+      "energetic_and_spiritual_features": "Quiet pine woods reflecting on massive Toledo Bend reservoir waters generate deep tranquility."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Trail Between the Lakes - Sabine Section",
+        "length_miles": 28.0,
+        "difficulty": "Moderate",
+        "features": "Toledo Bend & Sam Rayburn connection trail, longleaf pine ridges, hardwood bottoms"
+      }
+    ],
+    "public_reviews_summary": "Great free pine forest camping near Toledo Bend reservoir with solid cell signal and excellent bass fishing.",
+    "other_data": "Boil or treat reservoir water.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "texas-006",
+    "name": "Davy Crockett Dispersed Area - Davy Crockett National Forest",
+    "state": "Texas",
+    "county": "Houston",
+    "coordinates": {
+      "latitude": 31.3123,
+      "longitude": -95.1234,
+      "elevation_ft": 320.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - National Forests in Texas",
+      "type": "Federal",
+      "phone": "(936) 544-2046",
+      "website": "https://www.fs.usda.gov/texas"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside designated fee areas)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed camping allowed on general national forest lands along Forest Service roads outside deer hunting season. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to county burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel Forest Service road; dirt turnouts smooth when dry.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate under pine forest canopy",
+      "distance_from_tower_corridor_miles": 6.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Loblolly Pine Canopy",
+      "4C National Recreation Trail Access",
+      "Piney Woods Solitude",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Crockett, TX",
+        "distance_miles": 16.0,
+        "services_available": [
+          "Groceries",
+          "Hospital",
+          "Gas Stations",
+          "Hardware"
+        ]
+      },
+      {
+        "town_name": "Lufkin, TX",
+        "distance_miles": 34.0,
+        "services_available": [
+          "Full City Services",
+          "Walmart",
+          "Target",
+          "Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush green pine spring (68-78°F).",
+      "summer": "Hot humid summer (90-96°F) with shade.",
+      "fall": "Crisp pleasant autumn days.",
+      "winter": "Mild winter (52-64°F)."
+    },
+    "dangers_and_hazards": [
+      "Feral Hogs",
+      "Copperhead & Cottonmouth Snakes",
+      "Ticks in Spring"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Piney Woods Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through tall loblolly pines",
+        "Frog chorus"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Loblolly Pine",
+        "Shortleaf Pine",
+        "Post Oak",
+        "American Holly"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Feral Hog",
+        "Red-cockaded Woodpecker",
+        "Gray Fox"
+      ]
+    },
+    "human_demographics_and_culture": "Caddo indigenous heritage and East Texas Piney Woods timber history.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Caddo traditional mound builder ancestral territory.",
+      "energetic_and_spiritual_features": "Tall whispering loblolly pines filtering warm East Texas sunlight."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "4C National Recreation Trail (Davy Crockett Section)",
+        "length_miles": 5.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Loblolly pine forest, hardwood bottoms, historic tramway trails"
+      }
+    ],
+    "public_reviews_summary": "Peaceful East Texas pine forest camping with reliable cell service and great trail access.",
+    "other_data": "Check hunting season dates before camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "texas-007",
+    "name": "Sabine Dispersed Area - Sabine National Forest",
+    "state": "Texas",
+    "county": "Sabine",
+    "coordinates": {
+      "latitude": 31.4812,
+      "longitude": -93.8412,
+      "elevation_ft": 280.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - National Forests in Texas",
+      "type": "Federal",
+      "phone": "(409) 625-1940",
+      "website": "https://www.fs.usda.gov/texas"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along Toledo Bend Reservoir corridor outside fee areas. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Toledo Bend high water line. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to county burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel forest roads; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low along reservoir shoreline",
+      "distance_from_tower_corridor_miles": 7.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Toledo Bend Reservoir Shoreline Views",
+      "Bass Fishing Proximity",
+      "Pine Forest Shade",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Hemphill, TX",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware",
+          "Diner"
+        ]
+      },
+      {
+        "town_name": "Nacogdoches, TX",
+        "distance_miles": 48.0,
+        "services_available": [
+          "Full Urban Services",
+          "Hospital",
+          "Walmart",
+          "University"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush green forest spring (68-78°F).",
+      "summer": "Warm humid summer (90-95°F) with lake breezes.",
+      "fall": "Crisp autumn fishing weather.",
+      "winter": "Mild winter (50-62°F)."
+    },
+    "dangers_and_hazards": [
+      "Alligators in Lake Arms",
+      "Venomous Snakes",
+      "Humidity"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Reservoir Pine Forest Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Gentle reservoir water lap",
+        "Pine wind"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Loblolly Pine",
+        "Shortleaf Pine",
+        "Southern Red Oak",
+        "Dogwood"
+      ],
+      "common_animals": [
+        "American Alligator",
+        "White-tailed Deer",
+        "Bald Eagle",
+        "Large-mouth Bass"
+      ]
+    },
+    "human_demographics_and_culture": "Hasinai Caddo heritage and Toledo Bend bass fishing tournament culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Historic El Camino Real de los Tejas Spanish trade corridor passed near here.",
+      "energetic_and_spiritual_features": "Massive freshwater reservoir shoreline framed by East Texas pine forests."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Between the Lakes Trail",
+        "length_miles": 4.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Toledo Bend lake views, pine canopy, dogwood blooms"
+      }
+    ],
+    "public_reviews_summary": "Super peaceful lake side pine forest camping with world-class bass fishing and reliable cell service.",
+    "other_data": "Watch for alligators near swampy coves.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "texas-008",
+    "name": "Angelina Dispersed Area - Angelina National Forest",
+    "state": "Texas",
+    "county": "Jasper",
+    "coordinates": {
+      "latitude": 31.1412,
+      "longitude": -94.2812,
+      "elevation_ft": 250.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - National Forests in Texas",
+      "type": "Federal",
+      "phone": "(936) 897-1068",
+      "website": "https://www.fs.usda.gov/texas"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along Sam Rayburn Reservoir corridor. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Sam Rayburn high water line. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to county burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel forest roads; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low along Sam Rayburn reservoir rim",
+      "distance_from_tower_corridor_miles": 6.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Sam Rayburn Reservoir Shoreline",
+      "Piney Woods Forest Shade",
+      "Bass Fishing",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Jasper, TX",
+        "distance_miles": 16.0,
+        "services_available": [
+          "Groceries",
+          "Hospital",
+          "Gas Stations",
+          "Hardware"
+        ]
+      },
+      {
+        "town_name": "Lufkin, TX",
+        "distance_miles": 38.0,
+        "services_available": [
+          "Full Urban Services",
+          "Walmart",
+          "Target",
+          "Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush spring forest (68-78°F).",
+      "summer": "Warm humid summer (90-95°F) with lake breeze.",
+      "fall": "Crisp autumn fishing days.",
+      "winter": "Mild winter (52-64°F)."
+    },
+    "dangers_and_hazards": [
+      "Alligators in Shallow Coves",
+      "Venomous Snakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Reservoir Shoreline Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Lake wave lap",
+        "Pine wind"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Loblolly Pine",
+        "Longleaf Pine",
+        "Sweetgum",
+        "Magnolia"
+      ],
+      "common_animals": [
+        "American Alligator",
+        "White-tailed Deer",
+        "Red-cockaded Woodpecker",
+        "Bass"
+      ]
+    },
+    "human_demographics_and_culture": "Atakapa-Ishak ancestral lands and Sam Rayburn fishing culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Named after 17th-century Hasinai Caddo woman who assisted early Spanish explorers.",
+      "energetic_and_spiritual_features": "Pristine pine savanna framing the massive Sam Rayburn lake surface."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Boykin Springs Trail",
+        "length_miles": 3.2,
+        "difficulty": "Easy to Moderate",
+        "features": "Spring-fed creek, longleaf pine savanna, rock outcrops"
+      }
+    ],
+    "public_reviews_summary": "Gorgeous pine-covered reservoir camping with great bass fishing and strong cell service.",
+    "other_data": "Boykin Springs day-use area nearby.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "texas-009",
+    "name": "Rita Blanca Dispersed Area - Rita Blanca National Grassland",
+    "state": "Texas",
+    "county": "Dallam",
+    "coordinates": {
+      "latitude": 36.3123,
+      "longitude": -102.6412,
+      "elevation_ft": 4200.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Cibola NF & National Grasslands",
+      "type": "Federal",
+      "phone": "(806) 362-4254",
+      "website": "https://www.fs.usda.gov/cibola"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed grassland camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free primitive dispersed camping on open public grassland pullouts along USFS roads. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from dry playa basins. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring firewood; no wood gathering on prairie.",
+      "safety_requirements": "Campfires strictly in metal fire pans. Extinguish cold.",
+      "seasonal_fire_bans": "Strict USFS stage fire bans in dry spring/summer."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded dirt and gravel grassland road",
+      "road_conditions": "Graded gravel/dirt access road; ruts when wet.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars when dry.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open High Plains prairie",
+      "distance_from_tower_corridor_miles": 8.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "High Plains Horizon Views",
+      "Pronghorn Watching",
+      "Stargazing",
+      "Peaceful Solitude"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 8,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Dalhart, TX",
+        "distance_miles": 18.0,
+        "services_available": [
+          "Grocery Store",
+          "Hospital",
+          "Gas Stations",
+          "Hardware Store"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "High winds spring (60-72°F).",
+      "summer": "Warm High Plains summer (88-95°F) with cool nights.",
+      "fall": "Crisp pleasant autumn days.",
+      "winter": "Cold windy winter (25-42°F)."
+    },
+    "dangers_and_hazards": [
+      "High Plains Prairie Winds",
+      "Severe Thunderstorms",
+      "Dust Storms"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "High Plains Prairie Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Prairie wind",
+        "Horned lark songs"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Buffalograss",
+        "Blue Grama",
+        "Yucca",
+        "Prickly Pear"
+      ],
+      "common_animals": [
+        "Pronghorn Antelope",
+        "Prairie Dog",
+        "Coyote",
+        "Ferruginous Hawk"
+      ]
+    },
+    "human_demographics_and_culture": "Comanche traditional lands and Texas Panhandle Dust Bowl conservation history.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Comanche and Kiowa traditional High Plains bison hunting grounds.",
+      "energetic_and_spiritual_features": "360-degree flat horizon in the Texas Panhandle High Plains."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Rita Blanca Prairie Loop",
+        "length_miles": 4.0,
+        "difficulty": "Easy",
+        "features": "Shortgrass prairie, pronghorn viewing, flat High Plains horizon"
+      }
+    ],
+    "public_reviews_summary": "Solitary High Plains prairie basecamp near Dalhart with steady 4G cell service.",
+    "other_data": "High winds common year-round.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "texas-010",
+    "name": "Four C Dispersed Area - Sam Houston National Forest",
+    "state": "Texas",
+    "county": "San Jacinto",
+    "coordinates": {
+      "latitude": 30.5812,
+      "longitude": -95.1412,
+      "elevation_ft": 210.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - National Forests in Texas",
+      "type": "Federal",
+      "phone": "(936) 344-6205",
+      "website": "https://www.fs.usda.gov/texas"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside deer hunting season)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free primitive dispersed camping on national forest pullouts along Lone Star Hiking Trail corridor. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to county burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel Forest Service road; dirt turnouts smooth when dry.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low under pine forest canopy",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Lone Star Hiking Trail Access",
+      "Pine Forest Shade",
+      "Close Proximity to Houston Metro",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 7,
+      "terrain_score": 8,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "New Waverly, TX",
+        "distance_miles": 10.0,
+        "services_available": [
+          "Gas Station",
+          "Grocery Store",
+          "Diner"
+        ]
+      },
+      {
+        "town_name": "Conroe / Houston, TX",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Major Metropolitan Services",
+          "Hospitals",
+          "REI"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush green pine spring (68-78°F).",
+      "summer": "Warm humid summer (90-95°F) with shade.",
+      "fall": "Crisp autumn hiking days.",
+      "winter": "Mild winter (52-64°F)."
+    },
+    "dangers_and_hazards": [
+      "Feral Hogs",
+      "Venomous Snakes",
+      "Ticks in Spring"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Pine Forest Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Wind through loblolly pine canopy",
+        "Occasional forest road pass"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Loblolly Pine",
+        "Shortleaf Pine",
+        "Sweetgum",
+        "Southern Magnolia"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Feral Hog",
+        "Red-cockaded Woodpecker",
+        "Armadillo"
+      ]
+    },
+    "human_demographics_and_culture": "Akokisa indigenous ancestral lands and Houston outdoor escape culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Lone Star National Recreation Trail spans 128 miles through the heart of the Sam Houston Forest.",
+      "energetic_and_spiritual_features": "Quiet loblolly pine canopy under an hour from Houston metro."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Lone Star Hiking Trail (Section 4)",
+        "length_miles": 5.5,
+        "difficulty": "Easy to Moderate",
+        "features": "Loblolly pine forest, creek bridges, magnolia bottomlands"
+      }
+    ],
+    "public_reviews_summary": "Top choice for nomads near Houston needing fast 5G cell service and peaceful pine forest camping.",
+    "other_data": "Check hunting season regulations.",
+    "last_updated": "2026-09-12"
+  }
+]

@@ -1,0 +1,1282 @@
+[
+  {
+    "id": "fl-ocala-hopkins-prairie-dispersed",
+    "name": "Hopkins Prairie Surrounding Dispersed Camping - Ocala National Forest",
+    "state": "Florida",
+    "county": "Marion County",
+    "coordinates": {
+      "latitude": 29.2789,
+      "longitude": -81.6914,
+      "elevation_ft": 65
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Seminole Ranger District",
+      "type": "USFS",
+      "phone": "(352) 669-3153",
+      "website": "https://www.fs.usda.gov/ocala"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free in general forest dispersed zones (outside developed fee area during non-hunting season)",
+      "stay_limit": "14 days maximum stay within 30-day period",
+      "guidelines": "Dispersed primitive camping permitted on general national forest lands at least 100ft from marked trails and water bodies. Camping restricted to designated sites during general gun hunting season."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6 inches deep in sandy soil layer, at least 200 feet from prairies or springs. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace. Black bears present: food storage container or vehicle hard-side storage mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted.",
+      "safety_requirements": "Clear dry pine needles 10 feet around fire ring. Extinguish cold to touch.",
+      "seasonal_fire_bans": "Obey Florida Forest Service burn bans during dry winter/spring periods."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved sandy forest roads (FS 50 / FS 88)",
+      "road_conditions": "Flat sandy roads; can become soft deep sand in hot dry weather.",
+      "vehicle_recommendation": "Normal low clearance car (accessible on main graded forest roads; high clearance / 4x4 recommended for deep sand side spurs)",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate to Strong",
+      "verizon_reliability": "3-4 bars 4G LTE (15-35 Mbps download)",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low (Flat pine flatwoods topography)",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Open Longleaf Pine & Scrub Shade",
+      "Florida Trail Access",
+      "Primitive Fire Rings",
+      "Flat Sandy Campsites"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 5,
+      "terrain_score": 7,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Salt Springs, FL",
+        "distance_miles": 10.5,
+        "services_available": [
+          "Gas Stations",
+          "Dollar General",
+          "Local Markets",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Ocala, FL",
+        "distance_miles": 28.0,
+        "services_available": [
+          "Walmart Supercenters",
+          "Gyms",
+          "Hospitals",
+          "Full Commercial Services",
+          "Public Library"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "75-85°F warm days, low rainfall, pleasant sub-tropical breezes.",
+      "summer": "Hot and humid (90-95°F), heavy afternoon downpours, high mosquito / yellow fly activity.",
+      "fall": "Warm 75-85°F, lower humidity, excellent primitive camping conditions.",
+      "winter": "Premier winter escape (65-75°F daytime, 45-55°F nights), dry clear skies."
+    },
+    "dangers_and_hazards": [
+      "Florida Black Bears (Ursus americanus floridanus) - bear-proof food storage mandatory",
+      "Eastern Diamondback Rattlesnakes and Pygmy Rattlesnakes",
+      "Loose deep soft sand capable of trapping low-clearance 2WD vehicles",
+      "Mosquitoes and ticks near prairie wetlands"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Pine flatwoods tranquility",
+      "common_human_made_sounds": [
+        "Distant motorboat on Lake George (3 miles east)",
+        "Occasional Navy jet training flyover from Ocala Bombing Range"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Longleaf Pine",
+        "Sand Pine (Pinus clausa)",
+        "Saw Palmetto (Serenoa repens)",
+        "Turkey Oak",
+        "Spanish Moss (Tillandsia usneoides)"
+      ],
+      "common_animals": [
+        "Florida Black Bear",
+        "White-tailed Deer",
+        "Florida Scrub-Jay (Aphelocoma coerulescens - endangered species)",
+        "Gopher Tortoise",
+        "American Alligator (Alligator mississippiensis near waters)"
+      ]
+    },
+    "human_demographics_and_culture": "Winter snowbird vanlifers, Florida National Scenic Trail backpackers, off-grid nomads, and local hunters.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Timucua and Seminole indigenous oral histories revere the hidden freshwater springs and scrub prairies of Ocala as sacred healing waters guarded by forest spirits.",
+      "energetic_and_spiritual_features": "Sub-tropical pine flatwoods grounding energy, exceptional winter warmth, clear starry nights."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Florida National Scenic Trail (Hopkins Prairie Segment)",
+        "length_miles": 10.2,
+        "difficulty": "Moderate",
+        "features": "Winding sandy trail along prairie edge, oak hammocks, longleaf pine savannah"
+      }
+    ],
+    "public_reviews_summary": "Top choice for winter boondocking in Florida. Beautiful pine flatwoods scenery and dependable cell internet.",
+    "other_data": "Bortle Class 3 night sky. High solar power panel output.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "fl-apalachicola-camel-lake-dispersed",
+    "name": "Camel Lake Surrounding Dispersed Camping - Apalachicola National Forest",
+    "state": "Florida",
+    "county": "Liberty County / Wakulla County",
+    "coordinates": {
+      "latitude": 30.2812,
+      "longitude": -84.9814,
+      "elevation_ft": 55
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Apalachicola Ranger District",
+      "type": "USFS",
+      "phone": "(850) 643-2282",
+      "website": "https://www.fs.usda.gov/apalachicola"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free in general forest dispersed primitive zones",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping permitted on general national forest lands outside developed fee campgrounds. Must be set back 100ft from trails and water bodies."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6 inches deep in sandy soil, 200 feet from Camel Lake or streams. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only.",
+      "safety_requirements": "Clear pine needles 10 feet around fire ring. Extinguish cold to touch.",
+      "seasonal_fire_bans": "Obey Florida Forest Service burn alerts."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route changing to unpaved sandy forest roads (FS 105 / FS 108)",
+      "road_conditions": "Flat, sandy forest roads. Can turn soft in hot dry weather.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (accessible on main forest roads; high clearance recommended for remote sand spurs)",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Internet",
+      "verizon_reliability": "3-4 bars 4G LTE (15-35 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low (Flat coastal plain longleaf pine savannah)",
+      "distance_from_tower_corridor_miles": 4.1,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Open Longleaf Pine & Wiregrass Savannah",
+      "Florida Trail Access",
+      "Established Rock Fire Rings",
+      "High-speed 4G/5G Cell Service"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 7,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Bristol / Quincy, FL",
+        "distance_miles": 14.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Pharmacy",
+          "Liberty County Library",
+          "Medical Clinic"
+        ]
+      },
+      {
+        "town_name": "Tallahassee, FL",
+        "distance_miles": 38.0,
+        "services_available": [
+          "Full Metropolitan Services",
+          "TMH Hospital",
+          "International Airport",
+          "24/7 Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "70-82°F, pleasant climate, blooming pitcher plants and orchids.",
+      "summer": "Hot and humid (90-96°F), high insect activity, afternoon squalls.",
+      "fall": "Ideal camping season (65-78°F daytime, 45-55°F nights), low rain.",
+      "winter": "Mild Florida Panhandle winter (55-65°F daytime, 38-45°F nights), premier winter boondocking."
+    },
+    "dangers_and_hazards": [
+      "Florida Black Bears active - bear-proof food storage mandatory",
+      "Eastern Diamondback Rattlesnakes and Pygmy Rattlesnakes",
+      "Mosquitoes and deer flies in summer"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Pine savannah quiet",
+      "common_human_made_sounds": [
+        "Occasional logger or hunter truck on forest road",
+        "Wind rustling through pine needles"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Longleaf Pine",
+        "Wiregrass",
+        "Carnivorous Pitcher Plants",
+        "Saw Palmetto",
+        "Slash Pine"
+      ],
+      "common_animals": [
+        "Florida Black Bear",
+        "Red-cockaded Woodpecker",
+        "Gopher Tortoise",
+        "White-tailed Deer"
+      ]
+    },
+    "human_demographics_and_culture": "Florida Trail hikers, botanists, winter vanlifers, and Panhandle hunters.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Apalachee and Creek indigenous traditions honor the longleaf pine savannahs and pitcher plant bogs of the Apalachicola basin as sacred spirit lands.",
+      "energetic_and_spiritual_features": "Calming pine savannah grounding energy, gentle winter climate, pristine starry night skies."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Florida National Scenic Trail (Apalachicola Section)",
+        "length_miles": 12.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Boardwalks through pitcher plant bogs and longleaf pine flatwoods"
+      }
+    ],
+    "public_reviews_summary": "Extremely peaceful free primitive camping in the Florida Panhandle. Vast open pine savannah, clean air, and reliable cell service.",
+    "other_data": "Bortle Class 2-3 night sky. High solar panel output.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "fl-suwannee-river-woods-ferry",
+    "name": "Woods Ferry Primitive Camping Area - Suwannee River WMD",
+    "state": "Florida",
+    "county": "Suwannee County / Columbia County",
+    "coordinates": {
+      "latitude": 30.3812,
+      "longitude": -82.9814,
+      "elevation_ft": 45
+    },
+    "management_agency": {
+      "name": "Suwannee River Water Management District (SRWMD)",
+      "type": "State WMD",
+      "phone": "(386) 362-1001",
+      "website": "https://www.mysuwanneeriver.com"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Free online SRWMD camping reservation required (zero fee)",
+      "stay_limit": "7 consecutive days max stay limit",
+      "guidelines": "Free primitive camping permitted at designated SRWMD tract sites along the Suwannee River. Campers must hold valid free reservation confirmation."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Use portable toilet or dig cat-hole 6 inches deep in sandy soil, 200 feet from Suwannee River. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only.",
+      "safety_requirements": "Campfires in established fire rings only. Extinguish cold to touch with river water.",
+      "seasonal_fire_bans": "Obey Florida Forest Service burn alerts."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved county road to unpaved dirt river access road",
+      "road_conditions": "Flat dirt river access road; easily drivable in dry weather.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (easily accessible year-round)",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Internet",
+      "verizon_reliability": "3-4 bars 5G/LTE (20-45 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 5G LTE",
+      "terrain_obstruction_risk": "Low (Flat Suwannee river basin oak & cypress forest)",
+      "distance_from_tower_corridor_miles": 3.2,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Suwannee River Paddletrail Access",
+      "Rustic Wooden Picnic Tables",
+      "Established Fire Rings",
+      "High-speed 5G Cellular Internet"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Live Oak, FL",
+        "distance_miles": 10.5,
+        "services_available": [
+          "Publix / Save-A-Lot",
+          "Gas Stations",
+          "Suwannee County Library",
+          "Hospital",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Lake City, FL",
+        "distance_miles": 24.0,
+        "services_available": [
+          "Walmart Supercenter",
+          "Lake City Medical Center",
+          "24/7 Gyms",
+          "Full Commercial Services"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "70-82°F, pleasant river climate, blooming wild azaleas.",
+      "summer": "Hot and humid (88-95°F), river swimming, afternoon downpours.",
+      "fall": "Ideal camping season (65-78°F daytime, 45-55°F nights), low rain.",
+      "winter": "Mild winter climate (55-68°F daytime, 38-48°F nights), premier winter escape."
+    },
+    "dangers_and_hazards": [
+      "American Alligators in Suwannee River",
+      "Venomous snakes: Cottonmouths near water",
+      "Mosquitoes in summer"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Suwannee River quiet",
+      "common_human_made_sounds": [
+        "Occasional canoeist on Suwannee Wilderness Trail",
+        "Wind rustling through oak & cypress trees"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Live Oak (Quercus virginiana)",
+        "Bald Cypress",
+        "Spanish Moss",
+        "Resurrection Fern (Pleopeltis polypodioides)"
+      ],
+      "common_animals": [
+        "American Alligator",
+        "Suwannee Cooter (Pseudemys concinna suwanniensis - endemic turtle)",
+        "White-tailed Deer",
+        "Barred Owl"
+      ]
+    },
+    "human_demographics_and_culture": "Suwannee River paddlers, winter vanlifers, digital nomads, and local anglers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Timucua indigenous traditions revere the blackwater Suwannee River and natural freshwater springs as sacred healing spirit waters.",
+      "energetic_and_spiritual_features": "Blackwater river reflections and energy, serene live oak hammock shade, fast 5G cell internet."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Suwannee Wilderness Trail (Woods Ferry Section)",
+        "length_miles": 6.5,
+        "difficulty": "Easy to Moderate",
+        "features": "Winding bluff trail along the historic blackwater Suwannee River"
+      }
+    ],
+    "public_reviews_summary": "Top choice for free river boondocking in North Florida. Clean sites, majestic live oaks with Spanish moss, fast 5G cell internet, and 100% free with easy online reservation.",
+    "other_data": "Bortle Class 3 night sky. Free online SRWMD permit required.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "fl-apalachicola-nf-fort-gadsden",
+    "name": "Fort Gadsden / River Landing Primitive Camping",
+    "state": "Florida",
+    "county": "Franklin County",
+    "coordinates": {
+      "latitude": 29.9412,
+      "longitude": -85.0214,
+      "elevation_ft": 25
+    },
+    "management_agency": {
+      "name": "US Forest Service - National Forests in Florida (Apalachicola District)",
+      "type": "USFS",
+      "phone": "(850) 926-3561",
+      "website": "https://www.fs.usda.gov/florida"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Dispersed Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted along Apalachicola River landing pullouts. Camp 100ft minimum from river high water line."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6 inches deep in soil 200 feet from Apalachicola River. Pack out hygiene products.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down pine and oak wood collection permitted.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Spring dry weather wildfire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route to graded gravel/dirt Forest Service roads",
+      "road_conditions": "Graded gravel access roads, flat riverfront turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance vehicles.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / River Corridor Cell Signal",
+      "verizon_reliability": "3-4 bars 4G LTE (15-35 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low across flat river delta",
+      "distance_from_tower_corridor_miles": 3.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Apalachicola Riverfront Campsites",
+      "Boat & Kayak Launching",
+      "Live Oak & Spanish Moss Shade",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Eastpoint / Apalachicola, FL",
+        "distance_miles": 16.0,
+        "services_available": [
+          "Piggly Wiggly",
+          "Gas Stations",
+          "Apalachicola Public Library",
+          "Seafood Markets",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "68-82°F, blooming wild azaleas and tupelo blossoms, mild sea breezes.",
+      "summer": "85-92°F, warm humid Florida summer weather, shaded river canopy.",
+      "fall": "65-80°F, prime pleasant camping weather.",
+      "winter": "48-68°F, warm sunny winter weather, dry clear skies."
+    },
+    "dangers_and_hazards": [
+      "Alligators in Apalachicola River (do not swim near riverbanks)",
+      "Mosquitoes in summer months (use permethrin)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Rushing river flow and barred owl calls",
+      "common_human_made_sounds": [
+        "Occasional fishing boat on river"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Live Oak",
+        "Spanish Moss",
+        "Ogeechee Tupelo",
+        "Cabbage Palm"
+      ],
+      "common_animals": [
+        "American Alligator",
+        "Manatee",
+        "Bald Eagle",
+        "Osprey",
+        "Barred Owl"
+      ]
+    },
+    "human_demographics_and_culture": "Muscogee Creek ancestral lands, Apalachicola oystermen and rivermen, Florida nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Historic Fort Gadsden National Historic Landmark location. Rich Seminole and Creek frontier history.",
+      "energetic_and_spiritual_features": "Relaxing river delta energy, majestic live oak canopy tranquility."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Fort Gadsden Historic Trail",
+        "length_miles": 2.5,
+        "difficulty": "Easy",
+        "features": "Apalachicola river vistas, live oak groves, historic interpretive markers"
+      }
+    ],
+    "public_reviews_summary": "Fantastic free riverfront primitive camping in Apalachicola National Forest. Live oak shade, solid cell internet, and 15 minutes to Apalachicola's seafood markets.",
+    "other_data": "Apalachicola National Forest. Free dispersed primitive camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "fl-ocala-nf-davenport-landing",
+    "name": "Davenport Landing Primitive River Campsites",
+    "state": "Florida",
+    "county": "Marion County",
+    "coordinates": {
+      "latitude": 29.3812,
+      "longitude": -81.8812,
+      "elevation_ft": 40
+    },
+    "management_agency": {
+      "name": "US Forest Service - National Forests in Florida (Ocala District)",
+      "type": "USFS",
+      "phone": "(352) 625-2520",
+      "website": "https://www.fs.usda.gov/florida"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Dispersed Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted at designated river landing pullouts along Ocklawaha River. Camp 100ft minimum from river high water line."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6 inches deep in sandy soil 200 feet from Ocklawaha River. Pack out hygiene products.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down pine and oak wood collection permitted.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Spring dry weather wildfire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route to graded gravel Forest Service roads",
+      "road_conditions": "Graded gravel access roads, flat riverfront turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance vehicles.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Ocala & Silver Springs Tower Line",
+      "verizon_reliability": "3-4 bars 4G LTE (20-45 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low across flat river hammock forest",
+      "distance_from_tower_corridor_miles": 3.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Ocklawaha Riverfront Campsites",
+      "Canoe & Kayak Launching",
+      "Live Oak & Palmetto Hammock Shade",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Silver Springs / Ocala, FL",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Publix / Walmart",
+          "Gas Stations",
+          "Marion County Public Library",
+          "AdventHealth Hospital",
+          "24/7 Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "70-84°F, warm sunny spring days, pleasant river breeze.",
+      "summer": "85-92°F, warm humid Florida summer weather, shaded river hammock.",
+      "fall": "68-82°F, prime pleasant camping weather.",
+      "winter": "50-70°F, warm sunny winter weather, dry clear skies."
+    },
+    "dangers_and_hazards": [
+      "Alligators in Ocklawaha River (do not swim near banks)",
+      "Mosquitoes in summer months (use permethrin)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - River flow and barred owl calls",
+      "common_human_made_sounds": [
+        "Occasional canoe on river"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Live Oak",
+        "Spanish Moss",
+        "Cabbage Palm",
+        "Bald Cypress"
+      ],
+      "common_animals": [
+        "American Alligator",
+        "Manatee",
+        "Bald Eagle",
+        "Osprey",
+        "Florida Black Bear"
+      ]
+    },
+    "human_demographics_and_culture": "Seminole & Timucua ancestral lands, Ocala rivermen, Florida nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Traditional Timucua territory honoring the pristine Ocklawaha River hammock ecosystems.",
+      "energetic_and_spiritual_features": "Relaxing river hammock energy, live oak canopy tranquility."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Davenport River Hammock Trail",
+        "length_miles": 3.0,
+        "difficulty": "Easy",
+        "features": "Ocklawaha river vistas, live oak hammocks, manatee watching"
+      }
+    ],
+    "public_reviews_summary": "Top free river primitive camping in Ocala National Forest. Live oak shade, solid cell internet, and 15 minutes to Silver Springs and Ocala.",
+    "other_data": "Ocala National Forest. Free dispersed primitive camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "florida-006",
+    "name": "Camel Lake Dispersed Area - Apalachicola NF",
+    "state": "Florida",
+    "county": "Liberty",
+    "coordinates": {
+      "latitude": 30.2812,
+      "longitude": -84.9812,
+      "elevation_ft": 60.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - National Forests in Florida",
+      "type": "Federal",
+      "phone": "(850) 643-2282",
+      "website": "https://www.fs.usda.gov/florida"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside developed recreation area)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along FS Road 105 outside developed loop. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6 inches deep 200 ft from Camel Lake and streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared sand rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded sand and gravel forest road",
+      "road_conditions": "Graded sand/gravel Forest Service road; smooth when dry.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open longleaf pine flatwoods",
+      "distance_from_tower_corridor_miles": 7.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Longleaf Pine Flatwoods Canopy",
+      "Camel Lake Swimming Nearby",
+      "Florida Trail Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Bristol / Tallahassee, FL",
+        "distance_miles": 16.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush Florida spring (72-82°F).",
+      "summer": "Hot humid summer (90-95°F) with lake swimming.",
+      "fall": "Crisp pleasant autumn days.",
+      "winter": "Mild winter (55-68°F)."
+    },
+    "dangers_and_hazards": [
+      "American Alligators",
+      "Venomous Snakes",
+      "Summer Mosquitoes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Pine Flatwoods Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through longleaf pine needles",
+        "Frog chorus"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Longleaf Pine",
+        "Slash Pine",
+        "Wiregrass",
+        "Saw Palmetto"
+      ],
+      "common_animals": [
+        "American Alligator",
+        "Florida Black Bear",
+        "Red-cockaded Woodpecker",
+        "Gopher Tortoise"
+      ]
+    },
+    "human_demographics_and_culture": "Muscogee (Creek) / Seminole ancestral lands and Apalachicola River timber heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Largest national forest in Florida protecting 570,000 acres of pristine longleaf pine flatwoods and cypress swamps.",
+      "energetic_and_spiritual_features": "Quiet longleaf pine flatwoods surrounding clear freshwater lakes in the Florida Panhandle."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Florida National Scenic Trail (Camel Lake Section)",
+        "length_miles": 4.5,
+        "difficulty": "Easy",
+        "features": "Longleaf pine savanna, wiregrass, cypress boardwalks"
+      }
+    ],
+    "public_reviews_summary": "Peaceful Panhandle longleaf pine basecamp near Camel Lake with Florida Trail access and dependable cell service.",
+    "other_data": "Florida National Scenic Trail crosses area.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "florida-007",
+    "name": "Ocean Pond Dispersed Area - Osceola National Forest",
+    "state": "Florida",
+    "county": "Baker",
+    "coordinates": {
+      "latitude": 30.2123,
+      "longitude": -82.4812,
+      "elevation_ft": 150.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - National Forests in Florida",
+      "type": "Federal",
+      "phone": "(386) 752-2577",
+      "website": "https://www.fs.usda.gov/florida"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside developed fee area)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free dispersed primitive camping on national forest pullouts along FS Road 235 outside Ocean Pond fee loop. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6 inches deep 200 ft from Ocean Pond and cypress swamps. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared sand rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded sand and gravel forest road",
+      "road_conditions": "Graded sand/gravel Forest Service road off US-90; smooth when dry.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low - flat pine flatwoods",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Ocean Pond Freshwater Lake Views",
+      "Olustee Battlefield Historic Site Nearby",
+      "Florida Trail Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 6,
+      "terrain_score": 8,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Lake City / Sanderson, FL",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Full City Services",
+          "Hospital",
+          "Walmart",
+          "Gas Stations",
+          "Hardware",
+          "Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush green pine spring (70-80°F).",
+      "summer": "Hot humid summer (90-95°F) with lake breeze.",
+      "fall": "Crisp pleasant autumn days.",
+      "winter": "Mild winter (55-68°F)."
+    },
+    "dangers_and_hazards": [
+      "American Alligators",
+      "Summer Mosquitoes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Pine Flatwoods Lake Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Ocean Pond wave lap",
+        "Pine wind"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Slash Pine",
+        "Longleaf Pine",
+        "Bald Cypress",
+        "Saw Palmetto"
+      ],
+      "common_animals": [
+        "American Alligator",
+        "Florida Black Bear",
+        "Sandhill Crane",
+        "Large-mouth Bass"
+      ]
+    },
+    "human_demographics_and_culture": "Timucua / Seminole ancestral lands and Civil War Olustee battlefield heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Site of the 1864 Battle of Olustee, the largest Civil War battle fought in Florida.",
+      "energetic_and_spiritual_features": "Flat pine flatwoods surrounding 2,000-acre natural circular Ocean Pond lake."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Florida National Scenic Trail (Olustee Section)",
+        "length_miles": 5.0,
+        "difficulty": "Easy",
+        "features": "Ocean Pond shoreline, cypress boardwalks, longleaf pine flatwoods"
+      }
+    ],
+    "public_reviews_summary": "Super easy I-10 basecamp near Lake City with 2,000-acre Ocean Pond views and blazing 5G cell service.",
+    "other_data": "12 miles from Lake City I-10 junction.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "florida-008",
+    "name": "Alexander Springs Dispersed Area - Ocala NF",
+    "state": "Florida",
+    "county": "Lake",
+    "coordinates": {
+      "latitude": 29.0812,
+      "longitude": -81.5812,
+      "elevation_ft": 40.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Seminole Ranger District",
+      "type": "Federal",
+      "phone": "(352) 669-3151",
+      "website": "https://www.fs.usda.gov/florida"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside springs fee area)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along FS Road 18 outside developed spring loop. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6 inches deep 200 ft from Alexander Springs Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy. Bear safety mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared sand rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded sand forest road",
+      "road_conditions": "Graded sand Forest Service road; smooth when dry.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low - flat scrub pine terrain",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "72°F Crystal Freshwater Spring Proximity",
+      "Snorkeling & Kayaking",
+      "Sand Pine Scrub Shade",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 9,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Umatilla / Astor, FL",
+        "distance_miles": 10.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Kayak Outfitters",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush subtropical spring (75-85°F).",
+      "summer": "Warm humid summer (90-95°F) with 72°F spring swimming.",
+      "fall": "Crisp pleasant autumn days.",
+      "winter": "Mild winter (60-72°F)."
+    },
+    "dangers_and_hazards": [
+      "American Alligators in Spring Creek",
+      "Florida Black Bear Area"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Subtropical Pine Scrub Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Wind through sand pines",
+        "Cicada calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Sand Pine",
+        "Scrub Oak",
+        "Cabbage Palm",
+        "Spanish Moss"
+      ],
+      "common_animals": [
+        "West Indian Manatee",
+        "American Alligator",
+        "Florida Black Bear",
+        "Scrub Jay"
+      ]
+    },
+    "human_demographics_and_culture": "Timucua ancestral lands and Ocala spring snorkeling & Manatee conservation culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "First-magnitude freshwater spring pumping 70 million gallons of 72°F crystal water daily into Alexander Run.",
+      "energetic_and_spiritual_features": "Pristine turquoise freshwater spring basin surrounded by subtropical cabbage palms."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Timucuan Heritage Trail",
+        "length_miles": 1.0,
+        "difficulty": "Easy",
+        "features": "Alexander Springs creek boardwalk, cabbage palm hammocks, spring views"
+      }
+    ],
+    "public_reviews_summary": "Incredible basecamp near 72°F crystal clear Alexander Springs with manatee watching and blazing 5G cell service.",
+    "other_data": "72°F water year-round.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "florida-009",
+    "name": "Fort Gadsden Dispersed Area - Apalachicola NF",
+    "state": "Florida",
+    "county": "Franklin",
+    "coordinates": {
+      "latitude": 29.9812,
+      "longitude": -85.0123,
+      "elevation_ft": 40.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - National Forests in Florida",
+      "type": "Federal",
+      "phone": "(850) 643-2282",
+      "website": "https://www.fs.usda.gov/florida"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside historic site lot)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along FS Road 129 near Apalachicola River. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6 inches deep 200 ft from Apalachicola River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared sand rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel Forest Service road off HWY 65; smooth when dry.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low along Apalachicola river corridor",
+      "distance_from_tower_corridor_miles": 7.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Apalachicola River Overlook Views",
+      "Fort Gadsden Historic Site Nearby",
+      "River Boating & Fishing",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Eastpoint / Apalachicola, FL",
+        "distance_miles": 18.0,
+        "services_available": [
+          "Gulf Seafood Market",
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush coastal river spring (70-80°F).",
+      "summer": "Warm humid summer (88-94°F) with river breezes.",
+      "fall": "Crisp pleasant autumn days.",
+      "winter": "Mild winter (55-68°F)."
+    },
+    "dangers_and_hazards": [
+      "American Alligators",
+      "Summer Mosquitoes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Apalachicola River Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Apalachicola River water flow",
+        "Cypress wind"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Bald Cypress",
+        "Ogeechee Tupelo",
+        "Longleaf Pine",
+        "Spanish Moss"
+      ],
+      "common_animals": [
+        "American Alligator",
+        "Bald Eagle",
+        "River Otter",
+        "Striped Bass",
+        "Ogeechee Tupelo Honeybee"
+      ]
+    },
+    "human_demographics_and_culture": "Mascogo / Seminole ancestral lands and Apalachicola River oyster & tupelo honey culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Historic 1816 'Prospect Bluff' / Fort Gadsden site along the Apalachicola River.",
+      "energetic_and_spiritual_features": "Vast tea-colored Apalachicola river flowing through moss-draped ancient cypress swamps."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Fort Gadsden Historic Nature Trail",
+        "length_miles": 1.5,
+        "difficulty": "Easy",
+        "features": "Apalachicola River overlooks, historic earthwork ruins, cypress bluff"
+      }
+    ],
+    "public_reviews_summary": "Peaceful river side forest basecamp near the Gulf Coast with rich history and solid cell service.",
+    "other_data": "Home to world-famous Ogeechee Tupelo Honey.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "florida-010",
+    "name": "Eglin Public Dispersed Area - Eglin Reservation",
+    "state": "Florida",
+    "county": "Okaloosa",
+    "coordinates": {
+      "latitude": 30.5123,
+      "longitude": -86.5812,
+      "elevation_ft": 180.0
+    },
+    "management_agency": {
+      "name": "U.S. Air Force - Eglin Natural Resources Office",
+      "type": "Federal",
+      "phone": "(850) 882-4164",
+      "website": "https://eglin.isportsman.net"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive public dispersed camping with $20 annual Eglin outdoor recreation permit)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on designated public recreation tracks across 460,000 acres of open reservation lands. Check range closures on iSportsman."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6 inches deep 200 ft from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared sand rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to Eglin fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded sand and gravel reservation road",
+      "road_conditions": "Graded sand reservation roads; smooth when dry.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars on main designated tracks.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low - flat Panhandle pine flatwoods",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Longleaf Pine Sandhills Landscape",
+      "Clear Creek Swimming Holes",
+      "Emerald Coast Gulf Beaches Nearby",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 7,
+      "terrain_score": 8,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Crestview / Fort Walton Beach, FL",
+        "distance_miles": 10.0,
+        "services_available": [
+          "Full Urban Services",
+          "Hospital",
+          "Walmart",
+          "Target",
+          "Gas Stations",
+          "Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush Panhandle spring (70-80°F).",
+      "summer": "Warm humid summer (88-94°F) with Gulf beach proximity.",
+      "fall": "Crisp pleasant autumn days.",
+      "winter": "Mild winter (55-68°F)."
+    },
+    "dangers_and_hazards": [
+      "Military Range Boundary Closure Enforcement",
+      "Venomous Snakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Pine Sandhills Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Wind through longleaf pines",
+        "Occasional distant aircraft hum"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Longleaf Pine",
+        "Turkey Oak",
+        "Wiregrass",
+        "Saw Palmetto"
+      ],
+      "common_animals": [
+        "Red-cockaded Woodpecker",
+        "Gopher Tortoise",
+        "White-tailed Deer",
+        "Florida Black Bear"
+      ]
+    },
+    "human_demographics_and_culture": "Muscogee ancestral lands and Emerald Coast military aviation & beach culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Largest contiguous longleaf pine sandhills forest remaining on Earth, protected across 460,000 acres of public Eglin lands.",
+      "energetic_and_spiritual_features": "Vast open longleaf pine sandhills 20 minutes from the turquoise Gulf of Mexico."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Florida Trail (Eglin Reservation Section)",
+        "length_miles": 6.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Longleaf pine sandhills, clear stream crossings, pitcher plant bogs"
+      }
+    ],
+    "public_reviews_summary": "Vast 460,000-acre pine forest basecamp near Destin and Fort Walton Beach with blazing 5G cell service.",
+    "other_data": "Eglin outdoor permit ($20/year) required online.",
+    "last_updated": "2026-09-12"
+  }
+]

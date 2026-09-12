@@ -1,0 +1,1341 @@
+[
+  {
+    "id": "ca-alabama-hills-blm",
+    "name": "Alabama Hills National Scenic Area BLM Dispersed Camping (Movie Road)",
+    "state": "California",
+    "county": "Inyo County",
+    "coordinates": {
+      "latitude": 36.6042,
+      "longitude": -118.1189,
+      "elevation_ft": 4680
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management - Bishop Field Office",
+      "type": "BLM",
+      "phone": "(760) 872-5000",
+      "website": "https://www.blm.gov/california"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Free BLM Dispersed Camping Permit required online (zero fee)",
+      "stay_limit": "14 days maximum stay within any 28-day period",
+      "guidelines": "Dispersed camping is restricted to designated campsites marked with campsite posts along Movie Road corridor to protect fragile desert ecology. Driving off-road prohibited."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Pack-out mandatory or deep cat-hole (6 inches deep in sandy soil, 200ft from washes). Portable toilet or WAG bags strongly encouraged due to high visitor pressure.",
+      "trash_policy": "Strict Leave No Trace. No trash receptacles; all garbage must be packed out to Lone Pine disposal sites."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring your own firewood. Gathering brush, sage, or wood on BLM land in Alabama Hills is strictly illegal.",
+      "safety_requirements": "Free California Campfire Permit required (available online at readyforwildfire.org). Must use metal fire pan or existing designated ring. Have shovel and 5 gallons of water on site.",
+      "seasonal_fire_bans": "Stage 1 and Stage 2 fire bans enforced during high wind and summer dry seasons."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved dirt and washboard gravel road (Movie Road)",
+      "road_conditions": "Washboard gravel main road; secondary spurs have sandy dips and granite rock outcroppings.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (accessible along main Movie Road; high clearance recommended for rocky site pullouts)",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Connectivity",
+      "verizon_reliability": "3-4 bars 5G/LTE (25-60 Mbps download speed)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 5G Ultra Capacity",
+      "terrain_obstruction_risk": "Low to Moderate (Open desert plain beneath towering Eastern Sierra peaks)",
+      "distance_from_tower_corridor_miles": 4.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Designated Campsite Posts",
+      "Rounded Granite Rock Formation Shelters",
+      "Unobstructed View of Mount Whitney (14,505 ft)",
+      "High-speed 5G Cellular Internet"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Lone Pine, CA",
+        "distance_miles": 5.8,
+        "services_available": [
+          "Groceries",
+          "Gas Stations",
+          "Propane",
+          "Hardware Store",
+          "Restaurants",
+          "Lone Pine Public Library",
+          "Interagency Visitor Center"
+        ]
+      },
+      {
+        "town_name": "Bishop, CA",
+        "distance_miles": 58.0,
+        "services_available": [
+          "Full City Services",
+          "Northern Inyo Hospital",
+          "Outdoor Gear Stores",
+          "Bakery",
+          "Public Library"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "65-80\u00b0F, high Sierra snowpack backdrop, afternoon winds (25-40 mph gusts).",
+      "summer": "Hot (95-104\u00b0F), intense desert sun exposure, boondocking challenging without AC.",
+      "fall": "Ideal season (70-85\u00b0F daytime, crisp 40-50\u00b0F nights), low wind, clear skies.",
+      "winter": "Cool 45-58\u00b0F daytime, freezing nights (25-35\u00b0F), dramatic snow-covered Sierra views."
+    },
+    "dangers_and_hazards": [
+      "Severe high desert winds capable of damaging RV awnings and tents",
+      "Mojave Rattlesnakes and Great Basin Rattlesnakes active April through October",
+      "Dehydration and intense UV solar exposure",
+      "Flash flooding in washes during rare desert rainstorms"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Desert wind and mountain tranquility",
+      "common_human_made_sounds": [
+        "Passing photography and vanlife vehicles along Movie Road",
+        "Distant highway hum on US-395 (5 miles east)",
+        "Occasional military jet training flight from China Lake / Edwards AFB corridor"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Big Sagebrush (Artemisia tridentata)",
+        "Creosote Bush (Larrea tridentata)",
+        "Nevada Ephedra / Jointfir (Ephedra nevadensis)",
+        "Desert Paintbrush (Castilleja chromosa)",
+        "Single-leaf Pinyon Pine (Pinus monophylla on higher slopes)"
+      ],
+      "common_animals": [
+        "Desert Woodrat / Packrat (Neotoma lepida)",
+        "Coyote",
+        "Black-tailed Jackrabbit (Lepus californicus)",
+        "Great Basin Rattlesnake (Crotalus lutosus)",
+        "Golden Eagle (Aquila chrysaetos)"
+      ]
+    },
+    "human_demographics_and_culture": "Full-time digital nomads, Hollywood film historians, landscape photographers, Mt. Whitney summit climbers, and rock climbers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Paiute and Shoshone oral traditions honor Mount Whitney ('Tumanguya') and the surrounding granite arches as sacred places of ancient ancestral spirits.",
+      "energetic_and_spiritual_features": "High quartz granite acoustic resonance, profound visual alignment with the highest peak in the contiguous US, extraordinary star density."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Mobius Arch Loop Trail",
+        "length_miles": 0.6,
+        "difficulty": "Easy",
+        "features": "Natural granite rock arch perfectly framing Mount Whitney"
+      },
+      {
+        "trail_name": "Lone Pine Creek Trail",
+        "length_miles": 5.2,
+        "difficulty": "Moderate",
+        "features": "Riparian stream corridor leading toward Whitney Portal"
+      }
+    ],
+    "public_reviews_summary": "World-famous boondocking location. Jaw-dropping Mount Whitney views combined with fast 5G cell internet. Requires online BLM permit and staying within designated post sites.",
+    "other_data": "Bortle Class 2 night sky. 100% solar panel efficiency due to minimal tree obstruction.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ca-trona-pinnacles-blm",
+    "name": "Trona Pinnacles BLM Free Dispersed Camping Area",
+    "state": "California",
+    "county": "San Bernardino County",
+    "coordinates": {
+      "latitude": 35.6171,
+      "longitude": -117.3682,
+      "elevation_ft": 1780
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management - Ridgecrest Field Office",
+      "type": "BLM",
+      "phone": "(760) 384-5400",
+      "website": "https://www.blm.gov/california"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees or permits required",
+      "stay_limit": "14 days max stay limit within 28-day period",
+      "guidelines": "Dispersed camping allowed anywhere within the BLM recreation area. Camp at least 100ft off main access trail to prevent tufa spire damage."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Desert soil pack-out strictly recommended. Cat-holes 6 inches deep in dry wash sand 200ft from dry lakebed.",
+      "trash_policy": "Strict Leave No Trace. No trash collection on site."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring your own firewood. No vegetation cutting permitted.",
+      "safety_requirements": "Must bring self-contained fire pan. Free CA Campfire Permit required.",
+      "seasonal_fire_bans": "Obey BLM Ridgecrest fire restrictions."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved dirt and gravel desert washboard road (RM143)",
+      "road_conditions": "Washboard dirt road crossing dry lakebed washes. Can turn muddy and impassable during rare desert rainstorms.",
+      "vehicle_recommendation": "Normal low clearance car (drive slowly on washboard dirt in dry weather; high clearance recommended)",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate / Functional",
+      "verizon_reliability": "2-3 bars 4G LTE (10-25 Mbps download)",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Low (Alien dry lake basin with scattered tufa towers)",
+      "distance_from_tower_corridor_miles": 7.2,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Surreal Tufa Spire Landscape",
+      "Vault Toilet at Main Entrance",
+      "Flat Dirt Camping Pads"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 4,
+      "distance_to_library_score": 3,
+      "distance_to_gym_score": 3,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Trona, CA",
+        "distance_miles": 15.2,
+        "services_available": [
+          "Basic Market",
+          "Gas Station",
+          "Post Office"
+        ]
+      },
+      {
+        "town_name": "Ridgecrest, CA",
+        "distance_miles": 36.0,
+        "services_available": [
+          "Walmart Supercenter",
+          "Gyms",
+          "Regional Hospital",
+          "Auto Repair",
+          "Public Library"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "70-85\u00b0F ideal weather, high desert wind gusts.",
+      "summer": "Extreme hot desert temperatures (105-115\u00b0F), dangerous heat.",
+      "fall": "Warm days (80-90\u00b0F), cool comfortable nights (50-60\u00b0F).",
+      "winter": "Pleasant 55-65\u00b0F daytime, chilly 35-45\u00b0F nights."
+    },
+    "dangers_and_hazards": [
+      "Extreme summer heat",
+      "Sudden desert dust storms and severe wind gusts",
+      "Mojave Rattlesnakes active in warm months",
+      "Flash flooding on dirt access road during rare torrential rain"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Eerie sci-fi desert quiet",
+      "common_human_made_sounds": [
+        "Military jet sonic booms or flyovers from Naval Air Weapons Station China Lake",
+        "Wind blowing through tufa rock formations"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Creosote Bush",
+        "Shadscale Saltbush (Atriplex confertifolia)",
+        "Desert Holly (Atriplex hymenelytra)"
+      ],
+      "common_animals": [
+        "Mojave Ground Squirrel (Xerospermophilus mohavensis)",
+        "Kit Fox",
+        "Raven",
+        "Side-blotched Lizard (Uta stansburiana)"
+      ]
+    },
+    "human_demographics_and_culture": "Sci-fi film buffs (filming location for Star Trek, Planet of the Apes), Astrophotographers, off-grid nomads, and overland explorers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Koso Shoshone traditions view the ancient Pleistocene lakebed tufa spires as sacred stone sentinels carved by ancient spirit waters.",
+      "energetic_and_spiritual_features": "Otherworldly alien landscape energy, ancient calcium carbonate tufa formations, pristine Bortle 2 astrophotography skies."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Trona Pinnacles Tufa Loop Trail",
+        "length_miles": 2.0,
+        "difficulty": "Easy",
+        "features": "Winding path past 140-foot tall tufa rock spires"
+      }
+    ],
+    "public_reviews_summary": "Feels like camping on another planet. Outstanding night skies for stargazing and astrophotography. Cell service is good enough for remote work.",
+    "other_data": "Bortle Class 2 dark sky. High solar panel output.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ca-sierra-vista-scenic-byway",
+    "name": "Sierra Vista Scenic Byway Dispersed Camping - Sierra National Forest",
+    "state": "California",
+    "county": "Madera County / Fresno County",
+    "coordinates": {
+      "latitude": 37.3412,
+      "longitude": -119.3814,
+      "elevation_ft": 6850
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Bass Lake Ranger District",
+      "type": "USFS",
+      "phone": "(559) 877-2218",
+      "website": "https://www.fs.usda.gov/sierra"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for general dispersed forest camping",
+      "stay_limit": "14 consecutive days max stay within 30-day period",
+      "guidelines": "Dispersed primitive camping permitted along Forest Service Road 81 (Sierra Vista Scenic Byway). Must be set back 100ft from streams and wilderness boundaries."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6-8 inches deep in granitic forest soil, 200 feet from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out. Black bears active: bear canister or hard-sided vehicle storage mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only.",
+      "safety_requirements": "Must hold free California Campfire Permit. Campfires in established rock fire rings only. Extinguish cold to touch.",
+      "seasonal_fire_bans": "Stage 1 and Stage 2 fire restrictions strictly enforced in summer."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved scenic byway changing to unpaved gravel forest road (FS 81 / FS 7S05)",
+      "road_conditions": "Winding mountain road with gravel sections, potholes, and frost heaves.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (accessible along main paved/gravel byway turnouts in summer/fall)",
+      "scores": {
+        "road_grade": 5,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate / High Point Dependent",
+      "verizon_reliability": "2-3 bars 4G LTE on high ridge turnouts; weak down in granite ravines",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate (Sierra Nevada granite peaks restrict cell line of sight)",
+      "distance_from_tower_corridor_miles": 8.2,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Granite Dome Vista Views (Globe Rock / Mile High Overlook)",
+      "High Alpine Stream Access (Filter required)",
+      "Established Rock Fire Rings",
+      "Shaded Jeffrey Pine & Fir Forest"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Oakhurst / North Fork, CA",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Raley's / Vons Grocery",
+          "Gas Stations",
+          "Pharmacy",
+          "Oakhurst Library",
+          "Urgent Care"
+        ]
+      },
+      {
+        "town_name": "Fresno, CA",
+        "distance_miles": 58.0,
+        "services_available": [
+          "Full City Services",
+          "Fresno Yosemite International Airport",
+          "Major Hospitals",
+          "24/7 Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Late May thaw: cold (45-60\u00b0F), high snowmelt runoff, lingering snowpacks.",
+      "summer": "75-85\u00b0F, pleasant mountain climate, cool nights (50-55\u00b0F).",
+      "fall": "Spectacular Sierra autumn foliage (55-68\u00b0F daytime, 30-40\u00b0F nights), dry forest roads.",
+      "winter": "Severe alpine winter (20-35\u00b0F), heavy snowpack, road unplowed."
+    },
+    "dangers_and_hazards": [
+      "Black Bears (Ursus americanus) active throughout Sierra NF - bear canister mandatory",
+      "High altitude solar exposure (6,850 ft)",
+      "Narrow mountain road drop-offs"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Sierra mountain silence",
+      "common_human_made_sounds": [
+        "Occasional scenic byway tourist vehicle",
+        "Wind blowing through Jeffrey pine needles"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Jeffrey Pine (Pinus jeffreyi)",
+        "Sugar Pine (Pinus lambertiana)",
+        "White Fir (Abies concolor)",
+        "Quaking Aspen",
+        "Giant Sequoia (Sequoiadendron giganteum nearby)"
+      ],
+      "common_animals": [
+        "Mule Deer",
+        "Black Bear",
+        "Steller's Jay",
+        "Coyote",
+        "Sierra Nevada Yellow-legged Frog"
+      ]
+    },
+    "human_demographics_and_culture": "Sierra Nevada trail hikers, Yosemite travelers avoiding park crowds, digital nomads, and overland explorers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Mono and Yokuts indigenous traditions revere the Sierra Nevada granite domes and high meadows as sacred ancestral spirit lands.",
+      "energetic_and_spiritual_features": "Profound high Sierra granite acoustic energy, high atmospheric ionization, breathtaking sunset mountain vistas."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Globe Rock Trail",
+        "length_miles": 1.5,
+        "difficulty": "Easy",
+        "features": "Granite trail leading to iconic spherical balanced granite boulder"
+      }
+    ],
+    "public_reviews_summary": "Top choice for free primitive camping in the Sierra Nevada. Unbelievable views of Mammoth Pool and granite domes without Yosemite crowds.",
+    "other_data": "Bortle Class 2 night sky. Abundant pine deadwood.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ca-anza-borrego-blair-valley",
+    "name": "Blair Valley Free Dispersed Primitive Camping - Anza-Borrego Desert State Park",
+    "state": "California",
+    "county": "San Diego County",
+    "coordinates": {
+      "latitude": 33.0412,
+      "longitude": -116.4184,
+      "elevation_ft": 2450
+    },
+    "management_agency": {
+      "name": "California Department of Parks and Recreation - Anza-Borrego District",
+      "type": "State Parks",
+      "phone": "(760) 767-5311",
+      "website": "https://www.parks.ca.gov/anzaborrego"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for primitive open camping in Anza-Borrego State Park",
+      "stay_limit": "30 days maximum stay per calendar year",
+      "guidelines": "Open primitive camping permitted throughout Blair Valley. Vehicles must park within one vehicle length of dirt roads. Ground fires strictly prohibited; must bring metal container."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Use vault toilets at Blair Valley entrance or pack out human waste using WAG bags. Cat-holes 6 inches deep in sandy soil 200ft from washes.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out. Zero trash service on dry lakebed."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring your own firewood. Gathering desert vegetation is strictly illegal.",
+      "safety_requirements": "Campfires permitted ONLY in elevated metal fire containers (fire pans). Ground fires are illegal.",
+      "seasonal_fire_bans": "Obey state park fire restrictions."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved county highway changing to unpaved dirt desert road (S2 / Blair Valley Road)",
+      "road_conditions": "Flat dirt desert road crossing dry lakebed. Easy access in dry weather.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (accessible on main Blair Valley dirt roads in dry weather)",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Internet",
+      "verizon_reliability": "3-4 bars 5G/LTE (20-45 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 5G LTE",
+      "terrain_obstruction_risk": "Low (Open high desert valley surrounded by Granite mountain ridges)",
+      "distance_from_tower_corridor_miles": 3.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Vault Toilet at Valley Entrance",
+      "Panoramic Desert Mountain Views",
+      "100% Unshaded Solar Power Exposure",
+      "High-speed 5G Cellular Internet"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Borrego Springs, CA",
+        "distance_miles": 14.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Borrego Springs Library",
+          "Medical Clinic",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Julian / San Diego, CA",
+        "distance_miles": 58.0,
+        "services_available": [
+          "Full Metropolitan Services",
+          "Major Hospitals",
+          "International Airport",
+          "24/7 Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "75-85\u00b0F ideal weather, world-famous wildflower blooms (February-April).",
+      "summer": "Extremely hot (105-115\u00b0F), dangerous desert heat.",
+      "fall": "Warm pleasant days (80-90\u00b0F), cool comfortable nights (55-65\u00b0F).",
+      "winter": "Premier Southern California winter haven (65-75\u00b0F daytime, 42-50\u00b0F nights)."
+    },
+    "dangers_and_hazards": [
+      "Extreme summer desert heat",
+      "Red Diamond Rattlesnakes active in warm months",
+      "Cholla cactus spines"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Pure Sonoran/Colorado Desert silence",
+      "common_human_made_sounds": [
+        "Occasional camper vehicle on dirt valley road",
+        "Wind blowing past granite peaks"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Ocotillo",
+        "Creosote Bush",
+        "California Fan Palm (in nearby canyons)",
+        "Desert Agave (Agave deserti)",
+        "Cholla Cactus"
+      ],
+      "common_animals": [
+        "Peninsular Bighorn Sheep (Ovis canadensis nelsoni - endangered)",
+        "Black-tailed Jackrabbit",
+        "Coyote",
+        "Roadrunner",
+        "Red Diamond Rattlesnake"
+      ]
+    },
+    "human_demographics_and_culture": "Winter digital nomads, wildflower photographers, astrophotographers, overlanders, and desert naturalists.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Kumeyaay and Cahuilla indigenous traditions honor Blair Valley and the surrounding granite mountains as sacred spirit vision sites.",
+      "energetic_and_spiritual_features": "Profound silent desert energy, ancient agave roasting pit vibrations, pristine International Dark Sky Community night skies."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Morteros Trail (Blair Valley)",
+        "length_miles": 1.2,
+        "difficulty": "Easy",
+        "features": "Ancient Kumeyaay bedrock grinding holes (morteros) and desert petroglyphs"
+      }
+    ],
+    "public_reviews_summary": "Top choice for winter primitive camping in Southern California. Quiet desert valley, ancient Native American sites, fast 5G cell internet, and 100% free.",
+    "other_data": "Bortle Class 2 night sky. 100% solar panel efficiency.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ca-carrizo-plain-blm",
+    "name": "Carrizo Plain National Monument BLM Free Primitive Camping (Selby / Caliente Ridge)",
+    "state": "California",
+    "county": "San Luis Obispo County",
+    "coordinates": {
+      "latitude": 35.1812,
+      "longitude": -119.6814,
+      "elevation_ft": 2450
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management - Bakersfield Field Office",
+      "type": "BLM",
+      "phone": "(661) 391-6000",
+      "website": "https://www.blm.gov/california"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for free primitive camping at Selby Campground / Caliente Ridge / foothills",
+      "stay_limit": "14 consecutive days max stay limit",
+      "guidelines": "Primitive camping permitted at Selby / KCL free sites and dispersed foothill zones. Must stay on established dirt roads. Driving on Soda Lake playa strictly prohibited."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Use vault toilets at Selby / KCL or cat-hole 6 inches deep in clay soil, 200 feet from washes. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring your own firewood. No wood gathering permitted on monument.",
+      "safety_requirements": "Must hold free California Campfire Permit. Campfires in designated fire rings or metal fire pans only.",
+      "seasonal_fire_bans": "Obey BLM fire restrictions during dry fire season."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway changing to unpaved dirt prairie roads (Soda Lake Road / Selby Road)",
+      "road_conditions": "Dirt roads cross clay plain; turn extremely slick gumbo mud when wet (roads close during rain).",
+      "vehicle_recommendation": "Normal low clearance car (accessible in dry weather along main dirt roads; high clearance recommended for Caliente Ridge)",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 6
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Weak to Moderate / Ridge Dependent",
+      "verizon_reliability": "2-3 bars 4G LTE on Caliente Ridge high points; 0-1 bar down near Soda Lake",
+      "att_reliability": "1-2 bars 4G LTE",
+      "tmobile_reliability": "No signal",
+      "terrain_obstruction_risk": "Moderate (Temblor and Caliente mountain ranges surround valley)",
+      "distance_from_tower_corridor_miles": 12.5,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Vault Toilets at Selby & KCL Sites",
+      "Shaded Picnic Tables",
+      "Soda Lake Alkaline Basin Views",
+      "World-Famous Superbloom Flower Fields"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 3,
+      "distance_to_library_score": 3,
+      "distance_to_gym_score": 2,
+      "terrain_score": 9,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Taft / Santa Margarita, CA",
+        "distance_miles": 32.0,
+        "services_available": [
+          "Grocery Market",
+          "Gas Stations",
+          "Hardware Store",
+          "Public Library"
+        ]
+      },
+      {
+        "town_name": "Bakersfield / San Luis Obispo, CA",
+        "distance_miles": 65.0,
+        "services_available": [
+          "Full Metropolitan Services",
+          "Hospitals",
+          "Airport",
+          "24/7 Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "65-78\u00b0F, world-famous superbloom wildflower season (March-April), pleasant spring weather.",
+      "summer": "Hot (95-104\u00b0F), dry grassland fire danger.",
+      "fall": "Warm days (75-85\u00b0F), cool crisp nights (45-55\u00b0F), dry roads.",
+      "winter": "Cool 45-60\u00b0F daytime, freezing nights (25-35\u00b0F), rain turning clay to mud."
+    },
+    "dangers_and_hazards": [
+      "San Andreas Fault zone geologic fissures",
+      "Gumbo clay roads becoming impassable wet mud during rainstorms",
+      "Extreme remote isolation: no gas or water for 35+ miles"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "10/10 - Pure Central Valley grassland silence",
+      "common_human_made_sounds": [
+        "Infrequent visitor car during spring superbloom",
+        "Wind blowing across open valley grassland"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "California Goldfields (Lasthenia californica)",
+        "Hillside Daisy (Monolopia lanceolata)",
+        "Valley Oak (Quercus lobata)",
+        "Ephedra"
+      ],
+      "common_animals": [
+        "Giant Kangaroo Rat (Dipodomys ingens - endangered)",
+        "San Joaquin Kit Fox (Vulpes macrotis mutica)",
+        "Pronghorn",
+        "Tule Elk (Cervus canadensis nannodes)",
+        "California Condor"
+      ]
+    },
+    "human_demographics_and_culture": "Spring superbloom botanists, wildlife researchers, San Andreas Fault geologists, digital nomads, and overlanders.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Chumash and Yokuts indigenous traditions revere Painted Rock and the Carrizo Plain as sacred ancestral rock art and spirit ceremonial grounds.",
+      "energetic_and_spiritual_features": "San Andreas tectonic fault line Earth energy, vast open valley space, pristine Bortle 2 astrophotography skies."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Caliente Ridge Trail",
+        "length_miles": 8.0,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Ridge walk climbing to highest point in San Luis Obispo County (5,106 ft)"
+      }
+    ],
+    "public_reviews_summary": "Unbelievable California grassland wilderness experience. Unmatched spring wildflower superblooms, total silence, and ancient geology.",
+    "other_data": "Bortle Class 2 night sky. High solar panel efficiency.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "california-006",
+    "name": "Alabama Hills BLM Dispersed Buffer Zone",
+    "state": "California",
+    "county": "Inyo",
+    "coordinates": {
+      "latitude": 36.6125,
+      "longitude": -118.1214,
+      "elevation_ft": 4680.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Bishop Field Office",
+      "type": "Federal",
+      "phone": "(760) 872-5000",
+      "website": "https://www.blm.gov/california"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive BLM dispersed camping in designated open zones; free online BLM fire permit required for stoves)",
+      "stay_limit": "14 days maximum stay within a 28-day window",
+      "guidelines": "Dispersed primitive camping allowed ONLY in designated open zones outside central movie rocks fee area. Camp on durable surfaces. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Pack out all human waste using WAG bags / Portable Toilet due to high usage and fragile granite soils. Dump stations in Lone Pine.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring firewood; no collecting down wood in fragile desert area.",
+      "safety_requirements": "Campfire permit required. Campfires permitted in existing stone fire rings in open zones. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to BLM Stage 1 & 2 fire bans during summer/fall."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel and dirt wash roads",
+      "road_conditions": "Graded gravel access roads; accessible by standard passenger cars.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car, camper vans, and rigs.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4-5 bars 5G",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "4 bars 5G",
+      "terrain_obstruction_risk": "Low - open Owens Valley floor looking towards Sierra Nevada wall",
+      "distance_from_tower_corridor_miles": 2.1,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "14,505-ft Mount Whitney Views",
+      "Rounded Granite Rock Formations",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 6,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Lone Pine, CA",
+        "distance_miles": 4.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Outfitters",
+          "Restaurants",
+          "Dump Station"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Ideal spring weather (70-80\u00b0F) with snowcapped Sierra peaks.",
+      "summer": "Hot high desert summer (95-104\u00b0F).",
+      "fall": "Crisp dry autumn weather with glowing golden granite rocks.",
+      "winter": "Cool winter (45-60\u00b0F) with cold night temps (28\u00b0F)."
+    },
+    "dangers_and_hazards": [
+      "High Desert Sun & Heat",
+      "Rattlesnakes",
+      "High Sierra Wind Gusts"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Sierra Valley Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Distant US-395 traffic hum",
+        "Occasional jet contrail"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Creosote Bush",
+        "Desert Sagebrush",
+        "Single-leaf Pinyon Pine",
+        "Joshua Tree (scattered)"
+      ],
+      "common_animals": [
+        "Tule Elk",
+        "Mule Deer",
+        "Desert Kit Fox",
+        "Golden Eagle"
+      ]
+    },
+    "human_demographics_and_culture": "Owens Valley Paiute-Shoshone, Hollywood Western film history (over 400 movies filmed here), and Mount Whitney mountaineering culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Paiute traditions honor the eastern Sierra crest as sacred guardian peaks of spirit waters.",
+      "energetic_and_spiritual_features": "Rounded golden granite arch formations framing 14,505-foot Mount Whitney generate world-class majestic energy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Mobius Arch Loop Trail",
+        "length_miles": 1.2,
+        "difficulty": "Easy",
+        "features": "Natural granite arch framing Mount Whitney, movie location spots"
+      }
+    ],
+    "public_reviews_summary": "World-class views of Mount Whitney, super fast 5G cell internet, and 5 minutes to Lone Pine.",
+    "other_data": "Pack out ALL human waste using WAG bags.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "california-007",
+    "name": "Carrizo Plain National Monument BLM Dispersed Zone",
+    "state": "California",
+    "county": "San Luis Obispo",
+    "coordinates": {
+      "latitude": 35.1812,
+      "longitude": -119.6812,
+      "elevation_ft": 2240.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Bakersfield Field Office",
+      "type": "Federal",
+      "phone": "(661) 391-6000",
+      "website": "https://www.blm.gov/california"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive BLM dispersed camping in designated open ridge zones)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Elkhorn Grade and Caliente Ridge roads outside Soda Lake preserve zone. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Utilize vault toilets at KCL/Selby campgrounds or pack out using WAG bags / bury 6-8 inches deep 200 ft from washes.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring firewood; no wood collecting on grasslands.",
+      "safety_requirements": "Campfire permit required. Campfires permitted in cleared metal rings in open zones. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to BLM Stage 1 & 2 fire bans during dry season."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel and dirt grassland roads",
+      "road_conditions": "Graded gravel main road; dirt roads become impassable clay mud when wet.",
+      "vehicle_recommendation": "Accessible by standard FWD car in dry weather; 4WD required when wet.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 6
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2.5/5 Stars)",
+      "verizon_reliability": "2 bars 4G LTE on Caliente Ridge",
+      "att_reliability": "1-2 bars 4G LTE",
+      "tmobile_reliability": "1 bar 4G LTE",
+      "terrain_obstruction_risk": "Moderate - Caliente Mountain range and San Andreas fault scarps",
+      "distance_from_tower_corridor_miles": 14.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Superbloom Flower Fields (Spring)",
+      "Soda Lake Soda Crust Views",
+      "San Andreas Fault Scarp Views"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 4,
+      "distance_to_library_score": 4,
+      "distance_to_gym_score": 3,
+      "terrain_score": 9,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Taft, CA",
+        "distance_miles": 28.5,
+        "services_available": [
+          "Supermarket",
+          "Gas Station",
+          "Hardware Store",
+          "Hospital",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Atascadero, CA",
+        "distance_miles": 48.0,
+        "services_available": [
+          "Full Urban Amenities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "World-famous wildflower superbloom (March/April) across yellow and purple valley floors.",
+      "summer": "Hot dry valley heat (95-104\u00b0F).",
+      "fall": "Mild dry autumn weather.",
+      "winter": "Cool winter (45-60\u00b0F) with rains turning clay roads to sticky mud."
+    },
+    "dangers_and_hazards": [
+      "Clay Roads Impassable when Wet",
+      "Extreme Remote Isolation",
+      "Rattlesnakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Vast Grassland Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "High altitude commercial flights"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "California Poppy",
+        "Goldfields",
+        "Valley Oak",
+        "Ephedra",
+        "Saltbush"
+      ],
+      "common_animals": [
+        "Pronghorn Antelope",
+        "Tule Elk",
+        "San Joaquin Kit Fox",
+        "Blunt-nosed Leopard Lizard",
+        "Giant Kangaroo Rat"
+      ]
+    },
+    "human_demographics_and_culture": "San Joaquin Valley grassland conservation, Native Chumash rock art, and San Andreas fault geology culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Chumash traditions honor Painted Rock as a sacred ceremonial temple of earth spirits.",
+      "energetic_and_spiritual_features": "Vast carpet of spring wildflowers stretching across the San Andreas fault plain generates profound awe."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Caliente Mountain Ridge Trail",
+        "length_miles": 8.0,
+        "difficulty": "Moderate to Strenuous",
+        "features": "5,106-ft county high point, views of Soda Lake and Temblor range"
+      }
+    ],
+    "public_reviews_summary": "Unreal spring wildflower superblooms and complete quietness on California's last vast valley grassland.",
+    "other_data": "Do not drive on dirt roads during or immediately after rain.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "california-008",
+    "name": "Inyo National Forest Volcanic Tablelands BLM Dispersed Zone",
+    "state": "California",
+    "county": "Mono / Inyo",
+    "coordinates": {
+      "latitude": 37.4125,
+      "longitude": -118.4125,
+      "elevation_ft": 4520.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Bishop Field Office",
+      "type": "Federal",
+      "phone": "(760) 872-5000",
+      "website": "https://www.blm.gov/california"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive BLM dispersed camping; free online CA fire permit required for stoves)",
+      "stay_limit": "14 days maximum stay within a 28-day window",
+      "guidelines": "Dispersed primitive camping allowed along Fish Slough Road and Tablelands dirt roads. Camp on durable surfaces. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Fish Slough wetlands or pack out using WAG bags. Dump station in Bishop.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring firewood; no collecting down wood on tablelands.",
+      "safety_requirements": "CA Fire Permit required. Campfires permitted in cleared metal or stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to BLM Stage 1 & 2 fire bans during dry season."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel and dirt volcanic tuff roads",
+      "road_conditions": "Graded gravel access roads; smooth sandy dirt pullouts among volcanic rocks.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car, camper vans, and rigs.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4-5 bars 5G",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "4 bars 5G",
+      "terrain_obstruction_risk": "Low - elevated volcanic tuff plateau overlooking Owens Valley",
+      "distance_from_tower_corridor_miles": 2.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Sierra Nevada & White Mountain Vistas",
+      "Volcanic Tuff Bouldering",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 7,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Bishop, CA",
+        "distance_miles": 6.2,
+        "services_available": [
+          "Supermarkets",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Outfitters",
+          "Bakery & Dining"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Ideal spring weather (68-78\u00b0F) with snowcapped Sierra peaks.",
+      "summer": "Hot high desert summer (92-100\u00b0F).",
+      "fall": "Crisp autumn weather with golden bishop tufa reflections.",
+      "winter": "Cool winter (42-55\u00b0F) with cold night temps (25\u00b0F)."
+    },
+    "dangers_and_hazards": [
+      "High Desert Sun & Heat",
+      "Rattlesnakes",
+      "Sudden Windstorms"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Volcanic Plateau Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Distant US-395 traffic hum",
+        "Occasional boulderer car"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Big Sagebrush",
+        "Bitterbrush",
+        "Single-leaf Pinyon Pine",
+        "Desert Peach"
+      ],
+      "common_animals": [
+        "Owens Valley Tule Elk",
+        "Mule Deer",
+        "Chukar",
+        "Golden Eagle"
+      ]
+    },
+    "human_demographics_and_culture": "Eastern Sierra Bishop climbing, bouldering, Owens Valley Paiute petroglyph, and outdoor recreation culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Paiute history honors the Volcanic Tablelands and Fish Slough petroglyphs as sacred ceremonial rock art sites.",
+      "energetic_and_spiritual_features": "360-degree views bounded by 14,000-foot Sierra Nevada and White Mountain ranges generate sublime clarity."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Happy Boulders & Fish Slough Petroglyph Trail",
+        "length_miles": 3.5,
+        "difficulty": "Easy to Moderate",
+        "features": "Volcanic tuff bouldering canyons, ancient Native petroglyphs, wetland birdwatching"
+      }
+    ],
+    "public_reviews_summary": "Incredible volcanic climbing landscape, blazing fast 5G cell internet, and 10 minutes to Bishop's famous bakery.",
+    "other_data": "Respect protected petroglyph rock art sites (do not touch rock art).",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "california-009",
+    "name": "Sierra National Forest Black Rock Primitive Dispersed Zone",
+    "state": "California",
+    "county": "Fresno",
+    "coordinates": {
+      "latitude": 36.9125,
+      "longitude": -119.0142,
+      "elevation_ft": 4120.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Sierra National Forest (High Sierra Ranger District)",
+      "type": "Federal",
+      "phone": "(559) 855-5355",
+      "website": "https://www.fs.usda.gov/sierra"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed forest camping; free CA fire permit required for stoves)",
+      "stay_limit": "14 days maximum stay within a 30-day window",
+      "guidelines": "Dispersed primitive camping allowed along Black Rock Road (FR 11S12) outside developed fee sites. Camp 100 ft from Kings River. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Kings River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "CA Fire Permit required. Campfires permitted in cleared stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS dry season burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved mountain road to gravel forest service roads",
+      "road_conditions": "Paved scenic access road to gravel forest turnouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car in dry weather.",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2.5/5 Stars)",
+      "verizon_reliability": "2 bars 4G LTE on high granite ridge points",
+      "att_reliability": "2 bars 4G LTE",
+      "tmobile_reliability": "1 bar 4G LTE",
+      "terrain_obstruction_risk": "High - Kings River canyon walls and massive ponderosa pine canopy",
+      "distance_from_tower_corridor_miles": 8.5,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Kings River Whitewater Access",
+      "Giant Pine Canopy",
+      "Primitive Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Prather, CA",
+        "distance_miles": 18.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Fresno, CA",
+        "distance_miles": 48.0,
+        "services_available": [
+          "International Airport",
+          "Major Supercenters",
+          "Hospitals",
+          "Full Urban Amenities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush Sierra greening with roaring Kings River whitewater.",
+      "summer": "Warm mountain summer (82-90\u00b0F); river swimming and pine shade.",
+      "fall": "Crisp autumn weather with golden black oak leaves.",
+      "winter": "Cold mountain winter (30-45\u00b0F) with light snow pack."
+    },
+    "dangers_and_hazards": [
+      "Black Bears (Bear food storage required)",
+      "Rushing Kings River Currents",
+      "Rattlesnakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Sierra River Canyon Audio (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Occasional forest road car",
+        "High altitude aircraft"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Ponderosa Pine",
+        "Incense Cedar",
+        "California Black Oak",
+        "White Fir"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "Mule Deer",
+        "Mountain Lion",
+        "California Quail"
+      ]
+    },
+    "human_demographics_and_culture": "Western Sierra Nevada mountain logging, Kings Canyon national park gateway, and whitewater kayaking culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Western Mono (Monache) traditions honor the Kings River canyon as sacred spirit river grounds.",
+      "energetic_and_spiritual_features": "Giant incense cedar trees and rushing mountain waters produce a restorative pine-scented sanctuary."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Kings River National Recreation Trail",
+        "length_miles": 6.0,
+        "difficulty": "Moderate",
+        "features": "Whitewater canyon views, oak woodlands, spring wildflower blooms"
+      }
+    ],
+    "public_reviews_summary": "Peaceful pine forest camping near Kings Canyon with cool river swims and zero cost.",
+    "other_data": "Store food in bear canisters or vehicle trunks.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "california-010",
+    "name": "Shasta-Trinity National Forest McCloud River Primitive Zone",
+    "state": "California",
+    "county": "Siskiyou",
+    "coordinates": {
+      "latitude": 41.2148,
+      "longitude": -122.1214,
+      "elevation_ft": 3120.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Shasta-Trinity National Forest (McCloud Ranger District)",
+      "type": "Federal",
+      "phone": "(530) 964-2184",
+      "website": "https://www.fs.usda.gov/stnf"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed forest camping)",
+      "stay_limit": "14 days maximum stay within a 30-day window",
+      "guidelines": "Dispersed primitive camping allowed along McCloud River Loop forest service roads outside developed day-use waterfall loops. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from McCloud River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "CA Fire Permit required. Campfires permitted in cleared stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS dry summer fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway to gravel forest service roads",
+      "road_conditions": "Paved access roads to smooth gravel river turnouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Good (3/5 Stars)",
+      "verizon_reliability": "3 bars 4G LTE",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate - Mount Shasta volcanic foothills and tall fir forest",
+      "distance_from_tower_corridor_miles": 5.2,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "14,179-ft Mount Shasta Views",
+      "Turquoise River Falls Access",
+      "Douglas Fir Canopy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "McCloud, CA",
+        "distance_miles": 7.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Mount Shasta, CA",
+        "distance_miles": 18.0,
+        "services_available": [
+          "Supermarket",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Outfitters"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Rushing glacial river melt and blooming mountain dogwood.",
+      "summer": "Pleasant summer weather (78-86\u00b0F) with cool river swimming.",
+      "fall": "Vibrant autumn foliage reflections on river pools.",
+      "winter": "Cold mountain winter (25-40\u00b0F) with snowpack; Mount Shasta ski area nearby."
+    },
+    "dangers_and_hazards": [
+      "Black Bears",
+      "Cold Glacial River Whitewater",
+      "High Wildfire Risk in Late Summer"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Turquoise River Audio (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Occasional forest road car",
+        "High altitude aircraft"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Douglas Fir",
+        "Ponderosa Pine",
+        "Incense Cedar",
+        "Pacific Dogwood"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "Mule Deer",
+        "Redband Trout",
+        "Bald Eagle"
+      ]
+    },
+    "human_demographics_and_culture": "Northern California Shasta mountain timber, trout fishing, and Mount Shasta spiritual tourism culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Wintu and Pit River traditions honor Mount Shasta and the McCloud River as sacred sources of life water.",
+      "energetic_and_spiritual_features": "Turquoise river pools under 14,179-foot Mount Shasta generate world-class uplifting spiritual energy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "McCloud River Falls Trail",
+        "length_miles": 3.8,
+        "difficulty": "Easy to Moderate",
+        "features": "Lower, Middle, and Upper McCloud waterfalls, volcanic basalt canyon, turquoise pools"
+      }
+    ],
+    "public_reviews_summary": "Gorgeous turquoise waterfall river camping under Mount Shasta with easy access and decent cell service.",
+    "other_data": "Filter river water and store food in bear canisters.",
+    "last_updated": "2026-09-12"
+  }
+]

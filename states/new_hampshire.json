@@ -1,0 +1,1279 @@
+[
+  {
+    "id": "nh-white-mountain-kilkenny-york-pond",
+    "name": "York Pond Dispersed Primitive Camping Area - White Mountain National Forest",
+    "state": "New Hampshire",
+    "county": "Coos County",
+    "coordinates": {
+      "latitude": 44.5214,
+      "longitude": -71.3218,
+      "elevation_ft": 1480
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Androscoggin Ranger District",
+      "type": "USFS",
+      "phone": "(603) 466-2713",
+      "website": "https://www.fs.usda.gov/whitemountain"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for general dispersed primitive camping",
+      "stay_limit": "14 consecutive days max stay limit",
+      "guidelines": "Dispersed primitive camping permitted on national forest lands at least 200 feet from roads, trails, and water bodies. Prohibited within Forest Protection Areas."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6-8 inches deep in organic soil, at least 200 feet from York Pond and streams. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace. Black bears active in White Mountains: bear canister or hard-sided vehicle food storage mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only.",
+      "safety_requirements": "Campfires in established rock fire rings only. Extinguish cold to touch.",
+      "seasonal_fire_bans": "Obey New Hampshire Division of Forests and Lands burn danger warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state road changing to unpaved gravel forest service road (York Pond Road / FS 13)",
+      "road_conditions": "Winding gravel forest road with frost heaves and washboards.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (accessible along main York Pond Road gravel turnouts in dry weather)",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate",
+      "verizon_reliability": "2-3 bars 4G LTE (10-25 Mbps download)",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate (Kilkenny Ridge mountain peaks obstruct line of sight)",
+      "distance_from_tower_corridor_miles": 5.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Glacial Pond Water Access (Filter required)",
+      "Kilkenny Ridge Wilderness Access",
+      "Established Rock Fire Rings",
+      "Shaded Birch & Spruce Canopy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Berlin, NH",
+        "distance_miles": 12.5,
+        "services_available": [
+          "Walmart Supercenter",
+          "Gas Stations",
+          "Pharmacy",
+          "Berlin Public Library",
+          "Androscoggin Valley Hospital"
+        ]
+      },
+      {
+        "town_name": "Gorham, NH",
+        "distance_miles": 18.0,
+        "services_available": [
+          "Supermarkets",
+          "Outdoor Gear Outfitters",
+          "Restaurants",
+          "Full Services"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "May thaw: cool (40-55°F), high blackfly season (June), lingering snowmelt.",
+      "summer": "70-80°F, pleasant mountain climate, cool nights (50-55°F).",
+      "fall": "Spectacular New England autumn foliage (50-65°F daytime, 25-35°F nights), prime camping.",
+      "winter": "Severe northern winter (10-25°F), heavy snowpack, York Pond Road unplowed past Fish Hatchery."
+    },
+    "dangers_and_hazards": [
+      "Black Bears active in WMNF - bear-proof food storage mandatory",
+      "Moose collision hazard on York Pond Road",
+      "Blackflies and mosquitoes in late spring/early summer"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Forest and pond quiet",
+      "common_human_made_sounds": [
+        "Infrequent visitor car heading to York Pond Fish Hatchery",
+        "High commercial aircraft contrails"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Paper Birch",
+        "Yellow Birch",
+        "Sugar Maple",
+        "Balsam Fir",
+        "Red Spruce"
+      ],
+      "common_animals": [
+        "Moose",
+        "Black Bear",
+        "White-tailed Deer",
+        "Common Loon",
+        "Fisher (Pekania pennanti)"
+      ]
+    },
+    "human_demographics_and_culture": "Kilkenny Ridge backpackers, fly anglers, autumn leaf peepers, digital nomads, and wildlife photographers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Pennacook and Abenaki indigenous traditions revere the Northern White Mountains as sacred realms of the sky spirits and ancestral mountain guardians.",
+      "energetic_and_spiritual_features": "Glacial pond energy, deep northern hardwood forest peace, crystal-clear night skies."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Kilkenny Ridge Trail to Mount Cabot",
+        "length_miles": 9.5,
+        "difficulty": "Strenuous",
+        "features": "Ascent of 4,000-foot peak, historic fire tower cabin, northern mountain vistas"
+      }
+    ],
+    "public_reviews_summary": "Extremely peaceful free primitive camping spot in Northern New Hampshire. Beautiful birch forests, quiet ponds, and solid cell coverage.",
+    "other_data": "Bortle Class 2 night sky. Abundant deadwood.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "nh-pemigewasset-wilderness-white-mountain-nf",
+    "name": "Pemigewasset Wilderness Dispersed Primitive Camping",
+    "state": "New Hampshire",
+    "county": "Grafton County",
+    "coordinates": {
+      "latitude": 44.1412,
+      "longitude": -71.5812,
+      "elevation_ft": 2150
+    },
+    "management_agency": {
+      "name": "US Forest Service - White Mountain National Forest (Pemigewasset Ranger District)",
+      "type": "USFS",
+      "phone": "(603) 536-5400",
+      "website": "https://www.fs.usda.gov/whitemountain"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - WMNF Wilderness Dispersed Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed wilderness camping permitted at least 200ft from trails and water streams throughout Pemigewasset Wilderness and Tripoli Road primitive corridors."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in organic soil 200 feet from East Branch Pemigewasset River. Pack out hygiene products.",
+      "trash_policy": "Strict Leave No Trace wilderness rules."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on forest lands.",
+      "safety_requirements": "Campfires in established rock rings using dead wood only. Douse thoroughly with water before leaving.",
+      "seasonal_fire_bans": "Spring leaf dry weather fire restrictions."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved Kancamagus Highway (NH 112) to gravel Forest Roads (Tripoli Road)",
+      "road_conditions": "Paved scenic highway main access, graded gravel forest roads.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance vehicles.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate / High Mountain Pass Signal",
+      "verizon_reliability": "3-4 bars 4G LTE near Lincoln / Interstate 93 corridor",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate inside deep glacial notch valleys",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Pristine White Mountain Alpine Stream Campsites",
+      "Granite Peak Overlook Views",
+      "Pemigewasset River Water Source (Filter mandatory)",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Lincoln / Woodstock, NH",
+        "distance_miles": 8.0,
+        "services_available": [
+          "Price Chopper Supermarket",
+          "Gas Stations",
+          "Lincoln Public Library",
+          "Outfitters",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Plymouth, NH",
+        "distance_miles": 18.0,
+        "services_available": [
+          "Full Metro Services",
+          "Speare Memorial Hospital",
+          "24/7 Gyms",
+          "Hardware Stores"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "40-55°F, roaring alpine snowmelt cascades, cool mountain air.",
+      "summer": "68-80°F, prime White Mountain summer hiking weather, clear mountain streams.",
+      "fall": "42-62°F, world-famous New Hampshire autumn foliage.",
+      "winter": "10-25°F, heavy alpine snowpack, winter mountaineering and ice climbing."
+    },
+    "dangers_and_hazards": [
+      "Sudden alpine weather shifts in White Mountains",
+      "Black bears in WMNF (bear hang or canister mandatory for food storage)",
+      "Slick granite rock stream crossings"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Rushing mountain stream and forest wind",
+      "common_human_made_sounds": [
+        "Occasional mountain hiker on trail"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Balsam Fir",
+        "Paper Birch",
+        "Red Spruce",
+        "Sugar Maple",
+        "Hobblebush"
+      ],
+      "common_animals": [
+        "Moose",
+        "Black Bear",
+        "White-tailed Deer",
+        "Bicknell's Thrush",
+        "Brook Trout"
+      ]
+    },
+    "human_demographics_and_culture": "Abenaki ancestral lands, White Mountain 4,000-foot peak baggers, AT backpackers, digital nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Abenaki territory honoring the sacred mountain notches and spirit realms of the White Mountains.",
+      "energetic_and_spiritual_features": "Exhilarating granite peak energy, crystal clear mountain cascade waters."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Lincoln Woods Trail / Pemigewasset Wilderness",
+        "length_miles": 9.5,
+        "difficulty": "Moderate",
+        "features": "Historic logging railroad grade, suspension footbridges, roaring river pools"
+      }
+    ],
+    "public_reviews_summary": "Spectacular free wilderness camping in New Hampshire's White Mountains. Fast cell internet near Lincoln, crystal clear streams, and easy access to 4,000ft peaks.",
+    "other_data": "White Mountain National Forest. Free dispersed wilderness camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "nh-kilkenny-loop-white-mountain-nf",
+    "name": "Kilkenny Loop Dispersed Primitive Camping",
+    "state": "New Hampshire",
+    "county": "Coos County",
+    "coordinates": {
+      "latitude": 44.4812,
+      "longitude": -71.3812,
+      "elevation_ft": 1850
+    },
+    "management_agency": {
+      "name": "US Forest Service - White Mountain National Forest (Androscoggin Ranger District)",
+      "type": "USFS",
+      "phone": "(603) 466-2713",
+      "website": "https://www.fs.usda.gov/whitemountain"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - WMNF Wilderness Dispersed Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed wilderness camping permitted at least 200ft from trails and water streams along Kilkenny Ridge Trail corridor."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in organic soil 200 feet from streams. Pack out hygiene products.",
+      "trash_policy": "Strict Leave No Trace wilderness policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on forest lands.",
+      "safety_requirements": "Campfires in established rock rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Spring leaf dry weather fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved US 2 to gravel Forest Service roads (York Pond Road)",
+      "road_conditions": "Graded gravel access roads, flat trailhead parking.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Berlin-Gorham Tower Line",
+      "verizon_reliability": "3-4 bars 4G LTE near York Pond trailhead",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate across northern White Mountain slopes",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "White Mountain High Wilderness Ridge Campsites",
+      "York Pond & Brook Water Source (Filter mandatory)",
+      "Paper Birch Canopy Shade",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Berlin / Gorham, NH",
+        "distance_miles": 10.0,
+        "services_available": [
+          "Walmart Supercenter / Shaw's",
+          "Gas Stations",
+          "Berlin Public Library",
+          "Hospital",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "40-55°F, spring stream snowmelt, greening birch forest.",
+      "summer": "68-80°F, ideal White Mountain summer hiking weather.",
+      "fall": "42-62°F, world-famous northern New Hampshire autumn foliage.",
+      "winter": "10-25°F, heavy alpine snowpack, winter woods snowshoeing."
+    },
+    "dangers_and_hazards": [
+      "Black bears in WMNF (bear hang or canister mandatory)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Mountain stream flow and forest wind",
+      "common_human_made_sounds": [
+        "Occasional backpacker on trail"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Paper Birch",
+        "Balsam Fir",
+        "Red Spruce",
+        "Sugar Maple"
+      ],
+      "common_animals": [
+        "Moose",
+        "Black Bear",
+        "White-tailed Deer",
+        "Bicknell's Thrush"
+      ]
+    },
+    "human_demographics_and_culture": "Abenaki ancestral lands, White Mountain woodsmen, backpackers, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Abenaki territory honoring the sacred northern mountain ridges and quiet trout ponds of Coos County.",
+      "energetic_and_spiritual_features": "Relaxing northern birch forest quietness, pristine mountain stream water."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Kilkenny Ridge Trail",
+        "length_miles": 9.0,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Unknown Pond, Mount Cabot summit, paper birch ridges"
+      }
+    ],
+    "public_reviews_summary": "Spectacular free wilderness primitive camping in New Hampshire's northern White Mountains. Clear trout ponds, fast cell internet near Berlin, and 100% free USFS access.",
+    "other_data": "White Mountain National Forest. Free dispersed wilderness camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "new_hampshire-004",
+    "name": "Kilkenny Loop Dispersed Primitive Zone - White Mountain National Forest",
+    "state": "New Hampshire",
+    "county": "Coos",
+    "coordinates": {
+      "latitude": 44.5125,
+      "longitude": -71.4125,
+      "elevation_ft": 1940.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - White Mountain National Forest (Androscoggin Ranger District)",
+      "type": "Federal",
+      "phone": "(603) 466-2713",
+      "website": "https://www.fs.usda.gov/whitemountain"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive wilderness dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive backcountry camping allowed outside Forest Protection Areas (200 ft from roads and water, 1/4 mile from huts). Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep in cat-holes 200 feet from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather small dead and down wood locally.",
+      "safety_requirements": "Campfires allowed in cleared rock rings outside restricted zones. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS dry weather fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest service roads",
+      "road_conditions": "Graded gravel roads to trailhead parking lots; hike required for backcountry spots.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2/5 Stars)",
+      "verizon_reliability": "1-2 bars 4G LTE on high ridges",
+      "att_reliability": "1 bar 4G LTE",
+      "tmobile_reliability": "No signal in valleys",
+      "terrain_obstruction_risk": "High - White Mountain northern peaks and dense spruce canopy",
+      "distance_from_tower_corridor_miles": 12.4,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "White Mountain Alpine Views",
+      "Glacial Stream Water Access",
+      "Primitive Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Lancaster, NH",
+        "distance_miles": 12.8,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Local Dining"
+        ]
+      },
+      {
+        "town_name": "Berlin, NH",
+        "distance_miles": 18.5,
+        "services_available": [
+          "Supermarket",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Mud season in May; rushing mountain stream thaw.",
+      "summer": "Cool White Mountain summer (70-78°F), escaping coastal heat.",
+      "fall": "World-famous northern New England autumn leaf display.",
+      "winter": "Severe winter weather (-10 to 15°F); snowshoes required."
+    },
+    "dangers_and_hazards": [
+      "Black Bears (Bear canister recommended)",
+      "Hypothermia Risk from Sudden Mountain Weather Shifts",
+      "Icy Mountain Trails"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Deep Mountain Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "High altitude commercial flights"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Red Spruce",
+        "Balsam Fir",
+        "Paper Birch",
+        "Sugar Maple"
+      ],
+      "common_animals": [
+        "Moose",
+        "Black Bear",
+        "Lynx",
+        "Boreal Chickadee",
+        "Peregrine Falcon"
+      ]
+    },
+    "human_demographics_and_culture": "Northern New Hampshire timber, logging, and White Mountain hiking tradition.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Abenaki traditions honor the high northern White Mountain peaks as realms of wind and mountain spirits.",
+      "energetic_and_spiritual_features": "Glacial valleys and spruce ridges radiate a serene, majestic silence."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Kilkenny Ridge Trail to Mount Cabot",
+        "length_miles": 11.2,
+        "difficulty": "Strenuous",
+        "features": "4,000-ft northern White Mountain peak, historic fire tower, boreal spruce forest"
+      }
+    ],
+    "public_reviews_summary": "Peaceful northern White Mountains wilderness far from southern tourist crowds with amazing moose watching.",
+    "other_data": "Obey White Mountain National Forest backcountry rules.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "new_hampshire-005",
+    "name": "Nash Stream Forest Dispersed Primitive Zone",
+    "state": "New Hampshire",
+    "county": "Coos",
+    "coordinates": {
+      "latitude": 44.6812,
+      "longitude": -71.4512,
+      "elevation_ft": 1450.0
+    },
+    "management_agency": {
+      "name": "New Hampshire Division of Forests and Lands",
+      "type": "State",
+      "phone": "(603) 271-2214",
+      "website": "https://www.nh.gov/nhdfl/"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state forest camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Nash Stream Road pullouts. Camp at least 100 feet from stream. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from Nash Stream. Pack out paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared ground rings. Douse cold.",
+      "seasonal_fire_bans": "Subject to NH state dry weather fire restrictions."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest service road (Nash Stream Road)",
+      "road_conditions": "Graded gravel road with pullout turnouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2/5 Stars)",
+      "verizon_reliability": "1-2 bars 4G LTE spotty",
+      "att_reliability": "1 bar 4G LTE",
+      "tmobile_reliability": "No signal",
+      "terrain_obstruction_risk": "Moderate - North Country mountain valley",
+      "distance_from_tower_corridor_miles": 14.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Nash Stream Trout Access",
+      "Percy Peaks Views",
+      "Primitive Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 8,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Groveton, NH",
+        "distance_miles": 10.2,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Colebrook, NH",
+        "distance_miles": 26.5,
+        "services_available": [
+          "Supermarket",
+          "Hospital",
+          "Public Library",
+          "Border Town Amenities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Spring snowmelt thaws Nash Stream; cool woods air.",
+      "summer": "Pleasant summer weather (72-80°F) with cool mountain streams.",
+      "fall": "Brilliant autumn foliage across North Country hills.",
+      "winter": "Cold winter (-5 to 20°F); snowmobile trail hub."
+    },
+    "dangers_and_hazards": [
+      "Moose on Forest Roads",
+      "Black Bears",
+      "Cold Night Temperatures"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "North Country Quiet (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Occasional passing logging or angler truck"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Paper Birch",
+        "Sugar Maple",
+        "Red Spruce",
+        "Balsam Fir"
+      ],
+      "common_animals": [
+        "Moose",
+        "White-tailed Deer",
+        "Brook Trout",
+        "Black Bear"
+      ]
+    },
+    "human_demographics_and_culture": "New Hampshire North Country timber, fly fishing, and moose hunting culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Abenaki history honors Nash Stream valley as an ancient river fishing and hunting corridor.",
+      "energetic_and_spiritual_features": "Quiet mountain stream water against granite Percy Peaks fosters deep peace."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Percy Peaks Trail (Cohos Trail Section)",
+        "length_miles": 4.5,
+        "difficulty": "Strenuous",
+        "features": "Granite dome summits, 360-degree North Country views, boreal forest"
+      }
+    ],
+    "public_reviews_summary": "Extremely peaceful free state forest camping along a pristine trout stream under Percy Peaks.",
+    "other_data": "Filter all water taken from Nash Stream.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "new_hampshire-006",
+    "name": "White Mountain NF Wild River Wilderness Dispersed Area",
+    "state": "New Hampshire",
+    "county": "Coos",
+    "coordinates": {
+      "latitude": 44.2812,
+      "longitude": -71.0812,
+      "elevation_ft": 1250.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - White Mountain National Forest (Androscoggin District)",
+      "type": "Federal",
+      "phone": "(603) 466-2713",
+      "website": "https://www.fs.usda.gov/whitemountain"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS wilderness dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed throughout 24,000-acre Wild River Wilderness 200 ft from trails and Wild River water. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Wild River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route to unpaved Wild River gravel road",
+      "road_conditions": "Paved route access; smooth gravel forest road to trailhead parking.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open river valley",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Wild River Shoreline Access",
+      "Spruce-Hardwood Canopy",
+      "Wild River Trail Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Gorham, NH",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Outfitters",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "High water spring paddle/hike (48-62°F).",
+      "summer": "Pleasant summer (72-80°F) with river swimming.",
+      "fall": "World-famous White Mountain autumn foliage.",
+      "winter": "Cold snowy winter (10-25°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Area",
+      "Stream Crossing Water Hazards"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Wild River Wilderness Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Wild River rushing water",
+        "Wind through red spruce"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Red Spruce",
+        "Balsam Fir",
+        "Paper Birch",
+        "Sugar Maple"
+      ],
+      "common_animals": [
+        "Moose",
+        "Black Bear",
+        "Native Brook Trout",
+        "White-tailed Deer"
+      ]
+    },
+    "human_demographics_and_culture": "Abenaki ancestral lands and White Mountains timber and logging railroad history.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Wild River Valley is one of the most secluded and pristine glacial river basins in the White Mountains.",
+      "energetic_and_spiritual_features": "Crystal clear mountain trout stream running through ancient hemlock and spruce forests."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Wild River Trail",
+        "length_miles": 5.0,
+        "difficulty": "Moderate",
+        "features": "Riverbank walk, wilderness waterfalls, spruce forest"
+      }
+    ],
+    "public_reviews_summary": "Top-tier mountain river wilderness basecamp near Gorham with solid cell service.",
+    "other_data": "Great spring trout fishing.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "new_hampshire-007",
+    "name": "White Mountain NF Sandwich Range Wilderness Zone",
+    "state": "New Hampshire",
+    "county": "Carroll",
+    "coordinates": {
+      "latitude": 43.9112,
+      "longitude": -71.3412,
+      "elevation_ft": 1650.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - White Mountain National Forest (Saco District)",
+      "type": "Federal",
+      "phone": "(603) 447-5448",
+      "website": "https://www.fs.usda.gov/whitemountain"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS wilderness dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed throughout 35,000-acre Sandwich Range Wilderness 200 ft from trails and water. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Swift River tributaries. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved Kancamagus Highway (NH 112) to gravel trailhead parking",
+      "road_conditions": "Paved scenic highway access; smooth gravel trailhead turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - valley line of sight",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Kancamagus Scenic Highway Access",
+      "Mount Passaconaway Overlooks",
+      "Hardwood-Birch Canopy",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Albany, NH",
+        "distance_miles": 8.0,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush mountain spring (50-64°F).",
+      "summer": "Pleasant cool summer (72-80°F).",
+      "fall": "World-famous Kancamagus Highway foliage.",
+      "winter": "Cold snowy winter (12-28°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Area",
+      "Rapid Mountain Weather Changes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Sandwich Range Wilderness Quiet (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Wind through paper birch",
+        "Swift River water murmur"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Paper Birch",
+        "Sugar Maple",
+        "Yellow Birch",
+        "Balsam Fir"
+      ],
+      "common_animals": [
+        "Moose",
+        "Black Bear",
+        "White-tailed Deer",
+        "Broad-winged Hawk"
+      ]
+    },
+    "human_demographics_and_culture": "Abenaki ancestral lands and White Mountains Kancamagus scenic highway heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Sandwich Range preserves rugged alpine peaks including 4,000-foot Mount Passaconaway named for Chief Passaconaway.",
+      "energetic_and_spiritual_features": "Vast mountain wilderness hollows illuminated by golden autumn sunlight."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Passaconaway Cutoff Trail",
+        "length_miles": 4.2,
+        "difficulty": "Moderate to Advanced",
+        "features": "Hardwood forest walk, mountain stream crossings, peak overlooks"
+      }
+    ],
+    "public_reviews_summary": "Incredible wilderness basecamp along the Kancamagus Highway near Albany with great cell service.",
+    "other_data": "Located off Kancamagus Highway.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "new_hampshire-008",
+    "name": "White Mountain NF Great Gulf Wilderness Trailside Area",
+    "state": "New Hampshire",
+    "county": "Coos",
+    "coordinates": {
+      "latitude": 44.3112,
+      "longitude": -71.2812,
+      "elevation_ft": 1700.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - White Mountain National Forest (Androscoggin District)",
+      "type": "Federal",
+      "phone": "(603) 466-2713",
+      "website": "https://www.fs.usda.gov/whitemountain"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS wilderness dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed in 5,500-acre Great Gulf Wilderness 200 ft from trails and Peabody River. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from West Branch Peabody River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved NH Route 16 to trailhead parking",
+      "road_conditions": "Paved state highway access; smooth trailhead parking turnout.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open valley line of sight to Gorham tower",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Mount Washington Glacial Cirque Views",
+      "West Branch Peabody River Access",
+      "Old-Growth Spruce Canopy",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Gorham, NH",
+        "distance_miles": 6.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Outfitters",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Rushing glacial melt spring (46-60°F).",
+      "summer": "Pleasant cool summer (70-78°F).",
+      "fall": "Spectacular Presidential Range foliage.",
+      "winter": "Cold arctic winter (5-20°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Area",
+      "Extreme Mountain Weather"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Great Gulf Wilderness Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Peabody River rushing water",
+        "Wind through red spruce"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Red Spruce",
+        "Balsam Fir",
+        "Paper Birch",
+        "Mountain Ash"
+      ],
+      "common_animals": [
+        "Moose",
+        "Black Bear",
+        "Pine Marten",
+        "Bicknell's Thrush"
+      ]
+    },
+    "human_demographics_and_culture": "Abenaki ancestral lands and Presidential Range mountain climbing history.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Great Gulf is New Hampshire's oldest designated wilderness area (1959), a dramatic glacial cirque carved into Mount Washington's east face.",
+      "energetic_and_spiritual_features": "Towering 1,500-foot glacial ravine walls towering above crystalline trout streams."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Great Gulf Trail",
+        "length_miles": 4.5,
+        "difficulty": "Moderate to Advanced",
+        "features": "Glacial ravine walk, Mount Washington views, rushing mountain river"
+      }
+    ],
+    "public_reviews_summary": "Stunning glacial ravine basecamp at Mount Washington's base with dependable cell coverage.",
+    "other_data": "NH's oldest wilderness area.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "new_hampshire-009",
+    "name": "Nash Stream State Forest Primitive Dispersed Zone",
+    "state": "New Hampshire",
+    "county": "Coos",
+    "coordinates": {
+      "latitude": 44.6812,
+      "longitude": -71.4112,
+      "elevation_ft": 1400.0
+    },
+    "management_agency": {
+      "name": "New Hampshire Division of Forests and Lands",
+      "type": "State",
+      "phone": "(603) 271-2214",
+      "website": "https://www.nh.gov/nhdncr/forests"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state forest dispersed camping)",
+      "stay_limit": "7 consecutive nights max limit",
+      "guidelines": "Dispersed primitive camping allowed throughout 40,000-acre Nash Stream Forest pullouts. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Nash Stream. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to state dry season fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route to unpaved gravel forest road",
+      "road_conditions": "Paved route access; smooth gravel interior forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open valley corridor",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Nash Stream Shoreline Access",
+      "Percy Peaks Mountain Overlooks",
+      "Boreal Forest Canopy",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Stark, NH",
+        "distance_miles": 6.0,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "Historic Covered Bridge",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Fresh North Country spring (46-60°F).",
+      "summer": "Pleasant cool summer (72-78°F).",
+      "fall": "Spectacular northern New Hampshire foliage.",
+      "winter": "Cold snowy winter (8-24°F)."
+    },
+    "dangers_and_hazards": [
+      "Moose on Forest Roads",
+      "Black Bear Area"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "North Country Forest Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Nash Stream rushing water",
+        "Wind through red spruce"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Sugar Maple",
+        "Yellow Birch",
+        "Red Spruce",
+        "Balsam Fir"
+      ],
+      "common_animals": [
+        "Moose",
+        "Black Bear",
+        "Native Brook Trout",
+        "Lynx (Rare)"
+      ]
+    },
+    "human_demographics_and_culture": "Abenaki ancestral lands and Stark North Country covered bridge and timber heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Nash Stream Forest protects 40,000 continuous acres of wild northern New Hampshire watershed.",
+      "energetic_and_spiritual_features": "Dramatic views of the iconic Percy Peaks twin granite domes."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Percy Peaks Trail",
+        "length_miles": 4.0,
+        "difficulty": "Advanced",
+        "features": "Twin granite peak summits, 360-degree North Country panoramas"
+      }
+    ],
+    "public_reviews_summary": "Peaceful North Country mountain basecamp near Stark with strong 4G cell service.",
+    "other_data": "Stark historic covered bridge nearby.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "new_hampshire-010",
+    "name": "White Mountain NF Gale River Trail Dispersed Area",
+    "state": "New Hampshire",
+    "county": "Grafton",
+    "coordinates": {
+      "latitude": 44.2112,
+      "longitude": -71.6112,
+      "elevation_ft": 1550.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - White Mountain National Forest (Pemigewasset District)",
+      "type": "Federal",
+      "phone": "(603) 536-6131",
+      "website": "https://www.fs.usda.gov/whitemountain"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Gale River Road (FS 92) pullouts 200 ft from trails and river. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Gale River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved US Route 3 to gravel Gale River Forest Road",
+      "road_conditions": "Paved highway access; smooth gravel forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open valley corridor",
+      "distance_from_tower_corridor_miles": 3.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Gale River Shoreline Access",
+      "Franconia Ridge Views",
+      "Sugar Maple Canopy",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Bethlehem, NH",
+        "distance_miles": 5.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Cafes",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush mountain spring (48-62°F).",
+      "summer": "Pleasant cool summer (72-80°F).",
+      "fall": "World-famous Franconia Notch autumn foliage.",
+      "winter": "Cold snowy winter (12-28°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Area",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Franconia Valley Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Gale River water murmur",
+        "Wind through maples"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Sugar Maple",
+        "Yellow Birch",
+        "Paper Birch",
+        "Red Spruce"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Moose",
+        "Black Bear",
+        "Native Brook Trout"
+      ]
+    },
+    "human_demographics_and_culture": "Abenaki ancestral lands and Franconia Notch mountain tourism heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Gale River valley sits at the northern foot of the famous Franconia Mountain Range.",
+      "energetic_and_spiritual_features": "Quiet forest glades along rushing mountain trout waters."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Gale River Trail",
+        "length_miles": 4.2,
+        "difficulty": "Moderate",
+        "features": "Riverbank walk, Franconia ridge overlooks, maple-birch forest"
+      }
+    ],
+    "public_reviews_summary": "Awesome White Mountains valley basecamp near Bethlehem with strong cell service.",
+    "other_data": "Close to Franconia Notch State Park.",
+    "last_updated": "2026-09-12"
+  }
+]

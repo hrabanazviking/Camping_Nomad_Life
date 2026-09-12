@@ -1,0 +1,1286 @@
+[
+  {
+    "id": "ny-adirondack-moose-river-plains",
+    "name": "Moose River Plains Wild Forest Free Primitive Camping - Adirondack Park",
+    "state": "New York",
+    "county": "Hamilton County / Herkimer County",
+    "coordinates": {
+      "latitude": 43.6812,
+      "longitude": -74.7814,
+      "elevation_ft": 1850
+    },
+    "management_agency": {
+      "name": "New York State Department of Environmental Conservation (NYS DEC) - Region 5",
+      "type": "State DEC",
+      "phone": "(518) 897-1200",
+      "website": "https://www.dec.ny.gov/lands/5359.html"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for stays under 3 nights (Free DEC permit required for stays 4-14 nights)",
+      "stay_limit": "14 consecutive days max stay limit",
+      "guidelines": "Dispersed primitive camping permitted at 140+ roadside designated primitive sites marked with yellow campsite disks along Limekiln Lake-Cedar River Road corridor."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Use on-site privy where available; otherwise dig cat-hole 6-8 inches deep in forest soil, at least 150 feet from streams and ponds. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out. Black bears present: DEC-approved bear canister or vehicle storage mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only within the forest. Do not transport untreated firewood more than 50 miles.",
+      "safety_requirements": "Campfires in established rock fire rings only. Extinguish cold to touch with stream water.",
+      "seasonal_fire_bans": "Obey NYS DEC spring brush burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved gravel forest road (Limekiln Lake - Cedar River Road / Moose River Plains Road)",
+      "road_conditions": "Winding 23-mile gravel forest corridor with small washboards, rocks, and dust.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (accessible on main gravel road corridor in summer/fall)",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Weak to Moderate / Cell Booster Recommended",
+      "verizon_reliability": "1-3 bars 4G LTE near Inlet/Indian Lake road entry points; spotty in deep river plains",
+      "att_reliability": "1-2 bars 4G LTE",
+      "tmobile_reliability": "No signal",
+      "terrain_obstruction_risk": "High (Adirondack mountain ridges and dense spruce-fir canopy restrict signal)",
+      "distance_from_tower_corridor_miles": 9.5,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Designated Yellow Campsite Disks",
+      "Primitive Wooden Privies at select sites",
+      "Moose River & Glacial Pond Access (Filter required)",
+      "Established Rock Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 3,
+      "terrain_score": 9,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Inlet, NY",
+        "distance_miles": 11.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Outfitter Shops",
+          "Inlet Public Library",
+          "Medical Clinic"
+        ]
+      },
+      {
+        "town_name": "Old Forge, NY",
+        "distance_miles": 24.0,
+        "services_available": [
+          "Supermarket",
+          "Hardware Stores",
+          "Restaurants",
+          "Full Services"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "May thaw: cold (40-55°F), high blackfly season (late May to June), road gates open around Memorial Day.",
+      "summer": "70-80°F, pleasant Adirondack summer, cool nights (50-55°F).",
+      "fall": "World-famous Adirondack autumn foliage (50-65°F daytime, 25-35°F nights), prime camping.",
+      "winter": "Severe northern winter (0-20°F), heavy snowpack, Moose River Plains road closed to cars (groomed snowmobile trail)."
+    },
+    "dangers_and_hazards": [
+      "Black Bears active throughout Adirondack Park - bear canister mandatory in backcountry",
+      "Blackflies and mosquitoes in late spring/early summer",
+      "Hypothermia risk in sudden autumn rainstorms"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "10/10 - Deep Adirondack wilderness silence",
+      "common_human_made_sounds": [
+        "Infrequent camper vehicle on gravel road",
+        "Common Loon calls on wilderness ponds"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Red Spruce",
+        "Balsam Fir",
+        "Yellow Birch",
+        "Sugar Maple",
+        "Ferns and Mosses"
+      ],
+      "common_animals": [
+        "Moose",
+        "Black Bear",
+        "White-tailed Deer",
+        "Common Loon",
+        "Fisher"
+      ]
+    },
+    "human_demographics_and_culture": "Adirondack 46er mountain hikers, canoe trip paddlers, hunters during autumn, and nature lovers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Haudenosaunee (Iroquois) indigenous traditions revere the ancient Adirondack mountains ('Bark Eaters') and glacial waters as sacred ancestral hunting grounds.",
+      "energetic_and_spiritual_features": "Profound Adirondack boreal silence, glacial lake purity, deep forest sanctuary."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Black River Trail (Moose River Plains)",
+        "length_miles": 6.8,
+        "difficulty": "Moderate",
+        "features": "Winding trail along river rapids, pine flatwoods, glacial ponds"
+      }
+    ],
+    "public_reviews_summary": "The largest designated free primitive camping complex in the Northeast. Incredible peace, wilderness ponds, and true off-grid tranquility.",
+    "other_data": "Bortle Class 2 night sky. Free DEC permit required for stays over 3 nights.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ny-adirondack-park-moose-river-plains",
+    "name": "Moose River Plains Primitive Camping Area",
+    "state": "New York",
+    "county": "Hamilton County",
+    "coordinates": {
+      "latitude": 43.6812,
+      "longitude": -74.6512,
+      "elevation_ft": 2120
+    },
+    "management_agency": {
+      "name": "New York State Department of Environmental Conservation (DEC) - Region 5",
+      "type": "State DEC",
+      "phone": "(518) 897-1200",
+      "website": "https://www.dec.ny.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - NYS DEC Adirondack Forest Preserve Primitive Camping (zero fee for stays under 3 nights; free DEC permit for longer stays)",
+      "stay_limit": "3 consecutive nights free without permit; up to 14 days with free DEC forest ranger permit",
+      "guidelines": "Dispersed primitive camping at 140+ designated roadside sites along Moose River Plains Road (Limekiln Lake - Cedar River Road). Camp 150ft minimum from water."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Use wooden pit privy provided at roadside primitive sites or dig cat-hole 6-8 inches deep in soil 200ft from Moose River. Pack out hygiene items.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down firewood collection permitted within 50 miles.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Spring dry leaf weather fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved Gravel / Dirt Adirondack Forest Road (Moose River Plains Road)",
+      "road_conditions": "Graded gravel, washboard sections, easily drivable in summer.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance vehicles, vans, and camper rigs.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair to Moderate / Road Entrance Tower Line",
+      "verizon_reliability": "2-3 bars 4G LTE near Inlet/Old Forge entrance gates",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate (Adirondack mountain ridges reduce signal deep in interior plains)",
+      "distance_from_tower_corridor_miles": 5.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Designated Grassy Roadside RV & Van Pullouts",
+      "Pit Privy Toilets at Most Sites",
+      "Moose River Freshwater Streams",
+      "Stone Fire Rings & Picnic Tables"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Inlet / Old Forge, NY",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Kalil's Grocery / TOPS",
+          "Gas Stations",
+          "Inlet Public Library",
+          "Hardware Store",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "40-55°F, black fly season in June, crisp mountain air.",
+      "summer": "68-80°F, prime Adirondack summer camping, cool mountain nights.",
+      "fall": "42-62°F, world-class Adirondack red maple foliage.",
+      "winter": "5-25°F, heavy Adirondack snowpack, road closed to wheeled vehicles (snowmobile trail)."
+    },
+    "dangers_and_hazards": [
+      "Black bears present (NYS DEC approved bear canister mandatory for food storage)",
+      "Black flies in late spring/early summer"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Loon calls and wind through Adirondack white pines",
+      "common_human_made_sounds": [
+        "Occasional forest road vehicle"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Eastern White Pine",
+        "Balsam Fir",
+        "Paper Birch",
+        "Sugar Maple"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "Moose",
+        "Common Loon",
+        "White-tailed Deer",
+        "Brook Trout"
+      ]
+    },
+    "human_demographics_and_culture": "Haudenosaunee (Iroquois) ancestral lands, Adirondack guides, NY nomads, wilderness campers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Haudenosaunee territory honoring the pristine Adirondack mountain waters and sacred wilderness solitude.",
+      "energetic_and_spiritual_features": "Profound Adirondack Northwoods quietness, majestic pine forest canopy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Black River Mountain Trail",
+        "length_miles": 5.2,
+        "difficulty": "Moderate",
+        "features": "Pristine wilderness ponds, hardwood ridges, mountain views"
+      }
+    ],
+    "public_reviews_summary": "The largest free roadside primitive camping area in New York State. Over 140 free designated sites in Adirondack Park with pit privies and solid cell service near Inlet.",
+    "other_data": "NYS DEC Adirondack Forest Preserve. 100% Free.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ny-catskill-park-slide-mountain-wilderness",
+    "name": "Slide Mountain Wilderness Primitive Campsites",
+    "state": "New York",
+    "county": "Ulster County",
+    "coordinates": {
+      "latitude": 41.9812,
+      "longitude": -74.3812,
+      "elevation_ft": 2450
+    },
+    "management_agency": {
+      "name": "New York State Department of Environmental Conservation (DEC) - Region 3",
+      "type": "State DEC",
+      "phone": "(845) 256-3000",
+      "website": "https://www.dec.ny.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - NYS DEC Catskill Forest Preserve Primitive Camping (zero fee for stays under 3 nights)",
+      "stay_limit": "3 consecutive nights free without permit; up to 14 days with free DEC forest ranger permit",
+      "guidelines": "Dispersed primitive camping permitted at least 150ft from trails and water streams throughout Slide Mountain Wilderness. Camp below 3,500ft elevation."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in organic soil 200 feet from Esopus Creek. Pack out all hygiene items.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down firewood collection permitted within 50 miles.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Spring dry leaf weather fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved NY Route 28 to paved/gravel county road (Oliveria Road)",
+      "road_conditions": "Paved main access roads, smooth trailhead parking lot.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Route 28 Corridor Signal",
+      "verizon_reliability": "3-4 bars 4G LTE near Phoenicia / Route 28 entrance",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate inside deep mountain hollows",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Catskill Mountain Wilderness Campsites",
+      "Esopus Creek Trout Stream Access",
+      "Hardwood & Hemlock Forest Shade",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Phoenicia / Boiceville, NY",
+        "distance_miles": 10.0,
+        "services_available": [
+          "Supermarket",
+          "Gas Stations",
+          "Phoenicia Library",
+          "Pharmacy",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Kingston, NY",
+        "distance_miles": 26.0,
+        "services_available": [
+          "Full Metro Services",
+          "Target / Walmart",
+          "HealthAlliance Hospital",
+          "24/7 Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "45-62°F, blooming wild trillium, roaring trout streams.",
+      "summer": "70-82°F, cool Catskill mountain escape from NYC summer heat.",
+      "fall": "48-65°F, world-class Catskill red sugar maple foliage.",
+      "winter": "18-35°F, heavy mountain snowpack, snowshoeing & ice climbing."
+    },
+    "dangers_and_hazards": [
+      "Black bears in Catskills (NYS DEC approved bear canister mandatory for food storage)",
+      "Slick stream rock crossings"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Rushing trout stream and mountain forest wind",
+      "common_human_made_sounds": [
+        "Occasional backpacker on trail"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Sugar Maple",
+        "Yellow Birch",
+        "Eastern Hemlock",
+        "Balsam Fir"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "White-tailed Deer",
+        "Brown Trout",
+        "Bicknell's Thrush",
+        "Fisher"
+      ]
+    },
+    "human_demographics_and_culture": "Munsee Lenape ancestral lands, Catskill guides, John Burroughs conservation heritage, NYC nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Famous home of Rip Van Winkle folklore. Where John Burroughs wrote his legendary nature essays.",
+      "energetic_and_spiritual_features": "Profound Catskill mountain silence, pristine trout stream water."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Slide Mountain Summit Trail",
+        "length_miles": 5.6,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Highest peak in Catskills (4,180ft), balsam fir forest, panoramic Catskill vistas"
+      }
+    ],
+    "public_reviews_summary": "Top free primitive wilderness camping in New York's Catskill Park. Majestic hardwood forests, crystal clear trout streams, fast cell internet near Phoenicia.",
+    "other_data": "NYS DEC Catskill Forest Preserve. 100% Free.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "new_york-004",
+    "name": "Moose River Plains Primitive Camping Area - Adirondack Park",
+    "state": "New York",
+    "county": "Hamilton",
+    "coordinates": {
+      "latitude": 43.6125,
+      "longitude": -74.6812,
+      "elevation_ft": 1780.0
+    },
+    "management_agency": {
+      "name": "New York State Department of Environmental Conservation (DEC)",
+      "type": "State",
+      "phone": "(315) 357-2234",
+      "website": "https://www.dec.ny.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive roadside camping in Moose River Plains Wild Forest)",
+      "stay_limit": "3 consecutive nights limit without permit",
+      "guidelines": "Primitive camping permitted at designated numbered roadside pullout sites along Limekiln-Cedar River Road. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Utilize roadside pit privies provided at designated sites, or bury 6-8 inches deep 200 ft from water.",
+      "trash_policy": "Strict Carry-In, Carry-Out rule."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted only in designated metal fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to NY DEC high fire danger advisories."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel seasonal forest road (Limekiln-Cedar River Road)",
+      "road_conditions": "Graded gravel road with flat pullout campsites.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car in dry weather.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Poor (1/5 Stars)",
+      "verizon_reliability": "No signal in deep plains",
+      "att_reliability": "No signal",
+      "tmobile_reliability": "No signal",
+      "terrain_obstruction_risk": "High - remote Adirondack mountain wilderness basin",
+      "distance_from_tower_corridor_miles": 24.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Numbered Roadside Campsite",
+      "Pit Privy",
+      "Metal Fire Ring",
+      "Wilderness River Access"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 4,
+      "distance_to_library_score": 4,
+      "distance_to_gym_score": 3,
+      "terrain_score": 9,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Inlet, NY",
+        "distance_miles": 14.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Outfitter",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Old Forge, NY",
+        "distance_miles": 26.0,
+        "services_available": [
+          "Supermarket",
+          "Medical Center",
+          "Public Library",
+          "Full Adirondack Amenities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Blackfly season in June; high water in Moose River.",
+      "summer": "Pleasant Adirondack summer weather (72-80°F) with cool mountain night air.",
+      "fall": "World-class Adirondack autumn foliage in late September.",
+      "winter": "Closed to vehicle traffic; major snowmobile corridor."
+    },
+    "dangers_and_hazards": [
+      "Black Bears (Bear canisters required)",
+      "Blackflies and Mosquitoes (June)",
+      "Total Isolation (No Cell Service)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Adirondack Wilderness Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Occasional passing gravel road vehicle"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Red Spruce",
+        "Balsam Fir",
+        "Yellow Birch",
+        "Sugar Maple"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "Moose",
+        "White-tailed Deer",
+        "Common Loon",
+        "Fisher"
+      ]
+    },
+    "human_demographics_and_culture": "Adirondack Park wilderness logging history, guide traditions, and sporting heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Haudenosaunee (Iroquois) history honors the vast central Adirondack wilderness as rich hunting grounds protected by woodland spirits.",
+      "energetic_and_spiritual_features": "Vast mountain plains and clear trout streams provide deep spiritual renewal."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Mitchell Ponds & Black Bear Mountain Trail",
+        "length_miles": 5.2,
+        "difficulty": "Moderate",
+        "features": "Pristine backcountry ponds, summit views over Fulton Chain of Lakes"
+      }
+    ],
+    "public_reviews_summary": "The largest free primitive camping area in the Adirondacks with designated sites and total wilderness solitude.",
+    "other_data": "Store all food in bear-proof containers.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "new_york-005",
+    "name": "Overlook Mountain Primitive Lean-to Zone - Catskill Park",
+    "state": "New York",
+    "county": "Ulster",
+    "coordinates": {
+      "latitude": 42.0812,
+      "longitude": -74.1214,
+      "elevation_ft": 2840.0
+    },
+    "management_agency": {
+      "name": "New York State Department of Environmental Conservation (DEC)",
+      "type": "State",
+      "phone": "(845) 256-3000",
+      "website": "https://www.dec.ny.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive lean-to backcountry camping)",
+      "stay_limit": "3 consecutive nights limit",
+      "guidelines": "Primitive camping permitted at designated Echo Lake lean-to shelter area. Camp 150 ft from trails and water. Carry-in carry-out."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Utilize lean-to pit privy. Pack out toilet paper.",
+      "trash_policy": "Strict Carry-In, Carry-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather small dead and down wood locally.",
+      "safety_requirements": "Campfires allowed in existing stone fire rings at shelter. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to NY DEC dry season burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved mountain road to Meads Mountain trailhead",
+      "road_conditions": "Paved road access; 2.5-mile hike required to reach shelter.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Good (3.5/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE on mountain top",
+      "att_reliability": "3 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate - Catskill mountain ridge forest",
+      "distance_from_tower_corridor_miles": 3.2,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Catskill Wooden Lean-to Shelter",
+      "Echo Lake Water Access",
+      "Fire Tower & Hotel Ruins Views"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 9,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Woodstock, NY",
+        "distance_miles": 4.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Arts & Dining"
+        ]
+      },
+      {
+        "town_name": "Kingston, NY",
+        "distance_miles": 16.8,
+        "services_available": [
+          "Supercenters",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush Catskill spring foliage and blooming mountain flowers.",
+      "summer": "Warm Catskill summer days (74-82°F) with mountain breezes.",
+      "fall": "Stunning Catskill autumn foliage overlooking Hudson Valley.",
+      "winter": "Cold mountain winter (15-30°F) with snowpack."
+    },
+    "dangers_and_hazards": [
+      "Timber Rattlesnakes (Overlook Mountain summit rocky ledges)",
+      "Black Bears",
+      "Icy Steep Trails"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Catskill Mountain Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Distant Hudson Valley traffic hum",
+        "Overhead commercial flights"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Red Oak",
+        "Sugar Maple",
+        "Chestnut Oak",
+        "Pitch Pine"
+      ],
+      "common_animals": [
+        "Timber Rattlesnake",
+        "Black Bear",
+        "White-tailed Deer",
+        "Porcupine"
+      ]
+    },
+    "human_demographics_and_culture": "Catskill Park mountain arts, historic grand hotel ruins, and Hudson Valley conservation culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Hudson Valley lore recalls Rip Van Winkle and spirit mountain guardians residing in Catskill peaks.",
+      "energetic_and_spiritual_features": "High mountain summit overlooking the Hudson River valley radiates artistic, creative energy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Overlook Mountain & Echo Lake Trail",
+        "length_miles": 6.8,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Historic 1920s hotel ruins, fire tower view over Hudson Valley, backcountry lake"
+      }
+    ],
+    "public_reviews_summary": "Classic Catskill lean-to shelter camping near Woodstock with fast cell service and incredible fire tower views.",
+    "other_data": "Watch for rattlesnakes on sunlit rock ledges near the fire tower.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "new_york-006",
+    "name": "Adirondack Park High Peaks Wilderness Dispersed Zone",
+    "state": "New York",
+    "county": "Essex",
+    "coordinates": {
+      "latitude": 44.1112,
+      "longitude": -73.9112,
+      "elevation_ft": 2200.0
+    },
+    "management_agency": {
+      "name": "NYS Department of Environmental Conservation (DEC)",
+      "type": "State",
+      "phone": "(518) 897-1200",
+      "website": "https://www.dec.ny.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state wilderness campsites)",
+      "stay_limit": "3 consecutive nights max per location",
+      "guidelines": "Dispersed primitive camping allowed at designated lean-tos and campsites 150 ft from trails and water in 275,000-acre High Peaks Wilderness. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 150 ft from streams. Bear canister mandatory for food storage.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": false,
+      "firewood_policy": "Campfires strictly prohibited in High Peaks Eastern Zone; backpack stoves only.",
+      "safety_requirements": "Backpacking gas stoves mandatory. Bear canisters required.",
+      "seasonal_fire_bans": "Strict NYS DEC wilderness protection."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved NY Route 73 to gravel Adirondack Loj Road",
+      "road_conditions": "Paved highway access; smooth gravel road to trailhead.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open valley line of sight to Lake Placid tower",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Mount Marcy & Algonquin Peak Views",
+      "Boreal Balsam-Spruce Canopy",
+      "Dec lean-to Shelter Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Keene Valley, NY",
+        "distance_miles": 6.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Outfitters",
+          "Diners",
+          "Cafes"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "High water spring melt (42-58°F).",
+      "summer": "Pleasant cool alpine summer (68-76°F).",
+      "fall": "World-famous Adirondack peak autumn colors.",
+      "winter": "Severe alpine winter (-10 to 20°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Area (Bear Canister Mandatory)",
+      "Extreme Alpine Weather"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Adirondack Wilderness Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Marcy Brook rushing water",
+        "Wind through balsam fir"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Balsam Fir",
+        "Red Spruce",
+        "Paper Birch",
+        "Mountain Ash"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "Moose",
+        "Pine Marten",
+        "Bicknell's Thrush"
+      ]
+    },
+    "human_demographics_and_culture": "Haudenosaunee ancestral lands and Adirondack 46er high peak mountaineering heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "High Peaks Wilderness encompasses New York's highest mountains including 5,344-foot Mount Marcy (Tahawus).",
+      "energetic_and_spiritual_features": "Vast boreal wilderness valleys framed by towering granite summits."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Van Hoevenberg Trail to Marcy Dam",
+        "length_miles": 4.6,
+        "difficulty": "Moderate",
+        "features": "Marcy Dam pond view, Mount Marcy peak views, balsam-spruce forest"
+      }
+    ],
+    "public_reviews_summary": "World-class High Peaks wilderness basecamp near Keene Valley with solid cell coverage.",
+    "other_data": "Bear canister mandatory.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "new_york-007",
+    "name": "Adirondack Park West Canada Lakes Wilderness Area",
+    "state": "New York",
+    "county": "Hamilton",
+    "coordinates": {
+      "latitude": 43.6112,
+      "longitude": -74.6112,
+      "elevation_ft": 2100.0
+    },
+    "management_agency": {
+      "name": "NYS Department of Environmental Conservation (DEC)",
+      "type": "State",
+      "phone": "(518) 648-5610",
+      "website": "https://www.dec.ny.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state wilderness campsites)",
+      "stay_limit": "3 consecutive nights max per location",
+      "guidelines": "Dispersed primitive camping allowed at designated lean-tos and shoreline sites 150 ft from water throughout 168,000-acre West Canada Lakes Wilderness. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 150 ft from West Canada Creek lakes. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to NYS DEC dry season fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route to unpaved wilderness access road",
+      "road_conditions": "Paved route access; smooth gravel forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open lake line of sight",
+      "distance_from_tower_corridor_miles": 5.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "West Canada Lake Chain Access",
+      "Spruce-Birch Forest Canopy",
+      "Northville-Placid Trail Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Speculator, NY",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Outfitters",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush North Country spring (44-60°F).",
+      "summer": "Pleasant cool summer (70-78°F) with lake swimming.",
+      "fall": "Spectacular autumn foliage.",
+      "winter": "Cold snowy winter (-5 to 22°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Area",
+      "Blackflies in June"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "West Canada Wilderness Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Loon calls across lake chain",
+        "Wind through red spruce"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Red Spruce",
+        "Balsam Fir",
+        "Yellow Birch",
+        "Sugar Maple"
+      ],
+      "common_animals": [
+        "Moose",
+        "Black Bear",
+        "Common Loon",
+        "Native Brook Trout"
+      ]
+    },
+    "human_demographics_and_culture": "Haudenosaunee ancestral lands and Adirondack guide and trapping history.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Second largest wilderness area in the Adirondacks, preserving pristine lake chains along the historic Northville-Placid Trail.",
+      "energetic_and_spiritual_features": "Quiet backcountry lakes surrounded by old-growth spruce and balsam forests."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Northville-Placid Trail (West Canada Section)",
+        "length_miles": 6.0,
+        "difficulty": "Moderate",
+        "features": "Lake chain walks, DEC lean-to shelters, wilderness solitude"
+      }
+    ],
+    "public_reviews_summary": "Pristine Adirondack wilderness lake basecamp near Speculator with dependable cell coverage.",
+    "other_data": "Traversed by Northville-Placid Trail.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "new_york-008",
+    "name": "Catskill Park Big Indian Wilderness Primitive Zone",
+    "state": "New York",
+    "county": "Ulster",
+    "coordinates": {
+      "latitude": 42.0112,
+      "longitude": -74.4412,
+      "elevation_ft": 1850.0
+    },
+    "management_agency": {
+      "name": "NYS Department of Environmental Conservation (DEC)",
+      "type": "State",
+      "phone": "(845) 256-3000",
+      "website": "https://www.dec.ny.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state wilderness campsites)",
+      "stay_limit": "3 consecutive nights max per location",
+      "guidelines": "Dispersed primitive camping allowed at designated lean-tos and campsites 150 ft from trails and water in 33,000-acre Big Indian Wilderness. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 150 ft from Esopus Creek tributaries. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to NYS DEC dry season fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved NY Route 28 to gravel Oliverea Road",
+      "road_conditions": "Paved access road; smooth gravel turnout to trailheads.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - valley line of sight",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Slide Mountain & Balsam Mountain Views",
+      "Hemlock-Maple Forest Canopy",
+      "DEC Lean-to Shelter Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Shandaken, NY",
+        "distance_miles": 5.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diners",
+          "Cafes"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Fresh mountain spring (50-64°F).",
+      "summer": "Pleasant cool mountain summer (74-82°F).",
+      "fall": "World-famous Catskill autumn foliage.",
+      "winter": "Cold snowy winter (14-30°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Area",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Catskill Wilderness Quiet (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Esopus Creek water murmur",
+        "Wind through hemlocks"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Sugar Maple",
+        "Eastern Hemlock",
+        "Yellow Birch",
+        "American Beech"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "White-tailed Deer",
+        "Native Brook Trout",
+        "Barred Owl"
+      ]
+    },
+    "human_demographics_and_culture": "Munsee Lenape ancestral lands and Catskill fly fishing and landscape painting heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Big Indian Wilderness encompasses continuous high Catskill peaks near historic Esopus Creek trout waters.",
+      "energetic_and_spiritual_features": "Quiet hemlock stream ravines under high maple-crowned Catskill summits."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Pine Hill-Eagle Mountain Trail",
+        "length_miles": 4.5,
+        "difficulty": "Moderate",
+        "features": "Catskill peak vistas, hemlock ravines, DEC lean-to shelter"
+      }
+    ],
+    "public_reviews_summary": "Top-tier Catskill wilderness basecamp near Shandaken with strong cell coverage.",
+    "other_data": "Near Esopus Creek fly fishing.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "new_york-009",
+    "name": "Finger Lakes National Forest Dispersed Camping Area",
+    "state": "New York",
+    "county": "Seneca",
+    "coordinates": {
+      "latitude": 42.5112,
+      "longitude": -76.8112,
+      "elevation_ft": 1420.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Finger Lakes National Forest",
+      "type": "Federal",
+      "phone": "(607) 546-4470",
+      "website": "https://www.fs.usda.gov/fingerlakes"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Forest Service road pullouts throughout 16,000-acre Finger Lakes National Forest. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Seneca Lake tributaries. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route to gravel Forest Service road",
+      "road_conditions": "Paved route access; smooth gravel forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4-5 bars 4G LTE / 5G",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - gently rolling Finger Lakes plateau",
+      "distance_from_tower_corridor_miles": 3.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Seneca Lake & Cayuga Lake Views",
+      "Pasture & Oak-Hickory Canopy",
+      "Gorge Trail Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 6,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Hector, NY",
+        "distance_miles": 4.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Finger Lakes Wineries",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush plateau spring (52-66°F).",
+      "summer": "Pleasant summer (76-84°F) with winery season.",
+      "fall": "Spectacular grape harvest autumn colors.",
+      "winter": "Cold snowy winter (18-32°F)."
+    },
+    "dangers_and_hazards": [
+      "Cattle Grazing Areas in Summer",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Finger Lakes Ridge Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through pasture grasses",
+        "Songbirds"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Oak",
+        "Sugar Maple",
+        "Shagbark Hickory",
+        "Goldenrod"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Bobolink",
+        "Red Fox",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Haudenosaunee (Cayuga & Seneca) ancestral lands and Finger Lakes wine and farm heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "New York's only national forest, featuring open grass pastures intermingled with oak-hickory woodlots between Seneca and Cayuga lakes.",
+      "energetic_and_spiritual_features": "Panoramic views over twin Finger Lakes from high rolling ridge pastures."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Interloken National Recreation Trail",
+        "length_miles": 5.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Rolling pasture walk, Finger Lakes overlooks, oak woodlots"
+      }
+    ],
+    "public_reviews_summary": "Peaceful Finger Lakes national forest basecamp near Hector with fast 5G cell coverage.",
+    "other_data": "NYS's only National Forest.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "new_york-010",
+    "name": "Catskill Park Indian Head Wilderness Primitive Area",
+    "state": "New York",
+    "county": "Greene",
+    "coordinates": {
+      "latitude": 42.1412,
+      "longitude": -74.1412,
+      "elevation_ft": 1950.0
+    },
+    "management_agency": {
+      "name": "NYS Department of Environmental Conservation (DEC)",
+      "type": "State",
+      "phone": "(845) 256-3000",
+      "website": "https://www.dec.ny.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state wilderness campsites)",
+      "stay_limit": "3 consecutive nights max per location",
+      "guidelines": "Dispersed primitive camping allowed at designated lean-tos and campsites 150 ft from trails and water in 16,800-acre Indian Head Wilderness. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 150 ft from Schoharie Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to NYS DEC dry season fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved NY Route 23A to Platte Clove gravel road",
+      "road_conditions": "Paved access road; smooth gravel trailhead turnout.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - mountain ridge line of sight",
+      "distance_from_tower_corridor_miles": 3.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Platte Clove Gorge Overlooks",
+      "Devil's Path Trail Access",
+      "Hardwood Canopy",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Hunter, NY",
+        "distance_miles": 5.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Ski Village Diners",
+          "Cafes"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush waterfall spring (50-64°F).",
+      "summer": "Pleasant cool mountain summer (72-80°F).",
+      "fall": "Spectacular Catskill autumn colors.",
+      "winter": "Cold snowy winter (14-30°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Area",
+      "Steep Gorge Cliff Drops"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Platte Clove Gorge Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Platte Clove waterfall roar",
+        "Wind through maples"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Sugar Maple",
+        "Yellow Birch",
+        "Eastern Hemlock",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "White-tailed Deer",
+        "Bobcat",
+        "Peregrine Falcon"
+      ]
+    },
+    "human_demographics_and_culture": "Munsee Lenape ancestral lands and Hudson River School landscape art history.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Indian Head Mountain is the eastern anchor of the famous Devil's Path trail in the Catskills.",
+      "energetic_and_spiritual_features": "Dramatic 1,000-foot waterfall gorges cutting through Catskill sandstone bluffs."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Devil's Path (Indian Head Section)",
+        "length_miles": 4.2,
+        "difficulty": "Advanced",
+        "features": "Platte Clove gorge views, sandstone cliffs, hardwood canopy"
+      }
+    ],
+    "public_reviews_summary": "Spectacular Catskill mountain gorge basecamp near Hunter with strong cell coverage.",
+    "other_data": "Famous Platte Clove gorge waterfalls.",
+    "last_updated": "2026-09-12"
+  }
+]

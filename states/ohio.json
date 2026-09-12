@@ -1,0 +1,1260 @@
+[
+  {
+    "id": "oh-wayne-wildcat-hollow",
+    "name": "Wildcat Hollow Dispersed Primitive Camping - Wayne National Forest",
+    "state": "Ohio",
+    "county": "Perry County / Morgan County",
+    "coordinates": {
+      "latitude": 39.5812,
+      "longitude": -82.0482,
+      "elevation_ft": 820
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Athens Ranger District",
+      "type": "USFS",
+      "phone": "(740) 753-0101",
+      "website": "https://www.fs.usda.gov/wayne"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for dispersed primitive camping",
+      "stay_limit": "14 consecutive days max stay within 30-day period",
+      "guidelines": "Dispersed primitive camping permitted throughout general national forest lands outside developed fee areas. Campsites set back 100ft from trails and streams."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6-8 inches deep in rich forest topsoil, at least 200 feet from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only within forest.",
+      "safety_requirements": "Campfires in established rock fire rings only. Extinguish cold to touch.",
+      "seasonal_fire_bans": "Obey Ohio DNR / USFS fire alerts during dry spring/autumn."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route changing to unpaved gravel forest road (Township Road 14 / Wildcat Hollow Access)",
+      "road_conditions": "Washboard gravel forest roads with small washboards and dips.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (easily accessible year-round)",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Connectivity",
+      "verizon_reliability": "3-4 bars 4G LTE (20-45 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 5G LTE",
+      "terrain_obstruction_risk": "Low to Moderate (Rolling Appalachian foothill hollows)",
+      "distance_from_tower_corridor_miles": 3.2,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Wildcat Hollow Trailhead Access",
+      "Shaded Hardwood Canopy",
+      "Established Rock Fire Rings",
+      "High-speed 4G/5G Cell Service"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 7,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Logansport / Corning / Athens, OH",
+        "distance_miles": 14.5,
+        "services_available": [
+          "Kroger Supermarket",
+          "Gas Stations",
+          "Ohio University",
+          "Athens Public Library",
+          "OhioHealth O'Bleness Hospital"
+        ]
+      },
+      {
+        "town_name": "Zanesville, OH",
+        "distance_miles": 28.0,
+        "services_available": [
+          "Walmart Supercenter",
+          "Gyms",
+          "Genesis Hospital",
+          "Full Commercial Services"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "55-70°F, blooming trillium and wildflowers, spring rainstorms, muddy trails.",
+      "summer": "Hot and humid (80-88°F), dense hardwood leaf canopy, high insect activity.",
+      "fall": "Spectacular Midwest autumn foliage (55-70°F daytime, 40-50°F nights), dry roads.",
+      "winter": "Cool 30-45°F, freezing nights, light snow dustings."
+    },
+    "dangers_and_hazards": [
+      "Ticks and chiggers in brush during warm months",
+      "Copperhead snakes near rocky outcrops"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Peaceful forest soundscape",
+      "common_human_made_sounds": [
+        "Occasional hiker vehicle at trailhead",
+        "High commercial aircraft contrails"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Oak",
+        "Sugar Maple",
+        "Tulip Poplar",
+        "American Beech",
+        "Bloodroot (Sanguinaria canadensis)"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Gray Squirrel",
+        "Red-tailed Hawk"
+      ]
+    },
+    "human_demographics_and_culture": "Backcountry backpackers, Ohio University outdoor enthusiasts, digital nomads, and local hunters.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Adena and Hopewell indigenous earthwork cultures revered the hills and valleys of southeastern Ohio as sacred ancestral mound and spirit lands.",
+      "energetic_and_spiritual_features": "Calming hardwood forest grounding energy, peaceful Appalachian foothill atmosphere."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Wildcat Hollow Trail Loop",
+        "length_miles": 15.0,
+        "difficulty": "Moderate",
+        "features": "Winding backpacking loop through pine plantations, hardwood hollows, and rock outcrops"
+      }
+    ],
+    "public_reviews_summary": "Top choice for free primitive camping in Ohio. Clean forest sites, quiet surroundings, and dependable 4G/5G cell internet.",
+    "other_data": "Bortle Class 3 night sky. Abundant firewood.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "oh-wayne-nf-covered-bridge-trail",
+    "name": "Covered Bridge Trailhead Dispersed Primitive Camping",
+    "state": "Ohio",
+    "county": "Washington County",
+    "coordinates": {
+      "latitude": 39.5412,
+      "longitude": -81.2812,
+      "elevation_ft": 710
+    },
+    "management_agency": {
+      "name": "US Forest Service - Wayne National Forest (Marietta Unit)",
+      "type": "USFS",
+      "phone": "(740) 373-9055",
+      "website": "https://www.fs.usda.gov/wayne"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Wayne National Forest Dispersed Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted throughout Wayne National Forest Marietta Unit along covered bridge trail pullouts. Camp 125ft minimum from roads."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6 inches deep in organic soil 200 feet from Little Muskingum River. Pack out hygiene products.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on forest land.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Spring/fall dry leaf fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route to gravel Forest Service entrance roads",
+      "road_conditions": "Graded gravel access roads, flat pullout turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Ohio River Corridor Tower Line",
+      "verizon_reliability": "3-4 bars 4G LTE (15-35 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low along rolling Appalachian foothills",
+      "distance_from_tower_corridor_miles": 3.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Historic Covered Bridge Vistas",
+      "Little Muskingum River Access",
+      "Hardwood Forest Shade",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 7,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Marietta, OH",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Kroger / Giant Eagle",
+          "Walmart",
+          "Marietta College Metro",
+          "Hospital",
+          "Gyms",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "50-68°F, blooming wild phlox and dogwood.",
+      "summer": "75-88°F, warm Ohio summer days under shaded hardwoods.",
+      "fall": "50-70°F, colorful Appalachian foothill autumn foliage.",
+      "winter": "25-42°F, mild winters, light snow."
+    },
+    "dangers_and_hazards": [
+      "Spring river high water in Little Muskingum",
+      "Ticks in summer months"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - River water trickles and woodland bird calls",
+      "common_human_made_sounds": [
+        "Occasional vehicle on country road"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Oak",
+        "Tulip Poplar",
+        "Sugar Maple",
+        "Flowering Dogwood"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Red Fox",
+        "Smallmouth Bass"
+      ]
+    },
+    "human_demographics_and_culture": "Shawnee ancestral lands, historic Marietta riverboat culture, Ohio outdoorsmen, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Historic Ohio River valley frontier heritage. Historic 19th-century covered bridges steeped in local folklore.",
+      "energetic_and_spiritual_features": "Gentle rolling Appalachian foothill tranquility, peaceful river scenery."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Covered Bridge Trail",
+        "length_miles": 5.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Historic Rinard Covered Bridge, river bluffs, hardwood forest"
+      }
+    ],
+    "public_reviews_summary": "Charming free primitive camping spot in Ohio's Wayne National Forest. Historic covered bridge backdrop, solid cell internet, and easy 15-minute drive to Marietta.",
+    "other_data": "Wayne National Forest. Free dispersed camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "oh-shawnee-state-forest-backpack",
+    "name": "Shawnee State Forest Backpack Primitive Campsites",
+    "state": "Ohio",
+    "county": "Scioto County",
+    "coordinates": {
+      "latitude": 38.7412,
+      "longitude": -83.1812,
+      "elevation_ft": 920
+    },
+    "management_agency": {
+      "name": "Ohio Department of Natural Resources (ODNR) - Division of Forestry",
+      "type": "State ODNR",
+      "phone": "(740) 858-6685",
+      "website": "https://forestry.ohiodnr.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Free ODNR Backpacking Permit required online/at forest office (zero cost)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted at 7 designated backpack trail camps along Shawnee State Forest Day Hike & Backpack Trail."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Use wooden pit privy provided at backpack camps or dig cat-hole 6 inches deep in soil 200ft from streams. Pack out paper.",
+      "trash_policy": "Strict Carry-In / Carry-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on site.",
+      "safety_requirements": "Campfires in established stone fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Spring and fall forest fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route to gravel forest entrance road",
+      "road_conditions": "Graded gravel parking area access.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Portsmouth & US 52 Tower Line",
+      "verizon_reliability": "3-4 bars 4G LTE on high forest ridges",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate across 'Little Smokies' Appalachian hills",
+      "distance_from_tower_corridor_miles": 3.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Appalachian Foothill Ridge Campsites",
+      "Pit Privy Toilet at Camp Clearings",
+      "Water Cistern (Treatment mandatory)",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Portsmouth, OH",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Kroger Supermarket",
+          "Walmart",
+          "Portsmouth Public Library",
+          "SOMC Hospital",
+          "24/7 Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "50-68°F, blooming wild phlox and dogwood.",
+      "summer": "75-88°F, warm Ohio summer days under shaded hardwoods.",
+      "fall": "50-70°F, world-class 'Little Smokies' autumn foliage.",
+      "winter": "25-42°F, mild winter, light snow."
+    },
+    "dangers_and_hazards": [
+      "Ticks in summer months (use permethrin)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Forest wind and woodland bird calls",
+      "common_human_made_sounds": [
+        "Occasional backpacker on trail"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Oak",
+        "Chestnut Oak",
+        "Tulip Poplar",
+        "Flowering Dogwood"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Bobcat",
+        "Pileated Woodpecker"
+      ]
+    },
+    "human_demographics_and_culture": "Shawnee ancestral lands ('Little Smokies of Ohio'), Appalachian woodsmen, backpackers, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Known as the 'Little Smokies of Ohio'. Ancient Shawnee nation homeland honors the rugged ridge forests.",
+      "energetic_and_spiritual_features": "Peaceful Appalachian ridge quietness, breathtaking autumn hill colors."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Shawnee Backpack Trail Loop",
+        "length_miles": 14.0,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Rugged Appalachian ridges, hollows, pine and oak forests"
+      }
+    ],
+    "public_reviews_summary": "Ohio's premier backpacking destination in the 'Little Smokies'. Free primitive campsite trail clearings with pit privies, solid cell internet, and 15 minutes to Portsmouth.",
+    "other_data": "Ohio ODNR Division of Forestry. Free permit required.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ohio-004",
+    "name": "Shawnee State Forest Dispersed Backpacking Primitive Zone",
+    "state": "Ohio",
+    "county": "Scioto",
+    "coordinates": {
+      "latitude": 38.7412,
+      "longitude": -83.2148,
+      "elevation_ft": 1180.0
+    },
+    "management_agency": {
+      "name": "Ohio Department of Natural Resources (ODNR) - Division of Forestry",
+      "type": "State",
+      "phone": "(740) 858-6685",
+      "website": "https://forestry.ohiodnr.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive trailside camping for backpackers along 60-mile trail)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Primitive camping permitted at designated backcountry camps along Shawnee Backpacking Trail ('The Little Smokies of Ohio'). Self-register at forest HQ."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Utilize primitive latrines at camp zones or bury 6-8 inches deep 200 ft from water.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in designated metal/stone rings at trail camps. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to Ohio spring/fall burn laws."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway to forest trailhead parking",
+      "road_conditions": "Paved roads to trailhead parking lots; hike required to reach backcountry campsites.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2.5/5 Stars)",
+      "verizon_reliability": "2 bars 4G LTE on high ridges",
+      "att_reliability": "2 bars 4G LTE",
+      "tmobile_reliability": "1 bar 4G LTE",
+      "terrain_obstruction_risk": "Moderate to High - steep unglaciated Appalachian hills",
+      "distance_from_tower_corridor_miles": 6.5,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Backcountry Trail Campsite",
+      "Primitive Water Cistern (Treat First)",
+      "Appalachian Hill Views"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Portsmouth, OH",
+        "distance_miles": 14.2,
+        "services_available": [
+          "Supermarket",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Chillicothe, OH",
+        "distance_miles": 38.0,
+        "services_available": [
+          "Supercenters",
+          "Full Regional Amenities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush spring greening with wild dogwood and redbud blossoms.",
+      "summer": "Warm and humid (82-90°F); shaded hardwood forest canopy.",
+      "fall": "Ohio's premier autumn leaf foliage across rolling Appalachian ridges.",
+      "winter": "Cool to cold (22-38°F) with periodic light snow."
+    },
+    "dangers_and_hazards": [
+      "Copperheads & Timber Rattlesnakes",
+      "Ticks and Poison Ivy",
+      "Steep Trail Elevation Shifts"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Deep Appalachian Ridge Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Distant Ohio River barge horn",
+        "High altitude aircraft"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Oak",
+        "Chestnut Oak",
+        "Tulip Poplar",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Gray Fox",
+        "Bobcat",
+        "Cerulean Warbler"
+      ]
+    },
+    "human_demographics_and_culture": "Southern Ohio Appalachian foothills timber and Ohio River historic navigation heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Shawnee nation ancestral history honors the rolling hills of Scioto County as sacred hunting grounds.",
+      "energetic_and_spiritual_features": "Rugged unglaciated hill ridges generate a peaceful, ancient wilderness feeling."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Shawnee Backpacking Trail System",
+        "length_miles": 60.0,
+        "difficulty": "Strenuous",
+        "features": "Unglaciated Appalachian ridges, hollow views, deep oak forests"
+      }
+    ],
+    "public_reviews_summary": "Ohio's most rugged backcountry backpacking trail system with complete solitude and zero fees.",
+    "other_data": "Self-register at forest headquarters before starting backcountry hike.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ohio-005",
+    "name": "Crown City Wildlife Area Primitive Spot",
+    "state": "Ohio",
+    "county": "Gallia / Lawrence",
+    "coordinates": {
+      "latitude": 38.5812,
+      "longitude": -82.4124,
+      "elevation_ft": 780.0
+    },
+    "management_agency": {
+      "name": "Ohio Department of Natural Resources (ODNR) - Division of Wildlife",
+      "type": "State",
+      "phone": "(800) 945-3543",
+      "website": "https://wildlife.ohiodnr.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive outdoor recreation camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Primitive dispersed camping allowed at designated wildlife area parking pullouts across 11,000 acres. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from ponds and streams.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires allowed in cleared ground rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to Ohio state burn laws."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway to gravel wildlife access roads",
+      "road_conditions": "Graded gravel access roads to flat parking pullouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open grasslands and reclaimed rolling hills",
+      "distance_from_tower_corridor_miles": 2.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Gravel Flat Campsites",
+      "Grassland Bird Watching",
+      "Fishing Pond Access"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 5,
+      "quietness_score": 7
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Gallipolis, OH",
+        "distance_miles": 8.5,
+        "services_available": [
+          "Supermarket",
+          "Gas Station",
+          "Hospital",
+          "Hardware Store",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Huntington, WV",
+        "distance_miles": 18.2,
+        "services_available": [
+          "Supercenters",
+          "Public Library",
+          "Gym & Fitness Center",
+          "University City Amenities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Mild spring weather with grassland songbirds nesting.",
+      "summer": "Warm (82-88°F) with clear grassland skies.",
+      "fall": "Crisp autumn weather with golden grass hills.",
+      "winter": "Cool to chilly (28-42°F) with light snow."
+    },
+    "dangers_and_hazards": [
+      "Ticks",
+      "Poison Ivy"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Quiet Country Hills (Quietness Score: 7/10)",
+      "common_human_made_sounds": [
+        "Distant Ohio River vessel hum",
+        "Passing county road traffic"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Big Bluestem",
+        "Black Locust",
+        "Autumn Olive",
+        "Goldenrod"
+      ],
+      "common_animals": [
+        "Henslow's Sparrow",
+        "Short-eared Owl",
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Largemouth Bass"
+      ]
+    },
+    "human_demographics_and_culture": "Southern Ohio reclaimed mining turned grassland habitat and outdoor sports tradition.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Folklore of the Ohio River valley speaks of peaceful spirit breezes over open grassland hills.",
+      "energetic_and_spiritual_features": "Wide open grassland fields provide an expansive, sunlit freedom."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Crown City Grassland Loop",
+        "length_miles": 4.5,
+        "difficulty": "Easy",
+        "features": "Open grassland hills, fishing ponds, grassland bird observation"
+      }
+    ],
+    "public_reviews_summary": "Blazing fast 5G cell internet, open grassland views, zero fees, and easy access near the Ohio River.",
+    "other_data": "Wear fluorescent orange during deer firearm hunting seasons.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ohio-006",
+    "name": "Wayne NF Archer's Fork Loop Dispersed Area",
+    "state": "Ohio",
+    "county": "Washington",
+    "coordinates": {
+      "latitude": 39.5112,
+      "longitude": -81.1812,
+      "elevation_ft": 820.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Wayne National Forest (Marietta District)",
+      "type": "Federal",
+      "phone": "(740) 373-9055",
+      "website": "https://www.fs.usda.gov/wayne"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Forest Service road pullouts and Archer's Fork trail clearings. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Archer's Fork Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved county road to gravel Forest Service road",
+      "road_conditions": "Paved road access; smooth gravel forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - gently rolling ridge line",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Natural Rock Bridge Overlooks",
+      "Oak-Hickory Forest Canopy",
+      "Archer's Fork Trail Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "New Matamoras, OH",
+        "distance_miles": 7.0,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush ridge spring (56-70°F).",
+      "summer": "Warm summer (80-88°F).",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cool winter (24-38°F)."
+    },
+    "dangers_and_hazards": [
+      "Copperhead Snakes",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Wayne Ridge Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through red oak",
+        "Songbirds"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Oak",
+        "Red Oak",
+        "Tulip Poplar",
+        "Wild Hydrangea"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Gray Fox",
+        "Pileated Woodpecker"
+      ]
+    },
+    "human_demographics_and_culture": "Shawnee ancestral lands and Ohio River valley timber and oil heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Archer's Fork features natural sandstone arches and rock shelters deep in unglaciated southeastern Ohio.",
+      "energetic_and_spiritual_features": "Quiet sandstone hollows lined with majestic tulip poplars."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Archer's Fork Loop Trail",
+        "length_miles": 5.0,
+        "difficulty": "Moderate",
+        "features": "Natural sandstone bridge, rock shelters, oak-hickory canopy"
+      }
+    ],
+    "public_reviews_summary": "Hidden gem sandstone bridge trail basecamp near New Matamoras with reliable cell coverage.",
+    "other_data": "Natural sandstone bridge on trail.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ohio-007",
+    "name": "Wayne NF Vesuvius Backpack Trail Dispersed Zone",
+    "state": "Ohio",
+    "county": "Lawrence",
+    "coordinates": {
+      "latitude": 38.6112,
+      "longitude": -82.6112,
+      "elevation_ft": 750.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Wayne National Forest (Ironton District)",
+      "type": "Federal",
+      "phone": "(740) 534-6500",
+      "website": "https://www.fs.usda.gov/wayne"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside developed area)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Vesuvius Backpack Trail pullouts outside developed fee area. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Lake Vesuvius. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway to gravel Forest Service road",
+      "road_conditions": "Paved highway access; smooth gravel forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - valley line of sight",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Lake Vesuvius Shoreline Access",
+      "Historic Furnace Ruins",
+      "Oak-Pine Canopy",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Pedro, OH",
+        "distance_miles": 4.0,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush spring (58-72°F).",
+      "summer": "Warm summer (82-88°F).",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cool winter (26-40°F)."
+    },
+    "dangers_and_hazards": [
+      "Copperhead Snakes",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Vesuvius Valley Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Lake Vesuvius water lap",
+        "Wind through red oak"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Oak",
+        "Virginia Pine",
+        "Tulip Poplar",
+        "Flowering Dogwood"
+      ],
+      "common_animals": [
+        "Large-mouth Bass",
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Red Fox"
+      ]
+    },
+    "human_demographics_and_culture": "Shawnee ancestral lands and historic 19th-century Hanging Rock iron furnace heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Historic 1833 Vesuvius Iron Furnace stands at the base of 143-acre Lake Vesuvius.",
+      "energetic_and_spiritual_features": "Quiet lakeside sandstone bluffs lined with oak and pine trees."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Vesuvius Backpack Trail",
+        "length_miles": 4.5,
+        "difficulty": "Moderate",
+        "features": "Lake shoreline, historic iron furnace, sandstone bluffs"
+      }
+    ],
+    "public_reviews_summary": "Peaceful lakefront basecamp near Pedro with historic furnace ruins and strong cell service.",
+    "other_data": "Historic 1833 iron furnace ruins.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ohio-008",
+    "name": "Wayne NF Morgan Sisters Trailside Primitive Area",
+    "state": "Ohio",
+    "county": "Gallia",
+    "coordinates": {
+      "latitude": 38.7812,
+      "longitude": -82.3812,
+      "elevation_ft": 790.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Wayne National Forest",
+      "type": "Federal",
+      "phone": "(740) 534-6500",
+      "website": "https://www.fs.usda.gov/wayne"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Morgan Sisters Trail Forest Service pullouts. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Symmes Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved county road to gravel Forest Service road",
+      "road_conditions": "Paved access road; smooth gravel forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - rolling hill line of sight",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Morgan Sisters Trail Access",
+      "Oak-Hickory Forest Canopy",
+      "Gravel Pullout Sites",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Patriot, OH",
+        "distance_miles": 5.0,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Fresh spring (58-72°F).",
+      "summer": "Warm summer (82-88°F).",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cool winter (26-40°F)."
+    },
+    "dangers_and_hazards": [
+      "Copperhead Snakes",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Gallia Hills Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through red oak",
+        "Songbirds"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Red Oak",
+        "White Oak",
+        "Tulip Poplar",
+        "Sassafras"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Gray Squirrel",
+        "Barred Owl"
+      ]
+    },
+    "human_demographics_and_culture": "Shawnee ancestral lands and Gallia County farm and timber heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Morgan Sisters Trail winds through quiet hardwood hollows named for early 19th-century pioneer settlers.",
+      "energetic_and_spiritual_features": "Quiet oak-hickory forest ridges with spring wildflower carpets."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Morgan Sisters Trail",
+        "length_miles": 4.2,
+        "difficulty": "Easy to Moderate",
+        "features": "Hardwood hollow walk, wildflower trails, oak canopy"
+      }
+    ],
+    "public_reviews_summary": "Quiet trailside basecamp near Patriot with dependable cell service.",
+    "other_data": "Great spring wildflowers.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ohio-009",
+    "name": "Zaleski State Forest Backpack Trail Dispersed Campsites",
+    "state": "Ohio",
+    "county": "Vinton",
+    "coordinates": {
+      "latitude": 39.3112,
+      "longitude": -82.3812,
+      "elevation_ft": 860.0
+    },
+    "management_agency": {
+      "name": "Ohio DNR - Division of Forestry",
+      "type": "State",
+      "phone": "(740) 596-5781",
+      "website": "https://forestry.ohiodnr.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state forest backpack campsites)",
+      "stay_limit": "3 consecutive nights max limit",
+      "guidelines": "Free primitive camping at designated backpack camps along the 28-mile Zaleski Backpack Trail. Self-registration required at trailhead. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Raccoon Creek. Latrines available at main camps.",
+      "trash_policy": "Strict Carry-In Carry-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in designated metal fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to ODNR stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route to gravel forest road",
+      "road_conditions": "Paved route access; smooth gravel trailhead parking.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - ridge top campsites line of sight",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Moonville Tunnel & Rail Trail Access",
+      "Oak-Hickory Forest Canopy",
+      "Designated Tent Clearing",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Zaleski, OH",
+        "distance_miles": 3.0,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Fresh forest spring (56-70°F).",
+      "summer": "Warm summer (80-88°F).",
+      "fall": "Spectacular autumn hardwood colors.",
+      "winter": "Cool winter (24-38°F)."
+    },
+    "dangers_and_hazards": [
+      "Moonville Ghost Lore",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Zaleski Forest Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through red oak",
+        "Raccoon Creek water flow"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Oak",
+        "Tulip Poplar",
+        "Sassafras",
+        "Wild Geranium"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Gray Fox",
+        "Pileated Woodpecker"
+      ]
+    },
+    "human_demographics_and_culture": "Shawnee ancestral lands and historic 1850s Marietta & Cincinnati Railroad heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Zaleski State Forest encompasses historic Moonville Tunnel, famous for local 19th-century railway ghost folklore.",
+      "energetic_and_spiritual_features": "Quiet oak forest ridges with historic brick railway tunnels."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Zaleski Backpack Trail (South Loop)",
+        "length_miles": 5.0,
+        "difficulty": "Moderate",
+        "features": "Moonville Tunnel, oak-hickory forest walk, designated primitive camp"
+      }
+    ],
+    "public_reviews_summary": "Ohio's premier primitive backpacking forest near Zaleski with free registration and great cell service.",
+    "other_data": "Home to historic Moonville Tunnel.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ohio-010",
+    "name": "Tar Hollow State Forest Primitive Backpacking Zone",
+    "state": "Ohio",
+    "county": "Ross",
+    "coordinates": {
+      "latitude": 39.3812,
+      "longitude": -82.7812,
+      "elevation_ft": 920.0
+    },
+    "management_agency": {
+      "name": "Ohio DNR - Division of Forestry",
+      "type": "State",
+      "phone": "(740) 774-1596",
+      "website": "https://forestry.ohiodnr.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state forest backpack campsites)",
+      "stay_limit": "3 consecutive nights max limit",
+      "guidelines": "Free primitive camping allowed at designated Logan Trail backpack camps throughout 16,000-acre Tar Hollow State Forest. Self-registration required at trailhead. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Carry-In Carry-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to ODNR stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route to gravel forest road",
+      "road_conditions": "Paved route access; smooth gravel forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - ridge top line of sight",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Pine & Oak Forest Canopy",
+      "Logan Trail Access",
+      "Designated Tent Clearing",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Laurelville, OH",
+        "distance_miles": 6.0,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush spring (56-70°F).",
+      "summer": "Warm summer (80-88°F).",
+      "fall": "Vibrant autumn foliage.",
+      "winter": "Cool winter (24-38°F)."
+    },
+    "dangers_and_hazards": [
+      "Copperhead Snakes",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Tar Hollow Forest Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through shortleaf pine",
+        "Songbirds"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "White Oak",
+        "Chestnut Oak",
+        "Pitch Pine"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Gray Fox",
+        "Scarlet Tanager"
+      ]
+    },
+    "human_demographics_and_culture": "Shawnee ancestral lands and historic 1930s pine pine tar production history.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Tar Hollow takes its name from 19th-century pine pitch and tar gathering in deep unglaciated hollows.",
+      "energetic_and_spiritual_features": "Deep forested ravines lined with tall pitch pine and oak trees."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Logan Trail (Tar Hollow Loop)",
+        "length_miles": 4.5,
+        "difficulty": "Moderate",
+        "features": "Pine ridge walk, deep hollow views, designated primitive camp"
+      }
+    ],
+    "public_reviews_summary": "Peaceful pine and oak forest basecamp near Laurelville with fast cell coverage.",
+    "other_data": "Free self-registration at trailhead.",
+    "last_updated": "2026-09-12"
+  }
+]

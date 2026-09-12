@@ -1,0 +1,1340 @@
+[
+  {
+    "id": "id-sawtooth-stanley-lake-creek",
+    "name": "Stanley Lake Creek Dispersed Camping - Sawtooth National Forest",
+    "state": "Idaho",
+    "county": "Custer County",
+    "coordinates": {
+      "latitude": 44.2412,
+      "longitude": -115.0184,
+      "elevation_ft": 6480
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Sawtooth National Recreation Area (SNRA)",
+      "type": "USFS",
+      "phone": "(208) 727-5000",
+      "website": "https://www.fs.usda.gov/sawtooth"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for dispersed primitive camping",
+      "stay_limit": "16 consecutive days max stay limit within Sawtooth NRA",
+      "guidelines": "Dispersed primitive camping permitted at designated campsites marked with camp posts along Stanley Lake Creek road corridor. Camping set back 100ft from water."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6 inches deep into granitic mountain soil, 200 feet from streams and lakes. Pack out all toilet paper.",
+      "trash_policy": "Strict Leave No Trace. Black bear country: hard-sided vehicle or bear canister food storage mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only.",
+      "safety_requirements": "Campfires permitted in designated stone/metal fire rings only. Extinguish cold to touch with creek water.",
+      "seasonal_fire_bans": "Stage 1 and Stage 2 fire restrictions common in late summer (July-September)."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved dirt and gravel forest service road (FS 640)",
+      "road_conditions": "Washboard gravel road with small rocks and shallow dips.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (accessible along main FS 640 gravel road in dry conditions)",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate / Tower Distance Dependent",
+      "verizon_reliability": "2-3 bars 4G LTE (10-25 Mbps download near ID-21 junction)",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate (Towering Sawtooth Mountain peaks create signal shadows in deep glens)",
+      "distance_from_tower_corridor_miles": 5.2,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Designated Campsite Posts",
+      "Panoramic Views of Sawtooth Mountain Spires",
+      "Perennial Mountain Stream Access",
+      "Established Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 4,
+      "distance_to_gym_score": 3,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Stanley, ID",
+        "distance_miles": 7.5,
+        "services_available": [
+          "General Store",
+          "Gas Stations",
+          "Propane",
+          "Restaurants",
+          "Stanley Community Library",
+          "Clinic"
+        ]
+      },
+      {
+        "town_name": "Ketchum / Sun Valley, ID",
+        "distance_miles": 62.0,
+        "services_available": [
+          "Full Supermarkets",
+          "Gyms",
+          "St. Luke's Wood River Medical Center",
+          "Outdoor Outfitters",
+          "Public Library"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Late May thaw: cold (35-50\u00b0F), high snowmelt runoff, lingering snowpacks.",
+      "summer": "Spectacular high mountain summer (75-85\u00b0F daytime, crisp 40-45\u00b0F nights), dry sunny weather.",
+      "fall": "Golden aspen leaf season (50-65\u00b0F daytime, sub-freezing 20-30\u00b0F nights), low humidity.",
+      "winter": "Severe alpine winter (-15 to 25\u00b0F), heavy snow, FS 640 snow-covered and closed to cars."
+    },
+    "dangers_and_hazards": [
+      "Black Bears and Grizzly Bears (expanding range) - bear spray mandatory",
+      "High altitude solar exposure and dehydration",
+      "Freezing night temperatures even in summer months"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Alpine stream and mountain silence",
+      "common_human_made_sounds": [
+        "Occasional passing vehicle on ID-21 (1.5 miles away)",
+        "Appalachian / Sawtooth hikers"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Lodgepole Pine",
+        "Douglas Fir (Pseudotsuga menziesii)",
+        "Quaking Aspen",
+        "Mountain Big Sagebrush",
+        "Idaho Fescue (Festuca idahoensis)"
+      ],
+      "common_animals": [
+        "Rocky Mountain Elk",
+        "Mule Deer",
+        "Black Bear",
+        "Wolf (Canis lupus - Sawtooth Pack)",
+        "Mountain Goat (Oreamnos americanus on high spires)",
+        "Chinook Salmon (Oncorhynchus tshawytscha in streams)"
+      ]
+    },
+    "human_demographics_and_culture": "Sawtooth Wilderness backpackers, fly anglers, digital nomads, mountain bikers, and alpine photographers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Shoshone-Bannock indigenous lore reveres the Sawtooth mountain range and Redfish / Stanley lakes as sacred ancestral spirit places of pristine water.",
+      "energetic_and_spiritual_features": "Profound high-alpine granite mountain energy, crystal-clear air purity, world-class Central Idaho Dark Sky Reserve atmosphere."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Stanley Lake to Bridal Veil Falls Trail",
+        "length_miles": 7.5,
+        "difficulty": "Moderate",
+        "features": "Winding wilderness trail along lake and stream leading to cascading waterfall"
+      }
+    ],
+    "public_reviews_summary": "Unbelievable wilderness scenery beneath the jagged Sawtooth Mountains. Cell service is good enough for remote work near the highway turnouts.",
+    "other_data": "Bortle Class 1 night sky (part of Central Idaho Dark Sky Reserve). High solar panel efficiency.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "id-salmon-river-blm-dispersed",
+    "name": "Salmon River Corridor BLM Primitive Campsites",
+    "state": "Idaho",
+    "county": "Lemhi County",
+    "coordinates": {
+      "latitude": 45.1785,
+      "longitude": -113.8942,
+      "elevation_ft": 3950
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Salmon Field Office",
+      "type": "Federal BLM",
+      "phone": "(208) 756-5400",
+      "website": "https://www.blm.gov/office/salmon-field-office"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Public BLM land primitive camping (zero fees)",
+      "stay_limit": "14 consecutive days within a 28-day period",
+      "guidelines": "Dispersed primitive camping along public river bends on Highway 93 corridor. Leave No Trace. Camp 200ft from water high-water mark where feasible."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in soil 200 feet from Salmon River. Pack out toilet paper and hygiene items or use portable toilet system.",
+      "trash_policy": "Pack-in / Pack-out all trash."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on BLM land.",
+      "safety_requirements": "Campfires must be contained in metal fire pan or existing stone fire ring. Fully douse with water before leaving.",
+      "seasonal_fire_bans": "Stage 1 and Stage 2 fire restrictions common in July-September."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved Highway 93 to short dirt/gravel river access pullouts",
+      "road_conditions": "Well-maintained gravel turnouts, flat sandy river bench pullouts.",
+      "vehicle_recommendation": "Accessible by standard low clearance 2WD cars and vans.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Highway Corridor Tower Line",
+      "verizon_reliability": "3-4 bars 4G LTE (20-40 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate (Canyon walls obstruct north/south line, but line-of-sight along highway corridor)",
+      "distance_from_tower_corridor_miles": 1.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Riverfront Primitive Campsites",
+      "Stone Fire Rings",
+      "Direct Salmon River Kayak/Raft Launch Access",
+      "Flat Gravel RV/Van Parking"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 9,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Salmon, ID",
+        "distance_miles": 8.0,
+        "services_available": [
+          "Save-A-Way Supermarket",
+          "Gas Stations",
+          "Lemhi County Library",
+          "Laundromat",
+          "Hardware Store",
+          "Hospital"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "45-62\u00b0F, river snowmelt runoff, crisp sunny days.",
+      "summer": "78-92\u00b0F, warm sunny canyon weather, ideal for river swimming.",
+      "fall": "50-70\u00b0F, cool night temps, stunning golden cottonwood foliage along river.",
+      "winter": "20-38\u00b0F, snow in canyon, cold icy nights."
+    },
+    "dangers_and_hazards": [
+      "Fast-moving river currents during spring runoff",
+      "Summer rattlesnakes in rocky scree slopes",
+      "High afternoon canyon winds"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Rushing river soundscape",
+      "common_human_made_sounds": [
+        "Occasional highway traffic across river valley",
+        "Distant drift boat oars"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Black Cottonwood",
+        "Big Sagebrush",
+        "Willow",
+        "Ponderosa Pine"
+      ],
+      "common_animals": [
+        "Bighorn Sheep",
+        "Bald Eagle",
+        "Osprey",
+        "Mule Deer",
+        "Chinook Salmon"
+      ]
+    },
+    "human_demographics_and_culture": "Whitewater kayakers, fly fishermen, vanlife nomads, local Idaho outdoorsmen.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Ancestral territory of the Agai'dika (Salmon Eater) Shoshone people. The Salmon River ('River of No Return') carries rich frontier and indigenous lore.",
+      "energetic_and_spiritual_features": "Revitalizing river energy, dramatic mountain canyon scenery."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Salmon River Canyon River Trail",
+        "length_miles": 6.5,
+        "difficulty": "Easy to Moderate",
+        "features": "Riverbank vistas, petroglyphs, bighorn sheep viewing"
+      }
+    ],
+    "public_reviews_summary": "Fantastic free riverfront boondocking right outside Salmon, ID. Fast cell internet, peaceful water sounds, and easy 2WD access.",
+    "other_data": "Free BLM dispersed land. Excellent nomad connectivity along Highway 93 corridor.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "id-middle-fork-boise-river-nf",
+    "name": "Middle Fork Boise River Road Dispersed Primitive Camping",
+    "state": "Idaho",
+    "county": "Boise County",
+    "coordinates": {
+      "latitude": 43.6821,
+      "longitude": -115.7412,
+      "elevation_ft": 3600
+    },
+    "management_agency": {
+      "name": "US Forest Service - Boise National Forest (Mountain Home Ranger District)",
+      "type": "USFS",
+      "phone": "(208) 587-7961",
+      "website": "https://www.fs.usda.gov/boise"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Dispersed Primitive Land (zero fee)",
+      "stay_limit": "14 consecutive days limit",
+      "guidelines": "Camp at designated dispersed pullouts along Middle Fork Boise River Road (Forest Road 268). Camp 100ft minimum from river."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in organic soil 200 feet from water. Pack out hygiene products.",
+      "trash_policy": "Strict Pack-In / Pack-Out. No forest garbage collection."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Abundant dead and down pine wood gathering permitted.",
+      "safety_requirements": "Campfires in established rock rings only. Clear 5ft radius of pine needles. Fully extinguish with water.",
+      "seasonal_fire_bans": "Summer fire restrictions active July through September."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel / Dirt Forest Road (FR 268)",
+      "road_conditions": "Washboard gravel, narrow canyon shelf sections, potholes.",
+      "vehicle_recommendation": "High clearance 2WD or 4x4 recommended; careful standard 2WD cars can reach lower river sites in dry weather.",
+      "scores": {
+        "road_grade": 5,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 6
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Low / Canyon Obstructed",
+      "verizon_reliability": "1-2 bars 4G LTE (Spotty / booster recommended)",
+      "att_reliability": "1 bar / SOS",
+      "tmobile_reliability": "No Service",
+      "terrain_obstruction_risk": "High (Deep granite canyon walls block tower signals)",
+      "distance_from_tower_corridor_miles": 14.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Riverfront Primitive Campsites",
+      "Nearby Natural Hot Springs (Twin Springs / Skinny Dipper access)",
+      "Stone Fire Rings",
+      "Ponderosa Pine Shade"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 4,
+      "distance_to_library_score": 3,
+      "distance_to_gym_score": 3,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Idaho City, ID",
+        "distance_miles": 24.0,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "Historic Saloons",
+          "Post Office",
+          "Public Library"
+        ]
+      },
+      {
+        "town_name": "Boise, ID",
+        "distance_miles": 42.0,
+        "services_available": [
+          "Full Metro City Services",
+          "Trader Joe's / Costco",
+          "24/7 Gyms",
+          "Hospitals"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "42-58\u00b0F, roaring river runoff, spring wildflower bloom.",
+      "summer": "75-90\u00b0F, warm sunny mountain days, refreshing river dips.",
+      "fall": "48-68\u00b0F, crisp clear nights, golden cottonwoods.",
+      "winter": "18-35\u00b0F, snow-covered canyon road, hot springs winter soak destination."
+    },
+    "dangers_and_hazards": [
+      "Narrow dirt canyon road with sharp blind turns",
+      "Spring river high-water hazard",
+      "Black bears in area (store food in bear-proof containers)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - River roar and forest wind",
+      "common_human_made_sounds": [
+        "Occasional ATV / dirt bike on weekend",
+        "Infrequent forest road vehicle"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Ponderosa Pine",
+        "Douglas Fir",
+        "Syringa (Idaho state flower)",
+        "Wild Mint"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "Elk",
+        "Mule Deer",
+        "Osprey",
+        "Rainbow Trout"
+      ]
+    },
+    "human_demographics_and_culture": "Hot spring seekers, fly anglers, Boise weekend campers, wilderness lovers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Thermal hot springs along the Boise River canyon were prized healing grounds for Shoshone and Bannock peoples for centuries.",
+      "energetic_and_spiritual_features": "Soothing geothermal hot springs, granite canyon tranquility."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Middle Fork Boise River Trail",
+        "length_miles": 9.0,
+        "difficulty": "Moderate",
+        "features": "Hot spring pools, river canyon overlooks, old growth ponderosa"
+      }
+    ],
+    "public_reviews_summary": "Peaceful river boondocking close to natural hot springs. Road is washboarded, cell service is weak, but the hot springs and river setting are unbelievable.",
+    "other_data": "Free Boise National Forest dispersed camping. Bring water filter.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "id-sawtooth-nf-pole-creek",
+    "name": "Pole Creek Dispersed Camping Area",
+    "state": "Idaho",
+    "county": "Custer / Blaine County",
+    "coordinates": {
+      "latitude": 43.8812,
+      "longitude": -114.6812,
+      "elevation_ft": 7300
+    },
+    "management_agency": {
+      "name": "US Forest Service - Sawtooth National Forest (Sawtooth NRA)",
+      "type": "USFS",
+      "phone": "(208) 727-5000",
+      "website": "https://www.fs.usda.gov/sawtooth"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Dispersed Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted at designated pullouts along Pole Creek Road (FR 197). Camp 100ft minimum from creek."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in mountain soil 200 feet from Pole Creek. Pack out all paper.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Abundant dead and down lodgepole pine wood gathering permitted.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Summer dry mountain fire restrictions active July-September."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved ID 75 (Sawtooth Scenic Byway) to gravel Forest Service Road (FR 197)",
+      "road_conditions": "Paved main highway access, smooth gravel forest road pullouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Sawtooth Valley Tower Line",
+      "verizon_reliability": "3-4 bars 4G LTE along ID 75 / Pole Creek valley entrance",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low across open high Sawtooth valley basin",
+      "distance_from_tower_corridor_miles": 3.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Unrivaled Sawtooth Peak Jagged Skyline Panoramas",
+      "Lodgepole Pine Shade",
+      "Flat Gravel RV & Van Pullouts",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Stanley, ID",
+        "distance_miles": 18.0,
+        "services_available": [
+          "Mountain Village Mercantile",
+          "Gas Stations",
+          "Stanley Community Library",
+          "Restaurants",
+          "Outfitters"
+        ]
+      },
+      {
+        "town_name": "Ketchum / Sun Valley, ID",
+        "distance_miles": 34.0,
+        "services_available": [
+          "Atkinsons' Market",
+          "Full Resort City Services",
+          "St. Luke's Hospital",
+          "24/7 Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "38-52\u00b0F, snow melt in Sawtooth valley, crisp mountain air.",
+      "summer": "70-84\u00b0F, prime Idaho mountain camping, clear blue skies.",
+      "fall": "45-65\u00b0F, golden quaking aspen foliage, chilly starry nights.",
+      "winter": "10-25\u00b0F, heavy snowpack, road closed to wheeled vehicles."
+    },
+    "dangers_and_hazards": [
+      "Black bears and wolves in Sawtooth NRA (store food securely)",
+      "High altitude sun exposure (7,300+ ft)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Mountain wind and Pole Creek cascades",
+      "common_human_made_sounds": [
+        "Occasional vehicle on Pole Creek road"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Lodgepole Pine",
+        "Quaking Aspen",
+        "Douglas Fir",
+        "Idaho Syringa"
+      ],
+      "common_animals": [
+        "Elk",
+        "Mule Deer",
+        "Gray Wolf",
+        "Osprey",
+        "Chinook Salmon",
+        "Bald Eagle"
+      ]
+    },
+    "human_demographics_and_culture": "Shoshone-Bannock ancestral lands, Sawtooth NRA guides, Idaho outdoorsmen, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Sacred ancestral territory of the Shoshone and Bannock tribes honoring the sharp granite spires of the Sawtooth range.",
+      "energetic_and_spiritual_features": "Profound Sawtooth mountain peak reflection energy, crystalline mountain creek clarity."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Pole Creek to Galena Summit Trail",
+        "length_miles": 6.5,
+        "difficulty": "Moderate",
+        "features": "Sawtooth valley vistas, alpine meadows, lodgepole forest"
+      }
+    ],
+    "public_reviews_summary": "Idaho's single best free Sawtooth peak view boondocking. Jagged mountain skyline views, fast cell internet near Stanley, and 100% free USFS access.",
+    "other_data": "Sawtooth National Forest Sawtooth NRA. Free dispersed primitive camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "idaho-005",
+    "name": "Magruder Corridor Primitive Dispersed Campsites",
+    "state": "Idaho",
+    "county": "Idaho County",
+    "coordinates": {
+      "latitude": 45.6981,
+      "longitude": -114.9452,
+      "elevation_ft": 5820.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Nez Perce-Clearwater & Bitterroot National Forests",
+      "type": "Federal",
+      "phone": "(208) 983-1950",
+      "website": "https://www.fs.usda.gov/nezperceclearwater"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night, no fees required for dispersed primitive camping along corridor)",
+      "stay_limit": "14 days maximum stay within a 30-day window",
+      "guidelines": "Dispersed primitive camping permitted along the 101-mile Magruder Corridor Road between Selway-Bitterroot and Frank Church-River of No Return Wilderness areas. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6 to 8 inches deep at least 200 feet from all creeks and springs. Pack out toilet paper and hygiene items.",
+      "trash_policy": "Strict Pack-It-In, Pack-It-Out rule. Wilderness boundary adjacent."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood may be gathered freely. Do not cut standing timber.",
+      "safety_requirements": "Use established rock fire rings. Extinguish with water until cold to touch.",
+      "seasonal_fire_bans": "Subject to USFS Stage 1 and Stage 2 fire restrictions in late summer."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved single-lane mountain dirt road (FS Road 468)",
+      "road_conditions": "Narrow, winding dirt mountain road with steep drop-offs, sharp rocks, and pullout turnouts.",
+      "vehicle_recommendation": "High clearance 4x4 or truck required; low clearance FWD passenger cars strictly NOT recommended due to sharp rocks and remote wilderness conditions.",
+      "scores": {
+        "road_grade": 8,
+        "road_terrain_difficulty": 8,
+        "supply_run_pain": 9
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Zero (0/5 Stars)",
+      "verizon_reliability": "No service along 100 miles of corridor",
+      "att_reliability": "No service",
+      "tmobile_reliability": "No service",
+      "terrain_obstruction_risk": "Extreme - deep mountain canyons and massive Bitterroot wilderness peaks",
+      "distance_from_tower_corridor_miles": 42.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Primitive Fire Rings",
+      "Crystal Clear Creek Water",
+      "Pristine Mountain Scenery",
+      "Unmatched Wilderness Solitude"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 1,
+      "distance_to_library_score": 1,
+      "distance_to_gym_score": 1,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Elk City, ID",
+        "distance_miles": 38.5,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "Local Tavern"
+        ]
+      },
+      {
+        "town_name": "Darby, MT",
+        "distance_miles": 54.2,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Road impassable due to deep mountain snowpack through June.",
+      "summer": "Brief warm summer window (July to September) with mild days (70-80\u00b0F) and cool nights (40-48\u00b0F).",
+      "fall": "Early snowstorms occur as early as late September; brilliant golden larch foliage.",
+      "winter": "Closed to vehicle traffic; accessible only by snowmobile."
+    },
+    "dangers_and_hazards": [
+      "Grizzly Bears & Black Bears (Bear canister/hang mandatory)",
+      "Extreme Remote Wilderness Isolation",
+      "No Cell Coverage for 100 Miles",
+      "Flat Tires from Sharp Mountain Rocks",
+      "Sudden Summer Snowstorms or Wildfires"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Pure Wilderness Quiet (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Occasional high-clearance 4WD vehicle"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Ponderosa Pine",
+        "Douglas Fir",
+        "Western Larch (Tamarack)",
+        "Lodgepole Pine",
+        "Beargrass"
+      ],
+      "common_animals": [
+        "Grizzly Bear",
+        "Rocky Mountain Elk",
+        "Gray Wolf",
+        "Mountain Lion",
+        "Bighorn Sheep"
+      ]
+    },
+    "human_demographics_and_culture": "Historical frontier logging, mining, and wilderness trapping culture along the historic Nez Perce trail route across the Bitterroot Mountains.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Historic ancestral crossing of the Nimiipuu (Nez Perce) people; mountain passes carry deep reverence for wilderness spirits.",
+      "energetic_and_spiritual_features": "Unbroken wilderness expanse spanning over 4 million contiguous acres provides profound silence and spiritual clarity."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Burnt Knob Lookout Trail",
+        "length_miles": 2.4,
+        "difficulty": "Strenuous",
+        "features": "Historic fire lookout tower perched on granite pinnacle with 360-degree wilderness panorama"
+      }
+    ],
+    "public_reviews_summary": "The ultimate epic wilderness overland drive and primitive camping corridor in the lower 48, but requires full self-sufficiency and spare tires.",
+    "other_data": "Carry extra fuel, two full-sized spare tires, tire plug kit, satellite communicator, and bear spray.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "idaho-006",
+    "name": "Sawtooth National Forest Valley Road Dispersed Zone",
+    "state": "Idaho",
+    "county": "Custer",
+    "coordinates": {
+      "latitude": 44.2148,
+      "longitude": -114.9125,
+      "elevation_ft": 6480.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Sawtooth National Forest (Sawtooth National Recreation Area)",
+      "type": "Federal",
+      "phone": "(208) 727-5000",
+      "website": "https://www.fs.usda.gov/sawtooth"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed forest camping)",
+      "stay_limit": "14 days maximum stay within a 30-day window",
+      "guidelines": "Dispersed primitive camping allowed along Valley Road (FR 208) outside Stanley basin fee loops. Camp 100 ft from Salmon River. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Salmon River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold with river water.",
+      "seasonal_fire_bans": "Subject to USFS dry summer fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest service road (FR 208)",
+      "road_conditions": "Graded gravel road with flat mountain meadow pullouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2.5/5 Stars)",
+      "verizon_reliability": "2 bars 4G LTE near Stanley valley highway turnoff",
+      "att_reliability": "1-2 bars 4G LTE",
+      "tmobile_reliability": "1 bar 4G LTE",
+      "terrain_obstruction_risk": "High - 10,000-foot jagged Sawtooth Mountain wall",
+      "distance_from_tower_corridor_miles": 7.5,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "10,000-ft Sawtooth Jagged Peak Views",
+      "Salmon River Headwaters Access",
+      "Dark Sky Reserve Observation"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Stanley, ID",
+        "distance_miles": 8.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Outfitters",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Ketchum / Sun Valley, ID",
+        "distance_miles": 52.0,
+        "services_available": [
+          "Supermarket",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Full Resort Amenities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Valley thaws in May/June; roaring snowmelt in Salmon River.",
+      "summer": "Pleasant mountain summer (74-82\u00b0F) with cool mountain nights (38\u00b0F).",
+      "fall": "Golden larch and cottonwood foliage in late September.",
+      "winter": "Cold sub-zero winter (-15 to 20\u00b0F); snowmobile and ski hub."
+    },
+    "dangers_and_hazards": [
+      "Black Bears & Wolves",
+      "Freezing Night Temps",
+      "Cold Salmon River Currents"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Sawtooth Wilderness Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Occasional forest road car",
+        "High altitude commercial flights"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Lodgepole Pine",
+        "Douglas Fir",
+        "Subalpine Fir",
+        "Idaho Fescue"
+      ],
+      "common_animals": [
+        "Rocky Mountain Elk",
+        "Gray Wolf",
+        "Black Bear",
+        "Chinook Salmon",
+        "Osprey"
+      ]
+    },
+    "human_demographics_and_culture": "Central Idaho Sawtooth Wilderness, Salmon River salmon conservation, and mountain outdoor culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Shoshone and Bannock traditions honor the Sawtooth Range as sacred high mountain hunting grounds.",
+      "energetic_and_spiritual_features": "Jagged 10,000-foot Sawtooth granite needles rising directly behind mountain meadows generate world-class majestic power."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Sawtooth Lake & Fishhook Creek Trail",
+        "length_miles": 8.5,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Alpine granite glacial lakes, Sawtooth peak wall reflections, lodgepole pine forest"
+      }
+    ],
+    "public_reviews_summary": "Unbelievable views of the Sawtooth Mountains right from your campsite with quiet night skies.",
+    "other_data": "Store food in bear containers and carry paper maps.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "idaho-007",
+    "name": "Salmon River BLM Dispersed Corridor Zone",
+    "state": "Idaho",
+    "county": "Lemhi",
+    "coordinates": {
+      "latitude": 45.1812,
+      "longitude": -113.8812,
+      "elevation_ft": 3950.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Salmon Field Office",
+      "type": "Federal",
+      "phone": "(208) 756-5400",
+      "website": "https://www.blm.gov/idaho"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive BLM dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Salmon River Road (US-93 / Highway 28 corridor) pullouts outside developed fee recreation loops. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Utilize BLM river vault toilets where available, or bury 6-8 inches deep 200 ft from Salmon River.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold with river water.",
+      "seasonal_fire_bans": "Subject to BLM Stage 1 & 2 dry summer fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved highway to gravel river turnouts",
+      "road_conditions": "Paved access roads with flat river bank pullouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car, camper vans, and rigs.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE along river highway corridor",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate - broad Salmon River mountain valley",
+      "distance_from_tower_corridor_miles": 2.2,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Salmon River Whitewater & Trout Access",
+      "River Bank Flat Campsite",
+      "Vault Toilet nearby"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 9,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Salmon, ID",
+        "distance_miles": 8.5,
+        "services_available": [
+          "Supermarket",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Outfitters",
+          "Hardware Store"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush valley greening with roaring whitewater runoff.",
+      "summer": "Warm sunny days (82-90\u00b0F) with river swimming and rafting.",
+      "fall": "Crisp autumn weather with golden cottonwood foliage.",
+      "winter": "Cool to cold valley winter (22-38\u00b0F)."
+    },
+    "dangers_and_hazards": [
+      "Cold Whitewater River Currents",
+      "Rattlesnakes",
+      "Black Bears"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "River Canyon Rushing Audio (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Distant highway US-93 traffic hum",
+        "Occasional raft launch"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Plains Cottonwood",
+        "Ponderosa Pine",
+        "Big Sagebrush",
+        "Syringa (State Flower)"
+      ],
+      "common_animals": [
+        "Bighorn Sheep",
+        "Rocky Mountain Elk",
+        "Chinook Salmon",
+        "Osprey",
+        "Bald Eagle"
+      ]
+    },
+    "human_demographics_and_culture": "Salmon River whitewaters ('River of No Return'), Lewis & Clark Expedition history (Sacajawea birthplace), and Idaho fly fishing heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Agai-Dika Shoshone traditions honor the Salmon River as the sacred lifeline of salmon people.",
+      "energetic_and_spiritual_features": "Rushing waters of the Salmon River framed by steep mountain walls generate an invigorating energy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Salmon River Canyon Trail & Goldbug Hot Springs Trail",
+        "length_miles": 4.2,
+        "difficulty": "Moderate",
+        "features": "Natural thermal hot spring waterfalls, river canyon vistas"
+      }
+    ],
+    "public_reviews_summary": "Top choice for digital nomads wanting free riverfront camping with reliable cell coverage near Salmon, Idaho.",
+    "other_data": "Boil or treat river water.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "idaho-008",
+    "name": "Caribou-Targhee National Forest Big Springs Primitive Zone",
+    "state": "Idaho",
+    "county": "Fremont",
+    "coordinates": {
+      "latitude": 44.5125,
+      "longitude": -111.2812,
+      "elevation_ft": 6380.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Caribou-Targhee National Forest (Ashton-Island Park Ranger District)",
+      "type": "Federal",
+      "phone": "(208) 652-7442",
+      "website": "https://www.fs.usda.gov/ctnf"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed forest camping)",
+      "stay_limit": "14 days maximum stay within a 30-day window",
+      "guidelines": "Dispersed primitive camping allowed along Big Springs Road and forest service roads outside Yellowstone National Park boundary. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from springs and Henrys Fork river. Pack out paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy. Bear food storage order strictly enforced."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS dry summer fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved US-20 to gravel forest service roads",
+      "road_conditions": "Paved access roads to smooth gravel forest pullouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Good (3.5/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "3 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate - gentle lodgepole pine plateau",
+      "distance_from_tower_corridor_miles": 3.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Henrys Fork River Water Access",
+      "Lodgepole Pine Shade",
+      "Yellowstone Gateway Access"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 8,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Island Park, ID",
+        "distance_miles": 6.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Outfitters",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "West Yellowstone, MT",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Supermarket",
+          "Medical Center",
+          "Public Library",
+          "Yellowstone Gateway Amenities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Snow thaws through May; crystal clear natural springs flow.",
+      "summer": "Pleasant summer weather (75-82\u00b0F) with fly fishing on Henrys Fork.",
+      "fall": "Crisp autumn weather with golden lodgepole pine needle drop.",
+      "winter": "Cold mountain winter (10-25\u00b0F) with heavy snowpack; snowmobile capital."
+    },
+    "dangers_and_hazards": [
+      "Grizzly Bears & Black Bears (Mandatory USFS Bear Food Storage Order)",
+      "Moose on Forest Roads"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Lodgepole Forest Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Occasional passing forest road car",
+        "High altitude commercial flights"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Lodgepole Pine",
+        "Douglas Fir",
+        "Quaking Aspen",
+        "Fireweed"
+      ],
+      "common_animals": [
+        "Grizzly Bear",
+        "Moose",
+        "Rainbow Trout",
+        "Bald Eagle",
+        "Trumpeter Swan"
+      ]
+    },
+    "human_demographics_and_culture": "Island Park Yellowstone gateway, Henrys Fork fly fishing, and lodgepole timber culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Shoshone legends honor Big Springs as a sacred crystal water source flowing continuously from beneath the earth.",
+      "energetic_and_spiritual_features": "120 million gallons per day of crystal clear 52-degree spring water emerging from volcanic rock creates a serene life energy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Big Springs Waterway & Johnny Sack Cabin Trail",
+        "length_miles": 2.5,
+        "difficulty": "Easy",
+        "features": "Massive freshwater spring headwaters, historic 1930s log cabin, giant trout viewing"
+      }
+    ],
+    "public_reviews_summary": "Great free camping spot near West Yellowstone with good cell service, giant pine shade, and crystal springs.",
+    "other_data": "Grizzly bear food storage order strictly enforced by USFS rangers.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "idaho-009",
+    "name": "BLM Morley Nelson Snake River Birds of Prey Primitive Zone",
+    "state": "Idaho",
+    "county": "Ada / Elmore",
+    "coordinates": {
+      "latitude": 43.2812,
+      "longitude": -116.1412,
+      "elevation_ft": 3120.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Four Rivers Field Office",
+      "type": "Federal",
+      "phone": "(208) 384-3300",
+      "website": "https://www.blm.gov/idaho"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive BLM dispersed camping)",
+      "stay_limit": "14 days maximum stay within a 28-day window",
+      "guidelines": "Dispersed primitive camping allowed along Swan Falls Road and canyon rim dirt roads outside day-use park boundary. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Snake River gorge rim. Pack out paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring firewood; no wood collecting on sagebrush plain.",
+      "safety_requirements": "Campfires permitted in cleared metal or stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to BLM Stage 1 & 2 fire bans during dry summer."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved Swan Falls Road to gravel dirt rim pullouts",
+      "road_conditions": "Paved road access to flat gravel plateau rim pullouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE on high gorge plateau rim",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low on high plateau rim; high down inside Snake River canyon bottom",
+      "distance_from_tower_corridor_miles": 2.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Snake River 700-ft Basalt Canyon Vistas",
+      "Raptor Birdwatching Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 9,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Kuna, ID",
+        "distance_miles": 14.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Boise, ID",
+        "distance_miles": 28.0,
+        "services_available": [
+          "State Capital Amenities",
+          "Airport",
+          "Hospitals",
+          "Full Urban Facilities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush sagebrush greening with peak nesting raptor watching (April/May).",
+      "summer": "Warm to hot desert summer (90-98\u00b0F) with cool canyon evening breezes.",
+      "fall": "Crisp dry autumn weather.",
+      "winter": "Cool high desert winter (35-48\u00b0F) with light snow."
+    },
+    "dangers_and_hazards": [
+      "700-ft Vertical Basalt Canyon Drop-offs",
+      "Prairie Rattlesnakes",
+      "High Summer Heat"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Canyon Rim Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Occasional passing canyon road car",
+        "High altitude commercial flights"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Big Sagebrush",
+        "Winterfat",
+        "Cheatgrass",
+        "Peachleaf Willow"
+      ],
+      "common_animals": [
+        "Prairie Falcon (Highest nesting density in North America)",
+        "Golden Eagle",
+        "Red-tailed Hawk",
+        "Piute Ground Squirrel",
+        "Coyote"
+      ]
+    },
+    "human_demographics_and_culture": "Boise Metro outdoor escape, raptor conservation research, and Snake River hydroelectric canyon heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Northern Shoshone traditions honor the Snake River basalt canyon as sacred raptor sky grounds.",
+      "energetic_and_spiritual_features": "700-foot vertical volcanic basalt gorge with soaring golden eagles generates an inspiring, free energy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Swan Falls Dam & Snake River Canyon Rim Trail",
+        "length_miles": 5.2,
+        "difficulty": "Easy to Moderate",
+        "features": "700-ft basalt canyon views, raptor nesting cliffs, Snake River hydroelectric dam"
+      }
+    ],
+    "public_reviews_summary": "Incredible raptor watching over a 700-foot basalt gorge with fast 5G cell internet near Boise.",
+    "other_data": "Stay back from un-barricaded canyon cliff edges.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "idaho-010",
+    "name": "Idaho Panhandle National Forest Priest Lake Primitive Zone",
+    "state": "Idaho",
+    "county": "Bonner",
+    "coordinates": {
+      "latitude": 48.6125,
+      "longitude": -116.9125,
+      "elevation_ft": 2480.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Idaho Panhandle National Forests (Priest Lake Ranger District)",
+      "type": "Federal",
+      "phone": "(208) 443-2512",
+      "website": "https://www.fs.usda.gov/ipnf"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed forest camping)",
+      "stay_limit": "14 days maximum stay within a 30-day window",
+      "guidelines": "Dispersed primitive camping allowed along Eastside Road (FR 437) and forest service roads outside developed lake fee loops. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Priest Lake and streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy. Bear food storage required."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold with lake water.",
+      "seasonal_fire_bans": "Subject to USFS dry summer fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved county road to gravel forest service roads",
+      "road_conditions": "Paved access road to graded gravel lake forest turnouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Good (3/5 Stars)",
+      "verizon_reliability": "3 bars 4G LTE",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate - Selkirk mountain range and old-growth cedar forest canopy",
+      "distance_from_tower_corridor_miles": 5.2,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Priest Lake Freshwater Access",
+      "Selkirk Mountain Peak Vistas",
+      "Old-Growth Cedar Canopy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Priest River, ID",
+        "distance_miles": 22.4,
+        "services_available": [
+          "Supermarket",
+          "Gas Station",
+          "Hardware Store",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Sandpoint, ID",
+        "distance_miles": 42.0,
+        "services_available": [
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Full Resort Amenities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush Pacific Northwest greening; mountain stream thaw.",
+      "summer": "Pleasant summer weather (76-84\u00b0F) with pristine lake swimming and boating.",
+      "fall": "Crisp mountain autumn foliage in October.",
+      "winter": "Cold mountain winter (20-35\u00b0F) with heavy snowpack."
+    },
+    "dangers_and_hazards": [
+      "Grizzly Bears & Black Bears (Food storage required)",
+      "Cold Deep Lake Waters",
+      "Falling Cedar Branches"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Northwoods Lake Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Distant outboard motor on lake",
+        "Occasional forest road car"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Western Red Cedar (Ancient Giant Cedars)",
+        "Western Hemlock",
+        "Douglas Fir",
+        "Huckleberry"
+      ],
+      "common_animals": [
+        "Grizzly Bear",
+        "Black Bear",
+        "Moose",
+        "Osprey",
+        "Mackinaw Trout"
+      ]
+    },
+    "human_demographics_and_culture": "Idaho Panhandle timber, Selkirk mountain wilderness, and Priest Lake resort heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Kalispel traditions honor Priest Lake and the ancient giant cedar groves as sacred spirit water sanctuaries.",
+      "energetic_and_spiritual_features": "Giant 800-year-old western red cedar groves reflecting in pristine glacial lake waters generate deep natural majesty."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Roosevelt Ancient Grove Cedar Trail & Lakeshore Trail",
+        "length_miles": 4.8,
+        "difficulty": "Easy to Moderate",
+        "features": "800-year-old giant cedar trees, waterfalls, pristine Priest Lake shoreline"
+      }
+    ],
+    "public_reviews_summary": "Magical old-growth cedar forest camping on Priest Lake with decent cell service and pristine water.",
+    "other_data": "Store food in bear canisters.",
+    "last_updated": "2026-09-12"
+  }
+]

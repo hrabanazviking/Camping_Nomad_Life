@@ -1,0 +1,1276 @@
+[
+  {
+    "id": "ri-arcadia-north-south-trail",
+    "name": "Arcadia Management Area Free Primitive Trail Campsite - North-South Trail",
+    "state": "Rhode Island",
+    "county": "Washington County",
+    "coordinates": {
+      "latitude": 41.5812,
+      "longitude": -71.7184,
+      "elevation_ft": 280
+    },
+    "management_agency": {
+      "name": "Rhode Island Department of Environmental Management (DEM) - Division of Forest Environment",
+      "type": "State DEM",
+      "phone": "(401) 539-2356",
+      "website": "https://dem.ri.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Free RI DEM Backpacking Permit required online/office (zero fee)",
+      "stay_limit": "2 consecutive nights max stay limit",
+      "guidelines": "Primitive pack-in camping permitted only at designated primitive shelter/campsite locations along the North-South Trail within Arcadia Management Area. No vehicle camping inside interior."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6-8 inches deep in organic soil, at least 200 feet from Wood River and streams. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only.",
+      "safety_requirements": "Campfires in established rock fire rings only. Extinguish cold to touch.",
+      "seasonal_fire_bans": "Obey RI DEM Forest Environment burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state road leading to gravel trailhead parking area (Ten Rod Road / Summit Road)",
+      "road_conditions": "Paved state road access to trailhead lot. Campsites are a short 0.5 to 1.5 mile walk-in trail.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (parked at trailhead lot)",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Connectivity",
+      "verizon_reliability": "4-5 bars 5G/LTE (40-85 Mbps download)",
+      "att_reliability": "4-5 bars 5G/LTE",
+      "tmobile_reliability": "3-4 bars 5G Ultra Capacity",
+      "terrain_obstruction_risk": "Low (Gentle rolling white pine / oak forest)",
+      "distance_from_tower_corridor_miles": 2.1,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Rustic Wooden Lean-to Shelter",
+      "Wood River Stream Water Access (Filter required)",
+      "Established Rock Fire Ring",
+      "High-speed 5G Cellular Internet"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 7,
+      "terrain_score": 6,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Hope Valley / Exeter, RI",
+        "distance_miles": 5.5,
+        "services_available": [
+          "Supermarket",
+          "Gas Stations",
+          "Pharmacy",
+          "Exeter Public Library",
+          "Medical Center"
+        ]
+      },
+      {
+        "town_name": "Providence, RI",
+        "distance_miles": 28.0,
+        "services_available": [
+          "Full City Services",
+          "Rhode Island Hospital",
+          "International Airport",
+          "University"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "50-65°F, blooming forest understory, spring rainstorms.",
+      "summer": "75-85°F, shaded white pine canopy, pleasant coastal summer climate.",
+      "fall": "Crisp 55-70°F days, brilliant New England autumn foliage, prime trail camping.",
+      "winter": "Cool 25-40°F, freezing nights, occasional light snow."
+    },
+    "dangers_and_hazards": [
+      "Blacklegged ticks (Lyme disease vector) in high brush",
+      "Poison ivy in forest understory"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Pine forest and stream quiet",
+      "common_human_made_sounds": [
+        "North-South Trail hikers",
+        "Distant aircraft approach for Providence Airport"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Eastern White Pine (Pinus strobus)",
+        "Red Oak",
+        "Mountain Laurel",
+        "Highbush Blueberry",
+        "Partridgeberry (Mitchella repens)"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Eastern Chipmunk (Tamias striatus)",
+        "Red-shouldered Hawk"
+      ]
+    },
+    "human_demographics_and_culture": "North-South Trail backpackers, trout anglers on Wood River, digital nomads, and local nature lovers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Narragansett and Niantic indigenous traditions revere the ancient pine forests and Wood River stream headwaters as sacred ancestral life lands.",
+      "energetic_and_spiritual_features": "White pine forest aroma and energy, serene stream acoustics, fast 5G connectivity."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "North-South Trail (Arcadia Section)",
+        "length_miles": 12.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Winding white pine forest paths, Stepstone Falls, wooden footbridges"
+      }
+    ],
+    "public_reviews_summary": "Clean, quiet, and beautiful free primitive trail camping in Rhode Island. Blazing fast 5G cell internet and easy access.",
+    "other_data": "Bortle Class 4 night sky. Free DEM permit required.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ri-arcadia-management-area-primitive",
+    "name": "Arcadia Management Area Primitive Shelter Campsite",
+    "state": "Rhode Island",
+    "county": "Washington County",
+    "coordinates": {
+      "latitude": 41.5812,
+      "longitude": -71.7214,
+      "elevation_ft": 280
+    },
+    "management_agency": {
+      "name": "Rhode Island Department of Environmental Management (DEM) - Division of Forest Environment",
+      "type": "State DEM",
+      "phone": "(401) 539-2356",
+      "website": "https://dem.ri.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - RI DEM Free Primitive Backpacking Permit required online/in-person (zero cost)",
+      "stay_limit": "2 consecutive nights stay limit",
+      "guidelines": "Primitive backpacking camping permitted at designated Frosty Hollow shelter/primitive site in Arcadia Management Area. Carry in / carry out."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Use wooden pit privy at shelter site or dig cat-hole 6 inches deep in soil 200 feet from Wood River. Pack out all paper.",
+      "trash_policy": "Strict Carry-In / Carry-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on site.",
+      "safety_requirements": "Campfires in established stone fire pit only. Fully extinguish before leaving.",
+      "seasonal_fire_bans": "Spring dry leaf weather fire restrictions."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state road to gravel forest parking lot",
+      "road_conditions": "Graded gravel access parking lot, 0.5 mile hike-in.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Near I-95 Tower Corridor",
+      "verizon_reliability": "4-5 bars 4G/5G LTE (30-65 Mbps download)",
+      "att_reliability": "4-5 bars 4G/5G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low (Gentle rolling piney woods topography)",
+      "distance_from_tower_corridor_miles": 2.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Wooden Shelter Lean-To",
+      "Pit Privy Toilet",
+      "Wood River Freshwater Stream Access",
+      "Stone Fire Ring"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 7,
+      "terrain_score": 6,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Hope Valley / Richmond, RI",
+        "distance_miles": 4.0,
+        "services_available": [
+          "Supermarket",
+          "Gas Stations",
+          "Richmond Public Library",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Westerly / Providence Metro, RI",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Full Metro Services",
+          "Hospital",
+          "24/7 Gyms",
+          "Hardware Stores"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "50-65°F, blooming mountain laurel, fresh pine scent.",
+      "summer": "72-84°F, pleasant Southern New England forest summer weather.",
+      "fall": "50-68°F, vibrant colorful hardwood foliage.",
+      "winter": "28-42°F, mild winter, light snow."
+    },
+    "dangers_and_hazards": [
+      "Ticks in summer months (use permethrin)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Wood River water flow and woodland songbirds",
+      "common_human_made_sounds": [
+        "Occasional distant vehicle on country road"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Pine",
+        "Pitch Pine",
+        "Red Oak",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Brook Trout",
+        "Osprey"
+      ]
+    },
+    "human_demographics_and_culture": "Narragansett ancestral lands, Rhode Island outdoorsmen, trout anglers, digital nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Traditional Narragansett territory honoring the pristine Wood River valley as a sacred place of life-giving waters.",
+      "energetic_and_spiritual_features": "Relaxing pine forest quietness, pristine crystal clear river water."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Arcadia Ben Utter Trail",
+        "length_miles": 4.5,
+        "difficulty": "Easy to Moderate",
+        "features": "Wood River stream banks, Stepstone Falls, pine groves"
+      }
+    ],
+    "public_reviews_summary": "Rhode Island's best free primitive shelter camping. Blazing 5G cell internet, clean wooden lean-to, and just 5 minutes to Hope Valley.",
+    "other_data": "Rhode Island DEM Management Area. Free permit required.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ri-casimir-pulaski-memorial-state-park-shelter",
+    "name": "Casimir Pulaski Primitive Shelter Site",
+    "state": "Rhode Island",
+    "county": "Providence County",
+    "coordinates": {
+      "latitude": 41.9412,
+      "longitude": -71.7812,
+      "elevation_ft": 620
+    },
+    "management_agency": {
+      "name": "Rhode Island Department of Environmental Management (DEM)",
+      "type": "State DEM",
+      "phone": "(401) 568-2013",
+      "website": "https://dem.ri.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Free RI DEM Primitive Backpacking Permit required online (zero cost)",
+      "stay_limit": "2 consecutive nights stay limit",
+      "guidelines": "Primitive backpacking camping permitted at designated shelter/primitive site in Pulaski State Park / George Washington Management Area."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Use wooden pit privy at shelter site or dig cat-hole 6 inches deep in soil 200 feet from Peck Pond. Pack out all paper.",
+      "trash_policy": "Strict Carry-In / Carry-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on site.",
+      "safety_requirements": "Campfires in established stone fire pit only. Fully douse with water before leaving.",
+      "seasonal_fire_bans": "Spring dry leaf weather fire restrictions."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route to gravel forest entrance road",
+      "road_conditions": "Smooth gravel parking area access, 0.5 mile hike-in.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Providence Metro Cell Signal",
+      "verizon_reliability": "4-5 bars 4G/5G LTE (30-70 Mbps download)",
+      "att_reliability": "4-5 bars 4G/5G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low (Rolling piney forest topography)",
+      "distance_from_tower_corridor_miles": 2.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Wooden Lean-To Shelter",
+      "Pit Privy Toilet",
+      "Peck Pond Water Source (Filter mandatory)",
+      "Stone Fire Ring"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 7,
+      "terrain_score": 7,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Chepachet / Pascoag, RI",
+        "distance_miles": 4.0,
+        "services_available": [
+          "Supermarket",
+          "Gas Stations",
+          "Glocester Manton Free Public Library",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Providence, RI",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Full Capital Metro Services",
+          "Costco / Target",
+          "Rhode Island Hospital",
+          "24/7 Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "48-65°F, blooming wild mountain laurel, crisp fresh pine air.",
+      "summer": "72-84°F, pleasant New England forest summer weather.",
+      "fall": "50-68°F, vibrant colorful hardwood foliage.",
+      "winter": "25-40°F, mild winter, light snow."
+    },
+    "dangers_and_hazards": [
+      "Ticks in summer months (use permethrin)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Wind through white pines and woodland songbirds",
+      "common_human_made_sounds": [
+        "Occasional distant vehicle on state route"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Pine",
+        "Red Oak",
+        "Hemlock",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Red Fox",
+        "Osprey"
+      ]
+    },
+    "human_demographics_and_culture": "Nipmuc ancestral lands, Rhode Island outdoorsmen, digital nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Traditional Nipmuc nation territory honoring the ancient pine forests and clear ponds of Northwest Rhode Island.",
+      "energetic_and_spiritual_features": "Relaxing pine forest quietness, serene pond water reflections."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Walkill / Pulaski Loop Trail",
+        "length_miles": 4.5,
+        "difficulty": "Easy",
+        "features": "Peck Pond shoreline, white pine groves, historic stone walls"
+      }
+    ],
+    "public_reviews_summary": "Great free primitive shelter camping in Northwest Rhode Island. Blazing 5G cell internet, clean wooden lean-to, and just 5 minutes to Chepachet.",
+    "other_data": "Rhode Island DEM. Free permit required online.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "rhode_island-004",
+    "name": "Midstate Trail Primitive Trailside Lean-to Zone - Buck Hill Management Area",
+    "state": "Rhode Island",
+    "county": "Providence",
+    "coordinates": {
+      "latitude": 41.9812,
+      "longitude": -71.7812,
+      "elevation_ft": 680.0
+    },
+    "management_agency": {
+      "name": "Rhode Island Department of Environmental Management (DEM) - Division of Fish & Wildlife",
+      "type": "State",
+      "phone": "(401) 789-0281",
+      "website": "https://dem.ri.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive trailside camping for long-distance backpackers)",
+      "stay_limit": "1 night maximum stay limit per shelter site",
+      "guidelines": "Primitive trailside lean-to shelter camping allowed for backpackers along the Midstate/North-South Trail. Carry-in carry-out policy."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from watercourses. Pack out all paper products.",
+      "trash_policy": "Strict Carry-In, Carry-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather small dead and down wood only.",
+      "safety_requirements": "Campfires allowed in existing stone fire ring at lean-to site. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to RI DEM dry spring fire danger advisories."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state road to gravel trailhead lot",
+      "road_conditions": "Paved access road; 1-mile hike required to reach shelter.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low - gentle New England hill country",
+      "distance_from_tower_corridor_miles": 2.2,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Wooden Lean-to Shelter",
+      "Stone Fire Ring",
+      "Trailhead Parking"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 6,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Pascoag, RI",
+        "distance_miles": 6.4,
+        "services_available": [
+          "Supermarket",
+          "Gas Station",
+          "Hardware Store",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Providence, RI",
+        "distance_miles": 24.0,
+        "services_available": [
+          "State Capital Amenities",
+          "Hospitals",
+          "Airport",
+          "Full Urban Facilities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool spring weather with wild wetland vegetation emergence.",
+      "summer": "Pleasant summer weather (75-84°F) with dense oak-pine canopy.",
+      "fall": "Vibrant New England autumn foliage in October.",
+      "winter": "Cool to cold (22-38°F) with light snow."
+    },
+    "dangers_and_hazards": [
+      "Ticks (Lyme Disease Risk)",
+      "Seasonal Hunting Activity"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Quiet Woodland Atmosphere (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Distant traffic hum on Route 100",
+        "High altitude commercial flights"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Oak",
+        "White Pine",
+        "Red Maple",
+        "Highbush Blueberry"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Red Fox",
+        "Barred Owl"
+      ]
+    },
+    "human_demographics_and_culture": "Rural Northwestern Rhode Island forest conservation and colonial stone wall history.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Nipmuc and Narragansett traditions honor quiet woodland streams guarded by nature spirits.",
+      "energetic_and_spiritual_features": "Colonial stone walls amidst pine groves create a serene, historical atmosphere."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "North-South Trail - Buck Hill Section",
+        "length_miles": 6.2,
+        "difficulty": "Easy to Moderate",
+        "features": "Historic stone walls, quiet hemlock swamps, lean-to trail shelter"
+      }
+    ],
+    "public_reviews_summary": "Fast 5G cell internet, peaceful trail lean-to shelter, zero cost, close to Providence.",
+    "other_data": "Wear fluorescent orange during fall hunting season.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "rhode_island-005",
+    "name": "George Washington Memorial Camping Dispersed Shelter Zone",
+    "state": "Rhode Island",
+    "county": "Providence",
+    "coordinates": {
+      "latitude": 41.9125,
+      "longitude": -71.7412,
+      "elevation_ft": 610.0
+    },
+    "management_agency": {
+      "name": "Rhode Island Department of Environmental Management (DEM)",
+      "type": "State",
+      "phone": "(401) 568-2013",
+      "website": "https://dem.ri.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive walk-in backcountry shelters)",
+      "stay_limit": "2 consecutive nights limit",
+      "guidelines": "Walk-in primitive camping permitted at designated backcountry shelters around Bowdish Reservoir trail. Carry-in carry-out."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Utilize primitive pit latrine. Pack out toilet paper.",
+      "trash_policy": "Strict Carry-In Carry-Out rule."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather small dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in existing stone fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to RI DEM fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state road to park parking lot",
+      "road_conditions": "Paved road access; 0.8-mile walk required to reach shelters.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 5G",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low - gentle reservoir shoreline and pine woods",
+      "distance_from_tower_corridor_miles": 2.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Backcountry Shelter",
+      "Bowdish Reservoir Water Access",
+      "Stone Fire Ring",
+      "Pit Latrine"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 6,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Chepachet, RI",
+        "distance_miles": 4.8,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Smithfield, RI",
+        "distance_miles": 14.5,
+        "services_available": [
+          "Supercenters",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush spring greenery with songbirds returning to reservoir.",
+      "summer": "Warm (76-84°F) with reservoir swimming and canoeing.",
+      "fall": "Beautiful New England autumn foliage reflection on water.",
+      "winter": "Cool to cold (22-38°F); frozen reservoir ice views."
+    },
+    "dangers_and_hazards": [
+      "Ticks",
+      "Poison Ivy"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Tranquil Reservoir Audio (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Distant Route 44 traffic hum",
+        "High altitude flights"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Eastern White Pine",
+        "Red Maple",
+        "Pitch Pine",
+        "Water Lilies"
+      ],
+      "common_animals": [
+        "Beaver",
+        "Great Blue Heron",
+        "Osprey",
+        "White-tailed Deer"
+      ]
+    },
+    "human_demographics_and_culture": "Rhode Island reservoir conservation and historic Glocester town heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Narragansett history honors calm woodland lakes guarded by quiet nature spirits.",
+      "energetic_and_spiritual_features": "Peaceful lake water reflections provide a soothing mental sanctuary."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Walkill & Bowdish Reservoir Trail",
+        "length_miles": 3.8,
+        "difficulty": "Easy",
+        "features": "Scenic reservoir loop path, white pine groves, trail shelters"
+      }
+    ],
+    "public_reviews_summary": "Super easy walk-in primitive shelters, great cell signal, pristine reservoir views.",
+    "other_data": "Boil or treat all water taken from reservoir.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "rhode_island-006",
+    "name": "Arcadia Management Area Breakheart Pond Primitive Zone",
+    "state": "Rhode Island",
+    "county": "Washington",
+    "coordinates": {
+      "latitude": 41.5812,
+      "longitude": -71.7112,
+      "elevation_ft": 240.0
+    },
+    "management_agency": {
+      "name": "Rhode Island DEM - Division of Forest Environment",
+      "type": "State",
+      "phone": "(401) 539-2356",
+      "website": "https://dem.ri.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state management area trailside campsites)",
+      "stay_limit": "2 consecutive nights max limit",
+      "guidelines": "Free primitive trailside camping allowed at designated campsites along Breakheart Pond in 14,000-acre Arcadia. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Breakheart Pond. Pack out toilet paper.",
+      "trash_policy": "Strict Carry-In Carry-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": false,
+      "firewood_policy": "Campfires prohibited outside designated metal rings; backpack stoves allowed.",
+      "safety_requirements": "Backpacking gas stoves mandatory.",
+      "seasonal_fire_bans": "Subject to RI DEM fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route to gravel management access road",
+      "road_conditions": "Paved access road; smooth gravel road to pond parking.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4-5 bars 4G LTE / 5G",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open pond shoreline line of sight",
+      "distance_from_tower_corridor_miles": 2.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Breakheart Pond Shoreline Access",
+      "Pine-Oak Canopy",
+      "Trout Fishing",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 6,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Exeter, RI",
+        "distance_miles": 5.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Cafes"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush pond spring (54-68°F).",
+      "summer": "Warm summer (78-85°F) with pond swimming.",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cool winter (22-38°F)."
+    },
+    "dangers_and_hazards": [
+      "Ticks & Lyme Disease",
+      "Water Hazards"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Breakheart Pond Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Breakheart Pond water lap",
+        "Wind through white pine"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Pine",
+        "Red Oak",
+        "Mountain Laurel",
+        "Highbush Blueberry"
+      ],
+      "common_animals": [
+        "Brook Trout",
+        "White-tailed Deer",
+        "Beaver",
+        "Osprey"
+      ]
+    },
+    "human_demographics_and_culture": "Narragansett ancestral lands and Rhode Island rural forest conservation heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Breakheart Pond is the crown jewel of Rhode Island's largest state management area.",
+      "energetic_and_spiritual_features": "Quiet pine-clad pond banks with crystal clear waters."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Breakheart Pond Loop Trail",
+        "length_miles": 3.0,
+        "difficulty": "Easy",
+        "features": "Pond shoreline, historic dam, pine-oak canopy"
+      }
+    ],
+    "public_reviews_summary": "Serene pond basecamp near Exeter with fast 5G cell coverage.",
+    "other_data": "Great spring trout fishing.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "rhode_island-007",
+    "name": "George Washington Management Area Trailside Shelters",
+    "state": "Rhode Island",
+    "county": "Providence",
+    "coordinates": {
+      "latitude": 41.9112,
+      "longitude": -71.7412,
+      "elevation_ft": 650.0
+    },
+    "management_agency": {
+      "name": "Rhode Island DEM - Division of Forest Environment",
+      "type": "State",
+      "phone": "(401) 568-2013",
+      "website": "https://dem.ri.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state management area shelter campsites)",
+      "stay_limit": "2 consecutive nights max limit",
+      "guidelines": "Dispersed primitive backpack camping allowed at designated trail shelters along Walkill & North-South Trails. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Bowdish Reservoir. Pack out toilet paper.",
+      "trash_policy": "Strict Carry-In Carry-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": false,
+      "firewood_policy": "Campfires prohibited outside designated metal rings; backpack stoves allowed.",
+      "safety_requirements": "Backpacking gas stoves mandatory.",
+      "seasonal_fire_bans": "Subject to RI DEM fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved US Route 44 to management access road",
+      "road_conditions": "Paved highway access; smooth gravel turnouts to trailheads.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4-5 bars 4G LTE / 5G",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - upland forest plateau line of sight",
+      "distance_from_tower_corridor_miles": 3.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Bowdish Reservoir Views",
+      "White Pine Canopy",
+      "Trail Shelter Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 6,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Chepachet, RI",
+        "distance_miles": 5.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Historic Diners",
+          "Cafes"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush pine spring (52-66°F).",
+      "summer": "Warm summer (78-85°F).",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cold winter (20-35°F)."
+    },
+    "dangers_and_hazards": [
+      "Ticks & Lyme Disease"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Chepachet Forest Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through white pine",
+        "Songbirds"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Pine",
+        "Red Oak",
+        "Hemlock",
+        "Sweet Pepperbush"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Beaver",
+        "Great Blue Heron"
+      ]
+    },
+    "human_demographics_and_culture": "Nipmuc and Narragansett ancestral lands and historic Chepachet colonial village heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "George Washington Management Area encompasses 3,500 acres of dense white pine forest in northwest Rhode Island.",
+      "energetic_and_spiritual_features": "Quiet pine forest glades overlooking pristine Bowdish Reservoir."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Walkill Trail Loop",
+        "length_miles": 3.5,
+        "difficulty": "Easy",
+        "features": "Bowdish Reservoir shoreline, trail shelter, pine forest"
+      }
+    ],
+    "public_reviews_summary": "Peaceful pine forest shelter basecamp near Chepachet with fast 5G cell service.",
+    "other_data": "Trail shelter facilities.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "rhode_island-008",
+    "name": "Arcadia Management Area Frosty Hollow Dispersed Area",
+    "state": "Rhode Island",
+    "county": "Washington",
+    "coordinates": {
+      "latitude": 41.5412,
+      "longitude": -71.7412,
+      "elevation_ft": 180.0
+    },
+    "management_agency": {
+      "name": "Rhode Island DEM - Division of Forest Environment",
+      "type": "State",
+      "phone": "(401) 539-2356",
+      "website": "https://dem.ri.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state management area trailside campsites)",
+      "stay_limit": "2 consecutive nights max limit",
+      "guidelines": "Dispersed primitive backpack camping allowed at designated Frosty Hollow shelters and clearings. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Wood River. Pack out toilet paper.",
+      "trash_policy": "Strict Carry-In Carry-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": false,
+      "firewood_policy": "Campfires prohibited outside designated metal rings; backpack stoves allowed.",
+      "safety_requirements": "Backpacking gas stoves mandatory.",
+      "seasonal_fire_bans": "Subject to RI DEM fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route to gravel forest road",
+      "road_conditions": "Paved route access; smooth gravel forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4-5 bars 4G LTE / 5G",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open river valley line of sight",
+      "distance_from_tower_corridor_miles": 2.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Wood River Shoreline Access",
+      "White-water Kayak Trail",
+      "Pine Canopy",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 6,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Hope Valley, RI",
+        "distance_miles": 4.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush river spring (54-68°F).",
+      "summer": "Warm summer (78-85°F) with river cooling.",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cool winter (22-38°F)."
+    },
+    "dangers_and_hazards": [
+      "Ticks & Lyme Disease"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Wood River Valley Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wood River water murmur",
+        "Wind through hemlocks"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Pine",
+        "Eastern Hemlock",
+        "Red Oak",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "Trout",
+        "White-tailed Deer",
+        "Wood Duck",
+        "Otter"
+      ]
+    },
+    "human_demographics_and_culture": "Narragansett ancestral lands and Wood River paddling culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Wood River is Rhode Island's premier coldwater trout stream, flowing through unbroken state forest.",
+      "energetic_and_spiritual_features": "Quiet hemlock riverbank clearings with crystal clear water."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Wood River Trail",
+        "length_miles": 4.0,
+        "difficulty": "Easy",
+        "features": "Riverbank walk, hemlock ravines, trout fishing access"
+      }
+    ],
+    "public_reviews_summary": "Top-tier riverfront basecamp near Hope Valley with fast 5G cell service.",
+    "other_data": "Premier RI trout fishing stream.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "rhode_island-009",
+    "name": "Big River Management Area Primitive Trailside Zone",
+    "state": "Rhode Island",
+    "county": "Kent",
+    "coordinates": {
+      "latitude": 41.6112,
+      "longitude": -71.6112,
+      "elevation_ft": 280.0
+    },
+    "management_agency": {
+      "name": "Rhode Island Water Resources Board / DEM",
+      "type": "State",
+      "phone": "(401) 222-2776",
+      "website": "https://dem.ri.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state management area trailside campsites)",
+      "stay_limit": "2 consecutive nights max limit",
+      "guidelines": "Dispersed primitive backpack camping allowed along trail clearings throughout 8,200-acre Big River area. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Big River. Pack out toilet paper.",
+      "trash_policy": "Strict Carry-In Carry-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": false,
+      "firewood_policy": "Campfires prohibited; backpack gas stoves allowed.",
+      "safety_requirements": "Backpacking gas stoves mandatory.",
+      "seasonal_fire_bans": "Subject to RI DEM fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route to gravel forest road",
+      "road_conditions": "Paved route access; smooth gravel interior forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4-5 bars 4G LTE / 5G",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "4-5 bars 4G LTE / 5G",
+      "terrain_obstruction_risk": "Low - gently rolling terrain line of sight",
+      "distance_from_tower_corridor_miles": 2.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Big River Shoreline Access",
+      "Pine-Oak Canopy",
+      "Sand Trail Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 9,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 7,
+      "terrain_score": 8,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "West Greenwich, RI",
+        "distance_miles": 3.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush fresh spring (54-68°F).",
+      "summer": "Warm summer (78-85°F).",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cool winter (22-38°F)."
+    },
+    "dangers_and_hazards": [
+      "Ticks & Lyme Disease"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Big River Forest Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Wind through white pine",
+        "Songbirds"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Pine",
+        "Pitch Pine",
+        "Red Oak",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Red Fox",
+        "Wild Turkey",
+        "Songbirds"
+      ]
+    },
+    "human_demographics_and_culture": "Narragansett ancestral lands and historic central Rhode Island farm and water reserve history.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Big River Management Area preserves 8,200 acres of protected pine flatwoods and sand hill aquifers.",
+      "energetic_and_spiritual_features": "Quiet sandy pine trails along clear spring-fed streams."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Big River Loop Trail",
+        "length_miles": 4.5,
+        "difficulty": "Easy",
+        "features": "Flat sand trail, pine canopy, river shoreline"
+      }
+    ],
+    "public_reviews_summary": "Accessible central Rhode Island basecamp near West Greenwich with blazing fast 5G cell coverage.",
+    "other_data": "Protected watershed reserve.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "rhode_island-010",
+    "name": "Buck Hill Management Area North-South Trail Dispersed",
+    "state": "Rhode Island",
+    "county": "Providence",
+    "coordinates": {
+      "latitude": 41.9812,
+      "longitude": -71.7812,
+      "elevation_ft": 780.0
+    },
+    "management_agency": {
+      "name": "Rhode Island DEM - Division of Forest Environment",
+      "type": "State",
+      "phone": "(401) 568-2013",
+      "website": "https://dem.ri.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state management area trailside campsites)",
+      "stay_limit": "2 consecutive nights max limit",
+      "guidelines": "Dispersed primitive backpack camping allowed along North-South Trail in 4,000-acre Buck Hill area. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Carry-In Carry-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": false,
+      "firewood_policy": "Campfires prohibited outside designated metal rings; backpack stoves allowed.",
+      "safety_requirements": "Backpacking gas stoves mandatory.",
+      "seasonal_fire_bans": "Subject to RI DEM fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved county road to gravel management access road",
+      "road_conditions": "Paved road access; smooth gravel turnouts to trailheads.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - upland ridge line of sight",
+      "distance_from_tower_corridor_miles": 3.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "North-South Trail Access",
+      "Oak-Hickory Canopy",
+      "Tri-State Corner Nearby",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Pascoag, RI",
+        "distance_miles": 5.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Fresh spring (52-66°F).",
+      "summer": "Warm summer (78-85°F).",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cold winter (18-34°F)."
+    },
+    "dangers_and_hazards": [
+      "Ticks & Lyme Disease"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Buck Hill Ridge Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through red oak",
+        "Songbirds"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Red Oak",
+        "White Pine",
+        "Chestnut Oak",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Gray Fox",
+        "Broad-winged Hawk"
+      ]
+    },
+    "human_demographics_and_culture": "Nipmuc ancestral lands and Rhode Island/Connecticut/Massachusetts tri-state boundary history.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Buck Hill borders the historic Connecticut and Massachusetts state lines at Rhode Island's northwest corner.",
+      "energetic_and_spiritual_features": "Quiet oak ridge forest traversing remote tri-state wilderness."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "North-South Trail (Buck Hill Section)",
+        "length_miles": 4.0,
+        "difficulty": "Moderate",
+        "features": "Tri-state boundary area, oak-pine ridge, mountain laurel"
+      }
+    ],
+    "public_reviews_summary": "Peaceful tri-state border basecamp near Pascoag with strong cell coverage.",
+    "other_data": "Near RI/CT/MA tri-state marker.",
+    "last_updated": "2026-09-12"
+  }
+]

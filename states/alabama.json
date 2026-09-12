@@ -1,0 +1,1293 @@
+[
+  {
+    "id": "al-bankhead-owl-creek",
+    "name": "Owl Creek Dispersed Camping Area - Bankhead National Forest",
+    "state": "Alabama",
+    "county": "Lawrence County",
+    "coordinates": {
+      "latitude": 34.3415,
+      "longitude": -87.3321,
+      "elevation_ft": 780
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Bankhead Ranger District",
+      "type": "USFS",
+      "phone": "(256) 292-4168",
+      "website": "https://www.fs.usda.gov/alabama"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for primitive dispersed camping",
+      "stay_limit": "14 consecutive days within a 30-day period",
+      "guidelines": "Dispersed camping permitted throughout general forest area outside developed recreation zones. Must be set back at least 100 feet from streams, trails, and active roadways."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cat-hole method mandatory: dig hole 6-8 inches deep into organic soil layer at least 200 feet away from lakes, streams, trails, and campsites. Cover and disguise completely. Pack out all used toilet paper and sanitary products in sealed baggies.",
+      "trash_policy": "Strict Leave No Trace (LNT). No trash collection on site. All refuse must be packed out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering is permitted free of charge for campsite use only. Do not cut live timber or bring firewood from out-of-state.",
+      "safety_requirements": "Use established rock fire rings where present. Maintain 10-foot radius cleared of leaf litter. Fire must be doused with water, stirred, and cool to touch before departure.",
+      "seasonal_fire_bans": "Subject to burn bans issued by USFS or Alabama Forestry Commission during drought conditions (typically dry autumn months)."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel and packed dirt Forest Service road (FS 210 / Owl Creek Road)",
+      "road_conditions": "Generally well-maintained gravel main corridor with occasional washboards and pot-holes. Side spur roads can turn muddy with deep clay ruts after heavy rains.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (accessible in dry weather along main gravel road; high clearance recommended for side spurs and wet weather)",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate / Terrain Dependent",
+      "verizon_reliability": "2-3 bars 4G LTE on ridge tops; weak/no service down in stream valleys",
+      "att_reliability": "1-2 bars 4G LTE with variable speeds (5-15 Mbps download on elevated ground)",
+      "tmobile_reliability": "1 bar Extended LTE / Edge in open clearings; unreliable in deep timber",
+      "terrain_obstruction_risk": "Moderate to High (canyon walls and dense hardwood canopy restrict cell tower line-of-sight)",
+      "distance_from_tower_corridor_miles": 6.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Existing Stone Fire Rings",
+      "Perennial Stream Access (Owl Creek - filtration required)",
+      "Shaded Hardwood Tree Canopy",
+      "Flat Dirt Tent/Van Parking Sites"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Moulton, AL",
+        "distance_miles": 14.2,
+        "services_available": [
+          "Supermarket",
+          "Gas Stations",
+          "Hardware Store",
+          "Pharmacy",
+          "Lawrence County Public Library"
+        ]
+      },
+      {
+        "town_name": "Decatur, AL",
+        "distance_miles": 32.5,
+        "services_available": [
+          "24/7 Gyms",
+          "Walmart Supercenter",
+          "Decatur Morgan Hospital",
+          "Auto Repair",
+          "Decatur Public Library"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Temperatures 60-80°F, high rainfall, lush green foliage, high creek water levels, heavy mud on unpaved roads.",
+      "summer": "Hot and humid (85-95°F), dense canopy shade, high insect activity (ticks/mosquitoes), frequent afternoon thunderstorms.",
+      "fall": "Pleasant temperatures (55-75°F), stunning leaf color changes, lower humidity, dry forest floor, ideal boondocking weather.",
+      "winter": "Mild to chilly (35-58°F), occasional light night freezes, low underbrush density, crisp night skies."
+    },
+    "dangers_and_hazards": [
+      "Flash flooding along Owl Creek and canyon drainages after severe rainstorms",
+      "Venomous snakes: Copperheads and Timber Rattlesnakes active April through October",
+      "Ticks (Lone Star and Blacklegged) and chiggers in high grass",
+      "Dead standing trees (snags) vulnerable to wind throw",
+      "Sudden loss of cellular signal when descending into hollows"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Excellent natural tranquility",
+      "common_human_made_sounds": [
+        "Distant logging truck or agricultural machinery on AL-157 (2-3 miles away)",
+        "Commercial jetliner contrails overhead",
+        "Occasional hunting dog baying during fall deer/turkey season"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Loblolly Pine (Pinus taeda)",
+        "White Oak (Quercus alba)",
+        "Tulip Poplar (Liriodendron tulipifera)",
+        "Mountain Laurel (Kalmia latifolia)",
+        "Wild Azalea (Rhododendron canescens)",
+        "Christmas Fern (Polystichum acrostichoides)"
+      ],
+      "common_animals": [
+        "White-tailed Deer (Odocoileus virginianus)",
+        "Eastern Wild Turkey (Meleagris gallopavo)",
+        "Coyote (Canis latrans)",
+        "Gray Squirrel (Sciurus carolinensis)",
+        "Barred Owl (Strix varia)",
+        "Copperhead (Agkistrodon contortrix)"
+      ]
+    },
+    "human_demographics_and_culture": "Off-grid boondockers, solo vanlifers seeking solitude, local hunters during autumn game season, weekend equestrian trail riders, and Sipsey Wilderness backpackers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Traditional Cherokee oral history speaks of the 'Nunne'hi' (the Invisibles/Nature Spirits) who inhabit the sandstone caves, bluffs, and stream valleys of northern Alabama, protecting sacred waters.",
+      "energetic_and_spiritual_features": "High quartz content in local sandstone bluffs creates a grounding natural vibration. Stream hollows offer profound silence and acoustic resonance conducive to meditation."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Owl Creek Multi-Use Trail System",
+        "length_miles": 18.5,
+        "difficulty": "Moderate",
+        "features": "Winding hardwood forest paths, stream crossings, rock overhangs"
+      },
+      {
+        "trail_name": "Sipsey Wilderness Trail #200 (Borden Creek)",
+        "length_miles": 12.2,
+        "difficulty": "Moderate",
+        "features": "Sandstone canyons, ancient hemlock groves, waterfalls"
+      }
+    ],
+    "public_reviews_summary": "Campers report outstanding peace, quiet, and shade. Cell signal is workable for basic remote work if using a cell booster or setup on higher ground. Road is smooth enough for standard sedans in dry weather.",
+    "other_data": "Bortle Class 3 night sky rating (excellent stargazing). Firewood is abundant on the ground. No potable water or trash bins available.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "al-talladega-skyway-motorway",
+    "name": "Skyway Motorway Dispersed Camping (FS 600) - Talladega National Forest",
+    "state": "Alabama",
+    "county": "Talladega County",
+    "coordinates": {
+      "latitude": 33.4128,
+      "longitude": -85.9814,
+      "elevation_ft": 1420
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Talladega Ranger District",
+      "type": "USFS",
+      "phone": "(256) 362-2909",
+      "website": "https://www.fs.usda.gov/alabama"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees or permits required",
+      "stay_limit": "14 consecutive days maximum stay",
+      "guidelines": "Dispersed primitive camping permitted along Forest Service Road 600 (Skyway Motorway). Vehicles must park within one vehicle length of designated pullouts."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury human waste in cat-holes dug 6 to 8 inches deep, at least 200 feet from any water source, trail, or campsite. Pack out paper products.",
+      "trash_policy": "Leave No Trace principles strictly enforced. Carry out all trash."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Collect dead and downed wood only. Do not cut standing timber.",
+      "safety_requirements": "Clear away needles and leaves 10 feet around fire pit. Fully extinguish with water prior to leaving.",
+      "seasonal_fire_bans": "Obey fire restrictions during drought warnings published by the Forest Service."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved mountain ridge gravel road (FS 600)",
+      "road_conditions": "Rocky gravel with steep grades, exposed roots, and sharp dips. Slow speeds required.",
+      "vehicle_recommendation": "High clearance car or CUV/SUV (4x4 recommended for steep side spurs after rain)",
+      "scores": {
+        "road_grade": 7,
+        "road_terrain_difficulty": 6,
+        "supply_run_pain": 6
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong (High Elevation Advantage)",
+      "verizon_reliability": "3-4 bars 5G/LTE along ridge pullouts (25+ Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE across ridge line",
+      "tmobile_reliability": "2-3 bars 5G Ultra Capacity on clear high points",
+      "terrain_obstruction_risk": "Low on ridge crests; High if descending into eastern ravines",
+      "distance_from_tower_corridor_miles": 4.2,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Ridge-top Scenic Overlook Pullouts",
+      "Established Rock Fire Pits",
+      "Shaded Pine & Hardwood Sites"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 4,
+      "distance_to_gym_score": 3,
+      "terrain_score": 9,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Talladega, AL",
+        "distance_miles": 16.8,
+        "services_available": [
+          "Grocery Stores",
+          "Gas Stations",
+          "Auto Parts",
+          "Public Library",
+          "Urgent Care"
+        ]
+      },
+      {
+        "town_name": "Anniston / Oxford, AL",
+        "distance_miles": 28.4,
+        "services_available": [
+          "Target / Walmart",
+          "Gyms (Planet Fitness)",
+          "Regional Hospital",
+          "Outdoor Gear Outfitters"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Comfortable 60-75°F, windy ridge conditions, blooming mountain laurel.",
+      "summer": "Warmer 80-90°F but significantly cooler breeze than low valley floors.",
+      "fall": "Spectacular autumn colors, 50-70°F, low precipitation, prime camping weather.",
+      "winter": "Cool 30-50°F, strong mountain winds, occasional brief snow dusting on highest knobs."
+    },
+    "dangers_and_hazards": [
+      "High mountain winds on exposed ridge sites during cold fronts",
+      "Timber Rattlesnakes sunning on rocky outcrops",
+      "Steep road drop-offs without guardrails along FS 600",
+      "Lightning strike risk on high exposed peaks during summer storms"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Peaceful mountain breeze dominates",
+      "common_human_made_sounds": [
+        "Distant motorcycle engine on Scenic Drive (AL-281)",
+        "Occasional weekend 4x4 vehicle passing slowly on gravel road"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Longleaf Pine (Pinus palustris)",
+        "Chestnut Oak (Quercus montana)",
+        "Highbush Blueberry (Vaccinium corymbosum)",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "Timber Rattlesnake (Crotalus horridus)",
+        "Red-tailed Hawk (Buteo jamaicensis)",
+        "White-tailed Deer",
+        "Gray Fox (Urocyon cinereoargenteus)"
+      ]
+    },
+    "human_demographics_and_culture": "Overland rig drivers, digital nomads seeking high-speed cell service with mountain views, weekend campers, and Pinhoti Trail hikers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Creek and Muscogee tribal traditions revere Cheaha and the Talladega mountain chain as elevated places of spiritual vision and atmospheric communion.",
+      "energetic_and_spiritual_features": "Panoramic high-elevation ridge energy, high atmospheric clarity, ideal location for sunset contemplation and solar energy recharge."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Pinhoti National Recreation Trail (Section 5)",
+        "length_miles": 14.8,
+        "difficulty": "Strenuous",
+        "features": "Appalachian foothills ridge walking, scenic vistas, rocky footpaths"
+      }
+    ],
+    "public_reviews_summary": "Highly praised by digital nomads for stellar cell service and stunning sunset views over the Appalachian foothill valleys. High clearance vehicle recommended due to rocky gravel road sections.",
+    "other_data": "Bortle Class 4 dark sky. Excellent solar panel exposure on south-facing ridge campsites.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "al-conecuh-open-pond-dispersed",
+    "name": "Conecuh National Forest Dispersed Primitive Camping",
+    "state": "Alabama",
+    "county": "Covington County",
+    "coordinates": {
+      "latitude": 31.0894,
+      "longitude": -86.5342,
+      "elevation_ft": 240
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Conecuh District",
+      "type": "USFS",
+      "phone": "(334) 222-2555",
+      "website": "https://www.fs.usda.gov/alabama"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free in general forest dispersed zones (outside developed fee campground)",
+      "stay_limit": "14 days max stay limit",
+      "guidelines": "Free primitive camping is permitted anywhere on general national forest land at least 150ft from paved roads and bodies of water."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Standard cat-hole disposal: 6 inches deep in sandy soil, 200 feet from ponds or trails. Pack out paper.",
+      "trash_policy": "Strict Leave No Trace. No waste collection in general forest."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood collection only.",
+      "safety_requirements": "Clear pine needles 10 feet around fire ring due to dry pine straw fire hazard.",
+      "seasonal_fire_bans": "Obey state forestry fire alerts in dry winter/spring periods."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Sandy dirt forest roads (FS 305 / FS 311)",
+      "road_conditions": "Flat, sandy tracks. Can become soft sand in deep summer heat or muddy during heavy downpours.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (stay on main gravel/dirt roads; avoid deep uncompacted sand tracks)",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate",
+      "verizon_reliability": "2-3 bars 4G LTE (10-20 Mbps download)",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Low (flat coastal plain topography with open pine savannah)",
+      "distance_from_tower_corridor_miles": 5.1,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Flat Sandy Campsites",
+      "Open Longleaf Pine Shade",
+      "Primitive Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 6,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Andalusia, AL",
+        "distance_miles": 15.4,
+        "services_available": [
+          "Walmart Supercenter",
+          "Gas Stations",
+          "Restaurants",
+          "Public Library",
+          "Hospital"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Warm 65-80°F, pleasant breezes, blooming pitcher plants.",
+      "summer": "Hot and humid (90-97°F), intense sun, biting flies/mosquitoes, afternoon squalls.",
+      "fall": "Warm days, crisp nights (50-75°F), excellent primitive camping conditions.",
+      "winter": "Mild winters (40-65°F), rare freezes, low bug activity."
+    },
+    "dangers_and_hazards": [
+      "Eastern Diamondback Rattlesnakes and Pygmy Rattlesnakes in pine wiregrass",
+      "Soft deep sand traps on secondary forest service tracks",
+      "Mosquitoes and yellow flies near sinkhole ponds",
+      "Prescribed burns conducted by USFS during late winter/spring"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Extremely quiet flatland pine wilderness",
+      "common_human_made_sounds": [
+        "Distant military aircraft from Fort Novosel / Eglin AFB corridor",
+        "Soft breeze blowing through longleaf pine needles"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Longleaf Pine",
+        "Wiregrass (Aristida stricta)",
+        "Carnivorous Pitcher Plants (Sarracenia species)",
+        "Turkey Oak"
+      ],
+      "common_animals": [
+        "Gopher Tortoise (Gopherus polyphemus)",
+        "Red-cockaded Woodpecker (Picoides borealis)",
+        "Eastern Diamondback Rattlesnake",
+        "White-tailed Deer"
+      ]
+    },
+    "human_demographics_and_culture": "Winter digital nomads fleeing northern cold, botanists studying pitcher plant bog ecosystems, and local hunters.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Deep southern pine barrens lore recounts protective forest lights ('spook lights' or ignis fatuus) near natural sinkhole ponds.",
+      "energetic_and_spiritual_features": "Calming, open wiregrass pine savannah atmosphere. Excellent natural grounding and winter warmth."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Conecuh Trail System",
+        "length_miles": 20.0,
+        "difficulty": "Easy",
+        "features": "Flat pine forest trail, natural sinkhole lakes, pitcher plant bogs"
+      }
+    ],
+    "public_reviews_summary": "Very peaceful winter getaway. Plenty of space to spread out under giant longleaf pines. Watch out for soft sand on side roads if driving a 2WD car.",
+    "other_data": "Bortle Class 3 night sky. Very easy solar power generation due to thin pine canopy.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "al-upper-delta-wma-primitive",
+    "name": "Upper Delta Wildlife Management Area Free Primitive Camping",
+    "state": "Alabama",
+    "county": "Baldwin County",
+    "coordinates": {
+      "latitude": 31.0214,
+      "longitude": -87.8814,
+      "elevation_ft": 45
+    },
+    "management_agency": {
+      "name": "Alabama Department of Conservation and Natural Resources (ADCNR) - Wildlife & Freshwater Fisheries",
+      "type": "State DCNR",
+      "phone": "(251) 626-5474",
+      "website": "https://www.outdooralabama.com"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Free primitive camping allowed in designated WMA campsites",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Primitive camping permitted at designated camping areas within the Upper Delta WMA. Firearms restricted during open hunting seasons unless holding valid hunting license."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6 inches deep in sandy river terrace soil, 200 feet from rivers and sloughs. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only.",
+      "safety_requirements": "Campfires in established rock fire rings only. Extinguish cold to touch.",
+      "seasonal_fire_bans": "Obey ADCNR fire alerts."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved gravel and dirt river basin roads (Rice Creek Road / Dead Lake Road)",
+      "road_conditions": "Flat dirt/gravel roads; can turn muddy after heavy delta rains or high water events.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (accessible on main gravel access roads in dry weather)",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Internet",
+      "verizon_reliability": "3-4 bars 5G/LTE (20-50 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 5G LTE",
+      "terrain_obstruction_risk": "Low (Flat Mobile-Tensaw river delta floodplain)",
+      "distance_from_tower_corridor_miles": 3.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Tensaw River / Rice Creek Access",
+      "Primitive Fire Rings",
+      "Shaded Cypress & Tupelo Canopy",
+      "High-speed 5G Cellular Internet"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 7,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Bay Minette, AL",
+        "distance_miles": 11.5,
+        "services_available": [
+          "Walmart Supercenter",
+          "Gas Stations",
+          "Pharmacy",
+          "Baldwin County Library",
+          "Hospital"
+        ]
+      },
+      {
+        "town_name": "Mobile, AL",
+        "distance_miles": 28.0,
+        "services_available": [
+          "Full City Services",
+          "USA Health University Hospital",
+          "24/7 Gyms",
+          "Regional Airport"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "65-80°F, high spring delta water levels, blooming swamp irises.",
+      "summer": "Hot and humid (90-95°F), high insect activity (mosquitoes/gnats), afternoon downpours.",
+      "fall": "Ideal camping season (65-78°F daytime, 45-55°F nights), low water levels.",
+      "winter": "Mild coastal winters (50-65°F daytime, 35-45°F nights), premier winter escape."
+    },
+    "dangers_and_hazards": [
+      "American Alligators (Alligator mississippiensis) near water bodies",
+      "Venomous snakes: Cottonmouths and Copperheads",
+      "Mosquitoes and ticks near sloughs",
+      "Seasonal delta river flooding"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Delta river and bird soundscape",
+      "common_human_made_sounds": [
+        "Occasional bass boat engine on Tensaw River",
+        "Distant train horn on delta rail corridor"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Bald Cypress",
+        "Water Tupelo (Nyssa aquatica)",
+        "Spanish Moss",
+        "Southern Magnolia (Magnolia grandiflora)",
+        "Cabbage Palm (Sabal palmetto)"
+      ],
+      "common_animals": [
+        "American Alligator",
+        "White-tailed Deer",
+        "Swamp Rabbit (Sylvilagus aquaticus)",
+        "Prothonotary Warbler",
+        "Wild Boar"
+      ]
+    },
+    "human_demographics_and_culture": "Delta kayakers, anglers, local bow hunters, and digital nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Mobile and Tensaw indigenous oral histories honor the ancient delta mound sites and river channels as sacred water spirit domains.",
+      "energetic_and_spiritual_features": "Flowing delta water energy, lush sub-tropical canopy, serene winter warmth."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Bartram Canoe Trail (Upper Delta Section)",
+        "length_miles": 15.0,
+        "difficulty": "Easy to Moderate (Paddletrail)",
+        "features": "Winding blackwater sloughs, ancient cypress swamps, floating camping platforms"
+      }
+    ],
+    "public_reviews_summary": "Great free primitive camping in the Mobile-Tensaw Delta. Rich wildlife, quiet river sites, and fast 5G cell internet.",
+    "other_data": "Bortle Class 3 night sky. Great winter boondocking location.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "al-mulberry-fork-wma-primitive",
+    "name": "Mulberry Fork Wildlife Management Area Dispersed Camping",
+    "state": "Alabama",
+    "county": "Tuscaloosa County / Walker County",
+    "coordinates": {
+      "latitude": 33.6214,
+      "longitude": -87.2814,
+      "elevation_ft": 420
+    },
+    "management_agency": {
+      "name": "Alabama Department of Conservation and Natural Resources (ADCNR)",
+      "type": "State DCNR",
+      "phone": "(205) 339-5716",
+      "website": "https://www.outdooralabama.com"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Free primitive camping in designated WMA camp zones",
+      "stay_limit": "14 days maximum stay",
+      "guidelines": "Primitive camping permitted at designated camping areas within Mulberry Fork WMA."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6 inches deep, 200 feet from Mulberry Fork river. Pack out paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only.",
+      "safety_requirements": "Campfires in established rock fire rings only. Extinguish cold to touch.",
+      "seasonal_fire_bans": "Obey ADCNR fire alerts."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved gravel and dirt forestry roads",
+      "road_conditions": "Washboard gravel roads with small washboards and dips.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (accessible on main gravel roads in dry weather)",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Internet",
+      "verizon_reliability": "3-4 bars 4G LTE (20-40 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 5G LTE",
+      "terrain_obstruction_risk": "Low to Moderate (Rolling Cumberland Plateau foothills)",
+      "distance_from_tower_corridor_miles": 3.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Mulberry Fork River Access",
+      "Established Rock Fire Rings",
+      "Shaded Hardwood Canopy",
+      "High-speed 4G/5G Cell Service"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 7,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Jasper / Tuscaloosa, AL",
+        "distance_miles": 16.5,
+        "services_available": [
+          "Walmart Supercenter",
+          "Gas Stations",
+          "University of Alabama",
+          "DCH Regional Medical Center",
+          "Public Library"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "60-75°F, pleasant spring breezes, blooming dogwood.",
+      "summer": "Hot and humid (85-92°F), shaded canopy, afternoon showers.",
+      "fall": "Ideal camping season (55-72°F daytime, 40-50°F nights), low rain.",
+      "winter": "Mild winters (40-55°F daytime, 30-40°F nights), light night freezes."
+    },
+    "dangers_and_hazards": [
+      "Copperhead snakes active in warm months",
+      "Ticks and chiggers in underbrush"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - River and forest quiet",
+      "common_human_made_sounds": [
+        "Occasional angler boat on river",
+        "High commercial aircraft contrails"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Loblolly Pine",
+        "White Oak",
+        "Tulip Poplar",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Gray Fox",
+        "Copperhead"
+      ]
+    },
+    "human_demographics_and_culture": "Local anglers, hunters, digital nomads from Tuscaloosa/Birmingham, and trail hikers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Creek indigenous oral histories honor the Mulberry Fork and Black Warrior river branches as ancient spirit waters.",
+      "energetic_and_spiritual_features": "Calming forest stream energy, peaceful Cumberland foothill atmosphere."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Mulberry Fork River Trail",
+        "length_miles": 5.5,
+        "difficulty": "Easy to Moderate",
+        "features": "Winding river trail through hardwood forest and rock bluffs"
+      }
+    ],
+    "public_reviews_summary": "Quiet and clean free primitive camping near Tuscaloosa. Reliable cell service and peaceful river surroundings.",
+    "other_data": "Bortle Class 3 night sky. Abundant firewood.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "alabama-006",
+    "name": "Cheaha Wilderness Edge Dispersed Area - Talladega NF",
+    "state": "Alabama",
+    "county": "Cleburne",
+    "coordinates": {
+      "latitude": 33.4812,
+      "longitude": -85.8123,
+      "elevation_ft": 1800.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - National Forests in Alabama",
+      "type": "Federal",
+      "phone": "(256) 463-2272",
+      "website": "https://www.fs.usda.gov/alabama"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside Cheaha State Park boundary)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along Skyway Motorway (FS 600) outside state park fee area. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from mountain streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel mountain forest road",
+      "road_conditions": "Graded gravel Skyway Motorway ridge road; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low on 1,800-foot Talladega mountain ridge",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Alabama's Highest Peak Proximity (Cheaha 2,407 ft)",
+      "Pinhoti Trail Access",
+      "Panoramic Valley Views",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Oxford / Anniston, AL",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Full City Services",
+          "Hospital",
+          "Walmart",
+          "Gas Stations",
+          "Hardware"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush mountain spring (65-75°F).",
+      "summer": "Warm summer (85-90°F) with mountain ridge breezes.",
+      "fall": "Spectacular Alabama mountain autumn foliage.",
+      "winter": "Cool winter (40-52°F)."
+    },
+    "dangers_and_hazards": [
+      "High Ridge Wind Gusts",
+      "Venomous Snakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Mountain Ridge Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through longleaf pine canopy",
+        "Hawk calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Longleaf Pine",
+        "Shortleaf Pine",
+        "Chestnut Oak",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Gray Fox",
+        "Red-tailed Hawk"
+      ]
+    },
+    "human_demographics_and_culture": "Muscogee (Creek) ancestral lands and Cheaha mountain state park heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Cheaha Mountain is the highest point in Alabama at 2,407 feet, named from the Creek Indian word 'Chaha' meaning high place.",
+      "energetic_and_spiritual_features": "High Appalachian mountain ridge commanding views across the Alabama valley plain."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Pinhoti National Recreation Trail (Skyway Section)",
+        "length_miles": 5.0,
+        "difficulty": "Moderate",
+        "features": "Appalachian mountain ridge walk, Cheaha rock outcrops, valley vistas"
+      }
+    ],
+    "public_reviews_summary": "Incredible high mountain ridge views near Alabama's highest peak with blazing 5G cell service.",
+    "other_data": "Near Cheaha State Park.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "alabama-007",
+    "name": "Sipsey Wilderness Edge Dispersed - Bankhead NF",
+    "state": "Alabama",
+    "county": "Winston",
+    "coordinates": {
+      "latitude": 34.3123,
+      "longitude": -87.3412,
+      "elevation_ft": 750.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Bankhead Ranger District",
+      "type": "Federal",
+      "phone": "(205) 489-5111",
+      "website": "https://www.fs.usda.gov/alabama"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside wilderness boundary)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along Cranal Road (FS 208) outside Sipsey Wilderness boundary. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Sipsey Fork river. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel Cranal Road; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate on plateau pullouts",
+      "distance_from_tower_corridor_miles": 6.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "'Land of 1,000 Waterfalls' Proximity",
+      "Sipsey Wilderness Access",
+      "Sandstone Canyon Coves",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Double Springs / Haleyville, AL",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Grocery Store",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush spring waterfalls (65-75°F).",
+      "summer": "Warm summer (85-92°F) with cool canyon shade.",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cool winter (40-52°F)."
+    },
+    "dangers_and_hazards": [
+      "Flash Floods in Sandstone Gorges",
+      "Copperhead & Timber Rattlesnakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Sandstone Canyon Waterfall Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Waterfall cascades",
+        "Songbird calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Mountain Laurel",
+        "Bigleaf Magnolia",
+        "Eastern Hemlock",
+        "Loblolly Pine"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Eastern Chipmunk",
+        "Red-backed Salamander"
+      ]
+    },
+    "human_demographics_and_culture": "Chickasaw and Cherokee ancestral lands and Bankhead canyon wilderness conservation heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "25,000-acre Sipsey Wilderness known as the 'Land of 1,000 Waterfalls', protecting ancient sandstone gorges.",
+      "energetic_and_spiritual_features": "Crystal clear streams cascading over sandstone ledges into lush rock shelter coves."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Sipsey River Trail",
+        "length_miles": 4.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Sandstone rock shelters, cascading waterfalls, bigleaf magnolias"
+      }
+    ],
+    "public_reviews_summary": "Alabama's premier waterfall wilderness basecamp with solid cell service on Cranal Road pullouts.",
+    "other_data": "Known as the 'Land of 1,000 Waterfalls'.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "alabama-008",
+    "name": "Shoal Creek Dispersed Area - Talladega NF",
+    "state": "Alabama",
+    "county": "Cleburne",
+    "coordinates": {
+      "latitude": 33.7123,
+      "longitude": -85.6412,
+      "elevation_ft": 950.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Shoal Creek Ranger District",
+      "type": "Federal",
+      "phone": "(256) 463-2272",
+      "website": "https://www.fs.usda.gov/alabama"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside Coleman Lake fee area)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along FS Road 500. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Shoal Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel Forest Service road; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low along forest corridor",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Shoal Creek Swimming & Fishing",
+      "Longleaf Pine Shade",
+      "Pinhoti Trail Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 8,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Heflin / Anniston, AL",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Grocery Stores",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush green pine spring (65-75°F).",
+      "summer": "Warm summer (85-90°F) with creek swimming.",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cool winter (40-52°F)."
+    },
+    "dangers_and_hazards": [
+      "Venomous Snakes",
+      "Ticks in Spring"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Pine Forest Stream Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Shoal Creek water flow",
+        "Pine wind"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Longleaf Pine",
+        "Shortleaf Pine",
+        "Dogwood",
+        "Oak"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Gray Fox",
+        "Large-mouth Bass"
+      ]
+    },
+    "human_demographics_and_culture": "Muscogee (Creek) ancestral lands and Heflin timber heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Shoal Creek watershed protecting longleaf pine savanna habitats.",
+      "energetic_and_spiritual_features": "Clean mountain stream flowing over gravel shoals under longleaf pine canopy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Pinhoti Trail (Shoal Creek Section)",
+        "length_miles": 4.5,
+        "difficulty": "Easy to Moderate",
+        "features": "Shoal Creek stream crossings, longleaf pine forest, mountain ridges"
+      }
+    ],
+    "public_reviews_summary": "Peaceful pine forest stream camping near I-20 and Anniston with blazing 5G cell service.",
+    "other_data": "12 miles from I-20.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "alabama-009",
+    "name": "Skyway Motorway Dispersed Area - Talladega NF",
+    "state": "Alabama",
+    "county": "Clay",
+    "coordinates": {
+      "latitude": 33.3123,
+      "longitude": -85.9412,
+      "elevation_ft": 1650.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Talladega Ranger District",
+      "type": "Federal",
+      "phone": "(256) 362-2909",
+      "website": "https://www.fs.usda.gov/alabama"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along Skyway Motorway (FS 600). Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from mountain drainages. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel mountain forest road",
+      "road_conditions": "Graded gravel Skyway Motorway ridge road; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low on 1,650-foot ridge crest",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Appalachian Ridge Overlook Views",
+      "Longleaf Pine Savanna",
+      "Pinhoti Trail Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Talladega / Sylacauga, AL",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Grocery Stores",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush mountain spring (65-75°F).",
+      "summer": "Warm summer (85-90°F) with mountain ridge breezes.",
+      "fall": "Spectacular autumn foliage.",
+      "winter": "Cool winter (40-52°F)."
+    },
+    "dangers_and_hazards": [
+      "High Ridge Wind Gusts",
+      "Venomous Snakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Appalachian Ridge Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through longleaf pines",
+        "Bird calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Longleaf Pine",
+        "Shortleaf Pine",
+        "Post Oak",
+        "Dogwood"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Red-cockaded Woodpecker",
+        "Gray Fox"
+      ]
+    },
+    "human_demographics_and_culture": "Muscogee (Creek) ancestral lands and Talladega mountain ridge heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Historic CCC Skyway Motorway built in the 1930s along the crest of the Talladega mountain range.",
+      "energetic_and_spiritual_features": "Sweeping ridge top overlooks commanding views of the Alabama Piedmont plain."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Pinhoti Trail (Talladega Ridge Section)",
+        "length_miles": 5.0,
+        "difficulty": "Moderate",
+        "features": "Ridge top panoramas, longleaf pine savanna, rock outcrops"
+      }
+    ],
+    "public_reviews_summary": "Fantastic ridge top scenic drive camping with sweeping valley views and fast 5G cell service.",
+    "other_data": "Built by CCC in 1930s.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "alabama-010",
+    "name": "Conecuh Dispersed Area - Conecuh National Forest",
+    "state": "Alabama",
+    "county": "Covington",
+    "coordinates": {
+      "latitude": 31.0812,
+      "longitude": -86.5412,
+      "elevation_ft": 220.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Conecuh Ranger District",
+      "type": "Federal",
+      "phone": "(334) 222-2555",
+      "website": "https://www.fs.usda.gov/alabama"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside Open Pond fee area)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free dispersed primitive camping on national forest pullouts along Forest Service roads. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from sinkhole ponds. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel Forest Service road; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low - flat longleaf pine savanna",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Longleaf Pine Flatwoods Savanna",
+      "Sinkhole Lakes",
+      "Solon Dixon Center Proximity",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 6,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Andalusia, AL",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Grocery Stores",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush coastal plain spring (68-78°F).",
+      "summer": "Warm humid summer (90-95°F) with shade.",
+      "fall": "Crisp pleasant autumn days.",
+      "winter": "Mild winter (52-64°F)."
+    },
+    "dangers_and_hazards": [
+      "Gopher Tortoise Burrow Hazards",
+      "Venomous Snakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Longleaf Pine Savanna Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through longleaf pine needles",
+        "Frog chorus"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Longleaf Pine",
+        "Wiregrass",
+        "Pitcher Plants",
+        "Southern Magnolia"
+      ],
+      "common_animals": [
+        "Gopher Tortoise",
+        "Indigo Snake",
+        "White-tailed Deer",
+        "Red-cockaded Woodpecker"
+      ]
+    },
+    "human_demographics_and_culture": "Muscogee / Choctaw ancestral lands and South Alabama longleaf pine timber heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Protects rare longleaf pine and wiregrass ecosystem once covering millions of acres across the American Deep South.",
+      "energetic_and_spiritual_features": "Quiet open longleaf pine forest dotted with clear natural sinkhole ponds."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Conecuh Trail",
+        "length_miles": 5.0,
+        "difficulty": "Easy",
+        "features": "Longleaf pine flatwoods, natural sinkhole lakes, pitcher plant bogs"
+      }
+    ],
+    "public_reviews_summary": "Peaceful longleaf pine flatwoods basecamp near Andalusia with sinkhole lakes and blazing 5G cell service.",
+    "other_data": "Home to the rare gopher tortoise.",
+    "last_updated": "2026-09-12"
+  }
+]

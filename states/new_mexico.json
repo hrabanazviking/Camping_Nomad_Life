@@ -1,0 +1,1320 @@
+[
+  {
+    "id": "nm-carson-garcia-park",
+    "name": "Garcia Park Dispersed Camping Area - Carson National Forest (FR 437)",
+    "state": "New Mexico",
+    "county": "Taos County",
+    "coordinates": {
+      "latitude": 36.3112,
+      "longitude": -105.4814,
+      "elevation_ft": 9850
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Camino Real Ranger District",
+      "type": "USFS",
+      "phone": "(575) 587-2255",
+      "website": "https://www.fs.usda.gov/carson"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required",
+      "stay_limit": "14 consecutive days max stay within 30-day period",
+      "guidelines": "Dispersed primitive camping permitted on general national forest lands along Forest Road 437 (Garcia Park road corridor). Must park within one vehicle length of established pullouts."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6 inches deep in high mountain soil, at least 200 feet from streams and springs. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace. Black bears active in Sangre de Cristo Mountains: bear canister or hard-sided vehicle food storage mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only.",
+      "safety_requirements": "Campfires in established rock fire rings only. Extinguish cold to touch with water.",
+      "seasonal_fire_bans": "Stage 1 and Stage 2 fire restrictions common in early summer (May-July) before monsoon season."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved dirt and gravel mountain forest road (FR 437 / FR 76)",
+      "road_conditions": "Winding mountain dirt road with steep grades, exposed rocks, ruts, and mud holes after rain.",
+      "vehicle_recommendation": "High clearance car or 4x4 required (Normal 2WD low clearance cars not recommended for upper Garcia Park meadow roads)",
+      "scores": {
+        "road_grade": 7,
+        "road_terrain_difficulty": 7,
+        "supply_run_pain": 6
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate / Open Meadow Advantage",
+      "verizon_reliability": "2-3 bars 4G LTE (10-25 Mbps download on high meadow points)",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate (Sangre de Cristo Mountain peaks surround meadow basin)",
+      "distance_from_tower_corridor_miles": 7.2,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "High Alpine Meadow Views",
+      "Aspen & Spruce Forest Canopy",
+      "Established Rock Fire Rings",
+      "High Mountain Springs"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 3,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Taos, NM",
+        "distance_miles": 18.5,
+        "services_available": [
+          "Natural Grocers / Cid's Food",
+          "Gas Stations",
+          "Holy Cross Hospital",
+          "Taos Public Library",
+          "Art Galleries"
+        ]
+      },
+      {
+        "town_name": "Angel Fire, NM",
+        "distance_miles": 16.0,
+        "services_available": [
+          "Market",
+          "Gas Stations",
+          "Ski Resort Services",
+          "Hardware Store"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "May thaw: cool (45-60°F), high snowmelt mud season, snow lingering on FR 437 until late May.",
+      "summer": "Ideal high alpine summer (70-78°F daytime, 40-45°F nights), July-August afternoon monsoon thunderstorms.",
+      "fall": "Golden quaking aspen leaf foliage in September (55-68°F daytime, freezing 20-30°F nights), dry roads.",
+      "winter": "Severe sub-zero mountain winter (10-30°F), heavy snowpack, FR 437 impassable to wheeled vehicles."
+    },
+    "dangers_and_hazards": [
+      "High elevation sickness (9,850+ feet elevation)",
+      "Black Bears active in Carson NF - bear-proof food storage required",
+      "Severe afternoon lightning storms on open meadows during monsoon season",
+      "Rough 4x4 road conditions"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - High alpine meadow quiet",
+      "common_human_made_sounds": [
+        "Occasional passing 4x4 or OHV vehicle on FR 437",
+        "Cattle lowing in seasonal grazing meadow"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Quaking Aspen",
+        "Engelmann Spruce",
+        "Douglas Fir",
+        "Rocky Mountain Iris (Iris missouriensis)",
+        "Blue Grama (Bouteloua gracilis)"
+      ],
+      "common_animals": [
+        "Rocky Mountain Elk",
+        "Mule Deer",
+        "Black Bear",
+        "Mountain Lion",
+        "Wild Turkey",
+        "Steller's Jay"
+      ]
+    },
+    "human_demographics_and_culture": "Taos artists, high-elevation digital nomads, mountain bikers, autumn leaf peepers, and elk hunters.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Taos Pueblo indigenous traditions revere the Sangre de Cristo Mountains and high alpine meadows as sacred emergence lands of spiritual ancestors.",
+      "energetic_and_spiritual_features": "Profound high-altitude mountain clarity, crisp pine-aspen air ionization, inspiring Sangre de Cristo vistas."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Elliot Barker Trail (Garcia Park Section)",
+        "length_miles": 8.0,
+        "difficulty": "Moderate",
+        "features": "Winding alpine meadow trail through aspen groves with mountain vistas"
+      }
+    ],
+    "public_reviews_summary": "High-altitude summer boondocking paradise near Taos. Spectacular aspen groves, cool summer temps, and dependable cell service in open meadow spots.",
+    "other_data": "Bortle Class 2 night sky. High clearance vehicle mandatory.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "nm-gila-nf-middle-fork-primitive",
+    "name": "Gila National Forest / Gila Wilderness Dispersed Camping",
+    "state": "New Mexico",
+    "county": "Catron / Grant County",
+    "coordinates": {
+      "latitude": 33.2214,
+      "longitude": -108.2412,
+      "elevation_ft": 5800
+    },
+    "management_agency": {
+      "name": "US Forest Service - Gila National Forest (Wilderness Ranger District)",
+      "type": "USFS",
+      "phone": "(575) 536-2250",
+      "website": "https://www.fs.usda.gov/gila"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Gila National Forest Primitive Dispersed Land (zero fee)",
+      "stay_limit": "14 consecutive days limit",
+      "guidelines": "Dispersed primitive camping along Forest Road 150 (North Wall) and Gila River access pullouts. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in soil 200 feet from Gila River and natural springs. Pack out hygiene products.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Abundant dead and down pine and oak firewood gathering permitted.",
+      "safety_requirements": "Campfires in established stone rings. Douse thoroughly with water before leaving.",
+      "seasonal_fire_bans": "Spring dry windy season fire restrictions common May-June."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved NM 15 to unpaved Forest Road gravel/dirt",
+      "road_conditions": "Winding mountain pavement, rough gravel dirt roads.",
+      "vehicle_recommendation": "High clearance recommended for Forest Road 150; standard 2WD can reach pavement pullouts near Gila Cliff Dwellings.",
+      "scores": {
+        "road_grade": 5,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 6
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Low to Moderate / Mountain Ridge Dependent",
+      "verizon_reliability": "1-2 bars 4G LTE near high highway passes; SOS in deep canyons",
+      "att_reliability": "1-2 bars 4G LTE",
+      "tmobile_reliability": "No Service in deep canyon",
+      "terrain_obstruction_risk": "High (Deep volcanic canyon walls block signals)",
+      "distance_from_tower_corridor_miles": 12.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Primitive Canyon Campsites",
+      "Nearby Natural Thermal Hot Springs (Lightfeather / Jordan Hot Springs access)",
+      "Gila River Access",
+      "Ponderosa Pine Forest Shade"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 4,
+      "distance_to_library_score": 4,
+      "distance_to_gym_score": 3,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Silver City, NM",
+        "distance_miles": 38.0,
+        "services_available": [
+          "Food Coop / Supermarkets",
+          "Gas Stations",
+          "Western New Mexico University Library",
+          "Hospital",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "50-70°F, windy afternoon high mountain breeze, river snowmelt runoff.",
+      "summer": "75-88°F, monsoon rain showers in July/August bringing lush green growth.",
+      "fall": "55-72°F, sunny crisp days, ideal backpacking weather.",
+      "winter": "25-48°F, freezing night temps, dusting of snow in high wilderness peaks."
+    },
+    "dangers_and_hazards": [
+      "Summer afternoon monsoon flash floods in canyon drainages",
+      "Narrow winding mountain roads",
+      "Black bears and mountain lions (store food securely)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "10/10 - Absolute wilderness canyon silence and river breeze",
+      "common_human_made_sounds": [
+        "None in wilderness boundary"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Ponderosa Pine",
+        "Alligator Juniper",
+        "Piñon Pine",
+        "Narrowleaf Cottonwood"
+      ],
+      "common_animals": [
+        "Gila Monster",
+        "Elk",
+        "Mule Deer",
+        "Javelina",
+        "Coati",
+        "Mexican Gray Wolf (rare)"
+      ]
+    },
+    "human_demographics_and_culture": "Chiricahua Apache homeland, Aldo Leopold conservation heritage, desert mountain nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "First Wilderness area in the world designated by Aldo Leopold in 1924. Rich Mogollon Native American archaeological history.",
+      "energetic_and_spiritual_features": "Profound high desert wilderness silence, natural hot spring healing energy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Middle Fork Gila River Trail to Jordan Hot Springs",
+        "length_miles": 12.0,
+        "difficulty": "Strenuous",
+        "features": "Multiple river crossings, towering volcanic canyon walls, thermal soak pools"
+      }
+    ],
+    "public_reviews_summary": "World-class wilderness camping in New Mexico's Gila National Forest. Natural hot springs, majestic ponderosa forests, and complete off-grid solitude.",
+    "other_data": "Free Gila National Forest dispersed land. Bring water filter and satellite communicator.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "nm-carson-nf-valle-vidal",
+    "name": "Valle Vidal Dispersed Primitive Camping",
+    "state": "New Mexico",
+    "county": "Taos / Colfax County",
+    "coordinates": {
+      "latitude": 36.7812,
+      "longitude": -105.1812,
+      "elevation_ft": 9400
+    },
+    "management_agency": {
+      "name": "US Forest Service - Carson National Forest (Questa Ranger District)",
+      "type": "USFS",
+      "phone": "(575) 586-0520",
+      "website": "https://www.fs.usda.gov/carson"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Carson National Forest Dispersed Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted at designated pullout clearings along Forest Road 1950 outside seasonal elk calving closure areas (closed April 1 - June 30)."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in mountain soil 200 feet from Comanche Creek. Pack out all paper.",
+      "trash_policy": "Strict Leave No Trace."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Abundant dead and down pine wood collection permitted.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Spring dry mountain fire restrictions enforced."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved Dirt / Gravel Mountain Road (Forest Road 1950)",
+      "road_conditions": "Graded gravel, washboard dirt, steep mountain grade switchbacks.",
+      "vehicle_recommendation": "High clearance recommended; standard 2WD vehicles can access with slow careful driving in dry weather.",
+      "scores": {
+        "road_grade": 5,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair / High Ridge Signal",
+      "verizon_reliability": "2-3 bars 4G LTE on high meadow ridges",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate across 9,400ft alpine valley basin",
+      "distance_from_tower_corridor_miles": 7.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "High Alpine Meadow Prairie Panoramas ('Yellowstone of the Southwest')",
+      "Ponderosa & Aspen Grove Canopy",
+      "Comanche Creek Trout Water Source (Filter mandatory)",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 4,
+      "distance_to_library_score": 4,
+      "distance_to_gym_score": 3,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Questa / Red River, NM",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Supermarket",
+          "Gas Stations",
+          "Questa Public Library",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Taos, NM",
+        "distance_miles": 44.0,
+        "services_available": [
+          "Cid's Food Market / Smith's",
+          "Full Metro Services",
+          "Holy Cross Hospital",
+          "24/7 Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "40-58°F, spring snow melt, blooming mountain wildflowers.",
+      "summer": "68-80°F, cool high-elevation summer climate, afternoon monsoon showers.",
+      "fall": "45-65°F, world-class golden quaking aspen foliage, elk bugling season.",
+      "winter": "10-30°F, heavy mountain snowpack, road snow-covered."
+    },
+    "dangers_and_hazards": [
+      "High altitude mountain elevation sickness risk (9,400+ ft)",
+      "Summer afternoon lightning strikes in open alpine meadows",
+      "Black bears in Carson NF"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "10/10 - High mountain wind and autumn elk bugles",
+      "common_human_made_sounds": [
+        "None inside wilderness basin"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Quaking Aspen",
+        "Ponderosa Pine",
+        "Engelmann Spruce",
+        "Arizona Fescue Prairie Grass"
+      ],
+      "common_animals": [
+        "Elk (massive herd area)",
+        "Black Bear",
+        "Rio Grande Cutthroat Trout",
+        "Mule Deer",
+        "Golden Eagle"
+      ]
+    },
+    "human_demographics_and_culture": "Jicarilla Apache & Taos Pueblo ancestral lands, New Mexico ranchers, elk hunters, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Known as the 'Yellowstone of the Southwest'. Sacred ancestral territory of the Taos Pueblo people.",
+      "energetic_and_spiritual_features": "Profound high alpine meadow stillness, majestic 9,400ft mountain sky horizons."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Little Costilla Peak Trail",
+        "length_miles": 7.5,
+        "difficulty": "Strenuous",
+        "features": "12,500ft peak summit, alpine tundra, sweeping New Mexico mountain views"
+      }
+    ],
+    "public_reviews_summary": "Unbelievable high-alpine primitive camping in New Mexico's Carson National Forest. Massive wild elk herds, golden aspen groves, and 100% free USFS access.",
+    "other_data": "Carson National Forest Valle Vidal Unit. Free dispersed camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "new_mexico-004",
+    "name": "Wild Rivers Primitive BLM Dispersed Zone - Rio Grande del Norte",
+    "state": "New Mexico",
+    "county": "Taos",
+    "coordinates": {
+      "latitude": 36.6812,
+      "longitude": -105.6812,
+      "elevation_ft": 7420.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Taos Field Office",
+      "type": "Federal",
+      "phone": "(575) 758-8851",
+      "website": "https://www.blm.gov/new-mexico"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive BLM dispersed camping along canyon rim roads)",
+      "stay_limit": "14 days maximum stay limit within a 28-day window",
+      "guidelines": "Dispersed primitive camping allowed along BLM dirt spur roads outside developed loop. Camp 200 ft from gorge rim. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from gorge rim.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down pinyon-juniper wood.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to BLM Stage 1 & Stage 2 dry season fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway to gravel BLM dirt roads",
+      "road_conditions": "Paved access roads to smooth gravel canyon rim turnouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE on high plateau rim",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low on high plateau; high down inside 800-foot basalt gorge",
+      "distance_from_tower_corridor_miles": 2.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "800-ft Basalt Gorge Vistas",
+      "Rio Grande & Red River Confluence Views",
+      "Dark Sky Star Observation"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Questa, NM",
+        "distance_miles": 12.4,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Taos, NM",
+        "distance_miles": 34.0,
+        "services_available": [
+          "Supermarkets",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Arts & Culture"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool high plains desert spring weather with blooming desert wildflowers.",
+      "summer": "Pleasant summer weather (80-88°F) with afternoon high desert monsoon storms.",
+      "fall": "Crisp autumn weather with golden cottonwood foliage down in gorge.",
+      "winter": "Cold high elevation winter (20-38°F) with light snow on volcanic plateau."
+    },
+    "dangers_and_hazards": [
+      "800-ft Vertical Basalt Cliffs",
+      "High Elevation Sun Exposure",
+      "Dehydration"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Dramatic Gorge Canyon Silence (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Occasional passing scenic drive car"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Pinyon Pine",
+        "Utah Juniper",
+        "Big Sagebrush",
+        "Blue Grama"
+      ],
+      "common_animals": [
+        "Bighorn Sheep",
+        "Elk",
+        "Golden Eagle",
+        "Pronghorn Antelope",
+        "Coyote"
+      ]
+    },
+    "human_demographics_and_culture": "Northern New Mexico Taos Pueblo, Hispano, and high desert outdoor culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Taos Pueblo traditions revere the Rio Grande gorge as a sacred ancestral lifeline.",
+      "energetic_and_spiritual_features": "800-foot volcanic basalt gorge where two wild rivers converge generates immense spiritual majesty."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "La Junta Trail to River Confluence",
+        "length_miles": 2.5,
+        "difficulty": "Strenuous (Steep Gorge Descent)",
+        "features": "800-ft drop to Rio Grande and Red River confluence, basalt cliffs, bighorn sheep"
+      }
+    ],
+    "public_reviews_summary": "Mind-blowing 800-foot gorge scenery with fast 5G cell internet and bighorn sheep grazing near camp.",
+    "other_data": "Bring all drinking water or treat from river after steep hike.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "new_mexico-005",
+    "name": "Sacramento Mountains Sunspot Primitive Dispersed Zone - Lincoln National Forest",
+    "state": "New Mexico",
+    "county": "Otero",
+    "coordinates": {
+      "latitude": 32.7812,
+      "longitude": -105.8124,
+      "elevation_ft": 9180.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Lincoln National Forest (Sacramento Ranger District)",
+      "type": "Federal",
+      "phone": "(575) 434-7200",
+      "website": "https://www.fs.usda.gov/lincoln"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed forest camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Forest Road 537 near Sunspot Scenic Byway. Camp 100 ft from roads and streams. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from springs. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down mountain wood locally.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS Stage 1 & Stage 2 dry season fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved Sunspot Scenic Byway to gravel forest roads",
+      "road_conditions": "Paved scenic highway to smooth gravel forest pullouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE due to high 9,000-ft summit elevation",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low on high mountain peak plateau",
+      "distance_from_tower_corridor_miles": 1.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "9,000-ft Alpine Forest Canopy",
+      "White Sands Desert Basin Vistas",
+      "Dark Sky Astronomy Observation"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Cloudcroft, NM",
+        "distance_miles": 16.2,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Bakery & Dining"
+        ]
+      },
+      {
+        "town_name": "Alamogordo, NM",
+        "distance_miles": 34.0,
+        "services_available": [
+          "Supercenters",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool mountain spring; escaping desert heat below.",
+      "summer": "Crisp 9,000-ft summer weather (70-76°F) with cool mountain night air (48°F).",
+      "fall": "Golden aspen leaf changes across high Sacramento peaks.",
+      "winter": "Cold mountain winter (15-32°F) with snowpack; ski area nearby."
+    },
+    "dangers_and_hazards": [
+      "High Altitude Weather Shifts & Summer Lightning",
+      "Black Bears",
+      "Freezing Night Temps"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Alpine Observatory Silence (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Occasional passing scenic byway car"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Douglas Fir",
+        "Ponderosa Pine",
+        "Quaking Aspen",
+        "Engelmann Spruce"
+      ],
+      "common_animals": [
+        "Elk",
+        "Mule Deer",
+        "Black Bear",
+        "Wild Turkey",
+        "Steller's Jay"
+      ]
+    },
+    "human_demographics_and_culture": "Sacramento Mountains timber, solar observatory, and Cloudcroft mountain resort heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Mescalero Apache sacred tradition honors high Sacramento mountain peaks as sacred homes of the Mountain Gods (Ga'an).",
+      "energetic_and_spiritual_features": "9,000-foot mountain plateau overlooking White Sands desert basin provides breathtaking cosmic perspective."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Sunspot Solar Observatory & Rim Trail",
+        "length_miles": 4.8,
+        "difficulty": "Easy to Moderate",
+        "features": "9,000-ft desert basin overlooks, aspen groves, solar telescope views"
+      }
+    ],
+    "public_reviews_summary": "Cool 70-degree summer weather, blazingly fast 5G cell internet, and world-class dark night skies for stargazing.",
+    "other_data": "Bring warm clothes even in summer as night temperatures drop into the 40s.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "new_mexico-006",
+    "name": "Box Canyon Dispersed Camping Area - BLM Socorro",
+    "state": "New Mexico",
+    "county": "Socorro",
+    "coordinates": {
+      "latitude": 34.0289,
+      "longitude": -107.0142,
+      "elevation_ft": 5350.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Socorro Field Office",
+      "type": "Federal",
+      "phone": "(575) 835-0412",
+      "website": "https://www.blm.gov/new-mexico"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive BLM dispersed camping)",
+      "stay_limit": "14 days maximum stay within a 28-day window",
+      "guidelines": "Free dispersed primitive camping on BLM lands surrounding Box Canyon. Leave No Trace. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from dry washes. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared metal or stone fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to BLM Stage 1 & 2 fire restrictions during dry spring months."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel dirt access road",
+      "road_conditions": "Graded gravel access road; smooth lower pullouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car and camper vans.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low on canyon rim pullouts",
+      "distance_from_tower_corridor_miles": 6.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Rock Climbing Crags",
+      "Desert Mountain Views",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 8,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Socorro, NM",
+        "distance_miles": 9.0,
+        "services_available": [
+          "Grocery Stores",
+          "Gas Stations",
+          "Hospital",
+          "Hardware Store",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Sunny mild spring (65-78°F).",
+      "summer": "Hot summer days (92-100°F) with afternoon monsoons.",
+      "fall": "Crisp autumn weather (70-80°F).",
+      "winter": "Cool winter (45-55°F) with cold desert nights."
+    },
+    "dangers_and_hazards": [
+      "Flash Floods in Washes",
+      "Rattlesnakes",
+      "Summer Heat"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Canyon Basin Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Occasional climber voices",
+        "Distant Highway 60 hum"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Creosote Bush",
+        "Ocotillo",
+        "Yucca",
+        "Prickly Pear"
+      ],
+      "common_animals": [
+        "Coyote",
+        "Red-tailed Hawk",
+        "Gambel's Quail",
+        "Mule Deer"
+      ]
+    },
+    "human_demographics_and_culture": "Socorro tech and mining heritage combined with rock climbing outdoor culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Magdalena Mountains held deep spiritual reverence for ancient Mogollon and Apache peoples.",
+      "energetic_and_spiritual_features": "Dramatic volcanic canyon walls radiating deep earth energy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Box Canyon Climber's Access Trail",
+        "length_miles": 2.5,
+        "difficulty": "Moderate",
+        "features": "Canyon walls, rock climbing routes, desert vistas"
+      }
+    ],
+    "public_reviews_summary": "Incredible rock climbing hotspot with fast 5G cellular internet and instant access to Socorro.",
+    "other_data": "Popular weekend rock climbing destination; quiet during weekdays.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "new_mexico-007",
+    "name": "Mills Canyon Dispersed Camping - Kiowa National Grassland",
+    "state": "New Mexico",
+    "county": "Harding",
+    "coordinates": {
+      "latitude": 36.0456,
+      "longitude": -104.3618,
+      "elevation_ft": 5200.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Kiowa National Grassland (Cibola NF)",
+      "type": "Federal",
+      "phone": "(575) 485-2270",
+      "website": "https://www.fs.usda.gov/cibola"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed grassland camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed camping allowed along canyon rim and lower primitive pullouts. Pack out all waste."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Canadian River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Dirt mountain switchback road",
+      "road_conditions": "Rim road gravel; canyon descent road steep, narrow, and slick when wet.",
+      "vehicle_recommendation": "Rim accessible by 2WD; high clearance / 4WD required for canyon bottom.",
+      "scores": {
+        "road_grade": 7,
+        "road_terrain_difficulty": 8,
+        "supply_run_pain": 7
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair on Rim / Poor in Canyon (3/5 Stars)",
+      "verizon_reliability": "2-3 bars 4G LTE on Rim",
+      "att_reliability": "2 bars 4G LTE on Rim",
+      "tmobile_reliability": "1-2 bars 4G LTE on Rim",
+      "terrain_obstruction_risk": "High in canyon bottom / Low on rim",
+      "distance_from_tower_corridor_miles": 14.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Canadian River Gorge Views",
+      "Historic Orchard Ruins",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 3,
+      "distance_to_library_score": 3,
+      "distance_to_gym_score": 2,
+      "terrain_score": 9,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Roy, NM",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Gas Station",
+          "Small Store",
+          "Post Office"
+        ]
+      },
+      {
+        "town_name": "Springer, NM",
+        "distance_miles": 38.0,
+        "services_available": [
+          "Groceries",
+          "Hardware Store",
+          "Gas Stations",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Breezy spring (60-75°F).",
+      "summer": "Warm summer (85-92°F) in canyon.",
+      "fall": "Crisp clear autumn days.",
+      "winter": "Cold winter (30-45°F) with snow on rim."
+    },
+    "dangers_and_hazards": [
+      "Steep Switchback Drops",
+      "Flash Floods along Canadian River",
+      "Extreme Mud when Wet"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Grassland Wilderness Solitude (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Wind rustling prairie grass",
+        "Canyon river flow"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Ponderosa Pine",
+        "Cottonwood",
+        "Shortgrass Prairie",
+        "Cholla Cactus"
+      ],
+      "common_animals": [
+        "Barbary Sheep",
+        "Elk",
+        "Wild Turkey",
+        "Mule Deer"
+      ]
+    },
+    "human_demographics_and_culture": "Historic 1880s Melvin Mills orchard ruins and ranching history.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Kiowa and Comanche ancestral hunting grounds.",
+      "energetic_and_spiritual_features": "Deep canyon isolation echoing historical ghost town memories."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Mills Canyon River Trail",
+        "length_miles": 4.2,
+        "difficulty": "Moderate",
+        "features": "Canadian River gorge, orchard ruins, cliff walls"
+      }
+    ],
+    "public_reviews_summary": "Profound canyon wilderness solitude; rim sites offer good cell service while canyon bottom offers complete disconnection.",
+    "other_data": "Avoid canyon descent during heavy rainfall due to clay mud.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "new_mexico-008",
+    "name": "Datil Well Dispersed Area - BLM / Cibola National Forest",
+    "state": "New Mexico",
+    "county": "Catron",
+    "coordinates": {
+      "latitude": 34.1481,
+      "longitude": -107.8483,
+      "elevation_ft": 7400.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) / USFS Cibola NF",
+      "type": "Federal",
+      "phone": "(575) 835-0412",
+      "website": "https://www.blm.gov/new-mexico"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on surrounding BLM and National Forest spur tracks. Pack out all garbage."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from dry washes. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down pinyon/juniper wood.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to stage fire bans in dry summer."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest spur road",
+      "road_conditions": "Well-maintained gravel roads off US Highway 60.",
+      "vehicle_recommendation": "Accessible by low-clearance FWD sedans and camper vans.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Good (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "3 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open pinyon savanna",
+      "distance_from_tower_corridor_miles": 4.2,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Pinyon & Ponderosa Shade",
+      "Continental Divide Trail Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 4,
+      "distance_to_gym_score": 3,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Pie Town, NM",
+        "distance_miles": 21.0,
+        "services_available": [
+          "Pie Cafes",
+          "General Store",
+          "Gas Station"
+        ]
+      },
+      {
+        "town_name": "Magdalena, NM",
+        "distance_miles": 36.0,
+        "services_available": [
+          "Groceries",
+          "Hardware",
+          "Gas Stations",
+          "Cafes"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Breezy mountain spring (60-72°F).",
+      "summer": "Pleasant high-elevation summer (78-85°F).",
+      "fall": "Crisp autumn weather (65-75°F).",
+      "winter": "Cold winter (35-48°F) with light snow."
+    },
+    "dangers_and_hazards": [
+      "High Altitude Sun",
+      "Sudden Evening Temperature Drops"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "High Mountain Savanna Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Occasional US-60 vehicle pass"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Ponderosa Pine",
+        "Pinyon Pine",
+        "Utah Juniper",
+        "Blue Grama"
+      ],
+      "common_animals": [
+        "Pronghorn Antelope",
+        "Mule Deer",
+        "Elk",
+        "Gray Fox"
+      ]
+    },
+    "human_demographics_and_culture": "Continental Divide trail culture and historic Magdalena livestock driveway history.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Ancient Puebloan trade routes connected through these mountain passes.",
+      "energetic_and_spiritual_features": "High elevation clarity near the Continental Divide spine."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Datil Mountain Trail Loop",
+        "length_miles": 4.8,
+        "difficulty": "Moderate",
+        "features": "Pine forest, mountain vistas, Continental Divide views"
+      }
+    ],
+    "public_reviews_summary": "Cool high elevation summer relief, steady cell service, and easy highway access.",
+    "other_data": "Great stopover for nomads traveling along US-60 across New Mexico.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "new_mexico-009",
+    "name": "Cosmic Campground Dispersed Area - Gila National Forest",
+    "state": "New Mexico",
+    "county": "Catron",
+    "coordinates": {
+      "latitude": 33.4797,
+      "longitude": -108.9228,
+      "elevation_ft": 5400.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Gila National Forest (Glenwood District)",
+      "type": "Federal",
+      "phone": "(575) 539-2481",
+      "website": "https://www.fs.usda.gov/gila"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive camping at International Dark Sky Sanctuary)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed camping at Cosmic Dark Sky Sanctuary. Red light flashlights required after dark to preserve night vision."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from drainages. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared metal or stone fire rings. Douse cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans in dry spring/summer."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved highway to gravel loop",
+      "road_conditions": "Paved US-180 access directly to smooth gravel entrance loop.",
+      "vehicle_recommendation": "Accessible by all vehicles including low-clearance sedans and large rigs.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 6
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Weak / Spotty (2/5 Stars)",
+      "verizon_reliability": "1-2 bars 4G LTE (Spotty)",
+      "att_reliability": "1 bar 4G LTE",
+      "tmobile_reliability": "0-1 bar (No Data)",
+      "terrain_obstruction_risk": "Moderate due to Gila mountain valley walls",
+      "distance_from_tower_corridor_miles": 13.5,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "International Dark Sky Sanctuary",
+      "Concrete Telescope Pads",
+      "Smooth Road Access"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 4,
+      "distance_to_library_score": 4,
+      "distance_to_gym_score": 2,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Glenwood, NM",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Gas Station",
+          "Small Store",
+          "Cafe",
+          "Post Office"
+        ]
+      },
+      {
+        "town_name": "Reserve, NM",
+        "distance_miles": 26.0,
+        "services_available": [
+          "Groceries",
+          "Hardware Store",
+          "Gas Stations",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Clear spring skies (68-78°F).",
+      "summer": "Warm days (85-90°F) with afternoon monsoons.",
+      "fall": "Crisp autumn stargazing weather.",
+      "winter": "Cool winter days (45-55°F) with freezing night temps."
+    },
+    "dangers_and_hazards": [
+      "Extreme Night Darkness",
+      "Monsoon Lightning"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Pristine Dark Sky Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Absolute night silence",
+        "Occasional breeze"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Piñon Pine",
+        "Oak Woodland",
+        "Blue Grama",
+        "Yucca"
+      ],
+      "common_animals": [
+        "Coatimundi",
+        "Javelina",
+        "Black Bear",
+        "Mountain Lion",
+        "Great Horned Owl"
+      ]
+    },
+    "human_demographics_and_culture": "Mogollon culture archaeology and international astronomy stargazing culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Ancestral Mogollon stargazing grounds held sacred celestial connections.",
+      "energetic_and_spiritual_features": "Zero light pollution creates awe-inspiring connection to the Milky Way galaxy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Catwalk National Recreation Trail",
+        "length_miles": 2.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Whitewater Creek canyon, suspended metal walkway, waterfalls"
+      }
+    ],
+    "public_reviews_summary": "World-class stargazing destination; cell service is weak so bring Starlink if remote working.",
+    "other_data": "First dark sky sanctuary located on US public land.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "new_mexico-010",
+    "name": "Wild Rivers Dispersed Primitive Area - Rio Grande del Norte",
+    "state": "New Mexico",
+    "county": "Taos",
+    "coordinates": {
+      "latitude": 36.7389,
+      "longitude": -105.6881,
+      "elevation_ft": 7600.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Taos Field Office",
+      "type": "Federal",
+      "phone": "(575) 758-8851",
+      "website": "https://www.blm.gov/new-mexico"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed camping outside fee loops)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping permitted on BLM lands along Wild Rivers Backcountry Byway outside developed fee loops. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from gorge rim. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to BLM stage fire restrictions in spring."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved backcountry byway to dirt pullouts",
+      "road_conditions": "Paved NM-515 highway with smooth dirt rim pullouts.",
+      "vehicle_recommendation": "Accessible by all low-clearance vehicles and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 5G",
+      "terrain_obstruction_risk": "Low on high plateau rim",
+      "distance_from_tower_corridor_miles": 7.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Rio Grande Gorge Overlook Views",
+      "Paved Access Byway",
+      "Canyon Trails",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Questa, NM",
+        "distance_miles": 10.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Taos, NM",
+        "distance_miles": 34.0,
+        "services_available": [
+          "Full City Services",
+          "Hospital",
+          "Gear Shops",
+          "Walmart"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Breezy spring (58-70°F).",
+      "summer": "Mild high-elevation summer (78-85°F).",
+      "fall": "Crisp autumn days with yellow cottonwoods.",
+      "winter": "Cold winter (30-45°F) with snow on gorge rim."
+    },
+    "dangers_and_hazards": [
+      "800-Foot Sheer Cliff Gorge Drops",
+      "High Altitude Sun Exposure"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Rio Grande Canyon Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Distant river roar in gorge",
+        "Occasional byway car pass"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Piñon Pine",
+        "Utah Juniper",
+        "Big Sagebrush",
+        "Wild Buckwheat"
+      ],
+      "common_animals": [
+        "Bighorn Sheep",
+        "Golden Eagle",
+        "Prairie Dog",
+        "Mule Deer"
+      ]
+    },
+    "human_demographics_and_culture": "Taos Pueblo ancestral heritage, Rio Grande National Monument conservation culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Confluence of Red River and Rio Grande held sacred spiritual power for Taos Pueblo ancestors.",
+      "energetic_and_spiritual_features": "Breath-taking 800-foot gorge drop exposing millions of years of earth geology."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "La Junta Gorge Confluence Trail",
+        "length_miles": 2.4,
+        "difficulty": "Strenuous",
+        "features": "Descends 800 feet into river confluence, volcanic basalt cliffs"
+      }
+    ],
+    "public_reviews_summary": "Unmatched gorge views, paved road access, and rock-solid cell service make this an absolute nomad favorite.",
+    "other_data": "Watch for bighorn sheep grazing near the road.",
+    "last_updated": "2026-09-12"
+  }
+]

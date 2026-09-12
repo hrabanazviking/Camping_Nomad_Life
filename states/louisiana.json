@@ -1,0 +1,1289 @@
+[
+  {
+    "id": "la-kisatchie-longleaf-scenic-byway",
+    "name": "Longleaf Scenic Byway Dispersed Primitive Camping - Kisatchie National Forest",
+    "state": "Louisiana",
+    "county": "Natchitoches Parish",
+    "coordinates": {
+      "latitude": 31.4812,
+      "longitude": -92.9814,
+      "elevation_ft": 280
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Kisatchie Ranger District",
+      "type": "USFS",
+      "phone": "(318) 472-1840",
+      "website": "https://www.fs.usda.gov/kisatchie"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for general forest dispersed camping",
+      "stay_limit": "14 consecutive days max stay within 30-day period",
+      "guidelines": "Dispersed primitive camping permitted throughout general Kisatchie National Forest lands at least 100ft from paved roads, designated trails, and water bodies."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6 inches deep in sandy loam soil, 200 feet from Kisatchie Bayou or drainages. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace. All trash must be packed out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only.",
+      "safety_requirements": "Clear pine straw 10 feet around fire ring. Extinguish cold to touch.",
+      "seasonal_fire_bans": "Obey Louisiana Department of Agriculture and Forestry burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved scenic highway changing to gravel forest service roads (FS 321 / Longleaf Byway pullouts)",
+      "road_conditions": "Paved main scenic drive; gravel side forest roads are flat with occasional clay washboard spots.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (easily accessible year-round)",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Internet",
+      "verizon_reliability": "3-4 bars 4G LTE (20-45 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 5G LTE",
+      "terrain_obstruction_risk": "Low (Rolling longleaf pine hills with high elevation pullouts)",
+      "distance_from_tower_corridor_miles": 3.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Longleaf Pine Savannah Views",
+      "Kisatchie Hills Wilderness Access",
+      "Established Fire Rings",
+      "High-speed 4G/5G Cell Service"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 7,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Natchitoches, LA",
+        "distance_miles": 18.5,
+        "services_available": [
+          "Walmart Supercenter",
+          "Gas Stations",
+          "Northwestern State University",
+          "Natchitoches Parish Library",
+          "Hospital"
+        ]
+      },
+      {
+        "town_name": "Alexandria, LA",
+        "distance_miles": 32.0,
+        "services_available": [
+          "Full City Services",
+          "Rapides Regional Medical Center",
+          "24/7 Gyms",
+          "Shopping Malls"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "65-80°F, pleasant sub-tropical climate, blooming wild azaleas.",
+      "summer": "Hot and humid (90-96°F), high insect activity (mosquitoes/yellow flies), afternoon thunderstorms.",
+      "fall": "Ideal camping season (65-78°F daytime, 45-55°F nights), low rain.",
+      "winter": "Mild winters (50-65°F daytime, 35-45°F nights), rare brief freezes."
+    },
+    "dangers_and_hazards": [
+      "Venomous snakes: Copperheads, Cottonmouths, and Timber Rattlesnakes active in warm months",
+      "Mosquitoes and ticks near Kisatchie Bayou wetlands",
+      "Prescribed burns conducted by USFS during winter/spring"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Pine forest tranquility",
+      "common_human_made_sounds": [
+        "Occasional tourist car driving on Longleaf Byway",
+        "Wind blowing through longleaf pine needles"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Longleaf Pine",
+        "Loblolly Pine",
+        "Southern Red Oak",
+        "Wild Azalea (Rhododendron canescens)",
+        "Wax Myrtle (Morella cerifera)"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Red-cockaded Woodpecker (endangered)",
+        "Louisiana Black Bear (rare)",
+        "Nine-banded Armadillo (Dasypus novemcinctus)",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Winter vanlifers, Backbone Trail backpackers, botanical researchers, and local hunters.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Caddo and Natchitoches indigenous traditions revere the high pine sandstone hills of Kisatchie as sacred ancestral lands of wind and pine spirits.",
+      "energetic_and_spiritual_features": "Calming longleaf pine savannah vibrations, mild winter climate, crisp night skies."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Backbone Trail (Kisatchie Hills Wilderness)",
+        "length_miles": 12.0,
+        "difficulty": "Moderate",
+        "features": "Rugged sandstone ridges, longleaf pine savannah, panoramic forest views"
+      }
+    ],
+    "public_reviews_summary": "Surprising top-notch boondocking gem in Louisiana. Beautiful pine ridge views, clean quiet air, and great cell service.",
+    "other_data": "Bortle Class 3 night sky. Great solar power exposure.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "la-kisatchie-hills-wilderness-primitive",
+    "name": "Kisatchie Hills Wilderness Dispersed Backpack Camping",
+    "state": "Louisiana",
+    "county": "Natchitoches Parish",
+    "coordinates": {
+      "latitude": 31.4812,
+      "longitude": -93.0214,
+      "elevation_ft": 320
+    },
+    "management_agency": {
+      "name": "US Forest Service - Kisatchie National Forest (Kisatchie Ranger District)",
+      "type": "USFS",
+      "phone": "(318) 472-1840",
+      "website": "https://www.fs.usda.gov/kisatchie"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Wilderness Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed wilderness camping permitted throughout Kisatchie Hills Wilderness ('Louisiana Longleaf Pine Hills'). Camp 100ft from trails."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6 inches deep in sandy soil 200 feet from Bayou Cypre and springs. Pack out hygiene products.",
+      "trash_policy": "Strict Leave No Trace."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down longleaf pine wood collection permitted.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Observe dry autumn burn warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved parish road to gravel trailhead parking lot (Backbone Trailhead)",
+      "road_conditions": "Smooth gravel parking lot access.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance vehicles.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair to Moderate / High Ridge Signal",
+      "verizon_reliability": "2-3 bars 4G LTE on ridge lines",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate in deep sandstone ravines",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Primitive Longleaf Pine Ridge Campsites",
+      "Sandstone Mesa & Ridge Views",
+      "Spring-Fed Creek Water Source (Filter mandatory)",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Natchitoches, LA",
+        "distance_miles": 18.0,
+        "services_available": [
+          "Super1 Foods / Kroger",
+          "Gas Stations",
+          "Natchitoches Parish Library",
+          "Hospital",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "60-78°F, blooming wild azaleas and dogwood.",
+      "summer": "85-96°F, hot humid Louisiana summer weather under pine canopy.",
+      "fall": "62-80°F, prime mild camping weather, crisp nights.",
+      "winter": "42-62°F, mild winter, dry sunny days."
+    },
+    "dangers_and_hazards": [
+      "Ticks and chiggers in summer (use permethrin)",
+      "Sandstone bluff drop-offs",
+      "High summer heat and humidity"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Wind through tall longleaf pines and songbirds",
+      "common_human_made_sounds": [
+        "None inside wilderness boundary"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Longleaf Pine",
+        "Shortleaf Pine",
+        "Sandstone Cedar",
+        "French Mulberry"
+      ],
+      "common_animals": [
+        "Louisiana Black Bear (rare)",
+        "Red-cockaded Woodpecker",
+        "White-tailed Deer",
+        "Armadillo"
+      ]
+    },
+    "human_demographics_and_culture": "Caddo ancestral land, Louisiana backpackers, pine forest lovers, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Known locally as the 'Little Grand Canyon of Louisiana'. Ancient sandstone mesas hold rich Native American and frontier history.",
+      "energetic_and_spiritual_features": "Soothing longleaf pine forest breeze, unusual rolling sandstone ridge topography."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Backbone Trail Loop",
+        "length_miles": 7.3,
+        "difficulty": "Moderate",
+        "features": "Sandstone ridge mesas, longleaf pine savanna, creek valleys"
+      }
+    ],
+    "public_reviews_summary": "Unexpectedly rugged pine wilderness in Louisiana. Free primitive camping, quiet sandstone ridges, and great trail access near Natchitoches.",
+    "other_data": "Kisatchie National Forest. Free wilderness dispersed camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "la-sherburne-wma-primitive-campground",
+    "name": "Sherburne Wildlife Management Area Primitive Campground",
+    "state": "Louisiana",
+    "county": "Pointe Coupee Parish",
+    "coordinates": {
+      "latitude": 30.4812,
+      "longitude": -91.6812,
+      "elevation_ft": 30
+    },
+    "management_agency": {
+      "name": "Louisiana Department of Wildlife and Fisheries (LDWF)",
+      "type": "State LDWF",
+      "phone": "(337) 948-0255",
+      "website": "https://www.wlf.louisiana.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Free LDWF WMA Camping Permit required online (zero cost)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted at designated camping areas throughout Sherburne WMA in Atchafalaya Basin."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Use portable toilet or dig cat-hole 6 inches deep in soil 200 feet from bayou water. Pack out all paper.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down cypress and oak wood collection permitted on site.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse before vacating.",
+      "seasonal_fire_bans": "Observe dry weather burn warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved parish road to gravel WMA access roads",
+      "road_conditions": "Graded gravel access roads, flat dirt turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance vehicles.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / I-10 Atchafalaya Corridor Signal",
+      "verizon_reliability": "3-4 bars 4G LTE (20-40 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low across flat cypress swamp basin",
+      "distance_from_tower_corridor_miles": 3.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Atchafalaya Swamp & Bayou Primitive Campsites",
+      "Bald Cypress & Live Oak Canopy",
+      "Boat & Kayak Launching",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Krotz Springs / Opelousas, LA",
+        "distance_miles": 10.0,
+        "services_available": [
+          "Supermarket",
+          "Gas Stations",
+          "Public Library",
+          "Hospital",
+          "Cajun Restaurants"
+        ]
+      },
+      {
+        "town_name": "Baton Rouge, LA",
+        "distance_miles": 34.0,
+        "services_available": [
+          "Full State Capital Metro",
+          "Costco / Target",
+          "Hospitals",
+          "24/7 Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "65-80°F, lush green swamp spring growth, mild bayou breezes.",
+      "summer": "85-95°F, hot humid Cajun swamp summer weather.",
+      "fall": "62-80°F, prime mild camping weather.",
+      "winter": "42-65°F, mild winter, dry clear days."
+    },
+    "dangers_and_hazards": [
+      "American Alligators in bayou waters (do not swim near banks)",
+      "Mosquitoes in summer months (use permethrin)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Bayou frog choruses and barred owl calls",
+      "common_human_made_sounds": [
+        "Occasional fishing boat on bayou"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Bald Cypress",
+        "Water Tupelo",
+        "Spanish Moss",
+        "Live Oak"
+      ],
+      "common_animals": [
+        "American Alligator",
+        "Louisiana Black Bear",
+        "Barred Owl",
+        "Prothonotary Warbler",
+        "Crappie"
+      ]
+    },
+    "human_demographics_and_culture": "Atakapa & Chitimacha ancestral lands, Cajun swamp culture, Louisiana outdoorsmen, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Heart of the Atchafalaya National Heritage Area. Rich Cajun swamp folklore of Rougarou and sacred bayou spirits.",
+      "energetic_and_spiritual_features": "Enchanting mossy cypress swamp energy, serene bayou water reflections."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Sherburne Nature Trail",
+        "length_miles": 3.5,
+        "difficulty": "Easy",
+        "features": "Bald cypress swamps, bayou boardwalks, bird watching"
+      }
+    ],
+    "public_reviews_summary": "Authentic Louisiana Atchafalaya basin primitive camping. Bald cypress shade, fast cell internet, and free LDWF WMA access near Krotz Springs.",
+    "other_data": "LDWF Wildlife Management Area. Free WMA permit required.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "louisiana-004",
+    "name": "Kisatchie Hills Wilderness Primitive Trailside Zone",
+    "state": "Louisiana",
+    "county": "Natchitoches",
+    "coordinates": {
+      "latitude": 31.4821,
+      "longitude": -93.0142,
+      "elevation_ft": 280.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Kisatchie National Forest (Kisatchie Ranger District)",
+      "type": "Federal",
+      "phone": "(318) 472-1840",
+      "website": "https://www.fs.usda.gov/kisatchie"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night wilderness dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Backbone Trail within Kisatchie Hills Wilderness ('Little Grand Canyon of Louisiana'). Camp 100 ft from trail. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep in cat-holes 200 feet from Bayou Cypre and trail. Pack out paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out rule."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood collection allowed.",
+      "safety_requirements": "Use existing rock rings. Douse cold with water.",
+      "seasonal_fire_bans": "Subject to USFS dry season burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest service roads (Longleaf Trail Scenic Byway)",
+      "road_conditions": "Paved Longleaf Scenic Byway to gravel trailhead parking lot.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2.5/5 Stars)",
+      "verizon_reliability": "2 bars 4G LTE on high sandstone ridges",
+      "att_reliability": "2 bars 4G LTE",
+      "tmobile_reliability": "1 bar 4G LTE",
+      "terrain_obstruction_risk": "Moderate - longleaf pine ridges and sandstone outcrops",
+      "distance_from_tower_corridor_miles": 7.8,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Sandstone Ridge Vistas",
+      "Longleaf Pine Canopy",
+      "Primitive Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 7,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Natchitoches, LA",
+        "distance_miles": 21.8,
+        "services_available": [
+          "Supermarket",
+          "Hospital",
+          "Public Library",
+          "Historic District",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Alexandria, LA",
+        "distance_miles": 42.5,
+        "services_available": [
+          "Supercenters",
+          "Airport",
+          "Gym & Fitness Center",
+          "Auto Repair"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Pleasant spring weather with blooming dogwood and wild azalea.",
+      "summer": "Hot and humid (90-96°F); heavy sun exposure on open pine ridges.",
+      "fall": "Mild, crisp autumn weather with rustling pine breezes.",
+      "winter": "Mild winter temperatures (40-60°F); great winter backpacking."
+    },
+    "dangers_and_hazards": [
+      "High Summer Heat & Humidity",
+      "Venomous Snakes (Copperheads, Pygmy Rattlesnakes)",
+      "Ticks and Chiggers"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Pine Whispering Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "High altitude military jets from Barksdale AFB",
+        "Wind through longleaf needles"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Longleaf Pine",
+        "Blackjack Oak",
+        "Red Cockaded Woodpecker Habitat",
+        "Wild Azalea"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Red-cockaded Woodpecker",
+        "Louisiana Pine Snake",
+        "Gray Fox"
+      ]
+    },
+    "human_demographics_and_culture": "Central Louisiana Creole and timber heritage along the historic El Camino Real trail corridor.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Local legends recall indigenous Caddo reverence for the high sandstone hills of Kisatchie.",
+      "energetic_and_spiritual_features": "Open longleaf pine savannas provide an expansive, sun-filled wilderness energy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Backbone Wilderness Trail",
+        "length_miles": 7.3,
+        "difficulty": "Moderate",
+        "features": "Sandstone ridge top vistas, longleaf pine savannas, dry creek bed ravines"
+      }
+    ],
+    "public_reviews_summary": "Surprising elevation changes and open pine savanna views unique in Louisiana, with peaceful backcountry solitude.",
+    "other_data": "Water sources in wilderness are seasonal; carry ample drinking water.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "louisiana-005",
+    "name": "Pearl River Wildlife Management Area Primitive Spot",
+    "state": "Louisiana",
+    "county": "St. Tammany",
+    "coordinates": {
+      "latitude": 30.3812,
+      "longitude": -89.7452,
+      "elevation_ft": 25.0
+    },
+    "management_agency": {
+      "name": "Louisiana Department of Wildlife and Fisheries (LDWF)",
+      "type": "State",
+      "phone": "(985) 543-4777",
+      "website": "https://www.wlf.louisiana.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night, free WMA access permit required online)",
+      "stay_limit": "14 consecutive days limit",
+      "guidelines": "Primitive camping allowed at designated primitive boat launch campsites along the Honey Island swamp corridor. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep at least 200 feet from Pearl River.",
+      "trash_policy": "Strict Carry-In Carry-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared ground rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to LDWF dry season burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway to gravel WMA access road",
+      "road_conditions": "Flat gravel road leading to river boat launch parking area.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low - coastal cypress swamp basin",
+      "distance_from_tower_corridor_miles": 2.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Boat Launch Access",
+      "Gravel Flat Campsites",
+      "Swamp Waterway Views"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 7,
+      "terrain_score": 4,
+      "quietness_score": 7
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Slidell, LA",
+        "distance_miles": 8.4,
+        "services_available": [
+          "Supercenter",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Auto Repair"
+        ]
+      },
+      {
+        "town_name": "New Orleans, LA",
+        "distance_miles": 38.0,
+        "services_available": [
+          "International Airport",
+          "Major Hospitals",
+          "Metropolitan Amenities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Mild weather with booming frog choruses and lush swamp greenery.",
+      "summer": "Hot and humid (88-95°F) with afternoon rain squalls.",
+      "fall": "Pleasant, mild weather; excellent fishing and paddling.",
+      "winter": "Mild winter climate (45-65°F) with occasional cool fronts."
+    },
+    "dangers_and_hazards": [
+      "Alligators",
+      "Mosquitoes and Biting Flies",
+      "Venomous Cottonmouth Snakes",
+      "High Swamp Humidity"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Swamp Audio Symphony (Quietness Score: 7/10)",
+      "common_human_made_sounds": [
+        "Distant I-10 traffic hum",
+        "Outboard motorboats on river"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Bald Cypress",
+        "Water Tupelo",
+        "Spanish Moss",
+        "Palmetto"
+      ],
+      "common_animals": [
+        "American Alligator",
+        "Wild Boar",
+        "Barred Owl",
+        "Swamp Rabbit",
+        "Prothonotary Warbler"
+      ]
+    },
+    "human_demographics_and_culture": "Honey Island swamp folklore and Louisiana Cajun/Creole sportsman culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Famous Louisiana folklore of the 'Honey Island Swamp Monster', a legendary bipedal cryptid said to haunt cypress bayous.",
+      "energetic_and_spiritual_features": "Ancient moss-draped cypress trees generate a mysterious, enchanting atmosphere."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Pearl River Honey Island Swamp Trail",
+        "length_miles": 3.4,
+        "difficulty": "Easy",
+        "features": "Moss-draped cypress sloughs, river boardwalks, alligator viewing"
+      }
+    ],
+    "public_reviews_summary": "Superb cell signal close to Slidell and New Orleans, authentic cypress swamp atmosphere, zero cost.",
+    "other_data": "Keep food secured from raccoons and maintain safe distance from alligators.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "louisiana-006",
+    "name": "Kisatchie Hills Dispersed Area - Kisatchie NF",
+    "state": "Louisiana",
+    "county": "Natchitoches",
+    "coordinates": {
+      "latitude": 31.4812,
+      "longitude": -93.0812,
+      "elevation_ft": 380.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Kisatchie National Forest (Kisatchie District)",
+      "type": "Federal",
+      "phone": "(318) 472-1840",
+      "website": "https://www.fs.usda.gov/kisatchie"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside wilderness boundary)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free dispersed primitive camping allowed on national forest pullouts along Longleaf Trail Scenic Byway (FH 59). Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Kisatchie Bayou. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved scenic byway to gravel forest roads",
+      "road_conditions": "Paved Longleaf Trail Scenic Byway with smooth gravel forest side turnouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low along Longleaf Scenic Byway crest",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Longleaf Pine Sandhills Savanna",
+      "Kisatchie Bayou Rapids Proximity",
+      "Backbone Trail Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Natchitoches, LA",
+        "distance_miles": 18.0,
+        "services_available": [
+          "NSU Campus",
+          "Full Groceries",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Historic District"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush longleaf spring (68-78°F).",
+      "summer": "Hot humid summer (90-95°F) with bayou swimming.",
+      "fall": "Crisp pleasant autumn days.",
+      "winter": "Mild winter (52-65°F)."
+    },
+    "dangers_and_hazards": [
+      "Feral Hogs",
+      "Venomous Snakes",
+      "Humidity"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Sandhills Pine Savanna Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through longleaf pines",
+        "Bayou rapids roar"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Longleaf Pine",
+        "Shortleaf Pine",
+        "Red Cockaded Woodpecker",
+        "Orchid"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Feral Hog",
+        "Red-cockaded Woodpecker",
+        "Louisiana Black Bear"
+      ]
+    },
+    "human_demographics_and_culture": "Caddo and Adai ancestral lands and Natchitoches French Creole historic culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Known as the 'Little Grand Canyon of Louisiana', featuring 300-foot sandstone mesas and longleaf pine savannas.",
+      "energetic_and_spiritual_features": "Rolling longleaf pine sandhills and sandstone rocky outcrops rare in Louisiana."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Backbone Trail (Kisatchie Hills)",
+        "length_miles": 7.0,
+        "difficulty": "Moderate",
+        "features": "Sandstone mesa ridges, longleaf pine savanna, Kisatchie bayou views"
+      }
+    ],
+    "public_reviews_summary": "Louisiana's premier mountain-like longleaf pine sandhills basecamp near Natchitoches with blazing 5G cell service.",
+    "other_data": "Known as the 'Little Grand Canyon of Louisiana'.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "louisiana-007",
+    "name": "Caney Lakes Dispersed Area - Kisatchie NF",
+    "state": "Louisiana",
+    "county": "Webster",
+    "coordinates": {
+      "latitude": 32.7123,
+      "longitude": -93.2812,
+      "elevation_ft": 280.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Caney Ranger District",
+      "type": "Federal",
+      "phone": "(318) 927-2061",
+      "website": "https://www.fs.usda.gov/kisatchie"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside developed fee area)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along FS Road 158. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Caney Lakes. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel Forest Service road; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low along Caney Lake shoreline",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Caney Lakes Shoreline Views",
+      "Bass & Crappie Fishing",
+      "Pine Forest Shade",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 6,
+      "terrain_score": 8,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Minden / Shreveport, LA",
+        "distance_miles": 8.0,
+        "services_available": [
+          "Full City Services",
+          "Hospital",
+          "Walmart",
+          "Gas Stations",
+          "Hardware",
+          "Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush pine spring (68-78°F).",
+      "summer": "Warm humid summer (90-95°F) with lake breeze.",
+      "fall": "Crisp pleasant autumn days.",
+      "winter": "Mild winter (52-64°F)."
+    },
+    "dangers_and_hazards": [
+      "Alligators in Lake Coves",
+      "Venomous Snakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Lake Shoreline Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Caney Lake wave lap",
+        "Pine wind"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Loblolly Pine",
+        "Shortleaf Pine",
+        "Sweetgum",
+        "Cypress"
+      ],
+      "common_animals": [
+        "Large-mouth Bass",
+        "American Alligator",
+        "White-tailed Deer",
+        "Bald Eagle"
+      ]
+    },
+    "human_demographics_and_culture": "Caddo ancestral lands and Minden North Louisiana pine timber heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Twin freshwater reservoirs surrounded by loblolly pine hills in North Louisiana.",
+      "energetic_and_spiritual_features": "Quiet pine-covered hills descending to clear lake coves under 45 minutes from Shreveport."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Caney Lakes Summit Trail",
+        "length_miles": 3.5,
+        "difficulty": "Easy to Moderate",
+        "features": "Lake shoreline, pine hardwood forest, fishing docks"
+      }
+    ],
+    "public_reviews_summary": "Super convenient free lake basecamp near Minden and Shreveport with fast 5G cell service.",
+    "other_data": "8 miles from Minden.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "louisiana-008",
+    "name": "Catahoula Dispersed Area - Kisatchie NF",
+    "state": "Louisiana",
+    "county": "Grant",
+    "coordinates": {
+      "latitude": 31.6123,
+      "longitude": -92.4812,
+      "elevation_ft": 210.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Catahoula Ranger District",
+      "type": "Federal",
+      "phone": "(318) 765-3554",
+      "website": "https://www.fs.usda.gov/kisatchie"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside Stuart Lake fee loop)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free primitive dispersed camping allowed on national forest pullouts along FS Road 120. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Catahoula Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel Forest Service road; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low along forest corridor",
+      "distance_from_tower_corridor_miles": 6.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Loblolly Pine Canopy",
+      "Livingston Lake Nearby",
+      "Breezy Hill Trail Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Pollock / Alexandria, LA",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Full City Services",
+          "Hospital",
+          "Walmart",
+          "Gas Stations",
+          "Hardware"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush pine spring (68-78°F).",
+      "summer": "Warm humid summer (90-95°F) with forest shade.",
+      "fall": "Crisp pleasant autumn days.",
+      "winter": "Mild winter (52-64°F)."
+    },
+    "dangers_and_hazards": [
+      "Feral Hogs",
+      "Venomous Snakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Pine Forest Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through loblolly pine needles",
+        "Bird calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Loblolly Pine",
+        "Shortleaf Pine",
+        "Post Oak",
+        "Dogwood"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Feral Hog",
+        "Red-cockaded Woodpecker",
+        "Coyote"
+      ]
+    },
+    "human_demographics_and_culture": "Catahoula ancestral lands and Central Louisiana timber heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Catahoula district named after the Native American word for 'sacred clear lake'.",
+      "energetic_and_spiritual_features": "Quiet loblolly pine woods framing small spring-fed creeks near Alexandria."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Breezy Hill Trail",
+        "length_miles": 3.0,
+        "difficulty": "Easy",
+        "features": "Loblolly pine canopy, rolling sandhills, wildflower swales"
+      }
+    ],
+    "public_reviews_summary": "Peaceful pine forest basecamp near Alexandria with easy access and reliable cell service.",
+    "other_data": "12 miles north of Alexandria.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "louisiana-009",
+    "name": "Winn Dispersed Area - Kisatchie NF",
+    "state": "Louisiana",
+    "county": "Winn",
+    "coordinates": {
+      "latitude": 31.9123,
+      "longitude": -92.6412,
+      "elevation_ft": 240.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Winn Ranger District",
+      "type": "Federal",
+      "phone": "(318) 628-4664",
+      "website": "https://www.fs.usda.gov/kisatchie"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside Gum Springs fee lot)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along FS Road 500. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Saline Bayou. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel Forest Service road; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low along forest corridor",
+      "distance_from_tower_corridor_miles": 7.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Saline National Wild & Scenic Bayou Proximity",
+      "Cypress Swamp & Pine Forest",
+      "Canoeing & Kayaking",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Winnfield, LA",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush cypress spring (68-78°F).",
+      "summer": "Warm humid summer (90-95°F) with bayou shade.",
+      "fall": "Crisp pleasant autumn days.",
+      "winter": "Mild winter (52-64°F)."
+    },
+    "dangers_and_hazards": [
+      "Alligators in Saline Bayou",
+      "Venomous Snakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Saline Bayou Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Saline Bayou water flow",
+        "Pine wind"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Bald Cypress",
+        "Loblolly Pine",
+        "Shortleaf Pine",
+        "Spanish Moss"
+      ],
+      "common_animals": [
+        "American Alligator",
+        "White-tailed Deer",
+        "Barred Owl",
+        "Red-cockaded Woodpecker"
+      ]
+    },
+    "human_demographics_and_culture": "Caddo ancestral lands and Winnfield timber & political history.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Saline Bayou is Louisiana's only designated National Wild and Scenic River, winding through moss-draped cypress swamps.",
+      "energetic_and_spiritual_features": "Ancient cypress bayou wetlands contrasting against high loblolly pine ridges."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Saline Bayou Companion Trail",
+        "length_miles": 4.0,
+        "difficulty": "Easy",
+        "features": "Cypress bayou boardwalks, moss-draped trees, canoe launch overlooks"
+      }
+    ],
+    "public_reviews_summary": "Peaceful bayou forest camping near Winnfield with great canoeing and dependable cell service.",
+    "other_data": "Louisiana's only National Wild & Scenic River.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "louisiana-010",
+    "name": "Calcasieu Dispersed Area - Kisatchie NF",
+    "state": "Louisiana",
+    "county": "Vernon",
+    "coordinates": {
+      "latitude": 31.0812,
+      "longitude": -93.1412,
+      "elevation_ft": 310.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Calcasieu Ranger District",
+      "type": "Federal",
+      "phone": "(337) 791-6000",
+      "website": "https://www.fs.usda.gov/kisatchie"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside Fullerton fee lot)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free primitive dispersed camping allowed on national forest pullouts along FS Road 400. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel Forest Service road; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low under longleaf pine canopy",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Longleaf Pine Flatwoods",
+      "Historic Fullerton Sawmill Ruins Nearby",
+      "Enduro Trail Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 8,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Leesville / Fort Johnson, LA",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Full City Services",
+          "Hospital",
+          "Walmart",
+          "Gas Stations",
+          "Hardware",
+          "Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush longleaf spring (68-78°F).",
+      "summer": "Warm humid summer (90-95°F) with pine shade.",
+      "fall": "Crisp pleasant autumn days.",
+      "winter": "Mild winter (52-65°F)."
+    },
+    "dangers_and_hazards": [
+      "Feral Hogs",
+      "Venomous Snakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Longleaf Pine Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Wind through longleaf pines",
+        "Songbird calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Longleaf Pine",
+        "Slash Pine",
+        "Post Oak",
+        "Saw Palmetto"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Feral Hog",
+        "Red-cockaded Woodpecker",
+        "Gopher Tortoise"
+      ]
+    },
+    "human_demographics_and_culture": "Atakapa and Choctaw ancestral lands and historic 1920s Fullerton lumber boomtown heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Fullerton Historic Sawmill site was once the largest lumber mill in the American South, processing longleaf pine virgin forests.",
+      "energetic_and_spiritual_features": "Quiet longleaf pine flatwoods framing historic stone ruins of the 1920s lumber mill."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Fullerton Mill Historic Interpretive Trail",
+        "length_miles": 2.5,
+        "difficulty": "Easy",
+        "features": "1920s sawmill concrete ruins, longleaf pine forest, mill pond"
+      }
+    ],
+    "public_reviews_summary": "Top choice longleaf pine basecamp near Leesville and Fort Johnson with historic ruins and blazing 5G cell service.",
+    "other_data": "Historic Fullerton Sawmill ruins nearby.",
+    "last_updated": "2026-09-12"
+  }
+]

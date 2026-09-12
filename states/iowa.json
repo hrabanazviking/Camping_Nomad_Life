@@ -1,0 +1,1265 @@
+[
+  {
+    "id": "ia-stephens-state-forest-whitebreast",
+    "name": "Stephens State Forest Free Primitive Camping (Whitebreast Unit)",
+    "state": "Iowa",
+    "county": "Lucas County",
+    "coordinates": {
+      "latitude": 41.0189,
+      "longitude": -93.4182,
+      "elevation_ft": 980
+    },
+    "management_agency": {
+      "name": "Iowa Department of Natural Resources (DNR) - Forestry Division",
+      "type": "State DNR",
+      "phone": "(641) 774-5632",
+      "website": "https://www.iowadnr.gov/places-to-go/state-forests/stephens-state-forest"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for pack-in primitive camping",
+      "stay_limit": "14 consecutive days max stay limit",
+      "guidelines": "Primitive pack-in camping allowed at designated primitive sites within the Whitebreast and Lucas units. No vehicle camping inside forest interior."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6-8 inches deep in rich prairie-forest soil, at least 200 feet from streams and trails. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only.",
+      "safety_requirements": "Campfires in established fire rings only. Must be completely cold before vacating site.",
+      "seasonal_fire_bans": "Obey Iowa DNR drought fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state road leading to gravel forest road parking area",
+      "road_conditions": "Well-maintained gravel roads to trailhead parking lots. Primitive campsites are a short 0.2 to 1.0 mile walk-in.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (parked at trailhead lot)",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Connectivity",
+      "verizon_reliability": "3-4 bars 4G LTE (20-50 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 5G LTE",
+      "terrain_obstruction_risk": "Low (Rolling Midwest hardwood forest topography)",
+      "distance_from_tower_corridor_miles": 3.2,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Wooden Picnic Tables",
+      "Primitive Fire Rings",
+      "Shaded Oak / Walnut Canopy",
+      "High-speed 4G/5G Cell Service"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 6,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Chariton, IA",
+        "distance_miles": 8.5,
+        "services_available": [
+          "Hy-Vee Grocery",
+          "Gas Stations",
+          "Pharmacy",
+          "Chariton Public Library",
+          "Hospital"
+        ]
+      },
+      {
+        "town_name": "Des Moines, IA",
+        "distance_miles": 48.0,
+        "services_available": [
+          "Full City Services",
+          "International Airport",
+          "24/7 Gyms",
+          "Major Hospitals"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "50-65°F, lush green forest floor, spring rainstorms, muddy trails.",
+      "summer": "Hot and humid (80-88°F), dense canopy shade, high insect activity.",
+      "fall": "Crisp 55-70°F days, brilliant Midwest autumn colors, prime primitive camping.",
+      "winter": "Cold 20-35°F, snow-covered trails, crisp winter silence."
+    },
+    "dangers_and_hazards": [
+      "Ticks and mosquitoes during summer months",
+      "Falling dead tree limbs during high prairie winds"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Peaceful Iowa woodland silence",
+      "common_human_made_sounds": [
+        "Distant agricultural tractor sound in surrounding farmland",
+        "High commercial aircraft contrails"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Oak",
+        "Black Walnut (Juglans nigra)",
+        "Shagbark Hickory (Carya ovata)",
+        "Wild Plum (Prunus americana)"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Racoon (Procyon lotor)",
+        "Red-tailed Hawk"
+      ]
+    },
+    "human_demographics_and_culture": "Backcountry hikers, equestrian trail riders, bow hunters during fall, and solitude-seeking digital nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Ioway and Sac & Fox indigenous traditions honor the rolling oak ridges and creek valleys of southern Iowa as peaceful spirit sanctuaries.",
+      "energetic_and_spiritual_features": "Calm, grounding Midwest woodland atmosphere."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Whitebreast Unit Trail Loop",
+        "length_miles": 6.5,
+        "difficulty": "Easy to Moderate",
+        "features": "Rolling hardwood hills, pine plantations, wildlife viewing"
+      }
+    ],
+    "public_reviews_summary": "Clean, quiet, and 100% free primitive camping in southern Iowa. Excellent cell service and peaceful oak forests.",
+    "other_data": "Bortle Class 3 night sky. Short walk-in from parking lot.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ia-yellow-river-state-forest-paint-creek",
+    "name": "Yellow River State Forest Paint Creek Primitive Backpacking",
+    "state": "Iowa",
+    "county": "Allamakee County",
+    "coordinates": {
+      "latitude": 43.1812,
+      "longitude": -91.2412,
+      "elevation_ft": 850
+    },
+    "management_agency": {
+      "name": "Iowa Department of Natural Resources (DNR) - Forestry Bureau",
+      "type": "State DNR",
+      "phone": "(563) 586-2254",
+      "website": "https://www.iowadnr.gov/places-to-go/state-forests/yellow-river-state-forest"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Iowa DNR State Forest Primitive Backpacking (zero fee)",
+      "stay_limit": "14 consecutive days limit",
+      "guidelines": "Primitive hike-in camping permitted at designated trail shelters/sites along Paint Creek Unit trail network. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6 inches deep in soil 200 feet from Paint Creek. Pack out all hygiene items.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down firewood collection permitted on site.",
+      "safety_requirements": "Campfires permitted in established fire rings only. Fully extinguish before leaving.",
+      "seasonal_fire_bans": "Observe drought fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway to gravel forest entrance road",
+      "road_conditions": "Smooth gravel parking lot at Paint Creek trailhead.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance vehicles.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair to Moderate / Ridge Signal",
+      "verizon_reliability": "2-3 bars 4G LTE on ridge trails",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate in deep limestone creek valleys",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Primitive Backpacking Campsites",
+      "Driftless Area Limestone Bluff Views",
+      "Paint Creek Trout Stream Access",
+      "Fire Rings & Picnic Tables"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Waukon, IA",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Fareway Grocery",
+          "Gas Stations",
+          "Robey Memorial Library",
+          "Veterans Memorial Hospital",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "45-62°F, blooming spring trout lilies, crisp driftless valley air.",
+      "summer": "72-86°F, warm humid summer days, shaded oak canopy.",
+      "fall": "48-68°F, world-class Mississippi river bluff fall foliage.",
+      "winter": "15-32°F, cold driftless winter snow, peaceful frozen streams."
+    },
+    "dangers_and_hazards": [
+      "Steep limestone bluff drop-offs",
+      "Flash flooding in narrow creek bottom during thunderstorms",
+      "Timber rattlesnakes in rocky limestone ledges"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Rushing trout stream and woodland birds",
+      "common_human_made_sounds": [
+        "Occasional trout angler on stream"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Oak",
+        "Sugar Maple",
+        "Eastern Redcedar",
+        "Maidenhair Fern"
+      ],
+      "common_animals": [
+        "Brown Trout",
+        "Bald Eagle",
+        "White-tailed Deer",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Driftless region anglers, Iowa backpackers, nature photographers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Effigy Mounds and Driftless Area sacred grounds honoring ancient Native American burial and ceremonial earthworks.",
+      "energetic_and_spiritual_features": "Serene ancient limestone valley tranquility, pristine trout water clarity."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Paint Creek Backcountry Loop Trail",
+        "length_miles": 7.5,
+        "difficulty": "Moderate",
+        "features": "Driftless limestone bluffs, oak forest, trout stream overlooks"
+      }
+    ],
+    "public_reviews_summary": "Iowa's premier backpacking destination in the Driftless Area. Free primitive camping, great trout fishing, and peaceful oak forest trails.",
+    "other_data": "Iowa DNR State Forest. Free primitive camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ia-shimek-state-forest-lick-creek",
+    "name": "Shimek State Forest Lick Creek Primitive Campsites",
+    "state": "Iowa",
+    "county": "Lee County",
+    "coordinates": {
+      "latitude": 40.6812,
+      "longitude": -91.6512,
+      "elevation_ft": 650
+    },
+    "management_agency": {
+      "name": "Iowa Department of Natural Resources (DNR)",
+      "type": "State DNR",
+      "phone": "(319) 878-3817",
+      "website": "https://www.iowadnr.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Iowa DNR State Forest Dispersed Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive backpacking camping permitted in Lick Creek Unit of Shimek State Forest. Camp 100ft minimum from trails."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6 inches deep in soil 200 feet from Lick Creek. Pack out all paper.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on site.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse before vacating.",
+      "seasonal_fire_bans": "Observe drought fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway to gravel forest roads",
+      "road_conditions": "Graded gravel access roads, flat pullouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance vehicles.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Near US 218 Tower Line",
+      "verizon_reliability": "3-4 bars 4G LTE (15-35 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low across rolling forest hills",
+      "distance_from_tower_corridor_miles": 3.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Oak-Hickory Forest Primitive Campsites",
+      "Lick Creek Water Source (Filter mandatory)",
+      "Flat Dirt/Gravel Pullouts",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 7,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Donnellson / Fort Madison, IA",
+        "distance_miles": 10.0,
+        "services_available": [
+          "Hy-Vee / Fareway",
+          "Gas Stations",
+          "Donnellson Public Library",
+          "Hospital",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "50-68°F, spring wildflower bloom, crisp sunny air.",
+      "summer": "75-88°F, warm humid Iowa summer days under oak canopy.",
+      "fall": "50-70°F, colorful oak-hickory autumn foliage.",
+      "winter": "22-38°F, cold winter air, light snow."
+    },
+    "dangers_and_hazards": [
+      "Ticks in summer months (use permethrin)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Woodland birds and wind through oak leaves",
+      "common_human_made_sounds": [
+        "Occasional vehicle on country road"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Oak",
+        "Shagbark Hickory",
+        "Sugar Maple",
+        "Wild Plum"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Red Fox",
+        "Barred Owl"
+      ]
+    },
+    "human_demographics_and_culture": "Sauk & Meskwaki ancestral lands, Iowa outdoorsmen, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Traditional Sauk territory honoring the ancient oak-hickory woodlands of Southeastern Iowa.",
+      "energetic_and_spiritual_features": "Relaxing oak forest quietness, peaceful woodland solitude."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Lick Creek Trail",
+        "length_miles": 6.0,
+        "difficulty": "Moderate",
+        "features": "Oak-hickory forest, creek ravines, wildlife viewing"
+      }
+    ],
+    "public_reviews_summary": "Top free primitive camping in Iowa's Shimek State Forest. Solid cell internet, flat easy driving, and 10 minutes to Fort Madison.",
+    "other_data": "Iowa DNR State Forest. Free dispersed camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "iowa-004",
+    "name": "Preparation Canyon State Park Backcountry Primitive Sites",
+    "state": "Iowa",
+    "county": "Monona",
+    "coordinates": {
+      "latitude": 41.9842,
+      "longitude": -95.9685,
+      "elevation_ft": 1180.0
+    },
+    "management_agency": {
+      "name": "Iowa Department of Natural Resources (DNR)",
+      "type": "State",
+      "phone": "(712) 423-2829",
+      "website": "https://www.iowadnr.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night, no fees required for primitive walk-in backcountry sites)",
+      "stay_limit": "14 days maximum stay",
+      "guidelines": "Walk-in primitive hike-in camping permitted at designated hike-in sites. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Use trailhead pit latrine or bury waste 6-8 inches deep 200 ft from trails.",
+      "trash_policy": "Strict Carry-In, Carry-Out rule."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather small dead and down firewood near hike-in sites.",
+      "safety_requirements": "Campfires permitted only in designated metal fire rings at hike-in sites.",
+      "seasonal_fire_bans": "Subject to Iowa DNR burn warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway to gravel parking lot",
+      "road_conditions": "Paved roads lead to trailhead parking lot; 0.5 to 1.5 mile hike required to reach campsites.",
+      "vehicle_recommendation": "Any standard front-wheel drive low clearance vehicle can park at main lot.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Good (3.5/5 Stars)",
+      "verizon_reliability": "3 bars 4G LTE on ridge sites",
+      "att_reliability": "3 bars 4G LTE",
+      "tmobile_reliability": "2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate - steep Loess Hills topography",
+      "distance_from_tower_corridor_miles": 3.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Hike-in Primitive Sites",
+      "Metal Fire Rings",
+      "Loess Hills Scenic Vistas",
+      "Trailhead Parking"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Moorhead, IA",
+        "distance_miles": 5.1,
+        "services_available": [
+          "Gas Station",
+          "Local Cafe",
+          "Post Office"
+        ]
+      },
+      {
+        "town_name": "Onawa, IA",
+        "distance_miles": 14.8,
+        "services_available": [
+          "Grocery Store",
+          "Hospital",
+          "Public Library",
+          "Hardware Store"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Wild prairie flowers blooming across steep windblown loess ridges.",
+      "summer": "Warm days (80-88°F) with prairie breezes.",
+      "fall": "Dramatic autumn colors; cool, clear prairie nights.",
+      "winter": "Cold and snowy (15-30°F); snowshoes helpful on steep ridge trails."
+    },
+    "dangers_and_hazards": [
+      "Steep Loess Ridge Drop-offs",
+      "Ticks",
+      "High Prairie Winds"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Wind-Swept Prairie Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Distant farm tractor in valley",
+        "High altitude jet contrails"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Yucca (Soapweed)",
+        "Little Bluestem",
+        "Bur Oak",
+        "Prairie Goldenrod"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Coyote",
+        "Bobcat",
+        "Red-tailed Hawk"
+      ]
+    },
+    "human_demographics_and_culture": "Loess Hills pioneer history named after the 1850s Mormon settlement of Preparation.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Local history recalls 1850s religious pioneer seeker Charles B. Thompson founding the holy city of Preparation.",
+      "energetic_and_spiritual_features": "Windblown loess ridges offer a meditative, wide-open prairie perspective."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Preparation Canyon Ridge Trail",
+        "length_miles": 3.6,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Steep loess ridge crests, deep forest ravines, panoramic valley views"
+      }
+    ],
+    "public_reviews_summary": "One of Iowa's premier backcountry hike-in spots with incredible loess ridge scenery and quiet night skies.",
+    "other_data": "Pack in all drinking water as backcountry sites lack water hydrants.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "iowa-005",
+    "name": "Stephens State Forest Dispersed Pack-In Primitive Zone",
+    "state": "Iowa",
+    "county": "Lucas",
+    "coordinates": {
+      "latitude": 41.0125,
+      "longitude": -93.3852,
+      "elevation_ft": 990.0
+    },
+    "management_agency": {
+      "name": "Iowa Department of Natural Resources (DNR) - Forestry Bureau",
+      "type": "State",
+      "phone": "(641) 774-4570",
+      "website": "https://www.iowadnr.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night, free pack-in primitive backpacking sites)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Primitive pack-in camping permitted at designated pack-in unit sites across Lucas and Whitebreast Units. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep in cat-holes at least 200 feet from streams.",
+      "trash_policy": "Carry-in carry-out policy strictly enforced."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down firewood collection allowed.",
+      "safety_requirements": "Fire permitted in metal rings at pack-in sites. Douse with water.",
+      "seasonal_fire_bans": "Subject to state dry season burn restrictions."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest roads leading to pack-in trailheads",
+      "road_conditions": "Well-graded gravel roads; short hike required from parking spot.",
+      "vehicle_recommendation": "Standard FWD compact car accessible.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Good (3/5 Stars)",
+      "verizon_reliability": "3 bars 4G LTE",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "2 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - gentle rolling timber hills",
+      "distance_from_tower_corridor_miles": 5.2,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Primitive Fire Rings",
+      "Pack-in Tent Sites",
+      "Trailhead Parking"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 5,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Chariton, IA",
+        "distance_miles": 8.4,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Public Library",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Des Moines, IA",
+        "distance_miles": 48.0,
+        "services_available": [
+          "International Airport",
+          "Major Supercenters",
+          "Hospitals",
+          "Gym Chains",
+          "Auto Repair"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush green hardwood forest emergence and spring wild mushroom hunting.",
+      "summer": "Warm (80-86°F) with shady oak-hickory canopy.",
+      "fall": "Rich autumn foliage and crisp night air.",
+      "winter": "Cold snow-covered woods (18-32°F); quiet winter camping."
+    },
+    "dangers_and_hazards": [
+      "Ticks",
+      "Poison Ivy",
+      "Freezing Winter Temps"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Peaceful Forest Solitude (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Distant gravel road traffic",
+        "High altitude jets"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Oak",
+        "Shagbark Hickory",
+        "Walnut",
+        "Wild Plum"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Racoon",
+        "Barred Owl"
+      ]
+    },
+    "human_demographics_and_culture": "Southern Iowa agricultural and state forest timber management country.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Pioneer trail stories speak of friendly woodland spirits watching over early travelers.",
+      "energetic_and_spiritual_features": "Serene oak groves offer deep peace and stillness."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Whitebreast Backpacking Trail",
+        "length_miles": 6.2,
+        "difficulty": "Moderate",
+        "features": "Rolling hardwood hills, quiet pine groves, secluded pond loops"
+      }
+    ],
+    "public_reviews_summary": "Iowa's largest state forest offers peace, solitude, easy pack-in camping, and decent cell service.",
+    "other_data": "Water must be brought in or treated from forest ponds.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "iowa-006",
+    "name": "Paint Creek Dispersed Area - Yellow River State Forest",
+    "state": "Iowa",
+    "county": "Allamakee",
+    "coordinates": {
+      "latitude": 43.1812,
+      "longitude": -91.2812,
+      "elevation_ft": 850.0
+    },
+    "management_agency": {
+      "name": "Iowa Department of Natural Resources (DNR)",
+      "type": "State",
+      "phone": "(563) 586-2254",
+      "website": "https://www.iowadnr.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state forest dispersed camping outside fee loops)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on state forest pullouts along Paint Creek Road. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Paint Creek / Yellow River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to DNR fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel forest roads; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate in Driftless valley",
+      "distance_from_tower_corridor_miles": 6.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Driftless Region Sandstone Bluffs",
+      "Trout Stream Fishing",
+      "Hardwood Forest Canopy",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Waukon / Harpers Ferry, IA",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush Driftless spring (58-70°F).",
+      "summer": "Warm pleasant summer (78-86°F) with trout fishing.",
+      "fall": "Spectacular Driftless autumn foliage.",
+      "winter": "Cool winter (20-32°F) with snow."
+    },
+    "dangers_and_hazards": [
+      "Flash Floods in Creek Valley",
+      "Timber Rattlesnakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Driftless Valley Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Paint Creek trout stream flow",
+        "Songbird calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Sugar Maple",
+        "Red Oak",
+        "White Pine",
+        "Wild Ginger"
+      ],
+      "common_animals": [
+        "Trout",
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Bald Eagle"
+      ]
+    },
+    "human_demographics_and_culture": "Ioway and Ho-Chunk ancestral lands and Driftless Area unglaciated geology culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Located in Iowa's unglaciated Driftless Area, featuring 300-foot limestone and sandstone river bluffs untouched by ice age glaciers.",
+      "energetic_and_spiritual_features": "Deep unglaciated hardwood forest valleys with cold spring-fed trout streams."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Yellow River Backcountry Backpacking Trail",
+        "length_miles": 5.0,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Driftless bluffs, Paint Creek overlooks, hardwood canopy"
+      }
+    ],
+    "public_reviews_summary": "Iowa's premier mountain-like Driftless Area forest camping with cold trout streams and reliable cell service.",
+    "other_data": "Driftless region unglaciated landscape.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "iowa-007",
+    "name": "Stephens Dispersed Area - Stephens State Forest",
+    "state": "Iowa",
+    "county": "Lucas",
+    "coordinates": {
+      "latitude": 40.9812,
+      "longitude": -93.3412,
+      "elevation_ft": 980.0
+    },
+    "management_agency": {
+      "name": "Iowa Department of Natural Resources (DNR)",
+      "type": "State",
+      "phone": "(641) 774-4559",
+      "website": "https://www.iowadnr.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state forest dispersed camping outside pack-in fee loops)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free primitive dispersed camping allowed on state forest pullouts along forest roads. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to DNR fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel forest roads; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low under oak-hickory canopy",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Oak-Hickory Forest Canopy",
+      "Multi-Use Trail System",
+      "Pine Plantation Groves",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 6,
+      "terrain_score": 8,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Chariton, IA",
+        "distance_miles": 10.0,
+        "services_available": [
+          "Grocery Store",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush hardwood spring (60-72°F).",
+      "summer": "Warm summer (82-88°F) with forest shade.",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cool winter (22-35°F)."
+    },
+    "dangers_and_hazards": [
+      "Ticks in Spring Brush"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Oak Forest Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Wind through oak canopy",
+        "Songbird calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Oak",
+        "Red Oak",
+        "Shagbark Hickory",
+        "White Pine"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Barred Owl",
+        "Red Fox"
+      ]
+    },
+    "human_demographics_and_culture": "Ioway and Sac & Fox ancestral lands and Lucas County timber & agriculture heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Largest state forest in Iowa, protecting 15,000 acres of oak-hickory hills and pine plantations.",
+      "energetic_and_spiritual_features": "Quiet rolling oak forest hills offering peaceful Midwest woodland solitude."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Stephens Forest Woodmaster Trail",
+        "length_miles": 4.5,
+        "difficulty": "Easy to Moderate",
+        "features": "Oak-hickory forest, pine plantations, ravine bridges"
+      }
+    ],
+    "public_reviews_summary": "Iowa's largest state forest basecamp near Chariton with extensive trails and blazing 5G cell service.",
+    "other_data": "15,000 acres of state forest land.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "iowa-008",
+    "name": "Shimek Dispersed Area - Shimek State Forest",
+    "state": "Iowa",
+    "county": "Lee",
+    "coordinates": {
+      "latitude": 40.6812,
+      "longitude": -91.6412,
+      "elevation_ft": 720.0
+    },
+    "management_agency": {
+      "name": "Iowa Department of Natural Resources (DNR)",
+      "type": "State",
+      "phone": "(319) 878-3817",
+      "website": "https://www.iowadnr.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state forest dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on state forest pullouts along forest roads. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Des Moines River / ponds. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to DNR fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel forest roads; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low under oak-pine canopy",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Des Moines River Proximity",
+      "Pine & Oak Shade",
+      "Equestrian & Hike Trails",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 8,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Farmington / Fort Madison, IA",
+        "distance_miles": 10.0,
+        "services_available": [
+          "Grocery Store",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush spring forest (60-72°F).",
+      "summer": "Warm summer (82-88°F) with forest shade.",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cool winter (25-38°F)."
+    },
+    "dangers_and_hazards": [
+      "Ticks in Spring Brush"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Oak-Pine Forest Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Wind through pine canopy",
+        "Songbird calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Pine",
+        "Red Oak",
+        "Shagbark Hickory",
+        "Dogwood"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Red Fox",
+        "Great Horned Owl"
+      ]
+    },
+    "human_demographics_and_culture": "Sauk and Meskwaki ancestral lands and Des Moines River valley timber heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "9,000-acre state forest named after Dr. Bohumil Shimek, pioneer Iowa botanist and conservationist.",
+      "energetic_and_spiritual_features": "Quiet oak and pine woods near the historic Des Moines River."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Shimek Forest Loop Trail",
+        "length_miles": 4.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Pine plantations, oak-hickory ridges, ponds"
+      }
+    ],
+    "public_reviews_summary": "Peaceful Southeast Iowa forest camping near the Des Moines River with fast 5G cell service.",
+    "other_data": "Named after botanist Bohumil Shimek.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "iowa-009",
+    "name": "Loess Hills Dispersed Area - Loess Hills State Forest",
+    "state": "Iowa",
+    "county": "Monona",
+    "coordinates": {
+      "latitude": 41.9812,
+      "longitude": -95.9412,
+      "elevation_ft": 1250.0
+    },
+    "management_agency": {
+      "name": "Iowa Department of Natural Resources (DNR)",
+      "type": "State",
+      "phone": "(712) 456-2924",
+      "website": "https://www.iowadnr.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state forest dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on state forest pullouts along Loess Hills Scenic Byway forest roads. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from dry gullies. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to DNR fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel forest roads along ridge tops; slick loess soil when wet.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars when dry.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low on high Loess ridge tops",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Loess Hills Ridge Top Views",
+      "Missouri River Valley Panorama",
+      "Native Prairie Bluffs",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 6,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Onawa / Pisgah, IA",
+        "distance_miles": 10.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diners",
+          "I-29 Access"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush green prairie spring (60-72°F).",
+      "summer": "Warm summer (84-90°F) with ridge breezes.",
+      "fall": "Spectacular prairie & oak autumn foliage.",
+      "winter": "Cool winter (22-35°F)."
+    },
+    "dangers_and_hazards": [
+      "Slippery Loess Soil when Wet",
+      "High Ridge Winds"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Loess Ridge Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind over prairie ridges",
+        "Meadowlark calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Bur Oak",
+        "Little Bluestem",
+        "Sideoats Grama",
+        "Yucca"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Bobcat",
+        "Wild Turkey",
+        "Red-tailed Hawk"
+      ]
+    },
+    "human_demographics_and_culture": "Otoe-Missouria ancestral lands and Loess Hills wind-deposited geology culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Unique wind-deposited silt (loess) soil dunes 60 to 200 feet deep created at the end of the last ice age, found only here and in China.",
+      "energetic_and_spiritual_features": "Dramatic steep prairie ridge bluffs overlooking the flat Missouri River valley."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Preparation Canyon Ridge Trail",
+        "length_miles": 3.5,
+        "difficulty": "Moderate",
+        "features": "Loess soil ridge bluffs, native prairie, Missouri River valley vistas"
+      }
+    ],
+    "public_reviews_summary": "Unbelievable ridge top prairie views overlooking the Missouri River valley with blazing 5G cell service.",
+    "other_data": "Unique wind-blown silt geology.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "iowa-010",
+    "name": "Preparation Canyon Dispersed Area - State Park",
+    "state": "Iowa",
+    "county": "Monona",
+    "coordinates": {
+      "latitude": 41.9123,
+      "longitude": -95.8412,
+      "elevation_ft": 1180.0
+    },
+    "management_agency": {
+      "name": "Iowa Department of Natural Resources (DNR)",
+      "type": "State",
+      "phone": "(712) 456-2924",
+      "website": "https://www.iowadnr.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state park hike-in dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Primitive hike-in dispersed camping allowed at designated remote backcountry sites. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to DNR fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved road to hike-in trailheads",
+      "road_conditions": "Paved access road to smooth dirt hike-in trail parking.",
+      "vehicle_recommendation": "Accessible by all low-clearance 2WD passenger cars.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low on Loess Ridge top",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "1850s Mormon Ghost Town Heritage Site",
+      "Loess Hills Canyon Overlooks",
+      "Hike-In Primitive Solitude",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 6,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Moorhead / Onawa, IA",
+        "distance_miles": 8.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush green prairie spring (60-72°F).",
+      "summer": "Warm summer (84-90°F) with canyon breezes.",
+      "fall": "Spectacular autumn foliage.",
+      "winter": "Cool winter (22-35°F)."
+    },
+    "dangers_and_hazards": [
+      "Slippery Loess Slopes when Wet"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Backcountry Canyon Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through bur oak canopy",
+        "Prairie bird calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Bur Oak",
+        "Little Bluestem",
+        "Leadplant",
+        "Coneflower"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Red Fox",
+        "Coyote"
+      ]
+    },
+    "human_demographics_and_culture": "Otoe-Missouria ancestral lands and 1850s Charles B. Thompson Mormon breakaway colony history.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Site of the 1853 Mormon colony of 'Preparation' led by Charles B. Thompson before becoming a ghost town.",
+      "energetic_and_spiritual_features": "Secluded loess canyon valley offering complete backcountry hike-in quiet."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Preparation Canyon Backcountry Trail",
+        "length_miles": 3.0,
+        "difficulty": "Moderate",
+        "features": "1850s ghost town site, loess canyon overlooks, bur oak forest"
+      }
+    ],
+    "public_reviews_summary": "Iowa's best primitive hike-in backcountry camping steeped in 1850s pioneer history with fast 5G cell service.",
+    "other_data": "1850s Mormon settlement ghost town history.",
+    "last_updated": "2026-09-12"
+  }
+]

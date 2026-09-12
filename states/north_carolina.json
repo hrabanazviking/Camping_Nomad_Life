@@ -1,0 +1,1286 @@
+[
+  {
+    "id": "nc-nantahala-tellico-gap",
+    "name": "Tellico Gap / Fires Creek Dispersed Camping - Nantahala National Forest",
+    "state": "North Carolina",
+    "county": "Macon County / Clay County",
+    "coordinates": {
+      "latitude": 35.2412,
+      "longitude": -83.5814,
+      "elevation_ft": 2850
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Nantahala Ranger District",
+      "type": "USFS",
+      "phone": "(828) 524-6441",
+      "website": "https://www.fs.usda.gov/nfsnc"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for general dispersed primitive camping",
+      "stay_limit": "14 consecutive days max stay within 30-day period",
+      "guidelines": "Dispersed primitive camping permitted throughout general national forest lands outside developed fee campgrounds. Campsites set back 100ft from trails and trout streams."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6-8 inches deep in rich organic soil, at least 200 feet from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace. Black bears active in Blue Ridge: bear canister or vehicle storage mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only.",
+      "safety_requirements": "Campfires in established rock fire rings only. Extinguish cold to touch with stream water.",
+      "seasonal_fire_bans": "Obey NC Forest Service burn bans during dry spring/autumn."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved gravel mountain forest road (FS 423 / Tellico Road)",
+      "road_conditions": "Winding gravel mountain road with steep grades, switchbacks, and washboards.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (accessible along main FS 423 gravel road in dry weather)",
+      "scores": {
+        "road_grade": 6,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate / High Ridge Advantage",
+      "verizon_reliability": "2-3 bars 4G LTE on ridge turnouts; spotty down in stream coves",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate (Southern Appalachian mountain ridges create signal shadows)",
+      "distance_from_tower_corridor_miles": 5.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Mountain Trout Stream Water Source (Filter required)",
+      "Appalachian Trail Proximity",
+      "Established Rock Fire Rings",
+      "Lush Oak & Rhododendron Canopy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Franklin, NC",
+        "distance_miles": 14.5,
+        "services_available": [
+          "Walmart Supercenter",
+          "Ingles Market",
+          "Gas Stations",
+          "Macon County Public Library",
+          "Angel Medical Center"
+        ]
+      },
+      {
+        "town_name": "Murphy / Bryson City, NC",
+        "distance_miles": 26.0,
+        "services_available": [
+          "Supermarkets",
+          "Outdoor Outfitters",
+          "Great Smoky Mountains Access",
+          "Full Services"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "60-75°F, lush mountain blooms (rhododendron, mountain laurel), spring rainstorms.",
+      "summer": "75-85°F, pleasant mountain temperature, lush green canopy shade, cool nights (55-60°F).",
+      "fall": "Spectacular Blue Ridge autumn foliage (55-70°F daytime, 35-45°F nights), prime camping season.",
+      "winter": "Cool to chilly (35-50°F), freezing nights, occasional mountain snow."
+    },
+    "dangers_and_hazards": [
+      "Black Bears active throughout Nantahala NF - bear-proof food storage mandatory",
+      "Copperheads and Timber Rattlesnakes near rocky outcrops",
+      "Steep unpaved mountain road inclines"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Mountain stream and forest quiet",
+      "common_human_made_sounds": [
+        "Occasional passing vehicle on FS 423",
+        "High commercial aircraft contrails"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Oak",
+        "Tulip Poplar",
+        "Eastern Hemlock",
+        "Rhododendron maximum",
+        "Flame Azalea (Rhododendron calendulaceum)"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Brook Trout (Salvelinus fontinalis in native streams)",
+        "Blue Ridge Two-lined Salamander"
+      ]
+    },
+    "human_demographics_and_culture": "Appalachian Trail hikers, fly anglers, Blue Ridge digital nomads, and autumn leaf peepers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Cherokee indigenous traditions revere the Nantahala ('Land of the Noonday Sun') mountains and mountain streams as sacred spirit sanctuaries.",
+      "energetic_and_spiritual_features": "Profound Southern Appalachian mountain energy, crystal-clear stream acoustics, serene forest sanctuary."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Appalachian Trail - Wesser Bald / Tellico Gap Section",
+        "length_miles": 6.5,
+        "difficulty": "Strenuous",
+        "features": "Wesser Bald Observation Tower, 360-degree Smoky & Nantahala mountain views"
+      }
+    ],
+    "public_reviews_summary": "Top-tier free primitive camping in Western North Carolina. Beautiful trout stream access, lush rhododendron canopy, and dependable cell service on ridge turnouts.",
+    "other_data": "Bortle Class 3 night sky. Abundant firewood.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "nc-pisgah-nf-linville-gorge-wilderness",
+    "name": "Linville Gorge Wilderness Dispersed Primitive Camping",
+    "state": "North Carolina",
+    "county": "Burke County",
+    "coordinates": {
+      "latitude": 35.8812,
+      "longitude": -81.8912,
+      "elevation_ft": 3200
+    },
+    "management_agency": {
+      "name": "US Forest Service - Pisgah National Forest (Grandfather Ranger District)",
+      "type": "USFS",
+      "phone": "(828) 652-2144",
+      "website": "https://www.fs.usda.gov/nfsnc"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Dispersed Wilderness Primitive Camping (zero cost; free USFS permit required for weekend camping May 1 - Oct 31)",
+      "stay_limit": "3 consecutive nights limit in gorge area",
+      "guidelines": "Dispersed camping at designated primitive sites along Old NC 105 (Kistler Memorial Highway) and gorge rim. Camp 130ft minimum from water."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in organic soil 200 feet from Linville River and springs. Pack out hygiene products.",
+      "trash_policy": "Strict Leave No Trace wilderness policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on forest land.",
+      "safety_requirements": "Campfires in small rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Fall dry leaf fire warnings enforced."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved Dirt Mountain Ridge Road (Old NC 105)",
+      "road_conditions": "Rough dirt, deep ruts, exposed bedrock, narrow blind curves.",
+      "vehicle_recommendation": "High clearance recommended; careful standard 2WD cars can reach northern rim pullouts in dry weather.",
+      "scores": {
+        "road_grade": 7,
+        "road_terrain_difficulty": 7,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate / High Rim Line Signal",
+      "verizon_reliability": "3-4 bars 4G LTE along Old NC 105 high rim pullouts",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "High inside deep river gorge; low on high gorge rim",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Spectacular Gorge Rim Overlook Campsites",
+      "Table Rock & Shortoff Mountain Views",
+      "Linville River Access (Strenuous Hike)",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Morganton, NC",
+        "distance_miles": 18.0,
+        "services_available": [
+          "Food Lion / Publix",
+          "Gas Stations",
+          "Burke County Public Library",
+          "Hospital",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Marion, NC",
+        "distance_miles": 20.0,
+        "services_available": [
+          "Walmart Supercenter",
+          "Laundromat",
+          "Hardware Stores",
+          "Pharmacies"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "50-68°F, blooming mountain laurel and rhododendron.",
+      "summer": "72-85°F, pleasant high mountain breezes compared to humid lowlands.",
+      "fall": "48-68°F, world-renowned Blue Ridge fall foliage colors.",
+      "winter": "25-45°F, freezing rim winds, ice formation on gorge cliffs."
+    },
+    "dangers_and_hazards": [
+      "Sheer 1,000ft canyon cliff drop-offs",
+      "Rough Old NC 105 dirt road conditions",
+      "Timber rattlesnakes and copperheads in rocky outcrops"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Gorge wind and roaring river far below",
+      "common_human_made_sounds": [
+        "Occasional 4x4 engine on Old NC 105"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Catawba Rhododendron",
+        "Mountain Laurel",
+        "Table Mountain Pine",
+        "Carolina Hemlock"
+      ],
+      "common_animals": [
+        "Peregrine Falcon",
+        "Black Bear",
+        "White-tailed Deer",
+        "Timber Rattlesnake"
+      ]
+    },
+    "human_demographics_and_culture": "Cherokee ancestral lands, rock climbers, Blue Ridge hikers, wilderness nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Known as the 'Grand Canyon of the East'. Famous local folklore of the mysterious Brown Mountain Lights visible from gorge overlooks.",
+      "energetic_and_spiritual_features": "Electric high mountain rim energy, breathtaking sunrise vistas over Table Rock."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Shortoff Mountain / Linville Gorge Trail",
+        "length_miles": 7.4,
+        "difficulty": "Strenuous",
+        "features": "360-degree Blue Ridge views, cliffside gorges, wildflower mountain balds"
+      }
+    ],
+    "public_reviews_summary": "Unrivaled gorge overlook primitive camping in North Carolina. Fast cell connectivity along the high rim, majestic sunset vistas, and free access.",
+    "other_data": "Pisgah National Forest. Free permit required for summer weekend overnight stays.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "nc-nantahala-nf-panthertown-valley",
+    "name": "Panthertown Valley Dispersed Primitive Campsites",
+    "state": "North Carolina",
+    "county": "Jackson / Transylvania County",
+    "coordinates": {
+      "latitude": 35.1612,
+      "longitude": -83.0214,
+      "elevation_ft": 3600
+    },
+    "management_agency": {
+      "name": "US Forest Service - Nantahala National Forest (Nantahala Ranger District)",
+      "type": "USFS",
+      "phone": "(828) 524-6441",
+      "website": "https://www.fs.usda.gov/nfsnc"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Dispersed Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted at designated sites throughout Panthertown Valley ('Yosemite of the East'). Bear canister required."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in soil 200 feet from Tuckasegee River headwaters and waterfalls. Pack out hygiene products.",
+      "trash_policy": "Strict Leave No Trace wilderness policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on site.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Fall leaf dry weather fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state road to gravel Forest Service parking lot",
+      "road_conditions": "Graded gravel access parking lot, 0.8 mile hike-in.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Cashiers-Highlands Tower Line",
+      "verizon_reliability": "3-4 bars 4G LTE near Salt Rock gap / high trail ridges",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate inside deep granite gorge basins",
+      "distance_from_tower_corridor_miles": 3.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Granite Cliff Gorges & Waterfall Campsites",
+      "Schoolhouse Falls & Granny Burrell Falls Views",
+      "Tuckasegee Headwaters Water Source (Filter mandatory)",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Cashiers / Brevard, NC",
+        "distance_miles": 8.0,
+        "services_available": [
+          "Ingles Supermarket",
+          "Gas Stations",
+          "Albert Carlton Cashiers Library",
+          "Restaurants",
+          "Outfitters"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "52-68°F, blooming rhododendron and mountain laurel, roaring waterfalls.",
+      "summer": "72-84°F, pleasant high mountain escape from Southern heat.",
+      "fall": "50-70°F, world-class Blue Ridge autumn foliage.",
+      "winter": "28-45°F, crisp mountain snow, frozen waterfall cliffs."
+    },
+    "dangers_and_hazards": [
+      "Black bears in Panthertown (bear canister mandatory for food storage)",
+      "Slick granite rocks around waterfalls"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Waterfall thunder and mountain breeze",
+      "common_human_made_sounds": [
+        "Occasional mountain hiker on trail"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Catawba Rhododendron",
+        "Mountain Laurel",
+        "Pitch Pine",
+        "Hemlock"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "Peregrine Falcon",
+        "Native Brook Trout",
+        "White-tailed Deer"
+      ]
+    },
+    "human_demographics_and_culture": "Cherokee ancestral lands, Blue Ridge mountain outdoorsmen, backpackers, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Known as the 'Yosemite of the East'. Sacred Cherokee territory honoring the ancient granite domes and roaring waterfall gorges.",
+      "energetic_and_spiritual_features": "Exhilarating granite dome mountain energy, thunderous waterfall spray."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Panthertown Valley Waterfall Trail",
+        "length_miles": 6.5,
+        "difficulty": "Moderate",
+        "features": "Schoolhouse Falls, Blackrock Mountain granite dome, sand beaches"
+      }
+    ],
+    "public_reviews_summary": "North Carolina's hidden paradise in Nantahala National Forest. Granite domes, majestic waterfalls, fast cell internet near Cashiers, and 100% free USFS access.",
+    "other_data": "Nantahala National Forest. Free primitive dispersed camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "north_carolina-004",
+    "name": "Panthertown Valley Dispersed Primitive Zone - Nantahala National Forest",
+    "state": "North Carolina",
+    "county": "Jackson",
+    "coordinates": {
+      "latitude": 35.1612,
+      "longitude": -83.0142,
+      "elevation_ft": 3620.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Nantahala National Forest (Nantahala Ranger District)",
+      "type": "Federal",
+      "phone": "(828) 524-6441",
+      "website": "https://www.fs.usda.gov/nfsnc"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive wilderness dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed at least 100 feet away from trails and streams in 'Yosemite of the East'. Bear canisters mandatory. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out rule."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in existing stone fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS dry autumn burn restrictions."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved mountain county road to gravel trailhead parking lot",
+      "road_conditions": "Paved roads to gravel trailhead parking lot; 1-mile hike required to reach campsites.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2.5/5 Stars)",
+      "verizon_reliability": "2 bars 4G LTE on high granite domes",
+      "att_reliability": "2 bars 4G LTE",
+      "tmobile_reliability": "1 bar 4G LTE",
+      "terrain_obstruction_risk": "High - granite domes and deep waterfall gorges",
+      "distance_from_tower_corridor_miles": 7.5,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Granite Dome Vistas",
+      "Waterfall Pool Water Access",
+      "Primitive Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Cashiers, NC",
+        "distance_miles": 9.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Outfitter",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Sylva, NC",
+        "distance_miles": 24.0,
+        "services_available": [
+          "Supercenter",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush mountain greenery, rhododendron blooms, roaring waterfalls.",
+      "summer": "Pleasant mountain summer (74-82°F); cool waterfall swimming holes.",
+      "fall": "World-class Blue Ridge mountain autumn leaf display.",
+      "winter": "Cold mountain winter (25-40°F) with light snow on granite domes."
+    },
+    "dangers_and_hazards": [
+      "Black Bears (Approved Bear Canisters Mandatory)",
+      "Slippery Waterfall Granite Cliffs",
+      "Venomous Snakes (Timber Rattlesnakes)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Waterfall & Granite Valley Audio (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Occasional passing trail hiker",
+        "High altitude aircraft"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Catawba Rhododendron",
+        "Mountain Laurel",
+        "Pitch Pine",
+        "Galax"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "White-tailed Deer",
+        "Peregrine Falcon",
+        "Green Salamander"
+      ]
+    },
+    "human_demographics_and_culture": "Blue Ridge mountain conservation, fly fishing, and granite dome climbing culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Cherokee legends honor high granite mountain domes as sacred sanctuaries of cloud spirits.",
+      "energetic_and_spiritual_features": "Sheer granite domes towering over sand-bottomed waterfall streams create an awe-inspiring energy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Panthertown Valley Waterfall & Granite Dome Loop",
+        "length_miles": 6.5,
+        "difficulty": "Moderate",
+        "features": "Schoolhouse Falls, Blackrock Mountain granite summit, pristine sandy creeks"
+      }
+    ],
+    "public_reviews_summary": "Unbelievable granite dome and waterfall scenery ('Yosemite of the East') with free primitive camping.",
+    "other_data": "Approved bear-proof canisters are strictly mandatory for overnight camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "north_carolina-005",
+    "name": "Turkey Pen Dispersed Primitive Zone - Pisgah National Forest",
+    "state": "North Carolina",
+    "county": "Transylvania",
+    "coordinates": {
+      "latitude": 35.3412,
+      "longitude": -82.6812,
+      "elevation_ft": 2450.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Pisgah National Forest (Pisgah Ranger District)",
+      "type": "Federal",
+      "phone": "(828) 877-3265",
+      "website": "https://www.fs.usda.gov/nfsnc"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed forest camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along South Mills River Trail corridor. Camp at least 100 feet from river and trails. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from South Mills River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in existing stone fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS dry season burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest service road (Turkey Pen Road)",
+      "road_conditions": "Narrow gravel forest road with ruts; high clearance helpful.",
+      "vehicle_recommendation": "CUV, SUV, or standard FWD car driven carefully in dry weather.",
+      "scores": {
+        "road_grade": 5,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Good (3/5 Stars)",
+      "verizon_reliability": "3 bars 4G LTE on upper road pullouts",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate - South Mills River mountain valley",
+      "distance_from_tower_corridor_miles": 4.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "South Mills Trout River Access",
+      "Primitive Stone Fire Rings",
+      "Shaded Appalachian Canopy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 8,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Brevard, NC",
+        "distance_miles": 11.2,
+        "services_available": [
+          "Supermarket",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Outfitters"
+        ]
+      },
+      {
+        "town_name": "Asheville, NC",
+        "distance_miles": 28.5,
+        "services_available": [
+          "Regional Airport",
+          "Major Supercenters",
+          "Full Urban & Outdoor Amenities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush green mountain growth, wild trout stream hatches.",
+      "summer": "Pleasant summer weather (76-84°F) with river tubing and swimming.",
+      "fall": "Vibrant Pisgah forest fall foliage colors.",
+      "winter": "Mild winter climate (30-48°F) with light snow."
+    },
+    "dangers_and_hazards": [
+      "Black Bears",
+      "Venomous Snakes (Copperheads)",
+      "High Water after rain"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "River Valley Soundscape (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Occasional passing 4x4 on access road",
+        "High altitude aircraft"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Tulip Poplar",
+        "Eastern Hemlock",
+        "Rosebay Rhododendron",
+        "Galax"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Native Brook Trout"
+      ]
+    },
+    "human_demographics_and_culture": "Pisgah National Forest mountain biking, trout fishing, and outdoor adventure culture near Brevard.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Cherokee legends recall South Mills River valley as a sacred ancestral fishing ground.",
+      "energetic_and_spiritual_features": "Rushing mountain river waters provide soothing mental rejuvenation."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "South Mills River Trail & Bradley Creek Loop",
+        "length_miles": 7.4,
+        "difficulty": "Moderate",
+        "features": "Suspension footbridge, trout river pools, lush hemlock ravines"
+      }
+    ],
+    "public_reviews_summary": "Fantastic free trout stream camping close to Brevard and Asheville with reliable cell service.",
+    "other_data": "Store food in bear-proof containers.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "north_carolina-006",
+    "name": "Fires Creek Dispersed Area - Nantahala National Forest",
+    "state": "North Carolina",
+    "county": "Clay",
+    "coordinates": {
+      "latitude": 35.1412,
+      "longitude": -83.8412,
+      "elevation_ft": 2200.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - National Forests in North Carolina",
+      "type": "Federal",
+      "phone": "(828) 837-5152",
+      "website": "https://www.fs.usda.gov/nfsnc"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free primitive dispersed camping on national forest pullouts along Fires Creek Road (FS 340). Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Fires Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy. Bear safety mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel Forest Service road; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate in stream valley",
+      "distance_from_tower_corridor_miles": 6.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Fires Creek Native Trout Fishing",
+      "Rim Trail Access",
+      "Appalachian Hardwood Canopy",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Hayesville / Murphy, NC",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Grocery Stores",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Outfitters",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush mountain spring (60-72°F).",
+      "summer": "Cool mountain breezes (76-84°F) with stream pools.",
+      "fall": "Spectacular Blue Ridge autumn foliage.",
+      "winter": "Cool winter (32-45°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Habitat",
+      "Copperhead Snakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Appalachian Stream Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Fires Creek stream flow",
+        "Songbird calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Hemlock",
+        "Tulip Poplar",
+        "White Pine",
+        "Rhododendron"
+      ],
+      "common_animals": [
+        "Native Brook Trout",
+        "Black Bear",
+        "White-tailed Deer",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Cherokee ancestral lands and Western North Carolina mountain trout culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Fires Creek Rim Trail encircles a horseshoe ridge of 4,000-foot peaks protecting the native trout watershed.",
+      "energetic_and_spiritual_features": "Crystal clear mountain stream cascading through ancient Blue Ridge cove forests."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Fires Creek Rim Trail",
+        "length_miles": 6.0,
+        "difficulty": "Strenuous",
+        "features": "Horseshoe ridge walk, 4,000-foot peaks, native trout stream vistas"
+      }
+    ],
+    "public_reviews_summary": "Top choice free trout stream camping near Hayesville with reliable cell service.",
+    "other_data": "Part of the Leatherwood Horse Trail system.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "north_carolina-007",
+    "name": "Wilson Creek Dispersed Area - Pisgah National Forest",
+    "state": "North Carolina",
+    "county": "Caldwell",
+    "coordinates": {
+      "latitude": 35.9812,
+      "longitude": -81.7812,
+      "elevation_ft": 1400.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Grandfather Ranger District",
+      "type": "Federal",
+      "phone": "(828) 652-2144",
+      "website": "https://www.fs.usda.gov/nfsnc"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside day-use fee zones)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along Brown Mountain Beach Road / FS 192. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Wilson Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel Forest Service road along river gorge; smooth when dry.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate along river gorge corridor",
+      "distance_from_tower_corridor_miles": 6.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Wilson Creek National Wild & Scenic River",
+      "Granite Gorge Swimming Holes",
+      "Kayaking & Canoeing",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Lenoir / Morganton, NC",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Full City Services",
+          "Hospital",
+          "Walmart",
+          "Gas Stations",
+          "Hardware",
+          "Outfitters"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush mountain spring (60-72°F).",
+      "summer": "Warm summer (80-86°F) with granite bedrock river swimming.",
+      "fall": "Spectacular Blue Ridge autumn foliage.",
+      "winter": "Cool winter (35-48°F)."
+    },
+    "dangers_and_hazards": [
+      "Flash Floods in Granite River Gorge",
+      "Rapid Water Currents"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Granite Gorge River Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wilson Creek water roar",
+        "Kayaker shouts"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Eastern Hemlock",
+        "Tulip Poplar",
+        "White Pine",
+        "Rhododendron"
+      ],
+      "common_animals": [
+        "Rainbow Trout",
+        "Black Bear",
+        "White-tailed Deer",
+        "Green Salamander"
+      ]
+    },
+    "human_demographics_and_culture": "Cherokee ancestral lands and Wilson Creek National Wild & Scenic River gorge culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Wilson Creek National Wild and Scenic River cuts through a 500-million-year-old crystalline granite gorge.",
+      "energetic_and_spiritual_features": "Crystal clear mountain river cascading over smooth granite bedrock pools."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Wilson Creek Gorge Trail",
+        "length_miles": 4.0,
+        "difficulty": "Moderate",
+        "features": "Granite gorge cliffs, turquoise swimming holes, waterfalls"
+      }
+    ],
+    "public_reviews_summary": "World-class granite river swimming hole country near Morganton with dependable cell service.",
+    "other_data": "Extremely popular for summer river swimming.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "north_carolina-008",
+    "name": "Slickrock Wilderness Edge Dispersed - Nantahala NF",
+    "state": "North Carolina",
+    "county": "Graham",
+    "coordinates": {
+      "latitude": 35.3812,
+      "longitude": -83.9812,
+      "elevation_ft": 2400.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Cheoah Ranger District",
+      "type": "Federal",
+      "phone": "(828) 479-6431",
+      "website": "https://www.fs.usda.gov/nfsnc"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside wilderness boundary)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along FS Road 81 outside Joyce Kilmer-Slickrock Wilderness boundary. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from mountain streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy. Bear canister mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel mountain forest road",
+      "road_conditions": "Graded gravel Forest Service road climbing mountain ridge; smooth when dry.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great on Ridge (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate on 2,400-foot mountain ridge pullouts",
+      "distance_from_tower_corridor_miles": 7.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Joyce Kilmer Old-Growth Poplar Grove Proximity",
+      "Slickrock Wilderness Access",
+      "Appalachian Mountain Views",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Robbinsville, NC",
+        "distance_miles": 16.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Outfitters",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush mountain spring (58-70°F).",
+      "summer": "Cool mountain ridge breezes (76-84°F).",
+      "fall": "Spectacular Great Smoky autumn foliage.",
+      "winter": "Cool winter (32-45°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Habitat",
+      "Remote Wilderness Isolation"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Old-Growth Wilderness Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Wind through old-growth poplars",
+        "Songbird calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Giant Tulip Poplar (400+ yrs)",
+        "White Pine",
+        "Eastern Hemlock",
+        "Trillium"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "White-tailed Deer",
+        "Wild Boar",
+        "Wild Turkey",
+        "Trout"
+      ]
+    },
+    "human_demographics_and_culture": "Cherokee ancestral lands and Joyce Kilmer old-growth forest conservation heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Joyce Kilmer Memorial Forest protects 3,800 acres of virgin old-growth hardwood forest with trees over 400 years old.",
+      "energetic_and_spiritual_features": "Giant ancient tulip trees over 20 feet in circumference towering into the mountain canopy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Joyce Kilmer Memorial Loop Trail",
+        "length_miles": 2.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Virgin old-growth tulip poplars, Poplar Cove stream, historic memorial stone"
+      }
+    ],
+    "public_reviews_summary": "Humble and profound old-growth forest basecamp near Robbinsville with reliable cell service on ridge pullouts.",
+    "other_data": "Trees over 400 years old in Joyce Kilmer grove.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "north_carolina-009",
+    "name": "Badin Lake Dispersed Area - Uwharrie National Forest",
+    "state": "North Carolina",
+    "county": "Montgomery",
+    "coordinates": {
+      "latitude": 35.4123,
+      "longitude": -80.0812,
+      "elevation_ft": 550.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Uwharrie Ranger District",
+      "type": "Federal",
+      "phone": "(910) 576-6391",
+      "website": "https://www.fs.usda.gov/nfsnc"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside developed fee campgrounds)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along FR 576 / Badin Lake access roads outside fee zones. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Badin Lake. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel Forest Service road; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low along Badin Lake shoreline",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Badin Lake Shoreline",
+      "Uwharrie Trailhead Proximity",
+      "Boating & Swimming",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 8,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Troy / Albemarle, NC",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Grocery Stores",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush Piedmont spring (65-75°F).",
+      "summer": "Warm summer (85-92°F) with lake swimming.",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Mild winter (45-56°F)."
+    },
+    "dangers_and_hazards": [
+      "Lake Water Hazards",
+      "Copperhead Snakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Piedmont Lake Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Badin Lake wave lap",
+        "Pine wind"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Loblolly Pine",
+        "Shortleaf Pine",
+        "Post Oak",
+        "Dogwood"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Bald Eagle",
+        "Large-mouth Bass",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Catawba ancestral lands and ancient Uwharrie Mountain geology heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Uwharrie Mountains are among the oldest mountain ranges in North America, formed over 500 million years ago.",
+      "energetic_and_spiritual_features": "Peaceful pine-covered ancient mountain hills surrounding blue Badin Lake waters."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Uwharrie National Recreation Trail (Badin Lake Section)",
+        "length_miles": 4.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Badin Lake views, ancient Uwharrie mountain ridges, pine-hardwood canopy"
+      }
+    ],
+    "public_reviews_summary": "Top choice free lake side camping under 90 minutes from Charlotte and Raleigh with blazing 5G cell service.",
+    "other_data": "500-million-year-old ancient mountain geology.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "north_carolina-010",
+    "name": "Upper Tellico Dispersed Area - Nantahala NF",
+    "state": "North Carolina",
+    "county": "Cherokee",
+    "coordinates": {
+      "latitude": 35.1812,
+      "longitude": -84.0412,
+      "elevation_ft": 2600.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Tusquitee Ranger District",
+      "type": "Federal",
+      "phone": "(828) 837-5152",
+      "website": "https://www.fs.usda.gov/nfsnc"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along Davis Creek Road (FS 420). Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy. Bear safety mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel Forest Service road; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate on elevated mountain pullouts",
+      "distance_from_tower_corridor_miles": 7.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Upper Tellico Mountain Stream",
+      "Appalachian Hardwood Canopy",
+      "Cherohala Skyway Proximity",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Murphy, NC",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Grocery Stores",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush mountain spring (58-70°F).",
+      "summer": "Cool mountain breezes (76-84°F).",
+      "fall": "Spectacular autumn foliage.",
+      "winter": "Cool winter (32-45°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Habitat",
+      "Copperhead Snakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Mountain Stream Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Mountain creek flow",
+        "Songbird calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Pine",
+        "Eastern Hemlock",
+        "Tulip Poplar",
+        "Rhododendron"
+      ],
+      "common_animals": [
+        "Trout",
+        "White-tailed Deer",
+        "Black Bear",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Cherokee ancestral lands and Murphy/Tellico mountain heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "High mountain headwaters feeding the Tellico River basin across the Tennessee state line.",
+      "energetic_and_spiritual_features": "High elevation Blue Ridge mountain forest stream solitude."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Davis Creek Stream Trail",
+        "length_miles": 3.5,
+        "difficulty": "Easy to Moderate",
+        "features": "Stream side walking, mountain laurel tunnels, hardwood canopy"
+      }
+    ],
+    "public_reviews_summary": "Quiet mountain stream basecamp near Murphy with dependable cell service.",
+    "other_data": "Close to Cherohala Skyway scenic drive.",
+    "last_updated": "2026-09-12"
+  }
+]

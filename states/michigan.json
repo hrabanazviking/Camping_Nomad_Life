@@ -1,0 +1,1312 @@
+[
+  {
+    "id": "mi-huron-manistee-pine-river",
+    "name": "Pine River Dispersed Primitive Camping - Huron-Manistee National Forests",
+    "state": "Michigan",
+    "county": "Wexford County / Lake County",
+    "coordinates": {
+      "latitude": 44.1812,
+      "longitude": -85.7814,
+      "elevation_ft": 850
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Cadillac-Manistee Ranger District",
+      "type": "USFS",
+      "phone": "(231) 775-2421",
+      "website": "https://www.fs.usda.gov/hmnf"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for general forest dispersed camping",
+      "stay_limit": "16 consecutive days max stay within 30-day period",
+      "guidelines": "Dispersed primitive camping permitted throughout general national forest lands at least 100ft from water bodies and designated trails. Prohibited within 1/4 mile of designated Pine River fee access sites."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6-8 inches deep in sandy glacial soil, at least 200 feet from Pine River. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace. All trash must be packed out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only within forest.",
+      "safety_requirements": "Campfires in established rock/metal fire rings only. Extinguish cold to touch.",
+      "seasonal_fire_bans": "Obey Michigan DNR / USFS fire danger warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved sandy gravel forest roads (FS 5824 / FS 5122)",
+      "road_conditions": "Flat, sandy gravel roads with washboards and dust.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (accessible on main gravel forest roads; high clearance recommended for soft sandy side tracks)",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Connectivity",
+      "verizon_reliability": "3-4 bars 4G LTE (20-45 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 5G LTE",
+      "terrain_obstruction_risk": "Low (Glacial sand plains and pine flatwoods)",
+      "distance_from_tower_corridor_miles": 3.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Pine River Access (Canoe/Kayak filter water source)",
+      "Red Pine & Hardwood Canopy Shade",
+      "Established Rock Fire Rings",
+      "High-speed 4G/5G Cell Service"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Cadillac, MI",
+        "distance_miles": 16.5,
+        "services_available": [
+          "Walmart Supercenter",
+          "Meijer",
+          "Gas Stations",
+          "Cadillac Public Library",
+          "Munson Healthcare Hospital",
+          "Gyms"
+        ]
+      },
+      {
+        "town_name": "Manistee, MI",
+        "distance_miles": 28.0,
+        "services_available": [
+          "Lake Michigan Coast",
+          "Supermarkets",
+          "Hardware Stores",
+          "Full Services"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "50-65°F, pleasant spring air, high river paddle levels, light mud.",
+      "summer": "75-85°F, ideal northern Michigan summer, river tubing / kayaking, high mosquito activity near river.",
+      "fall": "Spectacular Michigan autumn foliage (55-68°F daytime, 35-45°F nights), dry forest roads.",
+      "winter": "Cold snowy winter (15-30°F), heavy lake-effect snow, seasonal snowmobile trail conversion."
+    },
+    "dangers_and_hazards": [
+      "Black Bears active in Huron-Manistee NF - store food securely",
+      "Mosquitoes and deer flies near river corridor in summer",
+      "Soft sand traps on secondary forest tracks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Pine forest and river quiet",
+      "common_human_made_sounds": [
+        "Summer paddlers laughing on Pine River during weekend afternoons",
+        "Wind rustling through red pine needles"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Red Pine (Pinus resinosa)",
+        "Jack Pine (Pinus banksiana)",
+        "Sugar Maple",
+        "Paper Birch",
+        "Bracken Fern (Pteridium aquilinum)"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Black Bear",
+        "Bald Eagle",
+        "North American River Otter",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Paddlers, fly anglers (trout fishing), North Country Trail backpackers, digital nomads, and autumn color tourists.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Ojibwe and Odawa indigenous traditions honor the Pine and Manistee river valleys as sacred waters of the Manitou spirits and ancestral fishing grounds.",
+      "energetic_and_spiritual_features": "Calming red pine forest atmosphere, high quartz glacial sand grounding energy, crystal-clear river vitality."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "North Country National Scenic Trail (Pine River Section)",
+        "length_miles": 14.5,
+        "difficulty": "Moderate",
+        "features": "High river bluff walk, pine forests, footbridge river crossings"
+      }
+    ],
+    "public_reviews_summary": "Top-tier free primitive camping in Northern Michigan. Clean pine woods, crystal-clear trout river, and reliable 4G/5G cell coverage.",
+    "other_data": "Bortle Class 3 night sky. Abundant pine deadwood.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "mi-manistee-nf-nordhouse-dunes-wilderness",
+    "name": "Nordhouse Dunes Wilderness Dispersed Primitive Camping",
+    "state": "Michigan",
+    "county": "Mason County",
+    "coordinates": {
+      "latitude": 44.0812,
+      "longitude": -86.4412,
+      "elevation_ft": 610
+    },
+    "management_agency": {
+      "name": "US Forest Service - Huron-Manistee National Forests (Manistee Ranger District)",
+      "type": "USFS",
+      "phone": "(231) 723-5511",
+      "website": "https://www.fs.usda.gov/hmnf"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Wilderness Primitive Camping (zero fee for wilderness dispersed; nominal parking pass at trailhead or park on free forest road pullouts)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed wilderness camping permitted at least 400ft from Lake Michigan high water mark and 100ft from trails."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in forested dune soil 200ft from Lake Michigan and water channels. Pack out hygiene products.",
+      "trash_policy": "Strict Leave No Trace wilderness rules."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down firewood collection permitted in forest zone.",
+      "safety_requirements": "Campfires permitted using dead wood only. Keep fires small and bury completely with water and sand.",
+      "seasonal_fire_bans": "Summer high dune wind fire advisories."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved county road to gravel/sand Forest Road (Nurnberg Road)",
+      "road_conditions": "Washboard gravel and sand, easily drivable in summer.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance vehicles to Nurnberg Trailhead.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate / Coastal Lake Signal",
+      "verizon_reliability": "2-3 bars 4G LTE (10-25 Mbps download)",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate (Sand dunes can block signal in low dune swales)",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Freshwater Coastal Dune Wilderness",
+      "Lake Michigan Sandy Beach Access",
+      "Pristine Sunset Views",
+      "Primitive Dune Campsites"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Ludington, MI",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Meijer Supermarket",
+          "Gas Stations",
+          "Mason County District Library",
+          "Laundromat",
+          "Hospital",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Manistee, MI",
+        "distance_miles": 16.0,
+        "services_available": [
+          "Full City Services",
+          "Hardware Stores",
+          "Pharmacies",
+          "Local Breweries"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "42-60°F, cool lake breezes, beach dunes thaw.",
+      "summer": "70-84°F, prime Lake Michigan beach camping weather, warm clear water.",
+      "fall": "48-65°F, stunning autumn colors on forested dunes, crisp clear air.",
+      "winter": "18-32°F, heavy lake-effect snow, frozen coastal dune landscape."
+    },
+    "dangers_and_hazards": [
+      "Poison ivy in dune swales",
+      "Strong rip currents in Lake Michigan (swim with caution)",
+      "Dehydrating dune sun exposure"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Lake Michigan wave surf and forest breeze",
+      "common_human_made_sounds": [
+        "Distant freighter horn on Lake Michigan lakebed"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Pitcher's Thistle (threatened dune plant)",
+        "Jack Pine",
+        "Paper Birch",
+        "Marram Grass",
+        "Wild Blueberry"
+      ],
+      "common_animals": [
+        "Piping Plover",
+        "Bald Eagle",
+        "White-tailed Deer",
+        "Porcupine",
+        "Black Bear (rare)"
+      ]
+    },
+    "human_demographics_and_culture": "Wilderness backpackers, Great Lakes beach lovers, outdoor photographers, Michigan nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Anishinaabe / Odawa traditions revere Lake Michigan as a sacred inland sea with powerful water spirits (Mishipeshu).",
+      "energetic_and_spiritual_features": "Expansive freshwater ocean horizons, majestic golden sunset energy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Nordhouse Dunes Trail Loop",
+        "length_miles": 6.2,
+        "difficulty": "Moderate",
+        "features": "Lake Michigan beach shore, high sand dunes, pine forest wilderness"
+      }
+    ],
+    "public_reviews_summary": "Incredible freshwater beach wilderness camping in Michigan. Pitch a tent behind the sand dunes, watch Lake Michigan sunsets, and enjoy free wilderness access.",
+    "other_data": "Huron-Manistee National Forest wilderness area.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "mi-hiawatha-nf-sturgeon-river-gorge",
+    "name": "Sturgeon River Gorge Wilderness Dispersed Primitive Camping",
+    "state": "Michigan",
+    "county": "Baraga / Houghton County",
+    "coordinates": {
+      "latitude": 46.6812,
+      "longitude": -88.6512,
+      "elevation_ft": 1150
+    },
+    "management_agency": {
+      "name": "US Forest Service - Hiawatha & Ottawa National Forests (Kent wildlife office)",
+      "type": "USFS",
+      "phone": "(906) 852-3500",
+      "website": "https://www.fs.usda.gov/ottawa"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Wilderness Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted throughout Sturgeon River Gorge Wilderness. Camp 100ft minimum from river and gorge rim."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in soil 200 feet from Sturgeon River. Pack out hygiene products.",
+      "trash_policy": "Strict Leave No Trace."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Abundant dead and down pine and birch wood gathering permitted.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Spring dry leaf forest fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved US 41 to gravel Forest Service roads (FR 193)",
+      "road_conditions": "Graded gravel access roads, flat trailhead pullouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance vehicles.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair to Moderate / High Ridge Signal",
+      "verizon_reliability": "2-3 bars 4G LTE near main county roads",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate in deep sandstone river gorge",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "300ft Deep Forested River Gorge Overlooks",
+      "Sturgeon Falls Waterfall Views",
+      "Sturgeon River Water Source (Filter mandatory)",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Baraga / L'Anse, MI",
+        "distance_miles": 16.0,
+        "services_available": [
+          "Larry's Market",
+          "Gas Stations",
+          "L'Anse Public Library",
+          "Hospital",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Houghton / Hancock, MI",
+        "distance_miles": 32.0,
+        "services_available": [
+          "Full Michigan Tech Metro Services",
+          "Walmart Supercenter",
+          "24/7 Gyms",
+          "Hardware Stores"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "38-52°F, roaring waterfall snowmelt cascades, greening hemlock gorge.",
+      "summer": "68-80°F, ideal UP Upper Peninsula summer camping weather.",
+      "fall": "42-60°F, world-class Upper Peninsula sugar maple autumn foliage.",
+      "winter": "10-25°F, heavy UP snowpack, winter snowshoeing and ice fall wilderness."
+    },
+    "dangers_and_hazards": [
+      "300ft steep sandstone gorge cliff edges",
+      "Black bears in UP Michigan (bear hang or canister mandatory)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "10/10 - Roaring waterfall thunder and hemlock forest wind",
+      "common_human_made_sounds": [
+        "None inside wilderness boundary"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Sugar Maple",
+        "Eastern Hemlock",
+        "Paper Birch",
+        "White Pine"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "Common Loon",
+        "White-tailed Deer",
+        "Brook Trout",
+        "Bald Eagle"
+      ]
+    },
+    "human_demographics_and_culture": "Anishinaabe (Ojibwe) Keweenaw Bay Indian Community lands, UP Yooper woodsmen, backpackers, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Ojibwe territory honoring the majestic Sturgeon River gorge as a sacred place of roaring waters and ancient hemlocks.",
+      "energetic_and_spiritual_features": "Thunderous waterfall power, serene UP wilderness quietness."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Sturgeon Falls Trail",
+        "length_miles": 3.8,
+        "difficulty": "Moderate",
+        "features": "30ft rushing waterfall, deep gorge overlooks, old-growth pine"
+      }
+    ],
+    "public_reviews_summary": "Spectacular wilderness gorge primitive camping in Michigan's Upper Peninsula. Roaring waterfalls, serene hemlock forests, and 100% free USFS access.",
+    "other_data": "Ottawa National Forest. Free wilderness dispersed camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "michigan-004",
+    "name": "Nordhouse Dunes Wilderness Dispersed Beach Primitive Zone",
+    "state": "Michigan",
+    "county": "Mason",
+    "coordinates": {
+      "latitude": 44.0812,
+      "longitude": -86.4512,
+      "elevation_ft": 610.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Huron-Manistee National Forests (Cadillac-Manistee Ranger District)",
+      "type": "Federal",
+      "phone": "(231) 723-5551",
+      "website": "https://www.fs.usda.gov/hmnf"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive wilderness dispersed camping; small day parking fee if using official trailhead lot)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Primitive backcountry wilderness camping permitted at least 400 feet from Lake Michigan waterline and 100 feet from trails. No motorized vehicles."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep in cat-holes at least 200 feet from Lake Michigan and trails. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out wilderness rule."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather small dead and down driftwood or forest wood.",
+      "safety_requirements": "Campfires permitted in cleared sand rings away from dune vegetation. Extinguish cold with Lake Michigan water.",
+      "seasonal_fire_bans": "Subject to USFS high fire danger warnings during dry periods."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest service roads",
+      "road_conditions": "Well-maintained gravel roads to Nurnberg Trailhead; 1-mile hike required to reach sand dunes.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Good (3.5/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE on high sand dunes",
+      "att_reliability": "3 bars 4G LTE",
+      "tmobile_reliability": "2 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate - high coastal sand dunes and pine forest",
+      "distance_from_tower_corridor_miles": 3.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Lake Michigan Freshwater Access",
+      "Sand Dune Scenic Overlooks",
+      "Sunset Beach Views"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Ludington, MI",
+        "distance_miles": 14.8,
+        "services_available": [
+          "Supermarket",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Hardware Store"
+        ]
+      },
+      {
+        "town_name": "Manistee, MI",
+        "distance_miles": 18.2,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Outfitter",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool Lake Michigan breezes and wild spring dune flowers.",
+      "summer": "Warm sunny beach weather (75-84°F) with refreshing Lake Michigan swimming.",
+      "fall": "Stunning autumn sunsets and colorful coastal pine woods.",
+      "winter": "Cold winter with lake-effect snow and frozen ice shelf formations."
+    },
+    "dangers_and_hazards": [
+      "High Dune Erosion Hazard (Stay off steep fragile slopes)",
+      "Strong Lake Michigan Rip Currents",
+      "Poison Ivy in Forest Edges"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Rhythmic Lake Waves (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Distant freighter horn on Lake Michigan",
+        "High altitude aircraft"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Pitcher's Thistle (Threatened)",
+        "Red Pine",
+        "Jack Pine",
+        "Marram Grass",
+        "Bearberry"
+      ],
+      "common_animals": [
+        "Piping Plover",
+        "Bald Eagle",
+        "White-tailed Deer",
+        "Porcupine",
+        "Coyote"
+      ]
+    },
+    "human_demographics_and_culture": "Lake Michigan coastal dune conservation and maritime shipping culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Odawa and Ojibwe legends tell of spirit guardians of the sacred Great Lakes dunes.",
+      "energetic_and_spiritual_features": "Endless fresh water horizon and golden sand dunes offer profound tranquility."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Nordhouse Dunes Wilderness Trail System",
+        "length_miles": 14.0,
+        "difficulty": "Moderate (Walking on Soft Sand)",
+        "features": "Coastal sand dunes, pristine Lake Michigan beach, pine forest loops"
+      }
+    ],
+    "public_reviews_summary": "One of Michigan's most beautiful wilderness beach camping areas with cell signal atop dunes.",
+    "other_data": "Do not camp on fragile dune grass vegetation to prevent dune erosion.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "michigan-005",
+    "name": "Kingston Plains Primitive Dispersed Camping Area",
+    "state": "Michigan",
+    "county": "Alger",
+    "coordinates": {
+      "latitude": 46.5214,
+      "longitude": -86.2148,
+      "elevation_ft": 920.0
+    },
+    "management_agency": {
+      "name": "Michigan Department of Natural Resources (DNR) - Forest Resources Division",
+      "type": "State",
+      "phone": "(906) 293-5131",
+      "website": "https://www.michigan.gov/dnr"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state forest dispersed camping pass)",
+      "stay_limit": "15 days maximum stay limit",
+      "guidelines": "Primitive dispersed camping allowed at roadside pullouts across state forest land. Post free DNR camp registration card at site. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep in cat-holes 200 feet from streams and lakes.",
+      "trash_policy": "Strict Carry-In, Carry-Out rule."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood collection permitted.",
+      "safety_requirements": "Campfires permitted in cleared ground rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to Michigan DNR dry weather burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel and sandy dirt forest service roads",
+      "road_conditions": "Sandy dirt forest roads; flat terrain with occasional soft sand spots.",
+      "vehicle_recommendation": "Accessible by standard FWD car in dry weather; CUV/4WD helpful in soft sand.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2.5/5 Stars)",
+      "verizon_reliability": "2 bars 4G LTE",
+      "att_reliability": "2 bars 4G LTE",
+      "tmobile_reliability": "1 bar 4G LTE",
+      "terrain_obstruction_risk": "Low - open stump plains and scattered pine knolls",
+      "distance_from_tower_corridor_miles": 8.5,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Open Historic Stump Plains",
+      "Primitive Fire Rings",
+      "Dark Sky Star Observation"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 6,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Munising, MI",
+        "distance_miles": 22.4,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hospital",
+          "Outfitter",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Marquette, MI",
+        "distance_miles": 64.0,
+        "services_available": [
+          "Supercenters",
+          "Public Library",
+          "Gym & Fitness Center",
+          "University City Amenities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool Upper Peninsula spring weather with blooming blueberries.",
+      "summer": "Pleasant summer weather (72-80°F); warm days and cool night air.",
+      "fall": "Crisp autumn weather with brilliant yellow aspen and maple leaves.",
+      "winter": "Severe UP winter weather (-5 to 25°F) with heavy lake-effect snow."
+    },
+    "dangers_and_hazards": [
+      "Black Bears",
+      "Mosquitoes and Biting Flies (June)",
+      "Soft Sandy Roads"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Eerie UP Plains Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Occasional distant logging truck"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Pine Stumps (Historic 1800s Logging)",
+        "Jack Pine",
+        "Sweetfern",
+        "Wild Blueberry"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "Gray Wolf",
+        "White-tailed Deer",
+        "Sandhill Crane"
+      ]
+    },
+    "human_demographics_and_culture": "Upper Peninsula 'Yooper' timber, logging history, and Pictured Rocks national lakeshore heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "The haunting landscape of giant century-old pine stumps left from 1890s logging fires evokes a solemn reverence.",
+      "energetic_and_spiritual_features": "Vast open stump plains provide a unique, surreal landscape."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Fox River Trail & Kingston Lake Trail",
+        "length_miles": 5.5,
+        "difficulty": "Easy to Moderate",
+        "features": "Historic pine stump plains, pristine inland lakes, trout streams"
+      }
+    ],
+    "public_reviews_summary": "Surreal and quiet historic landscape in Michigan's UP near Pictured Rocks with starry night skies.",
+    "other_data": "Filter water from nearby lakes or bring fresh drinking water.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "michigan-006",
+    "name": "Nordhouse Dunes Dispersed Primitive Area - Huron-Manistee NF",
+    "state": "Michigan",
+    "county": "Mason",
+    "coordinates": {
+      "latitude": 44.0812,
+      "longitude": -86.4512,
+      "elevation_ft": 620.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Huron-Manistee National Forests",
+      "type": "Federal",
+      "phone": "(231) 723-5511",
+      "website": "https://www.fs.usda.gov/hmnf"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside parking lot)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest lands 400 ft back from Lake Michigan shoreline and outside wilderness boundary. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Lake Michigan and dune wetlands. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock/sand fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved road to gravel forest road",
+      "road_conditions": "Paved Nurnberg Road leads to gravel trailhead access; smooth when dry.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars to trailhead parking.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low on open Lake Michigan sand dunes",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Lake Michigan Sand Dunes Shoreline",
+      "Freshwater Beach Swimming",
+      "Wilderness Trails",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Ludington, MI",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Full Groceries",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Breezy dune spring (55-68°F).",
+      "summer": "Warm sunny summer (75-84°F) with Lake Michigan beach swimming.",
+      "fall": "Crisp clear autumn days.",
+      "winter": "Snow-covered dunes; freezing cold wind."
+    },
+    "dangers_and_hazards": [
+      "Rip Currents in Lake Michigan",
+      "Poison Ivy in Dunes",
+      "High Lake Winds"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Freshwater Dune Wave Silence (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Lake Michigan wave lap",
+        "Dune wind"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Jack Pine",
+        "White Pine",
+        "Marram Grass",
+        "Pitcher's Thistle"
+      ],
+      "common_animals": [
+        "Piping Plover",
+        "White-tailed Deer",
+        "Bald Eagle",
+        "Porcupine"
+      ]
+    },
+    "human_demographics_and_culture": "Anishinaabe (Ottawa/Ojibwe) ancestral lands and Lake Michigan dune conservation heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Only designated wilderness area in Michigan's Lower Peninsula protecting 3,450 acres of coastal sand dunes.",
+      "energetic_and_spiritual_features": "Towering natural freshwater sand dunes overlooking endless blue Lake Michigan horizons."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Nordhouse Dunes Wilderness Trail",
+        "length_miles": 4.5,
+        "difficulty": "Easy to Moderate",
+        "features": "Sand dune ridges, Lake Michigan beach, pine forest swales"
+      }
+    ],
+    "public_reviews_summary": "Michigan's ultimate free Lake Michigan beach dune camping spot with blazing 5G cell service.",
+    "other_data": "Camp 400 ft back from high water mark mandatory.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "michigan-007",
+    "name": "Pine River Dispersed Area - Huron-Manistee NF",
+    "state": "Michigan",
+    "county": "Wexford",
+    "coordinates": {
+      "latitude": 44.2123,
+      "longitude": -85.8123,
+      "elevation_ft": 820.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Cadillac-Manistee Ranger District",
+      "type": "Federal",
+      "phone": "(231) 723-5511",
+      "website": "https://www.fs.usda.gov/hmnf"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside designated watercraft landings)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along Pine National Scenic River corridor outside developed landings. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Pine River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel Forest Service road; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate on river bluff pullouts",
+      "distance_from_tower_corridor_miles": 6.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Pine National Scenic River Canoeing",
+      "High Sandy Bluff Views",
+      "Trout Fishing",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Cadillac, MI",
+        "distance_miles": 16.0,
+        "services_available": [
+          "Full Groceries",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush green pine spring (55-68°F).",
+      "summer": "Warm pleasant summer (75-84°F) with fast-water river paddling.",
+      "fall": "Spectacular northern hardwoods autumn foliage.",
+      "winter": "Snowy winter (20-32°F)."
+    },
+    "dangers_and_hazards": [
+      "Fast River Currents on Pine River",
+      "Ticks in Spring"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Pine River Bluff Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Pine River water rush",
+        "Wind through white pines"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Pine",
+        "Red Pine",
+        "Sugar Maple",
+        "Paper Birch"
+      ],
+      "common_animals": [
+        "Brown Trout",
+        "Bald Eagle",
+        "White-tailed Deer",
+        "River Otter",
+        "Black Bear"
+      ]
+    },
+    "human_demographics_and_culture": "Anishinaabe ancestral territory and Michigan lumber & river paddling culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Fastest flowing river in Michigan's Lower Peninsula, famous for high sandy banks and sharp oxbow bends.",
+      "energetic_and_spiritual_features": "Deep clear sand-bottom river cutting through towering white pine bluffs."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Silver Creek Pathway Trail",
+        "length_miles": 4.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Pine River bluffs, footbridges, white pine forest"
+      }
+    ],
+    "public_reviews_summary": "Michigan's premier canoe river forest camping with high sandy bluffs and strong cell service.",
+    "other_data": "Watercraft permit required for paddling Pine River in peak summer.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "michigan-008",
+    "name": "Sturgeon River Dispersed Area - Hiawatha National Forest",
+    "state": "Michigan",
+    "county": "Delta",
+    "coordinates": {
+      "latitude": 46.0812,
+      "longitude": -86.7412,
+      "elevation_ft": 750.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Hiawatha National Forest (Rapid River District)",
+      "type": "Federal",
+      "phone": "(906) 474-6442",
+      "website": "https://www.fs.usda.gov/hiawatha"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free primitive dispersed camping on national forest pullouts along Sturgeon River corridor. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Sturgeon River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel Forest Service road; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low under Upper Peninsula pine forest",
+      "distance_from_tower_corridor_miles": 7.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Sturgeon River Canoeing & Kayaking",
+      "UP Boreal Pine Forest",
+      "Northern Lights Stargazing",
+      "Wildberry Picking"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Rapid River / Escanaba, MI",
+        "distance_miles": 18.0,
+        "services_available": [
+          "Groceries",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush green UP spring (50-62°F).",
+      "summer": "Pleasant UP summer (72-82°F) with cool forest shade.",
+      "fall": "Spectacular Upper Peninsula fall colors.",
+      "winter": "Deep snowy winter (15-28°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Habitat",
+      "Spring Mosquitoes & Blackflies"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "UP Boreal River Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Sturgeon River flow",
+        "Loon calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Pine",
+        "Balsam Fir",
+        "Paper Birch",
+        "Blueberry"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "White-tailed Deer",
+        "Bald Eagle",
+        "River Otter",
+        "Brook Trout"
+      ]
+    },
+    "human_demographics_and_culture": "Ojibwe (Anishinaabe) ancestral territory and Upper Peninsula Yooper timber culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Sturgeon River National Wild and Scenic River corridor protecting pristine UP boreal forest.",
+      "energetic_and_spiritual_features": "Pristine tea-colored boreal river flowing over polished stones."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Sturgeon River Gorge Trail",
+        "length_miles": 3.5,
+        "difficulty": "Moderate",
+        "features": "River gorge cliffs, hardwood-pine forest, wild rapids"
+      }
+    ],
+    "public_reviews_summary": "Classic Upper Peninsula river forest camping with great canoeing and dependable cell service.",
+    "other_data": "Great blueberry picking in late July.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "michigan-009",
+    "name": "Au Sable River Dispersed Area - Huron National Forest",
+    "state": "Michigan",
+    "county": "Oscoda",
+    "coordinates": {
+      "latitude": 44.6412,
+      "longitude": -84.1234,
+      "elevation_ft": 950.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Mio Ranger District",
+      "type": "Federal",
+      "phone": "(989) 826-3252",
+      "website": "https://www.fs.usda.gov/hmnf"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside developed fee loops)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along Au Sable National Scenic River corridor outside fee campgrounds. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Au Sable River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel Forest Service road; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low along elevated river bluff pullouts",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Au Sable National Scenic River",
+      "World-Class Blue-Ribbon Trout Fishing",
+      "Canoeing & Kayaking",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 9,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Mio, MI",
+        "distance_miles": 8.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Canoe Outfitters",
+          "Hardware",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush green pine spring (55-68°F).",
+      "summer": "Warm pleasant summer (75-84°F) with world-class fly hatch.",
+      "fall": "Spectacular northern autumn colors.",
+      "winter": "Snowy winter (20-32°F)."
+    },
+    "dangers_and_hazards": [
+      "River Wading Cold Hazards",
+      "Ticks in Spring"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Au Sable River Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Au Sable river flow",
+        "Fly fisherman casting"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Jack Pine",
+        "Red Pine",
+        "White Pine",
+        "Paper Birch"
+      ],
+      "common_animals": [
+        "Brown Trout",
+        "Kirtland's Warbler",
+        "Bald Eagle",
+        "White-tailed Deer"
+      ]
+    },
+    "human_demographics_and_culture": "Ojibwe ancestral lands and legendary Au Sable River fly fishing culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Birthplace of Trout Unlimited in 1959 on the banks of the Au Sable River.",
+      "energetic_and_spiritual_features": "World-famous sand-bottom trout river flowing through jack pine forests."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Au Sable River Foot Trail",
+        "length_miles": 3.0,
+        "difficulty": "Easy",
+        "features": "River bluff views, white pine canopy, fly fishing access"
+      }
+    ],
+    "public_reviews_summary": "World-class trout fly fishing river camping with easy access and blazing 5G cell service.",
+    "other_data": "Home to the rare Kirtland's Warbler.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "michigan-010",
+    "name": "Kingston Plains Dispersed Area - Lake Superior State Forest",
+    "state": "Michigan",
+    "county": "Alger",
+    "coordinates": {
+      "latitude": 46.5812,
+      "longitude": -86.2812,
+      "elevation_ft": 920.0
+    },
+    "management_agency": {
+      "name": "Michigan Department of Natural Resources (DNR)",
+      "type": "State",
+      "phone": "(906) 293-5131",
+      "website": "https://www.michigan.gov/dnr"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state forest dispersed camping with free DNR permit)",
+      "stay_limit": "15 days maximum stay limit",
+      "guidelines": "Free dispersed primitive camping allowed on state forest lands in Kingston Plains pullouts. Post free DNR camping tag on camp. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from lakes/streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to DNR fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded sandy gravel forest road",
+      "road_conditions": "Graded sandy gravel forest roads off H-58; smooth when dry.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars on main gravel tracks.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - wide open historic pine stump plains",
+      "distance_from_tower_corridor_miles": 7.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Historic White Pine Stump Plains",
+      "Pictured Rocks National Lakeshore Proximity",
+      "Wild Blueberry Fields",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Grand Marais, MI",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Tavern",
+          "Hardware"
+        ]
+      },
+      {
+        "town_name": "Munising, MI",
+        "distance_miles": 32.0,
+        "services_available": [
+          "Groceries",
+          "Hospital",
+          "Pictured Rocks Tours",
+          "Hardware"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool UP spring (48-60°F).",
+      "summer": "Pleasant UP summer (70-80°F) with blueberry picking.",
+      "fall": "Spectacular Lake Superior autumn colors.",
+      "winter": "Heavy lake-effect snow (15-28°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Habitat",
+      "Lake-Effect Snow in Late Fall"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Open Stump Plains Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Wind over open pine plains",
+        "Raven calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Bracken Fern",
+        "Wild Blueberry",
+        "Jack Pine",
+        "Historic White Pine Stumps"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "Sandhill Crane",
+        "White-tailed Deer",
+        "Coyote"
+      ]
+    },
+    "human_demographics_and_culture": "Ojibwe ancestral territory and 1890s UP white pine lumber baron boom & bust history.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Haunting landscape of massive charred white pine stumps remaining from the 1890s logging era fires.",
+      "energetic_and_spiritual_features": "Wide open historic pine plains offering vast sky horizons 15 minutes from Pictured Rocks."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Kingston Plains Blueberry Trail",
+        "length_miles": 3.0,
+        "difficulty": "Easy",
+        "features": "Historic giant pine stumps, blueberry picking, open plains vistas"
+      }
+    ],
+    "public_reviews_summary": "Eerie and beautiful historic white pine stump plains basecamp just minutes from Pictured Rocks with reliable cell service.",
+    "other_data": "Free DNR camping tag required.",
+    "last_updated": "2026-09-12"
+  }
+]

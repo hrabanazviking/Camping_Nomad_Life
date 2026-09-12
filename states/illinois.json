@@ -1,0 +1,1288 @@
+[
+  {
+    "id": "il-shawnee-jackson-falls",
+    "name": "Jackson Falls Dispersed Primitive Camping Area - Shawnee National Forest",
+    "state": "Illinois",
+    "county": "Pope County",
+    "coordinates": {
+      "latitude": 37.5112,
+      "longitude": -88.6814,
+      "elevation_ft": 540
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Hidden Springs Ranger District",
+      "type": "USFS",
+      "phone": "(618) 658-2111",
+      "website": "https://www.fs.usda.gov/shawnee"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required",
+      "stay_limit": "14 consecutive days max stay within 30-day period",
+      "guidelines": "Dispersed primitive camping permitted throughout general forest lands outside developed recreation areas. Campsites must be set back at least 150 feet from trails and natural water bodies."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6-8 inches deep in rich organic soil, at least 200 feet from streams and waterfall pools. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace. All trash must be packed out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only.",
+      "safety_requirements": "Campfires allowed in existing rock fire rings. Extinguish with stream water until cold to touch.",
+      "seasonal_fire_bans": "Obey Illinois DNR / USFS fire warnings during dry autumn spells."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved gravel forest road (Glen Street Road / Jackson Falls Access)",
+      "road_conditions": "Narrow gravel gravel road with potholes, dust, and small washboards.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (accessible in dry weather along main gravel access road)",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate",
+      "verizon_reliability": "2-3 bars 4G LTE (10-20 Mbps download)",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate (Sandstone bluff canyons and hardwood forest canopy restrict line of sight)",
+      "distance_from_tower_corridor_miles": 5.4,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Sandstone Bluff Views",
+      "Perennial Stream & Waterfall Access (Filter required)",
+      "Established Rock Fire Rings",
+      "Shaded Oak / Hickory Canopy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Vienna, IL",
+        "distance_miles": 14.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Pharmacy",
+          "Hardware Store",
+          "Public Library"
+        ]
+      },
+      {
+        "town_name": "Marion / Harrisburg, IL",
+        "distance_miles": 28.0,
+        "services_available": [
+          "Walmart Supercenter",
+          "Gyms",
+          "Hospitals",
+          "Full Commercial Services"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "55-70°F, high waterfall flow, blooming wildflowers, moderate mud on unpaved tracks.",
+      "summer": "Hot and humid (82-90°F), dense leaf canopy, high tick/mosquito activity.",
+      "fall": "Ideal camping weather (60-75°F daytime, 40-50°F nights), stunning hardwood fall foliage.",
+      "winter": "Cool 35-50°F, occasional freezes and light snow dustings."
+    },
+    "dangers_and_hazards": [
+      "High sandstone cliff drop-offs (climbing safety caution)",
+      "Venomous snakes: Copperheads active near bluffs in warm months",
+      "Ticks and chiggers in forest underbrush"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Forest and waterfall sounds",
+      "common_human_made_sounds": [
+        "Rock climbers calling out on Jackson Falls bluffs",
+        "High commercial aircraft contrails"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Oak",
+        "Sugar Maple",
+        "Tulip Tree",
+        "Shortleaf Pine",
+        "French's Shooting Star (Dodecatheon frenchii - rare endemic in sandstone overhangs)"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Copperhead",
+        "Red-shouldered Hawk",
+        "Gray Squirrel"
+      ]
+    },
+    "human_demographics_and_culture": "Rock climbers (Jackson Falls is the top climbing destination in the Midwest), backpackers, digital nomads, and local nature photographers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Kaskaskia and Shawnee indigenous traditions revere the sandstone bluffs and hidden waterfall box canyons of southern Illinois as sacred medicine sites.",
+      "energetic_and_spiritual_features": "High quartz sandstone acoustic resonance, soothing waterfall ions, peaceful forest sanctuary."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Jackson Falls Canyon Trail",
+        "length_miles": 3.5,
+        "difficulty": "Moderate",
+        "features": "Winding path along base of 60-foot sandstone bluffs and waterfalls"
+      }
+    ],
+    "public_reviews_summary": "Premier free primitive camping spot for rock climbers and nature lovers in southern Illinois. Great scenery and reliable cell coverage.",
+    "other_data": "Bortle Class 3 night sky. Abundant deadwood.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "il-lusk-creek-wilderness-dispersed",
+    "name": "Lusk Creek Wilderness Dispersed Primitive Camping",
+    "state": "Illinois",
+    "county": "Pope County",
+    "coordinates": {
+      "latitude": 37.4789,
+      "longitude": -88.5412,
+      "elevation_ft": 520
+    },
+    "management_agency": {
+      "name": "US Forest Service - Shawnee National Forest (Hidden Springs Ranger District)",
+      "type": "USFS",
+      "phone": "(618) 658-2111",
+      "website": "https://www.fs.usda.gov/shawnee"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Wilderness Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed wilderness camping permitted throughout Lusk Creek Wilderness. Camp at least 150ft from trails and water streams."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6 inches deep in soil 200 feet from Lusk Creek and water drainages. Pack out all toilet paper.",
+      "trash_policy": "Strict Leave No Trace wilderness policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted.",
+      "safety_requirements": "Campfires in small rock rings using dead wood only. Fully extinguish before departing.",
+      "seasonal_fire_bans": "Dry autumn fire warnings observed."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved county road to gravel trailhead parking lot",
+      "road_conditions": "Well-maintained gravel access lot at Eddyville trailhead.",
+      "vehicle_recommendation": "Accessible by standard low clearance 2WD cars.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair to Moderate / Ridge Dependent",
+      "verizon_reliability": "2-3 bars 4G LTE on ridge tops",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "High in deep sandstone creek canyons; low on high forest ridges",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Primitive Wilderness Campsites",
+      "Scenic Sandstone Canyon Bluff Views",
+      "Lusk Creek Water Source (Filter mandatory)",
+      "Horse & Hiking Trailhead Access"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Golconda, IL",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Ohio River Marina",
+          "Restaurants",
+          "Public Library"
+        ]
+      },
+      {
+        "town_name": "Harrisburg, IL",
+        "distance_miles": 20.0,
+        "services_available": [
+          "Kroger Supermarket",
+          "Walmart",
+          "Hospital",
+          "24/7 Gyms",
+          "Hardware Stores"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "50-68°F, roaring canyon creeks, lush green dogwood bloom.",
+      "summer": "75-90°F, humid Southern Illinois weather, shaded forest canopy.",
+      "fall": "55-72°F, spectacular hardwood fall foliage colors.",
+      "winter": "28-45°F, freezing nights, occasional light snowfall."
+    },
+    "dangers_and_hazards": [
+      "High sandstone bluff cliffs (watch footing near edges)",
+      "Flash flooding in narrow stream gorges during thunderstorms",
+      "Venomous copperhead snakes in rocky talus"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Creek water trickles and songbirds",
+      "common_human_made_sounds": [
+        "Occasional horseback rider on trail"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Oak",
+        "Sugar Maple",
+        "Sandstone Cedar",
+        "Maidenhair Fern"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Pileated Woodpecker",
+        "Bobcat"
+      ]
+    },
+    "human_demographics_and_culture": "Equestrian trail riders, wilderness backpackers, nature photographers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Native American bluff shelters throughout Pope County contain ancient rock art and sacred spiritual history.",
+      "energetic_and_spiritual_features": "Peaceful oak-hickory forest bluffs, dramatic sandstone canyon energy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Lusk Creek Canyon Loop Trail",
+        "length_miles": 6.8,
+        "difficulty": "Moderate",
+        "features": "Indian Kitchen sandstone overlook, pristine creek canyon"
+      }
+    ],
+    "public_reviews_summary": "Gorgeous wilderness canyon backpacking in Southern Illinois. Free primitive camping, quiet nature, easy drive to Harrisburg.",
+    "other_data": "Shawnee National Forest wilderness area. No motorized vehicles permitted inside boundary.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "il-pine-hills-larue-dispersed",
+    "name": "LaRue-Pine Hills Ecological Area Dispersed Camping",
+    "state": "Illinois",
+    "county": "Union County",
+    "coordinates": {
+      "latitude": 37.5612,
+      "longitude": -89.4412,
+      "elevation_ft": 480
+    },
+    "management_agency": {
+      "name": "US Forest Service - Shawnee National Forest (Mississippi Bluffs Ranger District)",
+      "type": "USFS",
+      "phone": "(618) 833-8576",
+      "website": "https://www.fs.usda.gov/shawnee"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Dispersed Primitive Camping (zero fee outside restricted research natural area core)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted along Pine Hills Road pullouts outside core Snake Road closure zone. Camp 100ft minimum from roads."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6 inches deep in soil 200 feet from Otter Pond. Pack out all paper.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on site.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse before vacating.",
+      "seasonal_fire_bans": "Fall dry leaf fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route to gravel Forest Service ridge road",
+      "road_conditions": "Graded gravel ridge road, flat pullout turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance vehicles.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Mississippi River Valley Tower Line",
+      "verizon_reliability": "4-5 bars 4G/5G LTE (25-55 Mbps download)",
+      "att_reliability": "4-5 bars 4G/5G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low along 400ft limestone ridge bluff top",
+      "distance_from_tower_corridor_miles": 2.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Mississippi River Floodplain Bluff Views",
+      "Shortleaf Pine & Oak Ridge Canopy",
+      "Flat Dirt/Gravel Vehicle Pullouts",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 8,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Anna / Jonesboro, IL",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Kroger Supermarket",
+          "Gas Stations",
+          "Stinson Memorial Library",
+          "Hospital",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Carbondale, IL",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Full SIU Metro Services",
+          "Walmart / Schnucks",
+          "24/7 Gyms",
+          "Hardware Stores"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "55-72°F, famous biannual reptile migration on Snake Road, greening limestone bluffs.",
+      "summer": "78-92°F, warm Southern Illinois summer days.",
+      "fall": "55-75°F, magnificent Mississippi River valley autumn foliage.",
+      "winter": "30-48°F, mild winter, dry sunny days."
+    },
+    "dangers_and_hazards": [
+      "High limestone bluff cliffs",
+      "Venomous cottonmouth snakes near swamp bottoms"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Mississippi floodplain wind and swamp frog choruses",
+      "common_human_made_sounds": [
+        "Distant train whistle across Mississippi valley"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "Chinquapin Oak",
+        "Bald Cypress",
+        "Flowering Dogwood"
+      ],
+      "common_animals": [
+        "Cottonmouth Snake",
+        "Bird-voiced Treefrog",
+        "White-tailed Deer",
+        "Bald Eagle"
+      ]
+    },
+    "human_demographics_and_culture": "Kaskaskia ancestral lands, Illinois herpetologists, Mississippi valley outdoorsmen, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "One of the most ecologically diverse natural areas in North America. High limestone bluffs overlooking ancient Mississippi river courses.",
+      "energetic_and_spiritual_features": "Exhilarating limestone ridge elevation, vast Mississippi river valley sunset vistas."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Inspiration Point Trail",
+        "length_miles": 2.5,
+        "difficulty": "Easy to Moderate",
+        "features": "300ft limestone cliff overlook, panoramic Mississippi river valley views"
+      }
+    ],
+    "public_reviews_summary": "Top free primitive camping in Southern Illinois. Sweeping Mississippi River bluff views, fast 5G cell internet, and 100% free USFS access.",
+    "other_data": "Shawnee National Forest. Free dispersed camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "illinois-004",
+    "name": "One Horse Gap Backpacking Primitive Zone - Shawnee National Forest",
+    "state": "Illinois",
+    "county": "Pope",
+    "coordinates": {
+      "latitude": 37.5214,
+      "longitude": -88.4532,
+      "elevation_ft": 540.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Shawnee National Forest (Hidden Springs Ranger District)",
+      "type": "Federal",
+      "phone": "(618) 658-2111",
+      "website": "https://www.fs.usda.gov/shawnee"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night, no fee for primitive dispersed camping)",
+      "stay_limit": "14 days maximum stay within a 30-day period",
+      "guidelines": "Primitive backcountry dispersed camping permitted at least 150 feet away from trails and water sources. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep in a cat-hole at least 200 feet from streams. Pack out all paper products.",
+      "trash_policy": "Pack it in, pack it out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood collection permitted.",
+      "safety_requirements": "Use established rock fire rings. Douse cold with water.",
+      "seasonal_fire_bans": "Subject to USFS dry autumn fire restrictions."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest service road to trailhead",
+      "road_conditions": "Well-maintained gravel road; short 0.8-mile hike required to primitive rock gap campsites.",
+      "vehicle_recommendation": "Any standard FWD compact car can reach trailhead parking lot.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2.5/5 Stars)",
+      "verizon_reliability": "2 bars 4G LTE on ridge tops, spotty in hollows",
+      "att_reliability": "1-2 bars 4G LTE",
+      "tmobile_reliability": "1 bar 4G LTE",
+      "terrain_obstruction_risk": "Moderate - sandstone bluffs and hardwood forest canopy",
+      "distance_from_tower_corridor_miles": 7.5,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Sandstone Rock Formations",
+      "Primitive Fire Rings",
+      "Scenic Bluff Overlooks"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 7,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Golconda, IL",
+        "distance_miles": 14.2,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Harrisburg, IL",
+        "distance_miles": 22.8,
+        "services_available": [
+          "Supercenter",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush greenery with wild bluffs and spring blossoms; wet trail conditions.",
+      "summer": "Warm and humid (82-90°F) with dense canopy shade.",
+      "fall": "Vibrant southern Illinois autumn leaves; crisp nights.",
+      "winter": "Cold (25-40°F) with light snow revealing sandstone hoodoos."
+    },
+    "dangers_and_hazards": [
+      "Venomous Snakes (Copperheads)",
+      "Ticks",
+      "Slippery Sandstone Bluffs"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Deep Forest Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Occasional distant equestrian rider",
+        "High altitude airplanes"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Post Oak",
+        "Shortleaf Pine",
+        "Sparkleberry",
+        "Sandstone Cedar"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Gray Fox",
+        "Pileated Woodpecker"
+      ]
+    },
+    "human_demographics_and_culture": "Shawnee hills timber and agrarian culture with rich natural sandstone history.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Indigenous legend of ancient natural stone portals along gap ridges.",
+      "energetic_and_spiritual_features": "Dramatic sandstone natural gaps create a secluded, peaceful retreat."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "One Horse Gap Trail to River to River Trail",
+        "length_miles": 4.5,
+        "difficulty": "Moderate",
+        "features": "Narrow sandstone slot gaps, pine groves, high bluff views"
+      }
+    ],
+    "public_reviews_summary": "Unbelievable natural rock slot formations and complete quiet, though cell service is spotty.",
+    "other_data": "Equestrian riders also use main trail corridors; yield trail right-of-way to horses.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "illinois-005",
+    "name": "Hanover Bluff Nature Preserve Dispersed Primitive Zone",
+    "state": "Illinois",
+    "county": "Jo Daviess",
+    "coordinates": {
+      "latitude": 42.2458,
+      "longitude": -90.2841,
+      "elevation_ft": 820.0
+    },
+    "management_agency": {
+      "name": "Illinois Department of Natural Resources (IDNR)",
+      "type": "State",
+      "phone": "(815) 777-1030",
+      "website": "https://dnr.illinois.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night, no fee for primitive trailside camping)",
+      "stay_limit": "3 consecutive nights limit",
+      "guidelines": "Primitive camping permitted for backpackers along driftless bluff trails. Carry in, carry out."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep at least 200 feet from springs and bluffs.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out rule."
+    },
+    "campfire_rules": {
+      "permitted": false,
+      "firewood_policy": "No wood campfires allowed to protect rare hill prairie plants.",
+      "safety_requirements": "Portable gas stoves allowed.",
+      "seasonal_fire_bans": "Year-round fire prohibition on open wood fires."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved county road to trailhead",
+      "road_conditions": "Paved road access with small gravel parking lot.",
+      "vehicle_recommendation": "Accessible by standard FWD low clearance cars.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Good (3.5/5 Stars)",
+      "verizon_reliability": "3 bars 4G LTE",
+      "att_reliability": "3 bars 4G LTE",
+      "tmobile_reliability": "2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate - high Mississippi River driftless bluffs",
+      "distance_from_tower_corridor_miles": 4.1,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Trailhead Parking",
+      "Panoramic Driftless Bluff Views",
+      "Hill Prairie Flora"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 8,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Galena, IL",
+        "distance_miles": 14.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Public Library",
+          "Historic Downtown",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Dubuque, IA",
+        "distance_miles": 26.2,
+        "services_available": [
+          "Supercenter",
+          "Hospital",
+          "Gym & Fitness Center",
+          "Auto Repair"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Green hill prairies with wild prairie flowers blooming.",
+      "summer": "Warm days (78-86°F) with gentle Mississippi valley breezes.",
+      "fall": "Spectacular driftless autumn leaf display over rolling valleys.",
+      "winter": "Cold and snowy (15-30°F) with frozen river views."
+    },
+    "dangers_and_hazards": [
+      "Steep Bluff Drop-offs",
+      "Timber Rattlesnakes (Hill Prairies)",
+      "Icy Trails in Winter"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Peaceful Bluff Elevation (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Distant Mississippi barge horn",
+        "Passing valley vehicles"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Side-oats Grama",
+        "Big Bluestem",
+        "Chinkapin Oak",
+        "Pale Purple Coneflower"
+      ],
+      "common_animals": [
+        "Bald Eagle",
+        "Red-tailed Hawk",
+        "White-tailed Deer",
+        "Badger"
+      ]
+    },
+    "human_demographics_and_culture": "Illinois Driftless area historic lead mining and scenic bluff tourism heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Native lore honors high driftless bluffs as watch posts of celestial spirit eagles.",
+      "energetic_and_spiritual_features": "Expansive views across unglaciated valleys instill a strong sense of freedom."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Hanover Bluff Prairie Trail",
+        "length_miles": 2.8,
+        "difficulty": "Moderate",
+        "features": "Driftless bluff climbing path, hill prairie ecosystem, eagle vistas"
+      }
+    ],
+    "public_reviews_summary": "Stunning views of the unglaciated driftless terrain and strong cell signal for working nomads.",
+    "other_data": "Stay strictly on designated trails to preserve fragile hill prairie soils.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "illinois-006",
+    "name": "Garden of the Gods Wilderness Dispersed Area - Shawnee NF",
+    "state": "Illinois",
+    "county": "Saline",
+    "coordinates": {
+      "latitude": 37.6012,
+      "longitude": -88.3812,
+      "elevation_ft": 860.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Shawnee National Forest (Hidden Springs District)",
+      "type": "Federal",
+      "phone": "(618) 658-2111",
+      "website": "https://www.fs.usda.gov/shawnee"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free primitive dispersed camping allowed throughout Shawnee Wilderness area pullouts outside developed picnic sites. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved scenic road to gravel Forest Service road",
+      "road_conditions": "Paved road access; smooth gravel turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate on sandstone ridge",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Sandstone Bluff Rock Overlooks",
+      "Shawnee Oak-Hickory Forest Canopy",
+      "River to River Trail Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Harrisburg, IL",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Grocery Store",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush bluff spring (58-72°F).",
+      "summer": "Warm humid summer (82-90°F) with canopy shade.",
+      "fall": "Spectacular Shawnee hills autumn foliage.",
+      "winter": "Cool winter (28-42°F)."
+    },
+    "dangers_and_hazards": [
+      "Cliff Edges & High Drops",
+      "Timber Rattlesnakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Shawnee Ridge Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through red oak canopy",
+        "Songbirds"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Oak",
+        "Post Oak",
+        "Shortleaf Pine",
+        "Wild Hydrangea"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Pileated Woodpecker",
+        "Gray Fox"
+      ]
+    },
+    "human_demographics_and_culture": "Shawnee and Cherokee ancestral lands and southern Illinois Ozark bluffland heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "320 million-year-old carved sandstone rock formations resembling Camel Rock and Anvil Rock.",
+      "energetic_and_spiritual_features": "Dramatic sandstone escarpments towering above southern Illinois hardwood valleys."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "River to River Trail (Garden of the Gods Segment)",
+        "length_miles": 4.0,
+        "difficulty": "Moderate",
+        "features": "Sandstone rock formations, ridge overlooks, hardwood forest"
+      }
+    ],
+    "public_reviews_summary": "World-class sandstone bluff basecamp in southern Illinois with strong cell service.",
+    "other_data": "Iconic Camel Rock view.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "illinois-007",
+    "name": "Panther Den Wilderness Dispersed Zone - Shawnee NF",
+    "state": "Illinois",
+    "county": "Union",
+    "coordinates": {
+      "latitude": 37.5512,
+      "longitude": -89.1112,
+      "elevation_ft": 620.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Shawnee National Forest",
+      "type": "Federal",
+      "phone": "(618) 833-8576",
+      "website": "https://www.fs.usda.gov/shawnee"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive backpacking camping allowed throughout Panther Den Wilderness. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Panther Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved county road to gravel trailhead parking",
+      "road_conditions": "Paved county road access; smooth gravel trailhead turnout.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate around creek ravines",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Panther Creek Rock Canyon",
+      "Sandstone Rock Bluffs",
+      "Hardwood Forest Canopy",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Makanda, IL",
+        "distance_miles": 6.0,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "Artisan Shops",
+          "Cafe"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush ravine spring (58-72°F).",
+      "summer": "Warm summer (82-88°F) with cool canyon shade.",
+      "fall": "Vibrant autumn hardwood foliage.",
+      "winter": "Cool winter (28-44°F)."
+    },
+    "dangers_and_hazards": [
+      "Copperhead & Timber Rattlesnakes",
+      "Slippery Rock Surfaces"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Panther Den Ravine Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Panther Creek water murmur",
+        "Wind in beech trees"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "American Beech",
+        "Sugar Maple",
+        "White Oak",
+        "Partridgeberry"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Bobcat",
+        "Red-shouldered Hawk",
+        "Barred Owl"
+      ]
+    },
+    "human_demographics_and_culture": "Illiniwek ancestral lands and southern Illinois wilderness conservation history.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Panther Den Wilderness features deep sandstone canyon crevices named for historic eastern cougar dens.",
+      "energetic_and_spiritual_features": "Quiet shaded sandstone slot rock corridors with ancient beech trees."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Panther Den Wilderness Loop",
+        "length_miles": 3.0,
+        "difficulty": "Moderate",
+        "features": "Sandstone crevices, creek canyon walk, hardwood forest"
+      }
+    ],
+    "public_reviews_summary": "Hidden gem wilderness canyon basecamp near Makanda with reliable cell service.",
+    "other_data": "Great spring wildflower displays.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "illinois-008",
+    "name": "Burden Falls Wilderness Primitive Area - Shawnee NF",
+    "state": "Illinois",
+    "county": "Pope",
+    "coordinates": {
+      "latitude": 37.5812,
+      "longitude": -88.6412,
+      "elevation_ft": 710.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Shawnee National Forest",
+      "type": "Federal",
+      "phone": "(618) 658-2111",
+      "website": "https://www.fs.usda.gov/shawnee"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Forest Service road turnouts throughout Burden Falls Wilderness. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Burden Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel Forest Service road",
+      "road_conditions": "Graded gravel forest access road; smooth turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - ridge plateau",
+      "distance_from_tower_corridor_miles": 5.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Burden Falls Waterfall Access",
+      "Sandstone Rock Ledges",
+      "Hardwood Forest Canopy",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Stonefort, IL",
+        "distance_miles": 8.0,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cascading waterfall spring (58-72°F).",
+      "summer": "Warm summer (82-88°F).",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cool winter (28-42°F)."
+    },
+    "dangers_and_hazards": [
+      "Slippery Rock Waterfall Ledges",
+      "Timber Rattlesnakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Burden Falls Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Burden Falls cascading water",
+        "Wind in white oak"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Oak",
+        "Shortleaf Pine",
+        "Red Maple",
+        "Flowering Dogwood"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Louisiana Waterthrush",
+        "Gray Squirrel"
+      ]
+    },
+    "human_demographics_and_culture": "Shawnee ancestral lands and historic Pope County wilderness preservation heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Burden Falls drops over 30 feet across sandstone ledges, one of the highest waterfalls in Illinois.",
+      "energetic_and_spiritual_features": "Quiet oak ridges overlooking rushing waterfall cascades."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Burden Falls Trail",
+        "length_miles": 3.5,
+        "difficulty": "Moderate",
+        "features": "Waterfall overlooks, sandstone cliff walk, stream crossings"
+      }
+    ],
+    "public_reviews_summary": "Serene waterfall basecamp in Shawnee National Forest with reliable cell service.",
+    "other_data": "Best waterfall flow after spring rains.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "illinois-009",
+    "name": "Bay Creek Wilderness Dispersed Area - Shawnee NF",
+    "state": "Illinois",
+    "county": "Johnson",
+    "coordinates": {
+      "latitude": 37.4812,
+      "longitude": -88.7412,
+      "elevation_ft": 580.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Shawnee National Forest",
+      "type": "Federal",
+      "phone": "(618) 658-2111",
+      "website": "https://www.fs.usda.gov/shawnee"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along open Forest Service road pullouts. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Bay Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel Forest Service road",
+      "road_conditions": "Graded gravel forest access road; smooth turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - gently rolling forest terrain",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Bay Creek Shoreline Access",
+      "Oak-Hickory Forest Canopy",
+      "River to River Trail Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Vienna, IL",
+        "distance_miles": 10.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Fresh spring (58-72°F).",
+      "summer": "Warm summer (82-88°F).",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cool winter (28-42°F)."
+    },
+    "dangers_and_hazards": [
+      "Copperhead Snakes",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Bay Creek Forest Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Bay Creek water flow",
+        "Songbirds"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Oak",
+        "Red Maple",
+        "Shortleaf Pine",
+        "Wild Azalea"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Beaver",
+        "Red Fox"
+      ]
+    },
+    "human_demographics_and_culture": "Illiniwek ancestral lands and Johnson County agricultural and timber heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Bay Creek meanders through 2,750 acres of undisturbed hardwood forest wilderness.",
+      "energetic_and_spiritual_features": "Quiet hardwood hollows with gentle creek gravel bars."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Bay Creek Trail",
+        "length_miles": 4.2,
+        "difficulty": "Easy to Moderate",
+        "features": "Creek shoreline, oak-hickory canopy, wildlife viewing"
+      }
+    ],
+    "public_reviews_summary": "Peaceful creek valley basecamp near Vienna with dependable cell coverage.",
+    "other_data": "Good spring fishing.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "illinois-010",
+    "name": "Kinkaid Lake Primitive Trailhead Area - Shawnee NF",
+    "state": "Illinois",
+    "county": "Jackson",
+    "coordinates": {
+      "latitude": 37.7812,
+      "longitude": -89.4112,
+      "elevation_ft": 520.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Shawnee National Forest (Mississippi Bluffs District)",
+      "type": "Federal",
+      "phone": "(618) 833-8576",
+      "website": "https://www.fs.usda.gov/shawnee"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Kinkaid Lake trailhead pullouts and shoreline zones. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Kinkaid Lake. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route to gravel forest road",
+      "road_conditions": "Paved route access; smooth gravel interior forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE / 5G",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open lake coves",
+      "distance_from_tower_corridor_miles": 3.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Kinkaid Lake Shoreline Access",
+      "Muskie Fishing",
+      "Oak-Pine Forest Canopy",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Murphysboro, IL",
+        "distance_miles": 8.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush lake spring (58-72°F).",
+      "summer": "Warm summer (82-90°F) with lake swimming.",
+      "fall": "Crisp autumn muskie fishing days.",
+      "winter": "Cool winter (28-44°F)."
+    },
+    "dangers_and_hazards": [
+      "Lake Water Hazards",
+      "Copperhead Snakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Lake Cove Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Kinkaid lake wave lap",
+        "Pine wind"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "White Oak",
+        "Sycamore",
+        "Dogwood"
+      ],
+      "common_animals": [
+        "Muskellunge (Muskie)",
+        "Large-mouth Bass",
+        "White-tailed Deer",
+        "Bald Eagle"
+      ]
+    },
+    "human_demographics_and_culture": "Illiniwek ancestral lands and Jackson County trophy fishing culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "2,750-acre Kinkaid Lake features rocky sandstone bluffs and scenic forested coves.",
+      "energetic_and_spiritual_features": "Peaceful pine-clad lake points overlooking clear blue water."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Kinkaid Lake Trail",
+        "length_miles": 4.5,
+        "difficulty": "Easy to Moderate",
+        "features": "Lake shoreline walk, sandstone bluffs, pine-oak forest"
+      }
+    ],
+    "public_reviews_summary": "Awesome lakefront primitive basecamp near Murphysboro with fast cell service.",
+    "other_data": "Famous trophy muskie fishery.",
+    "last_updated": "2026-09-12"
+  }
+]

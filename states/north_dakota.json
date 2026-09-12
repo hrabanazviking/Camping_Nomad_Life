@@ -1,0 +1,1344 @@
+[
+  {
+    "id": "nd-little-missouri-burning-coal-vein",
+    "name": "Burning Coal Vein / Elkhorn Corridor Dispersed Camping - Little Missouri Grassland",
+    "state": "North Dakota",
+    "county": "Billings County / Slope County",
+    "coordinates": {
+      "latitude": 46.6012,
+      "longitude": -103.4814,
+      "elevation_ft": 2450
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Medora Ranger District",
+      "type": "USFS",
+      "phone": "(701) 227-7800",
+      "website": "https://www.fs.usda.gov/dnp"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for general grassland dispersed camping",
+      "stay_limit": "14 consecutive days max stay within 30-day period",
+      "guidelines": "Dispersed primitive camping permitted on general Little Missouri National Grassland public lands. Must park within 30ft of public forest roads. Driving off-road prohibited."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6 inches deep in prairie/badland soil, 200 feet from dry washes. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring your own firewood; badland prairie wood gathering non-existent.",
+      "safety_requirements": "Campfires in containerized fire pans or existing rock rings only due to extreme prairie fire hazard. Extinguish cold to touch.",
+      "seasonal_fire_bans": "Obey Red Flag Warning fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved gravel and dirt prairie road (East River Road / FS 739)",
+      "road_conditions": "Washboard gravel road crossing clay badlands. Can turn slick gumbo clay when wet.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (accessible along main gravel roads in dry weather; high clearance recommended for side spurs)",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate / Open Prairie Line-of-Sight",
+      "verizon_reliability": "2-3 bars 4G LTE (10-25 Mbps download)",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate (Badland scoria ridges create mild line of sight shadows)",
+      "distance_from_tower_corridor_miles": 7.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Rugged Badlands & Scoria Butte Views",
+      "Maah Daah Hey Trail Access",
+      "100% Unshaded Solar Panel Exposure",
+      "High Plains Solitude"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 4,
+      "distance_to_library_score": 4,
+      "distance_to_gym_score": 3,
+      "terrain_score": 9,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Medora, ND",
+        "distance_miles": 22.0,
+        "services_available": [
+          "General Store",
+          "Gas Stations",
+          "Restaurants",
+          "Theodore Roosevelt National Park Visitor Center"
+        ]
+      },
+      {
+        "town_name": "Dickinson, ND",
+        "distance_miles": 48.0,
+        "services_available": [
+          "Walmart Supercenter",
+          "Dickinson State University",
+          "CHI St. Alexius Health Hospital",
+          "24/7 Gyms",
+          "Public Library"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "50-65°F, high winds, spring rain turning badland clay to gumbo mud.",
+      "summer": "Hot (85-95°F), intense solar heat, late afternoon prairie thunderstorms.",
+      "fall": "Ideal badlands boondocking season (55-70°F daytime, 30-40°F nights), crisp clear skies.",
+      "winter": "Severe sub-zero Northern Plains winter (-10 to 20°F), heavy blowing snow."
+    },
+    "dangers_and_hazards": [
+      "Severe High Plains wind gusts",
+      "Prairie wildfires during dry Red Flag Warnings",
+      "Clay badland roads becoming impassable gumbo mud when wet",
+      "Prairie Rattlesnakes active in warm months"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "10/10 - Pure Northern Plains badland silence",
+      "common_human_made_sounds": [
+        "Infrequent ranch truck on gravel road",
+        "Wind blowing through scoria badland ridges"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Rocky Mountain Juniper (Juniperus scopulorum)",
+        "Ponderosa Pine (Pinus ponderosa)",
+        "Buffalograss",
+        "Columnar Cactus (Escobaria vivipara)"
+      ],
+      "common_animals": [
+        "Bison / American Buffalo (Bison bison in nearby Theodore Roosevelt NP)",
+        "Elk",
+        "Mule Deer",
+        "Pronghorn",
+        "Black-tailed Prairie Dog",
+        "Coyote"
+      ]
+    },
+    "human_demographics_and_culture": "Maah Daah Hey Trail mountain bikers, Theodore Roosevelt history buffs, solar digital nomads, and badlands astrophotographers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Mandan, Hidatsa, and Arikara (Three Affiliated Tribes) indigenous traditions honor the Little Missouri Badlands as sacred spirit grounds and ancestral fasting sites.",
+      "energetic_and_spiritual_features": "Red scoria rock badland energy, profound spatial silence, pristine Bortle 1 night skies."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Maah Daah Hey National Recreation Trail (Burning Coal Vein Section)",
+        "length_miles": 144.0,
+        "difficulty": "Strenuous (Long-distance Singletrack)",
+        "features": "Winding badlands singletrack, scoria ridges, cottonwood river bottoms"
+      }
+    ],
+    "public_reviews_summary": "Spectacular badlands boondocking in western North Dakota. Total peace, rich wildlife, and solid cell signal on open prairie ridges.",
+    "other_data": "Bortle Class 1 night sky. Outstanding solar panel power generation.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "nd-little-missouri-national-grassland",
+    "name": "Little Missouri National Grassland Dispersed Primitive Camping",
+    "state": "North Dakota",
+    "county": "Billings / McKenzie County",
+    "coordinates": {
+      "latitude": 46.9214,
+      "longitude": -103.5214,
+      "elevation_ft": 2450
+    },
+    "management_agency": {
+      "name": "US Forest Service - Dakota Prairie Grasslands (Medora Ranger District)",
+      "type": "USFS",
+      "phone": "(701) 227-7800",
+      "website": "https://www.fs.usda.gov/dpg"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Dispersed Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted throughout Little Missouri National Grassland along Maah Daah Hey Trail access points and forest roads."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6 inches deep in clay soil 200 feet from Little Missouri River. Pack out hygiene items.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gathering dead and down wood permitted; fire pan recommended.",
+      "safety_requirements": "Campfires in established rock fire rings or metal fire pans only. Fully extinguish before leaving.",
+      "seasonal_fire_bans": "Summer high wind prairie burn bans active July-August."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved Interstate 94 / US 85 to gravel grassland roads",
+      "road_conditions": "Graded gravel, bentonite clay dirt spurs (slick when wet).",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance vehicles in dry weather; 4x4 recommended after rains.",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / I-94 & US 85 Tower Line",
+      "verizon_reliability": "3-4 bars 4G LTE (20-45 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low across rolling badlands topography",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Badlands Butte & Prairie Panoramas",
+      "Maah Daah Hey Trailhead Access",
+      "Flat Dirt/Gravel Vehicle Pullouts",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Medora, ND",
+        "distance_miles": 8.0,
+        "services_available": [
+          "General Store",
+          "Gas Stations",
+          "Historic Saloons",
+          "Restaurants",
+          "Visitor Center"
+        ]
+      },
+      {
+        "town_name": "Dickinson, ND",
+        "distance_miles": 32.0,
+        "services_available": [
+          "Walmart Supercenter",
+          "Dan's Supermarket",
+          "Dickinson Hospital",
+          "24/7 Gyms",
+          "Full Services"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "45-65°F, greening badlands prairie, crisp sunny weather.",
+      "summer": "78-92°F, warm sunny Badlands days, bright clear skies.",
+      "fall": "50-70°F, golden cottonwood river bottom colors, cool nights.",
+      "winter": "5-25°F, severe prairie cold, dusting of snow on badlands bluffs."
+    },
+    "dangers_and_hazards": [
+      "Bentonite clay roads become unpassable mud when wet",
+      "High wind on open prairie",
+      "Bison in surrounding Theodore Roosevelt National Park area"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Badlands prairie wind and coyote calls",
+      "common_human_made_sounds": [
+        "Distant train whistle across prairie valley"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Rocky Mountain Juniper",
+        "Fremont Cottonwood",
+        "Western Wheatgrass",
+        "Prickly Pear Cactus"
+      ],
+      "common_animals": [
+        "Bison",
+        "Pronghorn Antelope",
+        "Mule Deer",
+        "Coyote",
+        "Golden Eagle",
+        "Prairie Dog"
+      ]
+    },
+    "human_demographics_and_culture": "Mandan, Hidatsa, & Arikara ancestral lands, Dakota ranchers, Theodore Roosevelt conservation heritage, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Sacred badlands territory of the Lakota and Mandan nations. Where Theodore Roosevelt developed his legendary passion for conservation.",
+      "energetic_and_spiritual_features": "Majestic badlands prairie horizon, breathtaking sunset light on clay cutbanks."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Maah Daah Hey Trail (Medora Section)",
+        "length_miles": 14.0,
+        "difficulty": "Moderate",
+        "features": "Badlands clay ridges, juniper draws, Little Missouri river vistas"
+      }
+    ],
+    "public_reviews_summary": "Stunning Dakota Badlands primitive camping. Free USFS access, fast cell internet near Medora, and world-class trail access on the Maah Daah Hey.",
+    "other_data": "Dakota Prairie Grasslands. Free dispersed primitive camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "nd-sheyenne-national-grassland",
+    "name": "Sheyenne National Grassland Dispersed Primitive Camping",
+    "state": "North Dakota",
+    "county": "Ransom / Richland County",
+    "coordinates": {
+      "latitude": 46.3812,
+      "longitude": -97.2812,
+      "elevation_ft": 1080
+    },
+    "management_agency": {
+      "name": "US Forest Service - Dakota Prairie Grasslands (Sheyenne Ranger District)",
+      "type": "USFS",
+      "phone": "(701) 683-4370",
+      "website": "https://www.fs.usda.gov/dpg"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Dispersed Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted throughout tallgrass oak savanna and oak sandhills pullouts along North Country Trail corridor."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6 inches deep in sandy soil 200 feet from Sheyenne River. Pack out hygiene products.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down oak wood gathering permitted on site.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Spring dry grass fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway to gravel Forest Service roads",
+      "road_conditions": "Graded gravel access roads, flat sand/dirt turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Fargo-Lisbon Tower Line",
+      "verizon_reliability": "3-4 bars 4G LTE (20-45 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low across rolling tallgrass sandhills savanna",
+      "distance_from_tower_corridor_miles": 3.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Tallgrass Prairie & Bur Oak Savanna Campsites",
+      "North Country Scenic Trailhead Access",
+      "Flat Dirt/Gravel Pullouts",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Lisbon / Enderlin, ND",
+        "distance_miles": 10.0,
+        "services_available": [
+          "Supermarket",
+          "Gas Stations",
+          "Lisbon Public Library",
+          "Hospital",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Fargo, ND",
+        "distance_miles": 42.0,
+        "services_available": [
+          "Full Metro Services",
+          "Costco / Target",
+          "Sanford Medical Center",
+          "24/7 Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "45-62°F, greening tallgrass savanna, prairie wildflower bloom.",
+      "summer": "75-88°F, warm sunny tallgrass prairie days.",
+      "fall": "48-68°F, golden tallgrass foliage, crisp cool nights.",
+      "winter": "10-25°F, cold prairie wind, snowpack."
+    },
+    "dangers_and_hazards": [
+      "High wind on open prairie sandhills",
+      "Ticks in summer grass (use permethrin)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Prairie wind and savanna bird calls",
+      "common_human_made_sounds": [
+        "Occasional vehicle on country road"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Big Bluestem",
+        "Bur Oak",
+        "Western Prairie Fringed Orchid (threatened species)",
+        "Prairie Rose"
+      ],
+      "common_animals": [
+        "Greater Prairie Chicken",
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Red Fox",
+        "Regal Fritillary Butterfly"
+      ]
+    },
+    "human_demographics_and_culture": "Dakota & Ojibwe ancestral lands, North Dakota ranchers, North Country Trail hikers, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Only National Grassland in the tallgrass prairie region of North America. Sacred ancestral Dakota territory.",
+      "energetic_and_spiritual_features": "Profound open tallgrass prairie sky horizons, peaceful oak savanna quietness."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "North Country Trail (Sheyenne Grassland Section)",
+        "length_miles": 12.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Bur oak savanna, tallgrass prairie dunes, Sheyenne river valley"
+      }
+    ],
+    "public_reviews_summary": "North Dakota's tallgrass prairie gem. Free primitive camping, rare bur oak savanna landscapes, fast cell internet near Lisbon, and 100% free USFS access.",
+    "other_data": "Dakota Prairie Grasslands. Free dispersed primitive camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "north_dakota-004",
+    "name": "Little Missouri National Grassland Wannagan Dispersed Primitive Zone",
+    "state": "North Dakota",
+    "county": "Billings",
+    "coordinates": {
+      "latitude": 47.1412,
+      "longitude": -103.5214,
+      "elevation_ft": 2680.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Little Missouri National Grassland (Medora Ranger District)",
+      "type": "Federal",
+      "phone": "(701) 227-7800",
+      "website": "https://www.fs.usda.gov/d規"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed grassland camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Maah Daah Hey Trail access roads across 1 million acres of badlands. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep in cat-holes at least 200 feet from dry washes.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Clear ground 10 ft around campfire ring. Extinguish cold due to high prairie wind hazards.",
+      "seasonal_fire_bans": "Subject to USFS high prairie fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel and scoria prairie roads",
+      "road_conditions": "Red scoria gravel roads; clay sections get slick when wet.",
+      "vehicle_recommendation": "Standard FWD car fine in dry weather; 4WD recommended when wet.",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2.5/5 Stars)",
+      "verizon_reliability": "2 bars 4G LTE on high badland ridges",
+      "att_reliability": "2 bars 4G LTE",
+      "tmobile_reliability": "1 bar 4G LTE",
+      "terrain_obstruction_risk": "Moderate - rugged badland draw topography",
+      "distance_from_tower_corridor_miles": 8.5,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Badland Ridge Overlooks",
+      "Maah Daah Hey Trail Access",
+      "Dark Sky Star Observation"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Medora, ND",
+        "distance_miles": 16.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Dickinson, ND",
+        "distance_miles": 42.0,
+        "services_available": [
+          "Supercenter",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush greening of badland draws with spring wild prairie flowers.",
+      "summer": "Hot high plains weather (85-95°F) with cool badland night air.",
+      "fall": "Crisp autumn weather with yellow cottonwood and red scoria contrasts.",
+      "winter": "Severe high plains winter (-15 to 20°F); heavy prairie snow."
+    },
+    "dangers_and_hazards": [
+      "Bison & Wild Horses (Maintain safe distance)",
+      "Prairie Rattlesnakes",
+      "High Prairie Wildfire Hazard",
+      "Slick Scoria/Clay Roads when Wet"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Badland Prairie Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Distant I-94 traffic whistle in wind"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Rocky Mountain Juniper",
+        "Plains Cottonwood",
+        "Little Bluestem",
+        "Prickly Pear Cactus"
+      ],
+      "common_animals": [
+        "Plains Bison",
+        "Wild Horses",
+        "Pronghorn Antelope",
+        "Mule Deer",
+        "Coyote"
+      ]
+    },
+    "human_demographics_and_culture": "North Dakota badlands cattle ranching, Theodore Roosevelt conservation history, and Mandan/Hidatsa heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Mandan and Hidatsa traditions honor the badlands as sacred vision quest grounds where earth spirits speak through prairie winds.",
+      "energetic_and_spiritual_features": "Dramatic red scoria badlands and roaming wild bison herds generate a timeless, raw prairie energy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Maah Daah Hey Trail - Wannagan Section",
+        "length_miles": 8.0,
+        "difficulty": "Moderate",
+        "features": "Badland ridge crests, scoria rock outcrops, wild horse viewing"
+      }
+    ],
+    "public_reviews_summary": "Stunning badland scenery and roaming wild horses near Medora with complete quietness.",
+    "other_data": "Carry plenty of fresh water as prairie washes are non-potable.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "north_dakota-005",
+    "name": "Pembina Gorge State Recreation Primitive Spot",
+    "state": "North Dakota",
+    "county": "Cavalier",
+    "coordinates": {
+      "latitude": 48.9214,
+      "longitude": -97.9812,
+      "elevation_ft": 1120.0
+    },
+    "management_agency": {
+      "name": "North Dakota Parks and Recreation Department",
+      "type": "State",
+      "phone": "(701) 549-2444",
+      "website": "https://www.parkrec.nd.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive backcountry trailside camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Primitive backcountry camping permitted along Pembina River trail corridor. Camp 100 ft from water. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from Pembina River.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared ground rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to state dry season fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel county roads to trailhead",
+      "road_conditions": "Graded gravel access roads to trailhead parking area.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2/5 Stars)",
+      "verizon_reliability": "1-2 bars 4G LTE near Canadian border",
+      "att_reliability": "1 bar 4G LTE",
+      "tmobile_reliability": "No signal",
+      "terrain_obstruction_risk": "Moderate - steep Pembina River valley gorge",
+      "distance_from_tower_corridor_miles": 12.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Pembina River Water Access",
+      "Valley Gorge Views",
+      "Primitive Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 8,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Walhalla, ND",
+        "distance_miles": 6.8,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Local Dining"
+        ]
+      },
+      {
+        "town_name": "Grafton, ND",
+        "distance_miles": 38.0,
+        "services_available": [
+          "Supermarket",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Spring river melt creates excellent kayak water.",
+      "summer": "Pleasant summer weather (75-82°F) with lush green valley canopy.",
+      "fall": "North Dakota's most vibrant autumn leaf display in September.",
+      "winter": "Severe cold winter (-20 to 15°F); snowmobiling and cross-country skiing."
+    },
+    "dangers_and_hazards": [
+      "High Northern Border Cold Temps in Winter",
+      "Mosquitoes and Biting Flies",
+      "River Flash Water"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "River Gorge Quiet (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Occasional passing agricultural vehicle"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Bur Oak",
+        "Paper Birch",
+        "Quaking Aspen",
+        "Beaked Hazelnut"
+      ],
+      "common_animals": [
+        "Elk",
+        "Moose",
+        "White-tailed Deer",
+        "Ruffed Grouse",
+        "Beaver"
+      ]
+    },
+    "human_demographics_and_culture": "Northern Red River Valley fur trading history (Metis heritage) and Canadian border country culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Ojibwe and Metis traditions honor Pembina Gorge as an ancient sheltered valley guardian against harsh prairie winds.",
+      "energetic_and_spiritual_features": "Steep forested river gorge surrounded by flat prairie offers a tranquil natural haven."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Pembina Gorge Backcountry Trail",
+        "length_miles": 6.8,
+        "difficulty": "Moderate",
+        "features": "Forested river valley, Pembina river vistas, rare plant habitats"
+      }
+    ],
+    "public_reviews_summary": "Surprising deep forested valley in North Dakota with gorgeous autumn colors and peaceful primitive camping.",
+    "other_data": "Filter water from Pembina River.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "north_dakota-006",
+    "name": "Magpie Road Dispersed Area - Little Missouri National Grassland",
+    "state": "North Dakota",
+    "county": "McKenzie",
+    "coordinates": {
+      "latitude": 47.4123,
+      "longitude": -103.5412,
+      "elevation_ft": 2400.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Little Missouri National Grassland",
+      "type": "Federal",
+      "phone": "(701) 227-7800",
+      "website": "https://www.fs.usda.gov/d Dakota"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed grassland camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed camping allowed on open public grassland pullouts along Magpie Road (FS 710). Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from dry wash channels. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring firewood; no wood gathering in badlands.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans in dry summer."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel grassland road",
+      "road_conditions": "Graded gravel access road; scoria surface provides decent traction, but clay ruts when wet.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars when dry.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great on Ridge (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "3 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate on badland ridge top",
+      "distance_from_tower_corridor_miles": 12.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Little Missouri Badlands Panorama Views",
+      "Maah Daah Hey Trail Access Nearby",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 3,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Belfield, ND",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Gas Station",
+          "Small Grocery",
+          "Diner",
+          "Hardware"
+        ]
+      },
+      {
+        "town_name": "Dickinson, ND",
+        "distance_miles": 42.0,
+        "services_available": [
+          "Full Urban Services",
+          "Hospital",
+          "Walmart",
+          "Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush green badlands spring (55-68°F).",
+      "summer": "Warm summer (82-90°F) with cool evening breeze.",
+      "fall": "Golden autumn badland colors.",
+      "winter": "Cold windy winter (15-32°F)."
+    },
+    "dangers_and_hazards": [
+      "Clay Mud when Wet",
+      "High Prairie Winds",
+      "Severe Summer Thunderstorms"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Badland Prairie Silence (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Prairie wind through badland coulees",
+        "Coyote calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Rocky Mountain Juniper",
+        "Western Wheatgrass",
+        "Prickly Pear",
+        "Chokecherry"
+      ],
+      "common_animals": [
+        "Mule Deer",
+        "Pronghorn Antelope",
+        "Bison",
+        "Sharp-tailed Grouse",
+        "Golden Eagle"
+      ]
+    },
+    "human_demographics_and_culture": "Mandan, Hidatsa, and Arikara ancestral lands and Theodore Roosevelt badland conservation heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Traditional hunting and vision quest grounds of the Mandan and Hidatsa nations.",
+      "energetic_and_spiritual_features": "Dramatic scoria red rock capped badland formations stretching across the Little Missouri river basin."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Maah Daah Hey Trail (Magpie Section)",
+        "length_miles": 5.0,
+        "difficulty": "Moderate",
+        "features": "Badland ridges, scoria rock outcrops, prairie coulees"
+      }
+    ],
+    "public_reviews_summary": "Incredible badland views and Maah Daah Hey trail access with rock-solid cell service on ridge pullouts.",
+    "other_data": "Carry fresh drinking water.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "north_dakota-007",
+    "name": "Burning Coal Vein Dispersed Area - Little Missouri Grassland",
+    "state": "North Dakota",
+    "county": "Slope",
+    "coordinates": {
+      "latitude": 46.6123,
+      "longitude": -103.4512,
+      "elevation_ft": 2500.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Medora Ranger District",
+      "type": "Federal",
+      "phone": "(701) 227-7800",
+      "website": "https://www.fs.usda.gov/d Dakota"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside campground loop)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free primitive dispersed camping on surrounding public grassland pullouts along FS Road 757. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from drainages. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded scoria gravel road; smooth when dry.",
+      "vehicle_recommendation": "Accessible by standard low-clearance 2WD passenger cars.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "3 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open prairie badlands",
+      "distance_from_tower_corridor_miles": 14.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Columnar Cedar Grove",
+      "Subterranean Coal Vein Fire Geology",
+      "Maah Daah Hey Southern Trailhead",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 3,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Amidon, ND",
+        "distance_miles": 15.0,
+        "services_available": [
+          "Gas Station",
+          "Post Office",
+          "Small Store"
+        ]
+      },
+      {
+        "town_name": "Dickinson, ND",
+        "distance_miles": 52.0,
+        "services_available": [
+          "Full Urban Services",
+          "Hospital",
+          "Walmart",
+          "Hardware"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush spring badlands (55-68°F).",
+      "summer": "Warm summer (82-90°F) with cool evening breeze.",
+      "fall": "Crisp dry autumn days.",
+      "winter": "Cold windy winter (15-30°F)."
+    },
+    "dangers_and_hazards": [
+      "Clay Mud when Wet",
+      "Subterranean Coal Fumes near Vein Vent",
+      "High Prairie Winds"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Columnar Cedar Silence (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through columnar junipers",
+        "Coyote calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Columnar Rocky Mountain Juniper",
+        "Creeping Juniper",
+        "Big Sagebrush"
+      ],
+      "common_animals": [
+        "Mule Deer",
+        "Pronghorn Antelope",
+        "Sharp-tailed Grouse",
+        "Porcupine"
+      ]
+    },
+    "human_demographics_and_culture": "Lakota tradition and Slope County pioneer badland ranching culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Unique natural phenomenon where an underground lignite coal vein burned for decades, baking surrounding clay into red scoria rock.",
+      "energetic_and_spiritual_features": "Ancient columnar juniper grove growing in red scoria baked soil."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Columnar Juniper Nature Trail",
+        "length_miles": 2.0,
+        "difficulty": "Easy",
+        "features": "Columnar juniper trees, red scoria rock outcrops, badland vistas"
+      }
+    ],
+    "public_reviews_summary": "Unique geological landmark with columnar junipers, southern Maah Daah Hey access, and good cell service.",
+    "other_data": "Southern terminus of the 144-mile Maah Daah Hey Trail.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "north_dakota-008",
+    "name": "Sheyenne Grassland Dispersed Area - Sheyenne National Grassland",
+    "state": "North Dakota",
+    "county": "Ransom",
+    "coordinates": {
+      "latitude": 46.4812,
+      "longitude": -97.2812,
+      "elevation_ft": 1050.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Sheyenne National Grassland",
+      "type": "Federal",
+      "phone": "(701) 683-4342",
+      "website": "https://www.fs.usda.gov/d Dakota"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed camping allowed on open grassland pullouts along Forest Service roads. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from wetlands and Sheyenne River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded sandy gravel forest road",
+      "road_conditions": "Graded gravel and sandy dirt forest roads.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars on main gravel roads.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low - open tallgrass prairie oak savanna",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Tallgrass Prairie & Oak Savanna",
+      "North Country Trail Access",
+      "Wildflower Blooms",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Lisbon, ND",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Groceries",
+          "Gas Stations",
+          "Hardware Store",
+          "Diner"
+        ]
+      },
+      {
+        "town_name": "Fargo, ND",
+        "distance_miles": 45.0,
+        "services_available": [
+          "Full Urban Services",
+          "Airport",
+          "Walmart",
+          "Hospital"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush green prairie spring (58-70°F).",
+      "summer": "Warm prairie summer (78-88°F) with lush wildflowers.",
+      "fall": "Golden oak savanna autumn days.",
+      "winter": "Cold winter (12-28°F) with snow."
+    },
+    "dangers_and_hazards": [
+      "Ticks in Spring Tallgrass",
+      "High Summer Mosquitoes near Swales"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Tallgrass Prairie Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind rustling oak leaves",
+        "Bobolink songs"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Bur Oak",
+        "Big Bluestem",
+        "Western Prairie Fringed Orchid",
+        "Switchgrass"
+      ],
+      "common_animals": [
+        "Greater Prairie-Chicken",
+        "White-tailed Deer",
+        "Red Fox",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Sisseton Wahpeton Oyate ancestral lands and Red River Valley agricultural heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "One of the last remaining native tallgrass prairie sandhills ecosystems in North America.",
+      "energetic_and_spiritual_features": "Oak savanna savanna groves surrounded by towering native tallgrass prairie."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "North Country National Scenic Trail (Sheyenne Section)",
+        "length_miles": 6.0,
+        "difficulty": "Easy",
+        "features": "Tallgrass prairie, bur oak savanna, sand dunes, rare wildflowers"
+      }
+    ],
+    "public_reviews_summary": "Beautiful bur oak savanna and tallgrass prairie hiking with fast 5G cell service close to Fargo.",
+    "other_data": "Home to the endangered Western Prairie Fringed Orchid.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "north_dakota-009",
+    "name": "Pembina Gorge Dispersed Primitive Area - State Rec Area",
+    "state": "North Dakota",
+    "county": "Cavalier",
+    "coordinates": {
+      "latitude": 48.9123,
+      "longitude": -97.8412,
+      "elevation_ft": 1150.0
+    },
+    "management_agency": {
+      "name": "North Dakota Parks and Recreation Department",
+      "type": "State",
+      "phone": "(701) 549-2444",
+      "website": "https://www.parkrec.nd.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Primitive dispersed camping allowed on designated public state land pullouts outside developed day-use areas. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Pembina River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to state fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel access road",
+      "road_conditions": "Graded gravel access roads off ND-32; smooth when dry.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "3 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate on gorge rim pullouts",
+      "distance_from_tower_corridor_miles": 7.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Pembina River Gorge Overlook Views",
+      "Lush Deciduous Forest Canopy",
+      "Kayaking & Canoeing",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Walhalla, ND",
+        "distance_miles": 8.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware",
+          "Diner"
+        ]
+      },
+      {
+        "town_name": "Cavalier, ND",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Groceries",
+          "Hospital",
+          "Gas Stations",
+          "Pharmacy"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush green forest spring (55-68°F).",
+      "summer": "Warm pleasant summer (78-85°F) with rich forest shade.",
+      "fall": "Spectacular red and yellow autumn canopy.",
+      "winter": "Cold snow sports winter (10-25°F)."
+    },
+    "dangers_and_hazards": [
+      "Steep River Bank Drops",
+      "Ticks in Spring Brush"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Deciduous Gorge Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Pembina River flow",
+        "Songbird calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Bur Oak",
+        "Paper Birch",
+        "Quaking Aspen",
+        "Beaked Hazelnut"
+      ],
+      "common_animals": [
+        "Elk",
+        "Moose",
+        "Ruffed Grouse",
+        "Beaver",
+        "River Otter"
+      ]
+    },
+    "human_demographics_and_culture": "Pembina Chippewa / Métis ancestral lands and Red River fur trade post heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Historic 1790s Alexander Henry fur trading post and Métis bison hunting trail heritage.",
+      "energetic_and_spiritual_features": "Deepest unglaciated river gorge valley in North Dakota with lush hardwood forest canopy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Pembina Gorge Rim Trail",
+        "length_miles": 4.2,
+        "difficulty": "Moderate",
+        "features": "River gorge panoramas, bur oak canopy, autumn foliage"
+      }
+    ],
+    "public_reviews_summary": "Largest continuous native forest in North Dakota with stunning river gorge views and strong cell service.",
+    "other_data": "Great canoeing river in late spring.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "north_dakota-010",
+    "name": "Lake Oahe Dispersed Area - Lake Oahe WMA",
+    "state": "North Dakota",
+    "county": "Emmons",
+    "coordinates": {
+      "latitude": 46.2812,
+      "longitude": -100.5812,
+      "elevation_ft": 1620.0
+    },
+    "management_agency": {
+      "name": "North Dakota Game and Fish Department / USACE",
+      "type": "State",
+      "phone": "(701) 328-6300",
+      "website": "https://gf.nd.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state WMA dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed camping allowed on open public WMA pullouts along Lake Oahe shoreline. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from high water line. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to state fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel WMA access road",
+      "road_conditions": "Graded gravel access roads off ND-1804; smooth when dry.",
+      "vehicle_recommendation": "Accessible by standard low-clearance 2WD passenger cars.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low along open reservoir shoreline",
+      "distance_from_tower_corridor_miles": 6.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Missouri River Reservoir Views",
+      "Walleye & Bass Fishing",
+      "Boat Ramp Access Nearby",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Linton, ND",
+        "distance_miles": 16.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware",
+          "Diner"
+        ]
+      },
+      {
+        "town_name": "Bismarck, ND",
+        "distance_miles": 42.0,
+        "services_available": [
+          "Full Urban Services",
+          "Airport",
+          "Walmart",
+          "Hospital"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Breezy spring (55-68°F).",
+      "summer": "Warm sunny summer (80-88°F) with water breezes.",
+      "fall": "Crisp dry autumn fishing days.",
+      "winter": "Cold freezing winter (15-30°F) with ice fishing."
+    },
+    "dangers_and_hazards": [
+      "High Reservoir Winds",
+      "High Summer Sun Exposure"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Reservoir Water Silence (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Gentle reservoir water lap",
+        "Pelican calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Cottonwood",
+        "Willow",
+        "Western Wheatgrass"
+      ],
+      "common_animals": [
+        "Walleye",
+        "White Pelican",
+        "Bald Eagle",
+        "Mule Deer",
+        "Pheasant"
+      ]
+    },
+    "human_demographics_and_culture": "Standing Rock Sioux ancestral lands and Missouri River water heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Lewis & Clark 1804 expedition camp along the Missouri River route.",
+      "energetic_and_spiritual_features": "Vast blue reservoir water contrasting against rolling prairie bluffs."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Lake Oahe Shoreline Trail",
+        "length_miles": 3.0,
+        "difficulty": "Easy",
+        "features": "Reservoir shore walking, pelican watching, prairie bluff views"
+      }
+    ],
+    "public_reviews_summary": "Uncrowded lake side camping with world-class walleye fishing and rock-solid cell service.",
+    "other_data": "ND 1804 scenic byway access route.",
+    "last_updated": "2026-09-12"
+  }
+]

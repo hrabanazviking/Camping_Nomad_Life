@@ -1,0 +1,1280 @@
+[
+  {
+    "id": "md-green-ridge-state-forest",
+    "name": "Green Ridge State Forest Free Primitive Campsites",
+    "state": "Maryland",
+    "county": "Allegany County",
+    "coordinates": {
+      "latitude": 39.6124,
+      "longitude": -78.4812,
+      "elevation_ft": 950
+    },
+    "management_agency": {
+      "name": "Maryland Department of Natural Resources - Forest Service",
+      "type": "State DNR",
+      "phone": "(301) 478-3124",
+      "website": "https://dnr.maryland.gov/forests"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Self-registration at Forest Headquarters required (zero fee)",
+      "stay_limit": "7 consecutive days max stay limit",
+      "guidelines": "Primitive camping allowed at designated numbered campsites distributed across 47,000 acres of state forest land. Registration slip must be attached to site post."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6-8 inches deep in shale/loam soil, 200 feet from Potomac River and streams. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace. No trash receptacles on site."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only within the forest.",
+      "safety_requirements": "Campfires allowed in existing stone fire rings. Extinguish cold to touch.",
+      "seasonal_fire_bans": "Obey Maryland DNR Forest Service burn bans during dry spring/autumn."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved gravel and dirt forest service roads (Mertens Avenue / Kocienda Road)",
+      "road_conditions": "Winding gravel forest roads over mountain ridges with steep grades, ruts, and washboards.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (accessible on main gravel forest roads in dry weather; high clearance recommended for remote side spurs)",
+      "scores": {
+        "road_grade": 5,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Internet",
+      "verizon_reliability": "3-4 bars 5G/LTE (20-50 Mbps download on ridge sites)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 5G LTE",
+      "terrain_obstruction_risk": "Low on ridge tops; Moderate down along Potomac River bottomlands",
+      "distance_from_tower_corridor_miles": 3.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Designated Campsite Posts",
+      "Wooden Picnic Tables",
+      "Established Fire Rings",
+      "High-speed 5G Cellular Internet"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 8,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Hancock, MD",
+        "distance_miles": 12.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "C&O Canal Outfitters",
+          "Public Library"
+        ]
+      },
+      {
+        "town_name": "Cumberland, MD",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Walmart Supercenter",
+          "UPMC Western Maryland Hospital",
+          "24/7 Gyms",
+          "Full Commercial Services"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "55-70°F, blooming mountain laurel, spring rainstorms, muddy side tracks.",
+      "summer": "Hot 80-88°F, shaded oak canopy, high insect activity.",
+      "fall": "Spectacular Appalachian autumn foliage (55-70°F daytime, 40-50°F nights), dry roads.",
+      "winter": "Cool 30-45°F, freezing nights, occasional snow dustings."
+    },
+    "dangers_and_hazards": [
+      "Copperheads and Timber Rattlesnakes active in warm months",
+      "Black Bears present in Western Maryland - store food securely",
+      "Steep unpaved forest road inclines"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Forest and ridge wind quiet",
+      "common_human_made_sounds": [
+        "Distant I-68 highway hum from high northern ridge points (3 miles away)",
+        "Occasional hunter or hiker vehicle"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Chestnut Oak",
+        "Virginia Pine (Pinus virginiana)",
+        "Shagbark Hickory",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Black Bear",
+        "Timber Rattlesnake",
+        "Red-tailed Hawk"
+      ]
+    },
+    "human_demographics_and_culture": "C&O Canal cyclists, Appalachian backpackers, hunters during autumn, and digital nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Shawnee and Susquehannock indigenous traditions honor the Potomac River gorge and Green Ridge mountains as sacred hunting and spirit grounds.",
+      "energetic_and_spiritual_features": "Appalachian shale ridge energy, serene forest silence, elevated solar panel exposure."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Green Ridge Mountain Trail Loop",
+        "length_miles": 12.5,
+        "difficulty": "Moderate",
+        "features": "Winding ridge trails, scenic overlooks of Potomac River bends"
+      }
+    ],
+    "public_reviews_summary": "Outstanding free primitive camping system in Western Maryland. Easy self-registration, clean sites, and fast 5G cell internet on ridge sites.",
+    "other_data": "Bortle Class 3 night sky. Free registration at forest HQ required.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "md-savage-river-state-forest-primitive",
+    "name": "Savage River State Forest Dispersed Primitive Camping",
+    "state": "Maryland",
+    "county": "Garrett County",
+    "coordinates": {
+      "latitude": 39.5214,
+      "longitude": -79.1214,
+      "elevation_ft": 2450
+    },
+    "management_agency": {
+      "name": "Maryland Department of Natural Resources (DNR) - Forest Service",
+      "type": "State DNR",
+      "phone": "(301) 895-5453",
+      "website": "https://dnr.maryland.gov/forests"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Maryland DNR State Forest Primitive Dispersed Camping (zero fee outside developed campsites)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted at designated forest pullouts along Savage River Road and Westernport Road. Camp 100ft minimum from water."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in soil 200 feet from Savage River. Pack out hygiene items.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on site.",
+      "safety_requirements": "Campfires in established rock rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Spring and fall forest fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved county road to gravel State Forest Service roads",
+      "road_conditions": "Graded gravel forest roads, flat pullout turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate / Ridge & Highway Line",
+      "verizon_reliability": "3-4 bars 4G LTE on mountain ridges",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate in deep Savage River gorges",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Mountain Hemlock & Hardwood Forest Campsites",
+      "Savage River Trout Stream Access",
+      "Flat Gravel Van Pullouts",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Frostburg, MD",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Weis Markets / Giant",
+          "Gas Stations",
+          "Frostburg State Univ Library",
+          "Hospital",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Cumberland, MD",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Full City Services",
+          "Walmart",
+          "24/7 Gyms",
+          "Hardware Stores"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "45-62°F, blooming mountain laurel, cold trout streams.",
+      "summer": "70-82°F, cool mountain escape from Baltimore/DC summer heat.",
+      "fall": "48-65°F, magnificent Allegheny mountain fall foliage.",
+      "winter": "20-38°F, crisp mountain snow, icy river banks."
+    },
+    "dangers_and_hazards": [
+      "High river currents during spring rain runoff",
+      "Black bears in Garrett County (store food securely)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Rushing trout stream and mountain forest breeze",
+      "common_human_made_sounds": [
+        "Occasional fly angler on stream"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Eastern Hemlock",
+        "Sugar Maple",
+        "Chestnut Oak",
+        "Rhododendron"
+      ],
+      "common_animals": [
+        "Brook Trout",
+        "Black Bear",
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Broad-winged Hawk"
+      ]
+    },
+    "human_demographics_and_culture": "Allegheny mountain locals, trout anglers, Maryland nomads, DC metro weekend campers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Shawnee and Susquehannock ancestral lands. Rich Appalachian mountain logging and conservation history.",
+      "energetic_and_spiritual_features": "Refreshing mountain stream energy, serene hemlock forest solitude."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Savage River Trail",
+        "length_miles": 8.0,
+        "difficulty": "Moderate",
+        "features": "Rushing river gorge, hemlock groves, rocky bluffs"
+      }
+    ],
+    "public_reviews_summary": "Top free primitive camping spot in Western Maryland. Cool mountain elevation, pristine Savage River trout water, and solid cell internet near Frostburg.",
+    "other_data": "Maryland DNR State Forest. Free primitive camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "md-janes-island-water-trail",
+    "name": "Janes Island State Park Backcountry Water Trail Campsites",
+    "state": "Maryland",
+    "county": "Somerset County",
+    "coordinates": {
+      "latitude": 37.9812,
+      "longitude": -75.8612,
+      "elevation_ft": 10
+    },
+    "management_agency": {
+      "name": "Maryland Department of Natural Resources (DNR) - Park Service",
+      "type": "State DNR",
+      "phone": "(410) 968-1565",
+      "website": "https://dnr.maryland.gov/publiclands"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Free DNR Backcountry Water Trail Camping Permit required online (zero cost)",
+      "stay_limit": "3 consecutive nights stay limit",
+      "guidelines": "Primitive paddle-in coastal camping permitted at designated backcountry sites on Janes Island along Chesapeake Bay water trails."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Use backcountry pit privy at site or pack out human waste (WAG bags) on fragile salt marsh island. Pack out hygiene products.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gathering dead driftwood below high tide mark permitted.",
+      "safety_requirements": "Campfires permitted only on open sandy beach zone below high tide mark or established fire rings.",
+      "seasonal_fire_bans": "Observe dry weather high wind fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway to boat ramp parking lot",
+      "road_conditions": "Smooth paved boat ramp parking, 1.5 to 3 mile paddle-in access.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance vehicles to parking lot.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Chesapeake Bay Open Water Tower Line",
+      "verizon_reliability": "4-5 bars 4G/5G LTE across open water campsites",
+      "att_reliability": "4-5 bars 4G/5G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low across flat open salt marsh bay island",
+      "distance_from_tower_corridor_miles": 2.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Chesapeake Bay Pristine Island Salt Marsh Campsites",
+      "Private Sandy Beach Access",
+      "Pit Privy Toilet",
+      "World-Class Sunset Views"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Crisfield, MD",
+        "distance_miles": 3.0,
+        "services_available": [
+          "Food Lion Supermarket",
+          "Gas Stations",
+          "Crisfield Public Library",
+          "Seafood Markets",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "55-70°F, spring ospreys return, pleasant sea breeze.",
+      "summer": "78-88°F, warm sunny Chesapeake Bay summer days, warm water.",
+      "fall": "55-72°F, prime pleasant coastal weather, clear nights.",
+      "winter": "35-48°F, crisp coastal winter, waterfowl migrations."
+    },
+    "dangers_and_hazards": [
+      "High tides and wind waves in open Chesapeake Bay waters (paddle close to marsh channels)",
+      "Biting greenhead flies and mosquitoes in summer (use permethrin)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Chesapeake Bay wave surf and sea bird calls",
+      "common_human_made_sounds": [
+        "Distant waterman crab boat horn on bay"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Saltmarsh Cordgrass",
+        "Loblolly Pine",
+        "Glasswort",
+        "Seaside Goldenrod"
+      ],
+      "common_animals": [
+        "Osprey",
+        "Blue Crab",
+        "Brown Pelican",
+        "Diamondback Terrapin",
+        "Great Blue Heron"
+      ]
+    },
+    "human_demographics_and_culture": "Pocomoke & Accawmack ancestral lands, Chesapeake watermen culture, kayakers, digital nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Traditional Pocomoke nation lands honoring the pristine salt marshes and blue crab waters of the Eastern Shore.",
+      "energetic_and_spiritual_features": "Exhilarating open bay ocean horizon energy, majestic golden sunset views."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Janes Island Backcountry Water Trail",
+        "length_miles": 12.0,
+        "difficulty": "Moderate Kayak",
+        "features": "Salt marsh channels, secluded sandy beaches, island wildlife"
+      }
+    ],
+    "public_reviews_summary": "Maryland's premier paddle-in primitive camping on Chesapeake Bay. Blazing 5G cell internet, private sandy beaches, and 5 minutes to Crisfield seafood.",
+    "other_data": "Maryland DNR State Park. Free backcountry permit required.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "maryland-004",
+    "name": "Green Ridge State Forest Dispersed Backpacking Primitive Zone",
+    "state": "Maryland",
+    "county": "Allegany",
+    "coordinates": {
+      "latitude": 39.6125,
+      "longitude": -78.4512,
+      "elevation_ft": 1120.0
+    },
+    "management_agency": {
+      "name": "Maryland Department of Natural Resources (DNR) - Forest Service",
+      "type": "State",
+      "phone": "(301) 478-3124",
+      "website": "https://dnr.maryland.gov/forests"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive trailside backpacking along C&O Canal & Green Ridge Trail)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Primitive dispersed backpacking permitted at designated trailside sites at least 100 feet from trails and water. Self-register at forest HQ."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep in cat-holes at least 200 feet from Potomac River and streams.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally within forest.",
+      "safety_requirements": "Campfires allowed in existing stone fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to Maryland DNR dry season fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state road to gravel trailhead parking",
+      "road_conditions": "Paved roads to gravel forest parking lots; hike required to primitive trail sites.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Good (3.5/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE on ridge lines",
+      "att_reliability": "3 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate - Ridge and Valley Appalachian terrain",
+      "distance_from_tower_corridor_miles": 3.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Potomac River Vistas",
+      "Trailhead Parking",
+      "Primitive Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 7,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Hancock, MD",
+        "distance_miles": 12.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Cumberland, MD",
+        "distance_miles": 24.8,
+        "services_available": [
+          "Supercenter",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Auto Repair"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush green Appalachian hardwood emergence and spring wildflowers.",
+      "summer": "Warm days (80-88°F) with cool Potomac river breezes.",
+      "fall": "Stunning Ridge & Valley fall foliage colors.",
+      "winter": "Cold (22-38°F) with light snow on mountain ridges."
+    },
+    "dangers_and_hazards": [
+      "Copperheads & Timber Rattlesnakes",
+      "Black Bears",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Appalachian Ridge Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Distant CSX train horn along Potomac river valley",
+        "High altitude commercial flights"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Chestnut Oak",
+        "Virginia Pine",
+        "Mountain Laurel",
+        "Pawpaw"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Black Bear",
+        "Wild Turkey",
+        "Bald Eagle"
+      ]
+    },
+    "human_demographics_and_culture": "Western Maryland mountain and C&O Canal historic transportation heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Civil War history and canal boat legends echo along the Potomac river bends.",
+      "energetic_and_spiritual_features": "High ridge overlooks provide invigorating panoramic views."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Green Ridge Backpacking Trail",
+        "length_miles": 8.5,
+        "difficulty": "Moderate",
+        "features": "Appalachian ridge line walk, Potomac river overlooks, pine forests"
+      }
+    ],
+    "public_reviews_summary": "Extensive state forest with easy access from I-68, scenic overlooks, and solid cell coverage.",
+    "other_data": "Self-register at forest headquarters kiosk prior to backcountry camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "maryland-005",
+    "name": "Idylwild Wildlife Management Area Primitive Spot",
+    "state": "Maryland",
+    "county": "Caroline",
+    "coordinates": {
+      "latitude": 38.7125,
+      "longitude": -75.7412,
+      "elevation_ft": 40.0
+    },
+    "management_agency": {
+      "name": "Maryland Department of Natural Resources (DNR) - Wildlife & Heritage Service",
+      "type": "State",
+      "phone": "(410) 822-8370",
+      "website": "https://dnr.maryland.gov/wildlife"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive camping allowed for outdoor recreationalists)",
+      "stay_limit": "3 consecutive nights limit",
+      "guidelines": "Primitive dispersed camping allowed near parking access areas. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from Marshyhope Creek.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out rule."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires allowed in cleared ground rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to Maryland state fire advisories."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved county road to dirt/gravel access lot",
+      "road_conditions": "Flat paved road access to gravel parking lot.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low - flat eastern shore coastal plain",
+      "distance_from_tower_corridor_miles": 1.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Gravel Flat Campsite",
+      "Creek Kayak Launch",
+      "Wildlife Watching"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 7,
+      "terrain_score": 3,
+      "quietness_score": 7
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Federalsburg, MD",
+        "distance_miles": 4.2,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Post Office",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Denton, MD",
+        "distance_miles": 16.5,
+        "services_available": [
+          "Supermarket",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Auto Repair"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Mild spring weather with songbird migrations.",
+      "summer": "Warm and humid (82-88°F); mosquitoes present near creek.",
+      "fall": "Pleasant autumn days; great paddling conditions.",
+      "winter": "Chilly (32-45°F) with light coastal breezes."
+    },
+    "dangers_and_hazards": [
+      "Ticks",
+      "Mosquitoes",
+      "Poison Ivy"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Quiet Eastern Shore Countryside (Quietness Score: 7/10)",
+      "common_human_made_sounds": [
+        "Passing rural traffic",
+        "Farm equipment"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Loblolly Pine",
+        "Sweetgum",
+        "American Holly",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Delmarva Fox Squirrel",
+        "Wild Turkey",
+        "Wood Duck"
+      ]
+    },
+    "human_demographics_and_culture": "Maryland Eastern Shore agricultural and marshland paddling heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Nanticoke river legends celebrate peaceful wetland forest guardians.",
+      "energetic_and_spiritual_features": "Calm coastal plain forest providing a tranquil, restful setting."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Idylwild Wildlife Trail",
+        "length_miles": 3.2,
+        "difficulty": "Easy",
+        "features": "Flat pine forest path, Marshyhope Creek views, rare plant habitats"
+      }
+    ],
+    "public_reviews_summary": "Extremely fast 5G internet, zero fees, and peaceful Eastern Shore pine forest atmosphere.",
+    "other_data": "Fluorescent orange required during deer hunting seasons.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "maryland-006",
+    "name": "Potomac-Garrett State Forest Primitive Dispersed Zone",
+    "state": "Maryland",
+    "county": "Garrett",
+    "coordinates": {
+      "latitude": 39.4112,
+      "longitude": -79.3812,
+      "elevation_ft": 2650.0
+    },
+    "management_agency": {
+      "name": "Maryland DNR - Forest Service",
+      "type": "State",
+      "phone": "(301) 334-2038",
+      "website": "https://dnr.maryland.gov/forests"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state forest campsites with free MD Forest Service permit)",
+      "stay_limit": "7 consecutive nights max limit",
+      "guidelines": "Free primitive camping allowed at designated forest clearings along Wallman Road / Potomac River corridor. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from North Branch Potomac River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in designated metal fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to Maryland DNR stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route to gravel forest road",
+      "road_conditions": "Paved road access; smooth gravel forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - high mountain plateau",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "North Branch Potomac River Access",
+      "High Elevation Mountain Forest Canopy",
+      "Trout Fishing",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Oakland, MD",
+        "distance_miles": 8.0,
+        "services_available": [
+          "Grocery Store",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool refreshing mountain spring (52-66°F).",
+      "summer": "Pleasant cool mountain summer (74-82°F).",
+      "fall": "Spectacular Allegheny autumn colors.",
+      "winter": "Cold snowy mountain winter (18-34°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Area",
+      "Timber Rattlesnakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Allegheny Mountain Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Potomac River water murmur",
+        "Wind through hemlocks"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Eastern Hemlock",
+        "Red Spruce",
+        "Sugar Maple",
+        "Rhododendron"
+      ],
+      "common_animals": [
+        "Native Brook Trout",
+        "Black Bear",
+        "White-tailed Deer",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Shawnee ancestral lands and Garrett County mountain timber and coal heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Prism of old-growth hemlocks and native brook trout streams on the high Allegheny Plateau.",
+      "energetic_and_spiritual_features": "Cool mountain river breeze flowing through dark hemlock ravines."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Wallman River Trail",
+        "length_miles": 3.8,
+        "difficulty": "Moderate",
+        "features": "Potomac riverbank walk, hemlock ravines, trout fishing access"
+      }
+    ],
+    "public_reviews_summary": "Cool high-mountain river basecamp near Oakland with reliable cell service.",
+    "other_data": "Free MD DNR permit required.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "maryland-007",
+    "name": "Green Ridge State Forest Kempton Dispersed Area",
+    "state": "Maryland",
+    "county": "Allegany",
+    "coordinates": {
+      "latitude": 39.6112,
+      "longitude": -78.4812,
+      "elevation_ft": 1100.0
+    },
+    "management_agency": {
+      "name": "Maryland DNR - Forest Service",
+      "type": "State",
+      "phone": "(301) 478-3124",
+      "website": "https://dnr.maryland.gov/forests"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state forest campsites with free permit)",
+      "stay_limit": "7 consecutive nights max limit",
+      "guidelines": "Free primitive camping at designated numbered sites throughout 49,000-acre Green Ridge State Forest. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Potomac River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in designated metal fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to Maryland DNR stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved I-68 to gravel forest access road",
+      "road_conditions": "Paved interstate access; smooth gravel forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low on ridge tops",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Potomac River Overlooks",
+      "Oak-Hickory Forest Canopy",
+      "C&O Canal Towpath Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Flintstone, MD",
+        "distance_miles": 6.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush spring (56-70°F).",
+      "summer": "Warm summer (80-88°F).",
+      "fall": "Crisp Allegheny foliage.",
+      "winter": "Cool winter (22-38°F)."
+    },
+    "dangers_and_hazards": [
+      "Copperhead & Timber Rattlesnakes",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Green Ridge Forest Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through red oak",
+        "Songbirds"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Oak",
+        "Chestnut Oak",
+        "Virginia Pine",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Bobcat",
+        "Pileated Woodpecker"
+      ]
+    },
+    "human_demographics_and_culture": "Shawnee ancestral lands and historic C&O Canal transportation corridor heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Maryland's largest continuous block of public land along dramatic Potomac River ridge bends.",
+      "energetic_and_spiritual_features": "Panoramic views of the Potomac River valley from high oak bluffs."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Green Ridge Trail",
+        "length_miles": 5.0,
+        "difficulty": "Moderate",
+        "features": "Ridge overlooks, oak-pine forest walk, stream crossings"
+      }
+    ],
+    "public_reviews_summary": "Maryland's flagship primitive forest basecamp near Flintstone with fast cell service.",
+    "other_data": "Free MD DNR permit required.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "maryland-008",
+    "name": "Savage River State Forest Monroe Run Dispersed Area",
+    "state": "Maryland",
+    "county": "Garrett",
+    "coordinates": {
+      "latitude": 39.5812,
+      "longitude": -79.1112,
+      "elevation_ft": 2100.0
+    },
+    "management_agency": {
+      "name": "Maryland DNR - Forest Service",
+      "type": "State",
+      "phone": "(301) 895-5759",
+      "website": "https://dnr.maryland.gov/forests"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state forest campsites with free permit)",
+      "stay_limit": "7 consecutive nights max limit",
+      "guidelines": "Free primitive camping allowed at designated forest pullout sites along Monroe Run. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Savage River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in designated metal fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to Maryland DNR stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved county road to gravel forest road",
+      "road_conditions": "Paved road access; smooth gravel forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - upland plateau",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Savage River Reservoir Views",
+      "Hemlock Forest Canopy",
+      "Monroe Run Trail Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Grantsville, MD",
+        "distance_miles": 7.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool refreshing spring (50-65°F).",
+      "summer": "Pleasant cool summer (72-80°F).",
+      "fall": "Vibrant Allegheny foliage.",
+      "winter": "Cold snowy winter (18-34°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Area",
+      "Timber Rattlesnakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Savage River Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Savage River water roar",
+        "Wind in hemlock trees"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Eastern Hemlock",
+        "Sugar Maple",
+        "Yellow Birch",
+        "Rhododendron"
+      ],
+      "common_animals": [
+        "Native Brook Trout",
+        "Black Bear",
+        "White-tailed Deer",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Shawnee ancestral lands and Garrett County timber conservation heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Savage River State Forest protects over 54,000 acres of high mountain watershed.",
+      "energetic_and_spiritual_features": "Pristine mountain stream ravines surrounded by old hemlock trees."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Monroe Run Trail",
+        "length_miles": 4.6,
+        "difficulty": "Moderate",
+        "features": "Stream canyon walk, rhododendron tunnels, hemlock canopy"
+      }
+    ],
+    "public_reviews_summary": "Cool high mountain hemlock basecamp near Grantsville with strong cell service.",
+    "other_data": "Free MD DNR permit required.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "maryland-009",
+    "name": "Susquehanna State Park Water Trail Island Campsites",
+    "state": "Maryland",
+    "county": "Harford",
+    "coordinates": {
+      "latitude": 39.6112,
+      "longitude": -76.1412,
+      "elevation_ft": 80.0
+    },
+    "management_agency": {
+      "name": "Maryland Department of Natural Resources - State Parks",
+      "type": "State",
+      "phone": "(410) 557-7994",
+      "website": "https://dnr.maryland.gov/publiclands"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive water trail island camping)",
+      "stay_limit": "2 consecutive nights max limit",
+      "guidelines": "Dispersed primitive paddle-in camping on public islands along Susquehanna River water trail. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Pack out human waste via WAG bag system or bury 6-8 inches deep 200 ft from river. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared sand fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to Maryland DNR fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route to kayak launch parking",
+      "road_conditions": "Paved road access to park boat ramp; paddle access to islands.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4-5 bars 4G LTE / 5G",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open river line of sight",
+      "distance_from_tower_corridor_miles": 2.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Susquehanna River Island Access",
+      "Bald Eagle Sanctuary",
+      "Historic Grist Mill Nearby",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 6,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Havre de Grace, MD",
+        "distance_miles": 5.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Seafood Restaurants",
+          "Cafes"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Eagle nesting spring (56-68°F).",
+      "summer": "Warm summer (80-88°F) with river breeze.",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cool coastal winter (32-44°F)."
+    },
+    "dangers_and_hazards": [
+      "River Currents & Dam Releases",
+      "Tidal Changes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Susquehanna River Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Susquehanna River water flow",
+        "Bald eagle calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Sycamore",
+        "Silver Maple",
+        "River Birch",
+        "Pawpaw"
+      ],
+      "common_animals": [
+        "Bald Eagle",
+        "Osprey",
+        "Striped Bass",
+        "Beaver"
+      ]
+    },
+    "human_demographics_and_culture": "Susquehannock ancestral lands and historic 18th-century grist mill and canal heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Susquehanna River is home to one of the highest concentrations of nesting Bald Eagles in the Mid-Atlantic.",
+      "energetic_and_spiritual_features": "Quiet forested island campsites surrounded by wide rushing river water."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Susquehanna Ridge Trail",
+        "length_miles": 3.0,
+        "difficulty": "Easy to Moderate",
+        "features": "River cliff vistas, historic grist mill, pawpaw groves"
+      }
+    ],
+    "public_reviews_summary": "Incredible eagle sanctuary island basecamp near Havre de Grace with fast 5G cell service.",
+    "other_data": "Paddle-in island access.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "maryland-010",
+    "name": "Pocomoke River State Forest Primitive Area",
+    "state": "Maryland",
+    "county": "Worcester",
+    "coordinates": {
+      "latitude": 38.1812,
+      "longitude": -75.4112,
+      "elevation_ft": 20.0
+    },
+    "management_agency": {
+      "name": "Maryland DNR - Forest Service",
+      "type": "State",
+      "phone": "(410) 632-3732",
+      "website": "https://dnr.maryland.gov/forests"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state forest campsites with free permit)",
+      "stay_limit": "7 consecutive nights max limit",
+      "guidelines": "Free primitive camping allowed at designated swamp forest clearings with free MD Forest Service permit. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Pocomoke River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in designated metal fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to Maryland DNR stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route to gravel forest road",
+      "road_conditions": "Paved road access; smooth gravel interior forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE / 5G",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - flat Eastern Shore terrain",
+      "distance_from_tower_corridor_miles": 3.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Bald Cypress Swamp Forest Access",
+      "Pocomoke River Paddle Trail",
+      "Loblolly Pine Canopy",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 6,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Snow Hill, MD",
+        "distance_miles": 5.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush swamp spring (60-72°F).",
+      "summer": "Warm humid summer (82-88°F).",
+      "fall": "Mild crisp autumn days.",
+      "winter": "Cool coastal winter (34-48°F)."
+    },
+    "dangers_and_hazards": [
+      "Mosquitoes & Chiggers in Summer",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Cypress Swamp Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Pocomoke River water ripple",
+        "Prothonotary warbler songs"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Bald Cypress",
+        "Loblolly Pine",
+        "Black Gum",
+        "Spanish Moss"
+      ],
+      "common_animals": [
+        "Prothonotary Warbler",
+        "River Otter",
+        "White-tailed Deer",
+        "Barred Owl"
+      ]
+    },
+    "human_demographics_and_culture": "Pocomoke ancestral lands and Eastern Shore cypress timber and riverboat history.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Pocomoke River features the northernmost natural bald cypress swamp forest stands on the Atlantic Coast.",
+      "energetic_and_spiritual_features": "Deep dark water river swamp lined with ancient bald cypress knees."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Pocomoke River Swamp Trail",
+        "length_miles": 3.2,
+        "difficulty": "Easy",
+        "features": "Cypress boardwalk, riverbank walk, warbler birding"
+      }
+    ],
+    "public_reviews_summary": "Unique bald cypress swamp forest basecamp near Snow Hill with excellent 5G cell coverage.",
+    "other_data": "Free MD DNR permit required.",
+    "last_updated": "2026-09-12"
+  }
+]

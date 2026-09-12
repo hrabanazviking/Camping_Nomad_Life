@@ -1,0 +1,1276 @@
+[
+  {
+    "id": "vt-green-mountain-somerset-road",
+    "name": "Somerset Road Dispersed Camping Area - Green Mountain National Forest",
+    "state": "Vermont",
+    "county": "Windham County / Bennington County",
+    "coordinates": {
+      "latitude": 42.9812,
+      "longitude": -72.9814,
+      "elevation_ft": 2150
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Manchester Ranger District",
+      "type": "USFS",
+      "phone": "(802) 362-2307",
+      "website": "https://www.fs.usda.gov/greenmountain"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for general forest dispersed camping",
+      "stay_limit": "14 consecutive days max stay within 30-day period",
+      "guidelines": "Dispersed primitive camping permitted throughout national forest lands along Forest Road 71 (Somerset Road). Must be set back 200 feet from roads, trails, and water bodies."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6-8 inches deep in forest topsoil, 200 feet from Deerfield River and Somerset Reservoir. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out. Black bears present: bear canister or vehicle storage mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only within forest.",
+      "safety_requirements": "Campfires in established rock fire rings only. Extinguish cold to touch.",
+      "seasonal_fire_bans": "Obey Vermont FPR burn danger warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route changing to unpaved gravel forest road (Somerset Road / FS 71)",
+      "road_conditions": "Washboard gravel forest road with frost heaves and mud spots during spring thaw.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (accessible on main Somerset gravel road in dry summer/fall conditions)",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate / High Ridge Dependent",
+      "verizon_reliability": "2-3 bars 4G LTE on open ridge points; weak down near river reservoir",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate (Green Mountain ridges restrict cell line of sight)",
+      "distance_from_tower_corridor_miles": 5.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Glacial River & Reservoir Water Access (Filter required)",
+      "Long Trail / Appalachian Trail Proximity",
+      "Established Rock Fire Rings",
+      "Shaded Birch & Maple Canopy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Wilmington / Bennington, VT",
+        "distance_miles": 14.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Outfitter Shops",
+          "Wilmington Public Library",
+          "Medical Center"
+        ]
+      },
+      {
+        "town_name": "Brattleboro, VT",
+        "distance_miles": 28.0,
+        "services_available": [
+          "Full Supermarkets",
+          "Brattleboro Memorial Hospital",
+          "24/7 Gyms",
+          "Co-op Natural Foods"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "May thaw ('Mud Season'): cold (40-55°F), high snowmelt mud, road gates opening around late May.",
+      "summer": "70-80°F, ideal Vermont mountain summer, cool comfortable nights (50-55°F).",
+      "fall": "World-famous Vermont maple autumn foliage (50-65°F daytime, 25-35°F nights), prime camping.",
+      "winter": "Severe mountain winter (10-25°F), heavy snowpack, Somerset Road unplowed (groomed snowmobile trail)."
+    },
+    "dangers_and_hazards": [
+      "Black Bears active in Green Mountains - bear-proof food storage mandatory",
+      "Moose collision hazard on Somerset Road",
+      "Spring mud traps on unpaved roads"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Mountain stream and forest quiet",
+      "common_human_made_sounds": [
+        "Occasional camper vehicle on Somerset Road",
+        "Long Trail hikers"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Sugar Maple (Acer saccharum - Vermont State Tree)",
+        "Paper Birch",
+        "Yellow Birch",
+        "Balsam Fir",
+        "Red Spruce"
+      ],
+      "common_animals": [
+        "Moose",
+        "Black Bear",
+        "White-tailed Deer",
+        "Beaver (Castor canadensis)",
+        "Common Loon"
+      ]
+    },
+    "human_demographics_and_culture": "Vermont Long Trail backpackers, mountain bikers, fly anglers, digital nomads, and autumn maple leaf peepers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Abnaki and Mahican indigenous traditions revere the Green Mountains ('Ndakinna' - Our Land) as sacred ancestral spirit mountains.",
+      "energetic_and_spiritual_features": "Sugar maple forest aroma and energy, pristine mountain stream acoustics, peaceful Vermont sanctuary."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Vermont Long Trail / AT (Somerset Section)",
+        "length_miles": 8.2,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Winding mountain trail through maple forest and high ridge vistas"
+      }
+    ],
+    "public_reviews_summary": "Spectacular free primitive camping in the Green Mountains of Southern Vermont. Peaceful maple forests, pristine rivers, and solid cell service on high turnouts.",
+    "other_data": "Bortle Class 2 night sky. Abundant firewood.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "vt-green-mountain-nf-somerset-reservoir",
+    "name": "Somerset Reservoir Primitive Dispersed Campsites",
+    "state": "Vermont",
+    "county": "Windham County",
+    "coordinates": {
+      "latitude": 42.9612,
+      "longitude": -72.9612,
+      "elevation_ft": 2150
+    },
+    "management_agency": {
+      "name": "US Forest Service - Green Mountain National Forest (Manchester Ranger District)",
+      "type": "USFS",
+      "phone": "(802) 362-2307",
+      "website": "https://www.fs.usda.gov/greenmountain"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Green Mountain NF Dispersed Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted along Somerset Road (FR 71) pullouts and reservoir shores. Camp 100ft minimum from water."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in soil 200 feet from Somerset Reservoir. Pack out hygiene products.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on forest lands.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully extinguish before vacating.",
+      "seasonal_fire_bans": "Spring dry leaf weather fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved Route 9 to gravel Forest Service Road (FR 71)",
+      "road_conditions": "Paved main access, graded gravel forest roads.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance vehicles.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate / Route 9 Corridor Signal",
+      "verizon_reliability": "3-4 bars 4G LTE near Route 9 junction",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate inside Green Mountain valley basins",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "High-Altitude Vermont Reservoir Campsites",
+      "Canoe & Kayak Launch Access",
+      "Sugar Maple Canopy Shade",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Wilmington, VT",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Shaw's Supermarket",
+          "Gas Stations",
+          "Pettee Memorial Library",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Bennington, VT",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Walmart Supercenter",
+          "Southwestern Vermont Medical Center",
+          "Gyms",
+          "Full Services"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "40-55°F, mud season in Vermont, blooming spring wildflowers.",
+      "summer": "68-80°F, ideal Vermont mountain summer weather, clear reservoir water.",
+      "fall": "42-62°F, world-famous Vermont sugar maple autumn foliage.",
+      "winter": "10-25°F, heavy snowpack, cross-country skiing and snowmobiling."
+    },
+    "dangers_and_hazards": [
+      "Spring mud season road ruts",
+      "Black bears in Green Mountain NF (store food securely)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "10/10 - Loon calls, wind through maple trees, water lapping",
+      "common_human_made_sounds": [
+        "Occasional canoe paddle stroke on reservoir"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Sugar Maple (Vermont signature tree)",
+        "Yellow Birch",
+        "Red Spruce",
+        "Balsam Fir"
+      ],
+      "common_animals": [
+        "Moose",
+        "Common Loon",
+        "Black Bear",
+        "White-tailed Deer",
+        "Beaver"
+      ]
+    },
+    "human_demographics_and_culture": "Abenaki ancestral lands, Vermont woodsmen, Long Trail hikers, digital nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Abenaki territory honoring the sacred Green Mountains and pristine alpine waters.",
+      "energetic_and_spiritual_features": "Profound Vermont mountain tranquility, crystal clear reservoir reflections."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Somerset Reservoir Trail",
+        "length_miles": 6.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Lakeshore views, sugar maple groves, moose habitat"
+      }
+    ],
+    "public_reviews_summary": "Quintessential Vermont wilderness primitive camping. Free USFS access at Somerset Reservoir, magnificent fall foliage, and peaceful loon calls.",
+    "other_data": "Green Mountain National Forest. Free dispersed primitive camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "vt-green-mountain-nf-breadloaf-wilderness",
+    "name": "Breadloaf Wilderness Primitive Campsites",
+    "state": "Vermont",
+    "county": "Addison County",
+    "coordinates": {
+      "latitude": 43.9812,
+      "longitude": -72.9812,
+      "elevation_ft": 2250
+    },
+    "management_agency": {
+      "name": "US Forest Service - Green Mountain National Forest (Middlebury Ranger District)",
+      "type": "USFS",
+      "phone": "(802) 388-4362",
+      "website": "https://www.fs.usda.gov/greenmountain"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - GMNF Wilderness Dispersed Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted at least 200ft from Long Trail / Appalachian Trail and water streams throughout Breadloaf Wilderness."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in organic soil 200 feet from streams. Pack out hygiene products.",
+      "trash_policy": "Strict Leave No Trace wilderness policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on forest lands.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Spring dry leaf weather fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved VT Route 125 to gravel Forest Service roads (FR 59)",
+      "road_conditions": "Graded gravel access roads, flat trailhead parking.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Middlebury & Route 125 Tower Line",
+      "verizon_reliability": "3-4 bars 4G LTE near Middlebury Gap / Route 125",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate inside deep mountain hollows",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Green Mountain Ridge Wilderness Campsites",
+      "Long Trail Access",
+      "Sugar Maple Canopy Shade",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Middlebury, VT",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Hannaford / Shaw's",
+          "Gas Stations",
+          "Ilsley Public Library",
+          "Porter Hospital",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "40-55°F, mud season in Vermont, spring trout streams.",
+      "summer": "68-80°F, ideal Vermont mountain summer hiking weather.",
+      "fall": "42-62°F, world-famous Vermont sugar maple autumn foliage.",
+      "winter": "10-25°F, heavy mountain snowpack, snowshoeing & skiing."
+    },
+    "dangers_and_hazards": [
+      "Black bears in Green Mountain NF (store food securely)",
+      "Spring mud season road conditions"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Mountain stream flow and wind through maple trees",
+      "common_human_made_sounds": [
+        "Occasional Long Trail backpacker"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Sugar Maple",
+        "Yellow Birch",
+        "Red Spruce",
+        "Balsam Fir"
+      ],
+      "common_animals": [
+        "Moose",
+        "Black Bear",
+        "White-tailed Deer",
+        "Bicknell's Thrush"
+      ]
+    },
+    "human_demographics_and_culture": "Abenaki ancestral lands, Middlebury College culture, Vermont woodsmen, Long Trail hikers, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Traditional Abenaki territory honoring the sacred Green Mountain crest line and sugar maple forests of Addison County.",
+      "energetic_and_spiritual_features": "Profound Vermont mountain quietness, majestic sugar maple autumn foliage."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Long Trail (Breadloaf Section)",
+        "length_miles": 7.5,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Mount Ellen summit views, sugar maple ridges, pristine mountain brooks"
+      }
+    ],
+    "public_reviews_summary": "Vermont's finest free wilderness primitive camping in Green Mountain National Forest. Fast cell internet near Middlebury, sugar maple shade, and 100% free USFS access.",
+    "other_data": "Green Mountain National Forest. Free dispersed wilderness camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "vermont-004",
+    "name": "Green Mountain National Forest Somerset Primitive Zone",
+    "state": "Vermont",
+    "county": "Windham",
+    "coordinates": {
+      "latitude": 42.9812,
+      "longitude": -72.9812,
+      "elevation_ft": 2150.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Green Mountain National Forest (Manchester Ranger District)",
+      "type": "Federal",
+      "phone": "(802) 362-2307",
+      "website": "https://www.fs.usda.gov/greenmountain"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive wilderness dispersed forest camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Somerset Road (FR 71) pullouts outside developed fee area. Camp 200 ft from reservoir and streams. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from Somerset Reservoir. Pack out paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS dry weather fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest service road (Somerset Road)",
+      "road_conditions": "Graded gravel road with flat pullout turnouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2/5 Stars)",
+      "verizon_reliability": "1-2 bars 4G LTE spotty near reservoir shores",
+      "att_reliability": "1 bar 4G LTE",
+      "tmobile_reliability": "No signal",
+      "terrain_obstruction_risk": "Moderate - Green Mountain valley and dense northern hardwood canopy",
+      "distance_from_tower_corridor_miles": 12.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Somerset Reservoir Canoe Access",
+      "Green Mountain Forest Shade",
+      "Primitive Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 8,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Wilmington, VT",
+        "distance_miles": 11.4,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Bennington, VT",
+        "distance_miles": 24.5,
+        "services_available": [
+          "Supermarket",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Mud season in May; rushing mountain streams.",
+      "summer": "Pleasant Vermont summer weather (72-80°F) with reservoir paddling.",
+      "fall": "World-class vibrant Vermont autumn foliage in late September and October.",
+      "winter": "Severe cold winter (10-25°F); heavy snowpack."
+    },
+    "dangers_and_hazards": [
+      "Black Bears",
+      "Mud Season Impassable Road Conditions (May)",
+      "Cold Night Temperatures"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Pristine Green Mountain Quiet (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Occasional passing canoeist car"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Sugar Maple",
+        "Yellow Birch",
+        "Red Spruce",
+        "Balsam Fir"
+      ],
+      "common_animals": [
+        "Moose",
+        "Common Loon",
+        "Black Bear",
+        "Beaver"
+      ]
+    },
+    "human_demographics_and_culture": "Southern Vermont Green Mountain timber, maple syrup, and wilderness canoe culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Abenaki traditions honor the quiet mountain waters of Somerset as sacred fishing grounds.",
+      "energetic_and_spiritual_features": "Unspoiled mountain reservoir surrounded by unbroken hardwood forest generates profound peace."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Glastenbury Mountain Trail (Long Trail Section)",
+        "length_miles": 9.5,
+        "difficulty": "Strenuous",
+        "features": "Fire tower summit view, remote boreal spruce forest, Long Trail corridor"
+      }
+    ],
+    "public_reviews_summary": "Unbelievable loon calls and pristine mountain lake canoeing in Vermont's Green Mountains.",
+    "other_data": "Filter all water taken from reservoir.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "vermont-005",
+    "name": "Nulhegan Basin Primitive Dispersed Zone - Silvio O. Conte Wildlife Refuge",
+    "state": "Vermont",
+    "county": "Essex",
+    "coordinates": {
+      "latitude": 44.7812,
+      "longitude": -71.7412,
+      "elevation_ft": 1240.0
+    },
+    "management_agency": {
+      "name": "U.S. Fish and Wildlife Service / Vermont Department of Forests, Parks & Recreation",
+      "type": "Federal / State",
+      "phone": "(802) 962-5240",
+      "website": "https://www.fws.gov/refuge/silvio_o_conte"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive wilderness dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along timber access gravel roads across 26,000 acres of boreal basin. Camp 100 ft from water. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from Nulhegan River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to state dry weather fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel timber access roads (Lewis Pond Road)",
+      "road_conditions": "Graded gravel roads with flat boreal forest pullouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car in dry weather.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2/5 Stars)",
+      "verizon_reliability": "1-2 bars 4G LTE near Lewis Pond overlook",
+      "att_reliability": "1 bar 4G LTE",
+      "tmobile_reliability": "No signal",
+      "terrain_obstruction_risk": "Moderate - Kingdom Kingdom boreal forest basin",
+      "distance_from_tower_corridor_miles": 16.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Boreal Spruce-Fir Forest Canopy",
+      "Lewis Pond Overlook Vistas",
+      "Moose Watching Access",
+      "Primitive Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 4,
+      "distance_to_library_score": 4,
+      "distance_to_gym_score": 3,
+      "terrain_score": 8,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Island Pond, VT",
+        "distance_miles": 10.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Local Dining"
+        ]
+      },
+      {
+        "town_name": "Newport, VT",
+        "distance_miles": 28.0,
+        "services_available": [
+          "Supermarket",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool spring weather; prime moose sighting season.",
+      "summer": "Pleasant summer weather (70-78°F) with cool boreal forest air.",
+      "fall": "Peak Northeast Kingdom foliage colors in late September.",
+      "winter": "Severe cold sub-zero winter (-15 to 20°F); snowmobile hub."
+    },
+    "dangers_and_hazards": [
+      "Moose Collisions on Roads",
+      "Black Bears",
+      "Severe Cold Temps in Shoulder Seasons"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Boreal Basin Quiet (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Occasional passing timber road vehicle"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Black Spruce",
+        "Balsam Fir",
+        "Tamarack (Larch)",
+        "Paper Birch"
+      ],
+      "common_animals": [
+        "Moose (Highest density in VT)",
+        "Canada Lynx",
+        "Black Bear",
+        "Boreal Chickadee",
+        "Spruce Grouse"
+      ]
+    },
+    "human_demographics_and_culture": "Vermont Northeast Kingdom timber, moose hunting, and boreal wildlife conservation heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Abenaki traditions honor the Nulhegan Basin as an ancient boreal refuge of sacred wildlife spirits.",
+      "energetic_and_spiritual_features": "Vast boreal black spruce bogs radiate a quiet, wild northern sanctuary."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Lewis Pond Boardwalk & Overlook Trail",
+        "length_miles": 2.2,
+        "difficulty": "Easy",
+        "features": "Boreal spruce bog boardwalk, panorama over Nulhegan Basin peaks"
+      }
+    ],
+    "public_reviews_summary": "Vermont's ultimate wild boreal forest experience with guaranteed moose sightings and quiet primitive camping.",
+    "other_data": "Filter all water taken from streams.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "vermont-006",
+    "name": "Green Mountain NF Lye Brook Wilderness Primitive Dispersed",
+    "state": "Vermont",
+    "county": "Bennington",
+    "coordinates": {
+      "latitude": 43.1112,
+      "longitude": -73.0112,
+      "elevation_ft": 1850.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Green Mountain National Forest (Manchester District)",
+      "type": "Federal",
+      "phone": "(802) 362-2307",
+      "website": "https://www.fs.usda.gov/greenmountain"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS wilderness dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed throughout 18,000-acre Lye Brook Wilderness 200 ft from trails and water. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Lye Brook. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route to gravel forest access road",
+      "road_conditions": "Paved access road; smooth gravel road to trailhead.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - valley line of sight to Manchester tower",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Lye Brook Falls 125ft Waterfall",
+      "Sugar Maple Canopy",
+      "Appalachian/Long Trail Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 6,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Manchester, VT",
+        "distance_miles": 5.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Outfitters",
+          "Restaurants",
+          "Cafes"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cascading waterfall spring (48-62°F).",
+      "summer": "Pleasant cool mountain summer (72-80°F).",
+      "fall": "World-famous Green Mountain autumn foliage.",
+      "winter": "Cold snowy winter (12-28°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Area",
+      "Slippery Waterfall Rocks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Green Mountain Wilderness Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Lye Brook Falls cascading water",
+        "Wind through sugar maples"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Sugar Maple",
+        "Yellow Birch",
+        "Red Spruce",
+        "Balsam Fir"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "Moose",
+        "White-tailed Deer",
+        "Hermit Thrush"
+      ]
+    },
+    "human_demographics_and_culture": "Abenaki ancestral lands and Green Mountain timber and Manchester historic village heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Lye Brook Wilderness features 125-foot Lye Brook Falls, one of the highest waterfalls in Vermont.",
+      "energetic_and_spiritual_features": "Quiet northern hardwood forest with roaring mountain waterfalls."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Lye Brook Falls Trail",
+        "length_miles": 4.6,
+        "difficulty": "Moderate",
+        "features": "125ft waterfall, sugar maple forest, wilderness stream"
+      }
+    ],
+    "public_reviews_summary": "Stunning mountain waterfall wilderness basecamp near Manchester with strong cell coverage.",
+    "other_data": "VT's 125ft Lye Brook Falls.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "vermont-007",
+    "name": "Green Mountain NF Glastenbury Mountain Long Trail Zone",
+    "state": "Vermont",
+    "county": "Bennington",
+    "coordinates": {
+      "latitude": 42.9812,
+      "longitude": -73.0812,
+      "elevation_ft": 2400.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Green Mountain National Forest",
+      "type": "Federal",
+      "phone": "(802) 362-2307",
+      "website": "https://www.fs.usda.gov/greenmountain"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS wilderness dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Long Trail / Appalachian Trail corridor on Glastenbury Mountain. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route to gravel forest access road",
+      "road_conditions": "Paved route access; smooth gravel trailhead turnout.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - high mountain summit line of sight",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Glastenbury Fire Tower 360 Views",
+      "Long Trail / AT Access",
+      "Boreal Spruce Canopy",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Bennington, VT",
+        "distance_miles": 8.0,
+        "services_available": [
+          "Grocery Store",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool refreshing mountain spring (46-60°F).",
+      "summer": "Pleasant cool mountain summer (70-78°F).",
+      "fall": "Spectacular Green Mountain autumn colors.",
+      "winter": "Cold snowy winter (10-25°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Area",
+      "Bennington Triangle Local Lore"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Glastenbury Summit Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Wind through high spruce needles",
+        "Songbirds"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Red Spruce",
+        "Balsam Fir",
+        "Paper Birch",
+        "Sugar Maple"
+      ],
+      "common_animals": [
+        "Moose",
+        "Black Bear",
+        "Pine Marten",
+        "White-tailed Deer"
+      ]
+    },
+    "human_demographics_and_culture": "Abenaki ancestral lands and Bennington historic fire tower and Long Trail heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Glastenbury Mountain features a historic fire tower atop its 3,748-foot summit, surrounded by 22,000 acres of remote wilderness.",
+      "energetic_and_spiritual_features": "360-degree views from the summit fire tower across Vermont, Mass, and NY."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Long Trail / AT (Glastenbury Section)",
+        "length_miles": 5.0,
+        "difficulty": "Moderate to Advanced",
+        "features": "Fire tower summit, 360-degree vistas, boreal spruce canopy"
+      }
+    ],
+    "public_reviews_summary": "Epic high mountain fire tower basecamp near Bennington with reliable cell service.",
+    "other_data": "Fire tower open for climbing.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "vermont-008",
+    "name": "Green Mountain NF Big Branch Wilderness Dispersed Area",
+    "state": "Vermont",
+    "county": "Rutland",
+    "coordinates": {
+      "latitude": 43.3412,
+      "longitude": -72.9812,
+      "elevation_ft": 1750.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Green Mountain National Forest",
+      "type": "Federal",
+      "phone": "(802) 362-2307",
+      "website": "https://www.fs.usda.gov/greenmountain"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS wilderness dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed throughout 6,700-acre Big Branch Wilderness 200 ft from trails and Big Branch stream. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Big Branch stream. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route to gravel Forest Service road (FR 10)",
+      "road_conditions": "Paved access road; smooth gravel forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - stream valley line of sight",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Big Branch Stream Gorge Views",
+      "Sugar Maple Canopy",
+      "Appalachian/Long Trail Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Danby, VT",
+        "distance_miles": 5.0,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cascading stream spring (48-62°F).",
+      "summer": "Pleasant cool mountain summer (72-80°F).",
+      "fall": "World-famous Green Mountain autumn foliage.",
+      "winter": "Cold snowy winter (12-28°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Area",
+      "Stream Crossing Hazards"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Big Branch Wilderness Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Big Branch rushing water",
+        "Wind through sugar maples"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Sugar Maple",
+        "Yellow Birch",
+        "Eastern Hemlock",
+        "Red Spruce"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "White-tailed Deer",
+        "Native Brook Trout",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Abenaki ancestral lands and Danby marble quarry and Green Mountain trail heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Big Branch Stream cascades through dramatic mountain hemlock gorges along the Long Trail.",
+      "energetic_and_spiritual_features": "Quiet mountain stream ravines with crystalline trout pools."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Long Trail / AT (Big Branch Section)",
+        "length_miles": 4.2,
+        "difficulty": "Moderate",
+        "features": "Stream gorge walk, hemlock ravines, mountain bridge"
+      }
+    ],
+    "public_reviews_summary": "Peaceful mountain stream basecamp near Danby with solid cell coverage.",
+    "other_data": "Great spring trout stream.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "vermont-009",
+    "name": "Victory State Forest Primitive Dispersed Area",
+    "state": "Vermont",
+    "county": "Essex",
+    "coordinates": {
+      "latitude": 44.5112,
+      "longitude": -71.8412,
+      "elevation_ft": 1250.0
+    },
+    "management_agency": {
+      "name": "Vermont Department of Forests, Parks and Recreation",
+      "type": "State",
+      "phone": "(802) 751-0110",
+      "website": "https://fpr.vermont.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state forest dispersed camping)",
+      "stay_limit": "7 consecutive nights max limit",
+      "guidelines": "Dispersed primitive camping allowed throughout 16,000-acre Victory State Forest & Basin pullouts. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Moose River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to state dry season fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route to unpaved gravel forest road",
+      "road_conditions": "Paved route access; smooth gravel interior forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open basin line of sight",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Moose River Shoreline Access",
+      "Victory Basin Wetland Views",
+      "Spruce-Fir Canopy",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Victory, VT",
+        "distance_miles": 4.0,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Fresh Kingdom spring (44-58°F).",
+      "summer": "Pleasant cool summer (70-78°F).",
+      "fall": "World-famous Northeast Kingdom autumn foliage.",
+      "winter": "Cold snowy winter (8-24°F)."
+    },
+    "dangers_and_hazards": [
+      "Moose on Roads",
+      "Black Bear Area"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Northeast Kingdom Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Moose River water murmur",
+        "Wind through red spruce"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Red Spruce",
+        "Balsam Fir",
+        "Black Spruce",
+        "Paper Birch"
+      ],
+      "common_animals": [
+        "Moose",
+        "Black Bear",
+        "Common Loon",
+        "Native Brook Trout"
+      ]
+    },
+    "human_demographics_and_culture": "Abenaki ancestral lands and Vermont Northeast Kingdom logging and wilderness heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Victory Basin is one of the most wild and remote boreal wetlands in Vermont's Northeast Kingdom.",
+      "energetic_and_spiritual_features": "Vast pristine spruce basin surrounded by quiet rolling mountains."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Victory Basin Wildlife Trail",
+        "length_miles": 3.8,
+        "difficulty": "Easy",
+        "features": "Moose River shoreline, boreal wetland boardwalk, birding"
+      }
+    ],
+    "public_reviews_summary": "Peaceful Northeast Kingdom boreal forest basecamp near Victory with solid cell service.",
+    "other_data": "Heart of VT Northeast Kingdom.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "vermont-010",
+    "name": "Green Mountain NF Middlebury Gap Dispersed Zone",
+    "state": "Vermont",
+    "county": "Addison",
+    "coordinates": {
+      "latitude": 43.9412,
+      "longitude": -72.9412,
+      "elevation_ft": 2140.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Green Mountain National Forest (Rochester District)",
+      "type": "Federal",
+      "phone": "(802) 767-4261",
+      "website": "https://www.fs.usda.gov/greenmountain"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Forest Service road 59 pullouts near Middlebury Gap corridor. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Middlebury River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved VT Route 125 to gravel Forest Service road",
+      "road_conditions": "Paved scenic highway access; smooth gravel forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - mountain gap line of sight",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Middlebury Gap Scenic Overlooks",
+      "Robert Frost Wayside Access",
+      "Sugar Maple Canopy",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Hancock, VT",
+        "distance_miles": 4.0,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool refreshing mountain spring (46-60°F).",
+      "summer": "Pleasant cool mountain summer (70-78°F).",
+      "fall": "World-famous Green Mountain autumn foliage.",
+      "winter": "Cold snowy winter (12-28°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Area",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Green Mountain Gap Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through sugar maples",
+        "Songbirds"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Sugar Maple",
+        "Yellow Birch",
+        "Paper Birch",
+        "Red Spruce"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Moose",
+        "Black Bear",
+        "Hermit Thrush"
+      ]
+    },
+    "human_demographics_and_culture": "Abenaki ancestral lands and Middlebury Gap Robert Frost poetry heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Middlebury Gap was poet Robert Frost's summer home, inspiring many of his iconic New England nature poems.",
+      "energetic_and_spiritual_features": "High mountain gap hardwood forests filled with crimson autumn maples."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Robert Frost Interpretive Trail",
+        "length_miles": 2.5,
+        "difficulty": "Easy",
+        "features": "Poetry plaques, beaver pond view, sugar maple grove"
+      }
+    ],
+    "public_reviews_summary": "Poetic mountain gap basecamp near Hancock with fast cell coverage and Robert Frost trail access.",
+    "other_data": "Robert Frost summer home area.",
+    "last_updated": "2026-09-12"
+  }
+]

@@ -1,0 +1,1292 @@
+[
+  {
+    "id": "de-redden-state-forest-primitive",
+    "name": "Redden State Forest Free Primitive Camping Area",
+    "state": "Delaware",
+    "county": "Sussex County",
+    "coordinates": {
+      "latitude": 38.7421,
+      "longitude": -75.4182,
+      "elevation_ft": 45
+    },
+    "management_agency": {
+      "name": "Delaware Department of Agriculture - Forest Service",
+      "type": "State Forest Service",
+      "phone": "(302) 856-2893",
+      "website": "https://dda.delaware.gov/forestry"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Free permit registration required from State Forest Office (zero fee)",
+      "stay_limit": "3 consecutive nights maximum stay limit",
+      "guidelines": "Primitive camping permitted at designated campsites within Redden State Forest tracts. Campers must register with the state forest headquarters prior to stay."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Use portable toilet or dig cat-hole 6 inches deep in sandy loam soil, at least 200 feet from ditches and streams. Pack out all paper.",
+      "trash_policy": "Strict Leave No Trace. No dumpster services on site."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on site.",
+      "safety_requirements": "Campfires in established fire rings only. Must be extinguished completely before vacating site.",
+      "seasonal_fire_bans": "Obey Delaware Forest Service drought fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state road leading to well-maintained gravel state forest roads",
+      "road_conditions": "Flat, smooth gravel forest paths.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (easily accessible year-round)",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Internet",
+      "verizon_reliability": "4-5 bars 5G/LTE (40-80 Mbps download)",
+      "att_reliability": "4-5 bars 5G/LTE",
+      "tmobile_reliability": "3-4 bars 5G Ultra Capacity",
+      "terrain_obstruction_risk": "Low (Flat coastal plain terrain with open hardwood/pine canopy)",
+      "distance_from_tower_corridor_miles": 2.1,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Primitive Fire Rings",
+      "Wooden Picnic Tables",
+      "Flat Grassy Campsites",
+      "High-speed 5G Cellular Internet"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 7,
+      "terrain_score": 5,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Georgetown, DE",
+        "distance_miles": 5.5,
+        "services_available": [
+          "Supermarkets",
+          "Gas Stations",
+          "Restaurants",
+          "Sussex County Public Library",
+          "Medical Centers"
+        ]
+      },
+      {
+        "town_name": "Milford, DE",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Walmart Supercenter",
+          "Gyms",
+          "Bayhealth Hospital",
+          "Full Commercial Services"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "55-70°F, pleasant coastal climate, blooming forest understory.",
+      "summer": "Hot and humid (80-90°F), mosquitoes and biting deer flies near wetland tracts.",
+      "fall": "Ideal camping weather (60-75°F daytime, 45-55°F nights), dry forest trails.",
+      "winter": "Mild to cool winters (35-50°F), rare brief snow dustings."
+    },
+    "dangers_and_hazards": [
+      "Mosquitoes and ticks during warm summer months",
+      "Poison ivy in forest underbrush"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Quiet forest ambience",
+      "common_human_made_sounds": [
+        "Distant traffic on US-113 (1.5 miles away)",
+        "Occasional farm machinery on adjacent agricultural land"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Loblolly Pine",
+        "Southern Red Oak (Quercus falcata)",
+        "Sweetgum",
+        "American Holly (Ilex opaca - Delaware State Tree)"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Delmarva Fox Squirrel (Sciurus niger cinereus - protected species)",
+        "Wild Turkey",
+        "Red-tailed Hawk"
+      ]
+    },
+    "human_demographics_and_culture": "Local campers, horse trail riders, digital nomads, and coastal travelers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Nanticoke indigenous traditions revere the ancient pine forests and freshwater headwaters of Sussex County as sacred nature sanctuaries.",
+      "energetic_and_spiritual_features": "Gentle, grounding coastal plain pine forest atmosphere."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Redden State Forest Headquarters Loop Trail",
+        "length_miles": 5.0,
+        "difficulty": "Easy (Flat)",
+        "features": "Scenic historic lodge, pine forest tracks, nature viewing"
+      }
+    ],
+    "public_reviews_summary": "Very clean, flat, and well-maintained free primitive camping area in Delaware. Outstanding 5G cell signal and easy access for any vehicle.",
+    "other_data": "Bortle Class 4 night sky. Free permit required prior to setup.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "de-blackbird-state-forest-tybrook",
+    "name": "Blackbird State Forest Free Primitive Camping Area (Tybrook Tract)",
+    "state": "Delaware",
+    "county": "New Castle County",
+    "coordinates": {
+      "latitude": 39.3412,
+      "longitude": -75.6814,
+      "elevation_ft": 65
+    },
+    "management_agency": {
+      "name": "Delaware Department of Agriculture - Forest Service",
+      "type": "State Forest Service",
+      "phone": "(302) 653-6505",
+      "website": "https://dda.delaware.gov/forestry"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Free permit registration required from State Forest Office (zero fee)",
+      "stay_limit": "3 consecutive nights maximum stay limit",
+      "guidelines": "Primitive camping permitted at designated campsites within Blackbird State Forest tracts. Must register prior to camping."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Use portable toilet or dig cat-hole 6 inches deep in soil, 200 feet from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only.",
+      "safety_requirements": "Campfires in established fire rings only. Extinguish cold to touch.",
+      "seasonal_fire_bans": "Obey Delaware Forest Service drought alerts."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state road to gravel forest access road (Blackbird Forest Road)",
+      "road_conditions": "Flat, smooth gravel forest paths.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (easily accessible year-round)",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Internet",
+      "verizon_reliability": "4-5 bars 5G/LTE (50-90 Mbps download)",
+      "att_reliability": "4-5 bars 5G/LTE",
+      "tmobile_reliability": "4-5 bars 5G Ultra Capacity",
+      "terrain_obstruction_risk": "Low (Flat northern Delaware coastal plain)",
+      "distance_from_tower_corridor_miles": 1.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Wooden Picnic Tables",
+      "Established Fire Rings",
+      "Shaded Oak / Hickory Canopy",
+      "High-speed 5G Cellular Internet"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 7,
+      "terrain_score": 5,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Smyrna / Middletown, DE",
+        "distance_miles": 6.5,
+        "services_available": [
+          "Walmart Supercenter",
+          "Gas Stations",
+          "Restaurants",
+          "Appoquinimink Public Library",
+          "Medical Clinics"
+        ]
+      },
+      {
+        "town_name": "Wilmington / Dover, DE",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Full City Services",
+          "Christiana Hospital",
+          "24/7 Gyms",
+          "Shopping Malls"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "55-70°F, pleasant climate, blooming understory.",
+      "summer": "Hot and humid (80-88°F), shaded canopy, moderate insect activity.",
+      "fall": "Crisp 60-75°F days, autumn foliage, dry trails.",
+      "winter": "Mild to cool 35-48°F, rare snow dustings."
+    },
+    "dangers_and_hazards": [
+      "Ticks and mosquitoes during summer",
+      "Poison ivy in forest underbrush"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Forest quiet",
+      "common_human_made_sounds": [
+        "Distant US-13 highway hum (1 mile away)",
+        "High commercial aircraft contrails"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Oak",
+        "Red Oak",
+        "Sweetgum",
+        "Tulip Poplar",
+        "American Holly"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Red Fox",
+        "Gray Squirrel"
+      ]
+    },
+    "human_demographics_and_culture": "Local campers, hikers, digital nomads, and nature lovers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Lenni-Lenape indigenous traditions honor the hardwood forests of Delaware as peaceful spirit lands.",
+      "energetic_and_spiritual_features": "Calming forest atmosphere, fast 5G cell internet, peaceful northern Delaware sanctuary."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Blackbird State Forest Education Trail",
+        "length_miles": 3.5,
+        "difficulty": "Easy (Flat)",
+        "features": "Winding paved and gravel nature trail through hardwood forest"
+      }
+    ],
+    "public_reviews_summary": "Extremely peaceful free primitive campsite in Delaware. Clean, well-kept, fast 5G cell internet, and easy access.",
+    "other_data": "Bortle Class 4 night sky. Free permit required.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "de-blackbird-state-forest-primitive",
+    "name": "Blackbird State Forest Primitive Campsite",
+    "state": "Delaware",
+    "county": "New Castle County",
+    "coordinates": {
+      "latitude": 39.3612,
+      "longitude": -75.6612,
+      "elevation_ft": 60
+    },
+    "management_agency": {
+      "name": "Delaware Department of Agriculture - Forest Service",
+      "type": "State Forest Service",
+      "phone": "(302) 653-6505",
+      "website": "https://agriculture.delaware.gov/forestry"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Free Delaware Forest Service Camping Permit required online (zero cost)",
+      "stay_limit": "3 consecutive nights stay limit",
+      "guidelines": "Primitive camping at designated sites in Blackbird State Forest Tybout Tract. Carry in / carry out."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Use portable toilet or dig cat-hole 6 inches deep in soil 200 feet from water drainages. Pack out all paper.",
+      "trash_policy": "Strict Carry-In / Carry-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on site.",
+      "safety_requirements": "Campfires in established metal fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Dry weather forest fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved county road to gravel forest entrance road",
+      "road_conditions": "Smooth gravel driveway, flat parking turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance vehicles.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Near US 13 & I-95 Tower Lines",
+      "verizon_reliability": "4-5 bars 4G/5G LTE (35-75 Mbps download)",
+      "att_reliability": "4-5 bars 4G/5G LTE",
+      "tmobile_reliability": "4-5 bars 4G LTE",
+      "terrain_obstruction_risk": "Low (Flat coastal plain forest)",
+      "distance_from_tower_corridor_miles": 1.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Oak & Pine Shade Campsites",
+      "Covered Picnic Tables",
+      "Flat Dirt/Gravel Vehicle Pullouts",
+      "Metal Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 7,
+      "terrain_score": 6,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Smyrna / Townsend, DE",
+        "distance_miles": 5.0,
+        "services_available": [
+          "Food Lion / Acme Markets",
+          "Gas Stations",
+          "Smyrna Public Library",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Dover, DE",
+        "distance_miles": 16.0,
+        "services_available": [
+          "Full State Capital Metro",
+          "Target / Walmart",
+          "Bayhealth Hospital",
+          "24/7 Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "55-70°F, blooming wild dogwood and red maple.",
+      "summer": "78-88°F, warm pleasant Delaware forest summer days.",
+      "fall": "55-72°F, mild crisp autumn weather.",
+      "winter": "32-45°F, mild coastal plain winter."
+    },
+    "dangers_and_hazards": [
+      "Ticks in summer months (use permethrin)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Forest wind and woodland bird calls",
+      "common_human_made_sounds": [
+        "Distant highway traffic on US 13"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Loblolly Pine",
+        "White Oak",
+        "American Holly (Delaware state tree)",
+        "Sweetgum"
+      ],
+      "common_animals": [
+        "Delmarva Fox Squirrel",
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Red-tailed Hawk"
+      ]
+    },
+    "human_demographics_and_culture": "Lenni-Lenape ancestral lands, Delaware outdoorsmen, digital nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Traditional Lenni-Lenape territory honoring the ancient coastal oak forests of New Castle County.",
+      "energetic_and_spiritual_features": "Relaxing coastal forest quietness, serene flat woodland trails."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Blackbird Forest Oak Loop Trail",
+        "length_miles": 3.5,
+        "difficulty": "Easy",
+        "features": "Loblolly pine groves, mature oak canopy, wildlife observation"
+      }
+    ],
+    "public_reviews_summary": "Delaware's premier free primitive camping site. Blazing 5G cell internet, flat easy driving, and 5 minutes to grocery stores in Smyrna.",
+    "other_data": "Delaware Forest Service. Free permit required online.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "delaware-004",
+    "name": "Marshyhope Creek Wildlife Management Area Primitive Dispersed Spot",
+    "state": "Delaware",
+    "county": "Sussex",
+    "coordinates": {
+      "latitude": 38.7841,
+      "longitude": -75.6812,
+      "elevation_ft": 45.0
+    },
+    "management_agency": {
+      "name": "Delaware Division of Fish and Wildlife (DNREC)",
+      "type": "State",
+      "phone": "(302) 739-9912",
+      "website": "https://dnrec.alpha.delaware.gov/fish-wildlife/"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night; free conservation access pass available online)",
+      "stay_limit": "3 consecutive nights limit for primitive watercraft/hiking camping",
+      "guidelines": "Primitive camping permitted for anglers and paddlers in designated primitive access zones. No permanent structures or vehicle camping inside wildlife management boundary."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Pack out all solid human waste using Portable Toilet/WAG bags, or dig cat-holes 6-8 inches deep at least 200 feet from Marshyhope Creek.",
+      "trash_policy": "Strict Pack-In Pack-Out policy. No trash receptacles on site."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Collect small dead/down wood from ground. Do not cut live timber.",
+      "safety_requirements": "Small campfires allowed only in clear ground rings away from pine needle litter. Douse thoroughly.",
+      "seasonal_fire_bans": "Subject to state dry season burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved county road to dirt launch access point",
+      "road_conditions": "Flat gravel/dirt driveway leads to watercraft launch parking area.",
+      "vehicle_recommendation": "Accessible by standard front-wheel drive low clearance vehicle.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "3-4 bars 5G",
+      "tmobile_reliability": "4 bars 5G",
+      "terrain_obstruction_risk": "Low - flat coastal plain terrain",
+      "distance_from_tower_corridor_miles": 1.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Canoe/Kayak Launch Access",
+      "Flat Grassy Tent Spots",
+      "Scenic Marsh Views"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 7,
+      "terrain_score": 3,
+      "quietness_score": 7
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Bridgeville, DE",
+        "distance_miles": 6.8,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Seaford, DE",
+        "distance_miles": 12.4,
+        "services_available": [
+          "Supercenter",
+          "Hospital",
+          "Public Library",
+          "Fitness Center",
+          "Mechanic"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Mild temperatures with occasional rain showers; coastal plain flowers blooming.",
+      "summer": "Hot and humid (85-90°F) with high biting fly and mosquito activity near marshlands.",
+      "fall": "Pleasant, mild weather with cool breezes and excellent fishing.",
+      "winter": "Chilly and damp (30-45°F) with brisk coastal winds."
+    },
+    "dangers_and_hazards": [
+      "Biting Flies and Mosquitoes",
+      "Ticks",
+      "Poison Ivy",
+      "High Humidity"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Peaceful Marsh Environment (Quietness Score: 7/10)",
+      "common_human_made_sounds": [
+        "Occasional passing farm equipment",
+        "Distant highway noise"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Loblolly Pine",
+        "Sweetgum",
+        "Marsh Grass",
+        "Red Maple",
+        "Wax Myrtle"
+      ],
+      "common_animals": [
+        "Great Blue Heron",
+        "Bald Eagle",
+        "White-tailed Deer",
+        "Osprey",
+        "Beaver"
+      ]
+    },
+    "human_demographics_and_culture": "Delmarva peninsula agricultural and coastal marshland culture centered around farming, crabbing, and waterfowl hunting.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Nanticoke river tales recall ancestral legends of spirit guardians dwelling along peaceful marsh waterways.",
+      "energetic_and_spiritual_features": "Calm, slow-moving water creates a serene and restful atmosphere."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Marshyhope Creek Paddle & Nature Trail",
+        "length_miles": 4.2,
+        "difficulty": "Easy",
+        "features": "Freshwater tidal marsh water trail, birdwatching perches"
+      }
+    ],
+    "public_reviews_summary": "Great spot for kayak campers and anglers with excellent cell coverage, though insect repellent is mandatory in summer.",
+    "other_data": "Wear bright orange during autumn hunting seasons when exploring WMA grounds.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "delaware-005",
+    "name": "Blackiston Wildlife Management Area Primitive Spot",
+    "state": "Delaware",
+    "county": "Kenton / New Castle",
+    "coordinates": {
+      "latitude": 39.2628,
+      "longitude": -75.6985,
+      "elevation_ft": 65.0
+    },
+    "management_agency": {
+      "name": "Delaware Division of Fish and Wildlife (DNREC)",
+      "type": "State",
+      "phone": "(302) 739-9912",
+      "website": "https://dnrec.alpha.delaware.gov/fish-wildlife/"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night, no fee for primitive trailside camping)",
+      "stay_limit": "3 nights maximum stay limit",
+      "guidelines": "Free primitive camping for hikers/hunters during designated open seasons. No motorized vehicle camping past designated parking pullouts."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste in 6-8 inch cat-holes at least 200 feet away from drainage ditches and ponds. Pack out all hygiene items.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood collection allowed on site.",
+      "safety_requirements": "Ground fires must be cleared of surrounding brush and extinguished fully before departure.",
+      "seasonal_fire_bans": "Subject to state dry period fire restrictions."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved county road to short gravel parking lot",
+      "road_conditions": "Smooth paved access roads to gravel parking lot.",
+      "vehicle_recommendation": "Any standard FWD compact car can easily access parking lot.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Excellent (4.5/5 Stars)",
+      "verizon_reliability": "4-5 bars 5G",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "4-5 bars 5G",
+      "terrain_obstruction_risk": "Low - open mixed forest and fields",
+      "distance_from_tower_corridor_miles": 1.2,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Gravel Parking Area",
+      "Flat Grassy Cleared Sites",
+      "Information Kiosk"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 8,
+      "terrain_score": 2,
+      "quietness_score": 7
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Smyrna, DE",
+        "distance_miles": 8.5,
+        "services_available": [
+          "Supermarket",
+          "Pharmacy",
+          "Public Library",
+          "Restaurants",
+          "Gas Station"
+        ]
+      },
+      {
+        "town_name": "Dover, DE",
+        "distance_miles": 15.2,
+        "services_available": [
+          "Major Supercenters",
+          "Hospital",
+          "Gym & Fitness Centers",
+          "Auto Repair Shops"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Pleasant spring weather with wild green foliage and songbird nesting.",
+      "summer": "Warm and humid (80-88°F). Insects active around moist forest patches.",
+      "fall": "Crisp autumn air, colorful hardwood leaves, quiet conditions.",
+      "winter": "Cool to chilly (32-48°F) with occasional light snow."
+    },
+    "dangers_and_hazards": [
+      "Ticks",
+      "Poison Ivy",
+      "Seasonal Hunting Activity"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Quiet Rural Atmosphere (Quietness Score: 7/10)",
+      "common_human_made_sounds": [
+        "Distant vehicle hum",
+        "Agricultural equipment"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Oak",
+        "American Beech",
+        "Sassafras",
+        "Virginia Pine",
+        "Goldenrod"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Red Fox",
+        "Eastern Cottontail",
+        "Wild Turkey",
+        "Red-shouldered Hawk"
+      ]
+    },
+    "human_demographics_and_culture": "Historic Delaware agricultural countryside steeped in farming history and wildlife preservation.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Local rural folklore speaks of peaceful forest shadows beneath old oak trees.",
+      "energetic_and_spiritual_features": "Gentle flat topography providing a calm, uncomplicated natural setting."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Blackiston Wildlife Loop Trail",
+        "length_miles": 3.1,
+        "difficulty": "Easy",
+        "features": "Flat forest path through mature hardwoods and wildlife plantings"
+      }
+    ],
+    "public_reviews_summary": "Super easy access, very quiet at night, and lightning fast 5G cell connectivity for digital nomads.",
+    "other_data": "Fluorescent orange safety clothing recommended during Delaware deer hunting seasons.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "delaware-006",
+    "name": "Redden State Forest Jester Tract Primitive Area",
+    "state": "Delaware",
+    "county": "Sussex",
+    "coordinates": {
+      "latitude": 38.7412,
+      "longitude": -75.4112,
+      "elevation_ft": 45.0
+    },
+    "management_agency": {
+      "name": "Delaware Department of Agriculture - Forest Service",
+      "type": "State",
+      "phone": "(302) 856-2893",
+      "website": "https://forests.delaware.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state forest campsites with free DE Forest Service permit)",
+      "stay_limit": "3 consecutive nights max limit",
+      "guidelines": "Free primitive camping allowed in designated Jester Tract forest clearings with free online permit. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from wetlands. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in designated metal fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to state dry season fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded sand and gravel forest road",
+      "road_conditions": "Graded sand and gravel forest road; flat terrain.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4-5 bars 4G LTE / 5G",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - flat Coastal Plain pine forest",
+      "distance_from_tower_corridor_miles": 3.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Loblolly Pine Forest Canopy",
+      "Sandy Forest Trail Access",
+      "Flat Level Campsites",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 6,
+      "terrain_score": 7,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Georgetown, DE",
+        "distance_miles": 6.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Pleasant Coastal Plain spring (60-72°F).",
+      "summer": "Warm humid summer (82-88°F).",
+      "fall": "Mild crisp autumn days.",
+      "winter": "Mild coastal winter (34-48°F)."
+    },
+    "dangers_and_hazards": [
+      "Mosquitoes & Chiggers in Summer",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Pine Flatwoods Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Wind through loblolly pines",
+        "Songbirds"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Loblolly Pine",
+        "Sweetgum",
+        "Southern Red Oak",
+        "American Holly"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Red-headed Woodpecker",
+        "Gray Fox"
+      ]
+    },
+    "human_demographics_and_culture": "Nanticoke ancestral lands and Sussex County timber and agricultural heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Jester Tract features peaceful mature loblolly pine stands originally managed as historic rail ties timberland.",
+      "energetic_and_spiritual_features": "Quiet flat sand forest paths under tall whispering loblolly pines."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Jester Tract Loop Trail",
+        "length_miles": 3.5,
+        "difficulty": "Easy",
+        "features": "Flat sand trail, loblolly pine canopy, wildlife viewing"
+      }
+    ],
+    "public_reviews_summary": "Peaceful pine flatwoods camping near Georgetown with excellent 5G cell service.",
+    "other_data": "Free DE Forest Service permit required.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "delaware-007",
+    "name": "Blackbird State Forest Gravel Hill Tract Primitive Area",
+    "state": "Delaware",
+    "county": "New Castle",
+    "coordinates": {
+      "latitude": 39.3612,
+      "longitude": -75.6812,
+      "elevation_ft": 60.0
+    },
+    "management_agency": {
+      "name": "Delaware Forest Service - Blackbird State Forest",
+      "type": "State",
+      "phone": "(302) 653-6505",
+      "website": "https://forests.delaware.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state forest campsites with free permit)",
+      "stay_limit": "3 consecutive nights max limit",
+      "guidelines": "Free primitive camping allowed in designated Gravel Hill Tract campsites with free DE Forest Service permit. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in designated metal fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to state dry season fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved county road to gravel forest road",
+      "road_conditions": "Paved road access; smooth gravel interior forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4-5 bars 4G LTE / 5G",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "4-5 bars 4G LTE / 5G",
+      "terrain_obstruction_risk": "Low - flat hardwood forest",
+      "distance_from_tower_corridor_miles": 2.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Oak-Hickory Hardwood Canopy",
+      "Gravel Hill Trail Access",
+      "Flat Level Campsites",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 6,
+      "terrain_score": 7,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Townsend, DE",
+        "distance_miles": 4.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Pleasant spring (58-70°F).",
+      "summer": "Warm humid summer (82-88°F).",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cool winter (32-46°F)."
+    },
+    "dangers_and_hazards": [
+      "Mosquitoes in Summer",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Hardwood Forest Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Wind in red oak canopy",
+        "Woodpeckers"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Red Oak",
+        "White Oak",
+        "Yellow Poplar",
+        "American Beech"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Gray Squirrel",
+        "Barred Owl",
+        "Red Fox"
+      ]
+    },
+    "human_demographics_and_culture": "Lenape ancestral lands and historic northern Delaware farming and forest conservation heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Gravel Hill Tract sits on low rolling gravel knolls formed during ancient glacial outwash periods.",
+      "energetic_and_spiritual_features": "Shady oak canopy with soft gravel walking paths."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Gravel Hill Nature Trail",
+        "length_miles": 2.5,
+        "difficulty": "Easy",
+        "features": "Oak-beech forest, gravel knolls, songbird watching"
+      }
+    ],
+    "public_reviews_summary": "Quiet hardwood forest basecamp near Townsend with strong 5G cell coverage.",
+    "other_data": "Free DE Forest Service permit required.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "delaware-008",
+    "name": "Redden State Forest Ellendale Tract Dispersed Zone",
+    "state": "Delaware",
+    "county": "Sussex",
+    "coordinates": {
+      "latitude": 38.8112,
+      "longitude": -75.4412,
+      "elevation_ft": 50.0
+    },
+    "management_agency": {
+      "name": "Delaware Forest Service - Redden State Forest",
+      "type": "State",
+      "phone": "(302) 856-2893",
+      "website": "https://forests.delaware.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state forest campsites with free permit)",
+      "stay_limit": "3 consecutive nights max limit",
+      "guidelines": "Free primitive camping allowed in designated Ellendale Tract sites with free DE Forest Service permit. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from wetlands. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in designated metal fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to state dry season fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved US highway to gravel forest access road",
+      "road_conditions": "Paved highway access; smooth gravel forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4-5 bars 4G LTE / 5G",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - flat pine woods",
+      "distance_from_tower_corridor_miles": 2.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Loblolly Pine Canopy",
+      "Ellendale Trail Access",
+      "Flat Level Campsites",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 6,
+      "terrain_score": 7,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Ellendale, DE",
+        "distance_miles": 3.0,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Pleasant spring (60-72°F).",
+      "summer": "Warm summer (82-88°F).",
+      "fall": "Mild crisp autumn days.",
+      "winter": "Mild coastal winter (34-48°F)."
+    },
+    "dangers_and_hazards": [
+      "Mosquitoes in Summer",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Pine Woods Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Wind in loblolly pines",
+        "Songbirds"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Loblolly Pine",
+        "Sweetgum",
+        "Red Maple",
+        "American Holly"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Red Fox",
+        "Gray Squirrel"
+      ]
+    },
+    "human_demographics_and_culture": "Nanticoke ancestral lands and Sussex County timber rail line history.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Ellendale Tract preserves dense pine woods historic to early Delaware forestry conservation.",
+      "energetic_and_spiritual_features": "Gentle sandy forest trails amidst whispering pine trees."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Ellendale Forest Trail",
+        "length_miles": 3.0,
+        "difficulty": "Easy",
+        "features": "Flat pine woods walk, Holly trees, wildlife observation"
+      }
+    ],
+    "public_reviews_summary": "Peaceful pine woods basecamp near Ellendale with fast 5G cell connectivity.",
+    "other_data": "Free DE Forest Service permit required.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "delaware-009",
+    "name": "Prime Hook NWR Primitive Waterway Access Dispersed Zone",
+    "state": "Delaware",
+    "county": "Sussex",
+    "coordinates": {
+      "latitude": 38.8312,
+      "longitude": -75.2412,
+      "elevation_ft": 10.0
+    },
+    "management_agency": {
+      "name": "U.S. Fish and Wildlife Service - Prime Hook NWR",
+      "type": "Federal",
+      "phone": "(302) 684-8419",
+      "website": "https://www.fws.gov/refuge/prime-hook"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive boat/kayak dispersed camping along designated marsh waterways)",
+      "stay_limit": "2 consecutive nights max limit",
+      "guidelines": "Dispersed paddle-in primitive camping allowed at designated waterway landings along Prime Hook Creek. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Pack out all human waste via portable waste bag/WAG bag system. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": false,
+      "firewood_policy": "No campfires allowed in marsh sanctuary; portable canister stoves only.",
+      "safety_requirements": "Portable gas stoves mandatory.",
+      "seasonal_fire_bans": "Strict USFWS wildlife refuge rules."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved county road to kayak launch parking",
+      "road_conditions": "Paved road access to boat launch parking; paddle access to marsh campsites.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4-5 bars 4G LTE / 5G",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open salt marsh landscape",
+      "distance_from_tower_corridor_miles": 3.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Prime Hook Marsh Waterway Access",
+      "Delaware Bay Coastal Views",
+      "World-class Bird Watching",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 6,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Milton, DE",
+        "distance_miles": 6.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Craft Brewery",
+          "Cafes"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Spring waterfowl migration (58-70°F).",
+      "summer": "Warm coastal breeze (80-86°F).",
+      "fall": "Crisp autumn marsh colors.",
+      "winter": "Cool coastal winter (34-46°F)."
+    },
+    "dangers_and_hazards": [
+      "Tidal Changes & High Water",
+      "Mosquitoes in Summer"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Coastal Marsh Sanctuary Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Marsh grass wind",
+        "Waterfowl calls",
+        "Gentle bay lap"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Saltmarsh Cordgrass",
+        "High Tide Bush",
+        "Wax Myrtle",
+        "Red Cedar"
+      ],
+      "common_animals": [
+        "Snow Geese",
+        "Osprey",
+        "Bald Eagle",
+        "Horseshoe Crab",
+        "Diamondback Terrapin"
+      ]
+    },
+    "human_demographics_and_culture": "Lenni-Lenape ancestral coastal lands and Delaware Bay maritime refuge culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Prime Hook preserves 10,000 acres of pristine Atlantic Flyway coastal marsh sanctuary.",
+      "energetic_and_spiritual_features": "Open tidal horizons with thousands of migrating waterfowl."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Prime Hook Creek Canoe Trail",
+        "length_miles": 4.0,
+        "difficulty": "Easy (Paddling)",
+        "features": "Tidal creek paddle, salt marsh wildlife, coastal bird watching"
+      }
+    ],
+    "public_reviews_summary": "Stunning coastal marsh kayak basecamp near Milton with strong 5G cell reception.",
+    "other_data": "Paddle-in water access.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "delaware-010",
+    "name": "Nanticoke River Wildlife Area Shoreline Dispersed Zone",
+    "state": "Delaware",
+    "county": "Sussex",
+    "coordinates": {
+      "latitude": 38.5612,
+      "longitude": -75.6112,
+      "elevation_ft": 25.0
+    },
+    "management_agency": {
+      "name": "Delaware Division of Fish and Wildlife (DNREC)",
+      "type": "State",
+      "phone": "(302) 739-9912",
+      "website": "https://dnrec.alpha.delaware.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive shoreline dispersed camping with valid DE Conservation Access Pass)",
+      "stay_limit": "3 consecutive nights max limit",
+      "guidelines": "Dispersed primitive shoreline camping allowed on public wildlife area lands along Nanticoke River. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Nanticoke River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared sand rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to state dry season fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state road to gravel wildlife access road",
+      "road_conditions": "Paved access road; gravel turnouts to boat ramp and shoreline.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open river valley",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Nanticoke River Shoreline Access",
+      "Trout & Bass Fishing",
+      "Pine-Oak Canopy",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Laurel, DE",
+        "distance_miles": 5.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush river spring (60-72°F).",
+      "summer": "Warm summer (82-88°F) with river breeze.",
+      "fall": "Crisp autumn fishing days.",
+      "winter": "Cool coastal winter (34-48°F)."
+    },
+    "dangers_and_hazards": [
+      "Tidal River Currents",
+      "Mosquitoes in Summer"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Nanticoke River Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Nanticoke River water ripple",
+        "Pine wind"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Loblolly Pine",
+        "Atlantic White Cedar",
+        "Sweetgum",
+        "Wild Rice"
+      ],
+      "common_animals": [
+        "Striped Bass",
+        "Osprey",
+        "Bald Eagle",
+        "White-tailed Deer"
+      ]
+    },
+    "human_demographics_and_culture": "Nanticoke Indian Tribe ancestral riverlands and Captain John Smith 1608 exploration history.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Nanticoke River is one of the most pristine and undisturbed Chesapeake Bay tributary corridors.",
+      "energetic_and_spiritual_features": "Quiet tidal river bluffs lined with Atlantic white cedars."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Nanticoke River Trail",
+        "length_miles": 3.2,
+        "difficulty": "Easy",
+        "features": "River shoreline walk, cedar marsh overlooks, fishing access"
+      }
+    ],
+    "public_reviews_summary": "Peaceful riverfront primitive basecamp near Laurel with strong cell service.",
+    "other_data": "DE Conservation Access Pass required.",
+    "last_updated": "2026-09-12"
+  }
+]

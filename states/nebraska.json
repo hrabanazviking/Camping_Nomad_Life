@@ -1,0 +1,1287 @@
+[
+  {
+    "id": "ne-ogallala-toadstool-dispersed",
+    "name": "Toadstool Geologic Park Surrounding Free Primitive Camping - Ogallala Grassland",
+    "state": "Nebraska",
+    "county": "Sioux County / Dawes County",
+    "coordinates": {
+      "latitude": 42.8412,
+      "longitude": -103.6384,
+      "elevation_ft": 3650
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Pine Ridge Job Corps / Pine Ridge Ranger District",
+      "type": "USFS",
+      "phone": "(308) 432-0300",
+      "website": "https://www.fs.usda.gov/nebraska"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for general grassland dispersed camping outside developed campground",
+      "stay_limit": "14 consecutive days max stay within 30-day period",
+      "guidelines": "Dispersed primitive camping permitted on general Ogallala National Grassland public lands. Must park within 30ft of public forest roads. Driving off-road prohibited."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6 inches deep in clay badlands soil, 200 feet from dry washes. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring your own firewood; prairie badlands wood gathering non-existent.",
+      "safety_requirements": "Campfires in containerized fire pans or existing rock rings only due to extreme prairie grass fire hazard. Extinguish cold to touch.",
+      "seasonal_fire_bans": "Obey Red Flag Warning fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved gravel and dirt prairie road (Toadstool Road / FS 904)",
+      "road_conditions": "Washboard gravel road crossing clay badlands. Can turn slick and impassable wet gumbo clay after heavy rain.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (accessible along Toadstool Road in dry conditions; high clearance recommended for remote spurs)",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate / Open Prairie Line-of-Sight",
+      "verizon_reliability": "2-3 bars 4G LTE (10-25 Mbps download)",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Low (Unobstructed high prairie horizon with volcanic badland formations)",
+      "distance_from_tower_corridor_miles": 6.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Surreal Badlands Geologic Formations",
+      "Fossil Structure Trail Access",
+      "100% Unshaded Solar Panel Exposure",
+      "High Plains Silence"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 4,
+      "distance_to_library_score": 4,
+      "distance_to_gym_score": 3,
+      "terrain_score": 9,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Crawford, NE",
+        "distance_miles": 18.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Crawford Public Library",
+          "Medical Clinic"
+        ]
+      },
+      {
+        "town_name": "Chadron, NE",
+        "distance_miles": 42.0,
+        "services_available": [
+          "Chadron State College",
+          "Walmart Supercenter",
+          "Chadron Community Hospital",
+          "Full Services"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "55-70°F, high winds, spring rain turning clay roads to gumbo mud.",
+      "summer": "Hot (88-98°F), intense solar heat, afternoon severe lightning thunderstorms.",
+      "fall": "Ideal prairie boondocking season (60-75°F daytime, 35-45°F nights), dry clear skies.",
+      "winter": "Cold High Plains winter (20-40°F daytime, sub-zero nights), heavy blowing snow."
+    },
+    "dangers_and_hazards": [
+      "Severe High Plains wind gusts",
+      "Prairie wildfires during dry Red Flag Warnings",
+      "Gumbo clay roads becoming impassable when wet",
+      "Prairie Rattlesnakes active in summer months"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "10/10 - Pure High Plains silence",
+      "common_human_made_sounds": [
+        "Infrequent visitor car on Toadstool Road",
+        "Wind blowing over ancient badland rock formations"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Western Wheatgrass (Pascopyrum smithii)",
+        "Little Bluestem",
+        "Threadleaf Sedge",
+        "Plains Prickly Pear (Opuntia polyacantha)"
+      ],
+      "common_animals": [
+        "Pronghorn",
+        "Mule Deer",
+        "Bighorn Sheep (reintroduced in nearby Pine Ridge)",
+        "Prairie Rattlesnake",
+        "Golden Eagle"
+      ]
+    },
+    "human_demographics_and_culture": "Paleontologists and fossil enthusiasts, solar digital nomads, astrophotographers, and overlanders.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Lakota Oglala Sioux indigenous traditions revere the Pine Ridge and badlands of northwestern Nebraska as sacred ancestral hunting grounds and spirit vision sites.",
+      "energetic_and_spiritual_features": "Ancient Oligocene fossil layer energy, profound stillness, world-class dark skies."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Toadstool Geologic Loop Trail",
+        "length_miles": 1.5,
+        "difficulty": "Easy",
+        "features": "Winding path through 30-million-year-old badland rock formations and fossil beds"
+      }
+    ],
+    "public_reviews_summary": "Like camping on the moon! Surreal badland formations, complete silence, and good 4G cell signal. Watch weather carefully so clay roads don't turn to mud.",
+    "other_data": "Bortle Class 1 night sky (pristine dark sky). High solar power panel output.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ne-bessey-ranger-district-nebraska-nf",
+    "name": "Bessey Ranger District Dispersed Primitive Camping",
+    "state": "Nebraska",
+    "county": "Thomas County",
+    "coordinates": {
+      "latitude": 41.8312,
+      "longitude": -100.3214,
+      "elevation_ft": 2750
+    },
+    "management_agency": {
+      "name": "US Forest Service - Nebraska National Forest (Bessey Ranger District)",
+      "type": "USFS",
+      "phone": "(308) 533-2251",
+      "website": "https://www.fs.usda.gov/nebraska"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Dispersed Primitive Camping (zero fee outside developed fee campground)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted throughout Sandhills hand-planted pine forest and prairie grassland pullouts. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6 inches deep in sandy soil 200 feet from Middle Loup River. Pack out hygiene products.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on site.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Strict Sandhills dry grass fire bans active in summer."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved NE Hwy 2 (Sandhills Journey Scenic Byway) to gravel/sand Forest Roads",
+      "road_conditions": "Paved highway main entrance, smooth sand/gravel forest roads.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance vehicles on main forest gravel drives.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Highway 2 Tower Line",
+      "verizon_reliability": "3-4 bars 4G LTE (20-40 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low across rolling Sandhills dunes",
+      "distance_from_tower_corridor_miles": 3.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Hand-Planted Ponderosa & Jack Pine Canopy",
+      "Middle Loup River Kayak Access",
+      "Rolling Sandhills Dune Overlooks",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Halsey / Thedford, NE",
+        "distance_miles": 3.0,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "Thomas County Library",
+          "Local Cafe"
+        ]
+      },
+      {
+        "town_name": "Broken Bow, NE",
+        "distance_miles": 42.0,
+        "services_available": [
+          "Grocery Supermarket",
+          "Hospital",
+          "24/7 Gym",
+          "Hardware Stores"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "48-66°F, greening Sandhills prairie, spring rain squalls.",
+      "summer": "75-92°F, warm sunny Sandhills days, refreshing pine shade.",
+      "fall": "50-70°F, golden Sandhills grass foliage, crisp chilly nights.",
+      "winter": "15-35°F, cold prairie wind, dusting of snow on Sandhills dunes."
+    },
+    "dangers_and_hazards": [
+      "High wind and wildfire risks on prairie Sandhills",
+      "Soft sand forest spurs (avoid driving off established gravel onto loose sand dunes)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Wind through hand-planted pine forest and prairie birds",
+      "common_human_made_sounds": [
+        "Distant BNSF train whistle across Sandhills valley"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Ponderosa Pine",
+        "Jack Pine",
+        "Little Bluestem",
+        "Prairie Sandreed"
+      ],
+      "common_animals": [
+        "Mule Deer",
+        "Pronghorn Antelope",
+        "Sharp-tailed Grouse",
+        "Prairie Chicken",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Lakota & Pawnee ancestral lands, Sandhills ranchers, Nebraska foresters, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Largest hand-planted forest in North America, created by Charles E. Bessey in 1902. Rich Sandhills pioneer lore.",
+      "energetic_and_spiritual_features": "Unique pine oasis in the middle of vast rolling grass Sandhills dunes."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Scott Lookout Tower Trail",
+        "length_miles": 3.5,
+        "difficulty": "Easy to Moderate",
+        "features": "Historic fire lookout tower, panoramic Sandhills dune views"
+      }
+    ],
+    "public_reviews_summary": "A surprising pine forest oasis in the Nebraska Sandhills. Free primitive camping, great cell service along Highway 2, and serene starfilled nights.",
+    "other_data": "Nebraska National Forest. Free dispersed primitive camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ne-ogallala-national-grassland",
+    "name": "Ogallala National Grassland Dispersed Camping",
+    "state": "Nebraska",
+    "county": "Sioux / Dawes County",
+    "coordinates": {
+      "latitude": 42.8812,
+      "longitude": -103.5812,
+      "elevation_ft": 3850
+    },
+    "management_agency": {
+      "name": "US Forest Service - Nebraska National Forests & Grasslands (Pine Ridge Ranger District)",
+      "type": "USFS",
+      "phone": "(308) 432-4475",
+      "website": "https://www.fs.usda.gov/nebraska"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Dispersed Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted throughout Ogallala National Grassland along Toadstool Road and grassland dirt pullouts."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6 inches deep in soil 200 feet from drainage draws. Pack out all paper.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Must bring your own firewood. Gathering wood on grassland is prohibited.",
+      "safety_requirements": "Campfires in established rock fire rings or metal fire pans only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Summer high wind prairie burn bans active July-August."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway to gravel/dirt grassland roads (Toadstool Road)",
+      "road_conditions": "Graded gravel main road, clay dirt spurs (slick when wet).",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance vehicles in dry weather.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Crawford & Hwy 2 Tower Line",
+      "verizon_reliability": "3-4 bars 4G LTE (15-35 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low across open prairie badlands",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Badlands Butte & Prairie Panoramas",
+      "Toadstool Geologic Park Access",
+      "Flat Dirt/Gravel Vehicle Pullouts",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Crawford / Chadron, NE",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Supermarket",
+          "Gas Stations",
+          "Crawford Public Library",
+          "Hospital",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "48-66°F, greening prairie grass, cool winds.",
+      "summer": "78-92°F, warm sunny badlands days, cool clear nights.",
+      "fall": "50-70°F, golden prairie grass foliage.",
+      "winter": "15-35°F, cold prairie wind, light snow."
+    },
+    "dangers_and_hazards": [
+      "High winds on open prairie badlands",
+      "Clay roads become slick mud when wet"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Prairie wind and coyote calls",
+      "common_human_made_sounds": [
+        "Occasional vehicle on dirt road"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Western Wheatgrass",
+        "Prickly Pear Cactus",
+        "Ponderosa Pine",
+        "Wild Sunflower"
+      ],
+      "common_animals": [
+        "Pronghorn Antelope",
+        "Mule Deer",
+        "Prairie Dog",
+        "Golden Eagle",
+        "Coyote"
+      ]
+    },
+    "human_demographics_and_culture": "Lakota & Cheyenne ancestral lands, Nebraska ranchers, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Traditional Lakota territory honoring the badlands formations and sacred grasslands of Northwest Nebraska.",
+      "energetic_and_spiritual_features": "Vast prairie sky horizons, majestic badlands sunset light."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Toadstool Geologic Loop Trail",
+        "length_miles": 3.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Badlands clay rock mushroom hoodoos, fossil beds, prairie vistas"
+      }
+    ],
+    "public_reviews_summary": "Top free primitive badlands camping in Nebraska. Incredible mushroom rock formations, fast cell internet near Crawford, and 100% free USFS access.",
+    "other_data": "Nebraska National Forests & Grasslands. Free dispersed primitive camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "nebraska-004",
+    "name": "Oglala National Grassland Toadstool Dispersed Primitive Zone",
+    "state": "Nebraska",
+    "county": "Sioux",
+    "coordinates": {
+      "latitude": 42.9412,
+      "longitude": -103.6214,
+      "elevation_ft": 3650.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Nebraska National Forests and Grasslands (Pine Ridge Ranger District)",
+      "type": "Federal",
+      "phone": "(308) 432-4475",
+      "website": "https://www.fs.usda.gov/nebraska"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed grassland camping outside developed day-use loop)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed across 94,000 acres of open grassland. Maintain 100 feet distance from water tanks. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep in cat-holes at least 200 feet from dry wash beds.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood collection allowed.",
+      "safety_requirements": "Clear ground 10 feet around fire. Extinguish cold due to high prairie wind hazards.",
+      "seasonal_fire_bans": "Subject to USFS high prairie fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel and dirt prairie roads",
+      "road_conditions": "Graded gravel roads; dirt spurs get slick when wet.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car in dry weather; 4WD after rain.",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 6
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2/5 Stars)",
+      "verizon_reliability": "1-2 bars 4G LTE spotty",
+      "att_reliability": "1 bar 4G LTE",
+      "tmobile_reliability": "No signal in badland formations",
+      "terrain_obstruction_risk": "Moderate - erosion badlands and clay hoodoos",
+      "distance_from_tower_corridor_miles": 14.5,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Badlands Hoodoo Views",
+      "Fossil Trackway Access",
+      "Dark Sky Star Observation"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 4,
+      "distance_to_library_score": 4,
+      "distance_to_gym_score": 3,
+      "terrain_score": 9,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Crawford, NE",
+        "distance_miles": 18.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Local Dining"
+        ]
+      },
+      {
+        "town_name": "Chadron, NE",
+        "distance_miles": 42.0,
+        "services_available": [
+          "Supercenter",
+          "Hospital",
+          "Public Library",
+          "College Amenities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool prairie spring with green wild wheatgrass.",
+      "summer": "Hot high plains weather (88-98°F) with intense sun and cool nights.",
+      "fall": "Crisp autumn weather with golden prairie grass and clear skies.",
+      "winter": "Cold prairie winter (10-30°F) with brisk winds and snow."
+    },
+    "dangers_and_hazards": [
+      "High Prairie Winds & Wildfire Hazard",
+      "Prairie Rattlesnakes",
+      "Severe Heat Exposure in Summer",
+      "Clay Roads Becoming Impassable when Wet"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Badlands Wind Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Distant train whistle on high plains"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Western Wheatgrass",
+        "Prickly Pear Cactus",
+        "Soapweed Yucca",
+        "Ponderosa Pine (Rimrock)"
+      ],
+      "common_animals": [
+        "Pronghorn Antelope",
+        "Bighorn Sheep",
+        "Mule Deer",
+        "Golden Eagle",
+        "Coyote"
+      ]
+    },
+    "human_demographics_and_culture": "Nebraska Panhandle cattle ranching, Lakota heritage, and prehistoric fossil research culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Lakota traditions honor the sacred Oglala badlands as a realm of ancient earth spirits and fossil bone guardians.",
+      "energetic_and_spiritual_features": "Eroded clay hoodoos and badland rock layers radiate timeless earth history."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Toadstool Geologic Loop & Bison Trail",
+        "length_miles": 3.0,
+        "difficulty": "Moderate",
+        "features": "Badland clay mushroom hoodoos, oligocene fossil beds, prairie canyon"
+      }
+    ],
+    "public_reviews_summary": "Unreal alien-like badland rock formations and ultimate quietness in Nebraska's panhandle.",
+    "other_data": "Bring all drinking water and do not collect fossils (protected by federal law).",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "nebraska-005",
+    "name": "Pine Ridge National Recreation Area Primitive Dispersed Spots",
+    "state": "Nebraska",
+    "county": "Dawes",
+    "coordinates": {
+      "latitude": 42.7412,
+      "longitude": -103.1412,
+      "elevation_ft": 3950.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Nebraska National Forest (Pine Ridge Ranger District)",
+      "type": "Federal",
+      "phone": "(308) 432-4475",
+      "website": "https://www.fs.usda.gov/nebraska"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed forest camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive non-motorized backcountry camping allowed along Pine Ridge Trail system. Camp 100 ft from trails. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from dry washes.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down pine wood locally.",
+      "safety_requirements": "Campfires allowed in cleared ground rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS high fire danger bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest service roads to non-motorized trailheads",
+      "road_conditions": "Graded gravel roads leading to trailhead parking areas.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Good (3/5 Stars)",
+      "verizon_reliability": "3 bars 4G LTE on ridge tops",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate - ponderosa pine ridges and escarpments",
+      "distance_from_tower_corridor_miles": 5.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Ponderosa Pine Canopy",
+      "Escarpment Ridge Vistas",
+      "Primitive Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Chadron, NE",
+        "distance_miles": 11.4,
+        "services_available": [
+          "Supermarket",
+          "Gas Station",
+          "Hospital",
+          "Public Library",
+          "College Amenities"
+        ]
+      },
+      {
+        "town_name": "Alliance, NE",
+        "distance_miles": 48.0,
+        "services_available": [
+          "Supercenter",
+          "Gym & Fitness Center",
+          "Auto Repair"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Mild spring weather with green ponderosa pine slopes.",
+      "summer": "Warm days (82-90°F) with cool pine ridge breezes.",
+      "fall": "Crisp autumn weather with golden prairie reflections.",
+      "winter": "Cold winter (15-32°F) with snow-dusted pine ridges."
+    },
+    "dangers_and_hazards": [
+      "Prairie Rattlesnakes",
+      "High Wildfire Hazard in Pine Forest",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Ponderosa Whisper Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Distant highway US-20 traffic",
+        "High altitude flights"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Ponderosa Pine",
+        "Rocky Mountain Juniper",
+        "Skunkbush Sumac",
+        "Little Bluestem"
+      ],
+      "common_animals": [
+        "Mule Deer",
+        "Merriam's Turkey",
+        "Elk",
+        "Coyote",
+        "Sharp-tailed Grouse"
+      ]
+    },
+    "human_demographics_and_culture": "Pine Ridge escarpment cattle ranching and historic fur trading country (Chadron State College area).",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Lakota sacred tradition reveres the Pine Ridge escarpment as a place of prayer and vision quests.",
+      "energetic_and_spiritual_features": "Ponderosa pine ridges rising out of shortgrass prairie offer an inspiring, elevated energy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Pine Ridge National Recreation Trail",
+        "length_miles": 40.0,
+        "difficulty": "Moderate",
+        "features": "Ponderosa pine escarpments, sandstone bluffs, prairie canyon views"
+      }
+    ],
+    "public_reviews_summary": "Surprising mountain-like pine ridge scenery in Nebraska with easy trailhead access and good cell coverage.",
+    "other_data": "Carry all drinking water as ridge trails lack water hydrants.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "nebraska-006",
+    "name": "Toadstool Dispersed Area - Oglala National Grassland",
+    "state": "Nebraska",
+    "county": "Sioux",
+    "coordinates": {
+      "latitude": 42.8512,
+      "longitude": -103.6412,
+      "elevation_ft": 3600.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Pine Ridge Ranger District",
+      "type": "Federal",
+      "phone": "(308) 432-0300",
+      "website": "https://www.fs.usda.gov/nebraska"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside park campground loop)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on open public grassland pullouts along FS Road 902. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from badland washes. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring firewood; no wood gathering on badlands.",
+      "safety_requirements": "Campfires strictly in metal fire pans. Extinguish cold.",
+      "seasonal_fire_bans": "Strict USFS stage fire bans in dry summer."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel and dirt grassland road",
+      "road_conditions": "Graded gravel access road; slick clay gumbo when wet.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars when dry.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 6
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (3/5 Stars)",
+      "verizon_reliability": "2-3 bars 4G LTE",
+      "att_reliability": "2 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate near badland hoodoo formations",
+      "distance_from_tower_corridor_miles": 18.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Alien Badland Hoodoo Rock Formations",
+      "Oglala Grassland Panoramas",
+      "Fossil Beds Proximity",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 4,
+      "distance_to_library_score": 4,
+      "distance_to_gym_score": 2,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Crawford / Chadron, NE",
+        "distance_miles": 18.0,
+        "services_available": [
+          "Grocery Store",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "CSC Campus"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Breezy spring (52-65°F).",
+      "summer": "Warm High Plains summer (85-94°F) with bright sun.",
+      "fall": "Crisp dry autumn days.",
+      "winter": "Cold windy winter (15-32°F)."
+    },
+    "dangers_and_hazards": [
+      "Gumbo Clay Mud when Wet",
+      "High Prairie Winds",
+      "Severe Thunderstorms"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Otherworldly Badland Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Wind through badland hoodoos",
+        "Coyote calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Western Wheatgrass",
+        "Buffalograss",
+        "Yucca",
+        "Prickly Pear"
+      ],
+      "common_animals": [
+        "Pronghorn Antelope",
+        "Horned Lizard",
+        "Golden Eagle",
+        "Mule Deer"
+      ]
+    },
+    "human_demographics_and_culture": "Oglala Lakota sacred lands and High Plains paleontology & ranching culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Famous mushroom-shaped badland hoodoo rock formations containing 30-million-year-old Oligocene mammal fossils.",
+      "energetic_and_spiritual_features": "Otherworldly badland hoodoo landscape set against open shortgrass prairie."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Toadstool Geologic Park Loop Trail",
+        "length_miles": 1.5,
+        "difficulty": "Easy to Moderate",
+        "features": "Mushroom badland hoodoos, fossil trackways, clay badland canyon"
+      }
+    ],
+    "public_reviews_summary": "Surreal badland hoodoo landscape like another planet with usable 4G cell service.",
+    "other_data": "Do not collect fossils (protected federal land).",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "nebraska-007",
+    "name": "McKelvie Dispersed Area - Samuel R. McKelvie NF",
+    "state": "Nebraska",
+    "county": "Cherry",
+    "coordinates": {
+      "latitude": 42.7123,
+      "longitude": -101.0812,
+      "elevation_ft": 3100.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Samuel R. McKelvie National Forest",
+      "type": "Federal",
+      "phone": "(402) 376-1901",
+      "website": "https://www.fs.usda.gov/nebraska"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on public grassland pullouts along FS roads across 116,000 acres of Sandhills. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Niobrara River / blowout swales. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in metal fire pans. Extinguish cold.",
+      "seasonal_fire_bans": "Strict USFS stage fire bans in dry prairie."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded sand and gravel forest road",
+      "road_conditions": "Graded sand forest roads off NE-97; soft sand on side tracks.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars on main gravel tracks.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair to Good (3.5/5 Stars)",
+      "verizon_reliability": "3 bars 4G LTE",
+      "att_reliability": "3 bars 4G LTE",
+      "tmobile_reliability": "2 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - rolling Sandhills prairie",
+      "distance_from_tower_corridor_miles": 14.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Nebraska Sandhills Rolling Dunes",
+      "Hand-Planted Ponderosa Groves",
+      "Niobrara River Proximity",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 3,
+      "terrain_score": 9,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Valentine, NE",
+        "distance_miles": 24.0,
+        "services_available": [
+          "Niobrara Outfitters",
+          "Grocery Store",
+          "Hospital",
+          "Gas Stations",
+          "Hardware"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Breezy Sandhills spring (52-65°F).",
+      "summer": "Warm summer (84-92°F) with cool prairie nights.",
+      "fall": "Crisp dry autumn days.",
+      "winter": "Cold windy winter (15-30°F)."
+    },
+    "dangers_and_hazards": [
+      "Getting Stuck in Loose Dune Sand",
+      "High Prairie Fire Hazard"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Sandhills Prairie Solitude (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Sandhills wind",
+        "Sharp-tailed grouse calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Little Bluestem",
+        "Sand Bluestem",
+        "Ponderosa Pine",
+        "Jack Pine"
+      ],
+      "common_animals": [
+        "Mule Deer",
+        "Sharp-tailed Grouse",
+        "Pronghorn",
+        "Coyote",
+        "Blowout Penstemon"
+      ]
+    },
+    "human_demographics_and_culture": "Lakota ancestral lands and Cherry County Sandhills cattle ranching heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Largest hand-planted national forest in America, protecting 116,000 acres of grass-stabilized sand dunes.",
+      "energetic_and_spiritual_features": "Vast rolling green grass dunes stretching to the horizon in total solitude."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "McKelvie Sandhills Prairie Loop",
+        "length_miles": 4.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Rolling grass dunes, hand-planted pine groves, Sandhills vistas"
+      }
+    ],
+    "public_reviews_summary": "Profound Sandhills prairie solitude near Valentine with hand-planted pine groves and usable 4G cell service.",
+    "other_data": "116,000 acres of open Sandhills land.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "nebraska-008",
+    "name": "Bessey Dispersed Area - Nebraska National Forest",
+    "state": "Nebraska",
+    "county": "Thomas",
+    "coordinates": {
+      "latitude": 41.8812,
+      "longitude": -100.2812,
+      "elevation_ft": 2800.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Bessey Ranger District",
+      "type": "Federal",
+      "phone": "(308) 533-2257",
+      "website": "https://www.fs.usda.gov/nebraska"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside main campground)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along Middle Loup River access roads. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Middle Loup River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in metal fire pans. Extinguish cold.",
+      "seasonal_fire_bans": "Strict USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved highway to gravel forest roads",
+      "road_conditions": "Paved NE-2 Scenic Byway with smooth gravel forest side turnouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low along Middle Loup river valley",
+      "distance_from_tower_corridor_miles": 5.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Hand-Planted Forest in Sandhills",
+      "Middle Loup River Tubing & Canoeing",
+      "Bessey Nursery Historic Site",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Halsey / Broken Bow, NE",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Grocery Store",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush Sandhills spring (55-68°F).",
+      "summer": "Warm summer (85-92°F) with river tubing.",
+      "fall": "Crisp dry autumn days.",
+      "winter": "Cold windy winter (18-32°F)."
+    },
+    "dangers_and_hazards": [
+      "High Sandhills Wildfire Hazard",
+      "River Water Currents"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Hand-Planted Forest Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Middle Loup River flow",
+        "Pine wind"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Ponderosa Pine",
+        "Jack Pine",
+        "Eastern Red Cedar",
+        "Sand Bluestem"
+      ],
+      "common_animals": [
+        "Mule Deer",
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Porcupine"
+      ]
+    },
+    "human_demographics_and_culture": "Lakota ancestral lands and historic 1902 Charles E. Bessey forest planting heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Oldest tree nursery in the US Forest Service system, founded in 1902 to reforest the Great Plains.",
+      "energetic_and_spiritual_features": "90,000-acre hand-planted pine forest oasis rising directly out of the rolling Sandhills prairie."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Scott Lookout Tower Trail",
+        "length_miles": 3.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Historic fire lookout tower, hand-planted forest canopy, 360-degree Sandhills views"
+      }
+    ],
+    "public_reviews_summary": "Incredible hand-planted forest oasis in the Sandhills near Halsey with river tubing and strong cell service.",
+    "other_data": "Scott Lookout Tower offers 360-degree views.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "nebraska-009",
+    "name": "Pine Ridge Dispersed Area - Pine Ridge National Rec Area",
+    "state": "Nebraska",
+    "county": "Dawes",
+    "coordinates": {
+      "latitude": 42.7123,
+      "longitude": -103.0812,
+      "elevation_ft": 4200.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Pine Ridge Ranger District",
+      "type": "Federal",
+      "phone": "(308) 432-0300",
+      "website": "https://www.fs.usda.gov/nebraska"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along Table Road / FS roads across 6,600-acre recreation area. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from mountain streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in metal fire pans. Extinguish cold.",
+      "seasonal_fire_bans": "Strict USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel Forest Service road; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low to Moderate on Pine Ridge plateau",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Ponderosa Pine Ridge Scenery",
+      "Chadron State Park Proximity",
+      "Pine Ridge Trail Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 6,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Chadron, NE",
+        "distance_miles": 10.0,
+        "services_available": [
+          "CSC Campus",
+          "Full Groceries",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush pine ridge spring (55-68°F).",
+      "summer": "Warm sunny summer (82-90°F) with cool pine nights.",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Snowy winter (18-32°F)."
+    },
+    "dangers_and_hazards": [
+      "Summer Wildfire Risk in Pines",
+      "Rattlesnakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Pine Ridge Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through ponderosa needles",
+        "Mountain bluebird calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Ponderosa Pine",
+        "Narrowleaf Cottonwood",
+        "Chokecherry",
+        "Yucca"
+      ],
+      "common_animals": [
+        "Bighorn Sheep",
+        "Elk",
+        "Mule Deer",
+        "Wild Turkey",
+        "Golden Eagle"
+      ]
+    },
+    "human_demographics_and_culture": "Oglala Lakota ancestral lands and Chadron State College & Pine Ridge pioneer heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Ponderosa pine escarpment rising 1,000 feet above the surrounding High Plains prairie.",
+      "energetic_and_spiritual_features": "Fragrant ponderosa pine bluffs commanding views across northern Nebraska."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Pine Ridge National Recreation Trail",
+        "length_miles": 6.0,
+        "difficulty": "Moderate",
+        "features": "Ponderosa pine ridges, bighorn sheep habitat, Butte views"
+      }
+    ],
+    "public_reviews_summary": "Top choice free ponderosa pine ridge camping near Chadron with blazing 5G cell service.",
+    "other_data": "Bighorn sheep reintroduction area.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "nebraska-010",
+    "name": "Harlan County WMA Dispersed Area",
+    "state": "Nebraska",
+    "county": "Harlan",
+    "coordinates": {
+      "latitude": 40.0812,
+      "longitude": -99.2812,
+      "elevation_ft": 1950.0
+    },
+    "management_agency": {
+      "name": "Nebraska Game and Parks Commission / USACE",
+      "type": "State",
+      "phone": "(308) 799-2105",
+      "website": "https://outdoornebraska.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state WMA dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on designated public WMA pullouts along Harlan County Reservoir. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from high water line. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to state fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel access road",
+      "road_conditions": "Graded gravel access roads off US-136; smooth when dry.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low along reservoir shoreline",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "13,000-Acre Reservoir Shoreline",
+      "Walleye & White Bass Fishing",
+      "White Pelican Watching",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 8,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Alma, NE",
+        "distance_miles": 8.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Breezy spring (58-70°F).",
+      "summer": "Warm summer (85-92°F) with lake breezes.",
+      "fall": "Crisp dry autumn fishing days.",
+      "winter": "Cold windy winter (20-35°F)."
+    },
+    "dangers_and_hazards": [
+      "High Prairie Winds",
+      "Severe Thunderstorms"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Reservoir Water Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Harlan reservoir wave lap",
+        "White pelican calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Cottonwood",
+        "Willow",
+        "Big Bluestem",
+        "Switchgrass"
+      ],
+      "common_animals": [
+        "Walleye",
+        "White Bass",
+        "White Pelican",
+        "Bald Eagle",
+        "White-tailed Deer"
+      ]
+    },
+    "human_demographics_and_culture": "Pawnee ancestral lands and Republican River valley reservoir culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Second largest lake in Nebraska protecting 13,000 acres of blue water along the Republican River valley.",
+      "energetic_and_spiritual_features": "Vast prairie reservoir water reflecting southern Nebraska sunsets."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Harlan Reservoir Shoreline Trail",
+        "length_miles": 3.5,
+        "difficulty": "Easy",
+        "features": "Reservoir shore walking, pelican watching, cottonwood groves"
+      }
+    ],
+    "public_reviews_summary": "Uncrowded lake side camping near Alma with world-class walleye fishing and blazing 5G cell service.",
+    "other_data": "Second largest lake in Nebraska.",
+    "last_updated": "2026-09-12"
+  }
+]

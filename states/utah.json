@@ -1,0 +1,1318 @@
+[
+  {
+    "id": "ut-blm-valley-of-the-gods",
+    "name": "Valley of the Gods BLM Free Primitive Camping Area",
+    "state": "Utah",
+    "county": "San Juan County",
+    "coordinates": {
+      "latitude": 37.2412,
+      "longitude": -109.8184,
+      "elevation_ft": 4850
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management - Monticello Field Office",
+      "type": "BLM",
+      "phone": "(435) 587-1500",
+      "website": "https://www.blm.gov/utah"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required",
+      "stay_limit": "14 consecutive days max stay within 28-day period",
+      "guidelines": "Dispersed primitive camping permitted at designated pullouts along the 17-mile unpaved Valley of the Gods loop road. Vehicles must stay on existing pullouts."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Desert soil pack-out strictly recommended or cat-hole 6 inches deep in dry sandy washes, 200 feet from drainages. Pack out all toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out. Zero trash bins."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring your own firewood. Gathering desert vegetation is strictly illegal.",
+      "safety_requirements": "Campfires in elevated metal fire pans or existing rock rings only. Extinguish cold to touch.",
+      "seasonal_fire_bans": "Obey BLM Monticello fire restrictions."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved dirt and gravel desert loop road (Valley of the Gods Road / UT-262 connector)",
+      "road_conditions": "Washboard dirt road with sandy wash crossings and rocky dips. Can turn muddy and impassable during heavy rainstorms.",
+      "vehicle_recommendation": "High clearance car or CUV/SUV recommended (Normal low clearance 2WD cars can complete the loop in dry weather if driven slowly, but high clearance preferred for dip washes)",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate to Strong",
+      "verizon_reliability": "3-4 bars 4G LTE (15-35 Mbps download on elevated pullouts)",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate (Massive sandstone monoliths create localized signal shadows)",
+      "distance_from_tower_corridor_miles": 5.2,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Monantal Sandstone Butte Monolith Scenery",
+      "100% Unshaded Solar Power Exposure",
+      "Panoramic Monument Valley Horizon Views",
+      "High-speed 4G Cell Service"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 4,
+      "distance_to_library_score": 3,
+      "distance_to_gym_score": 2,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Mexican Hat / Bluff, UT",
+        "distance_miles": 12.5,
+        "services_available": [
+          "Gas Stations",
+          "Trading Posts",
+          "Restaurants",
+          "San Juan River Outfitters"
+        ]
+      },
+      {
+        "town_name": "Blanding / Monticello, UT",
+        "distance_miles": 42.0,
+        "services_available": [
+          "Supermarkets",
+          "Hardware Store",
+          "San Juan Hospital",
+          "Public Library",
+          "Full Services"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "65-80°F, high desert winds (20-35 mph gusts), pleasant spring sun.",
+      "summer": "Hot (95-104°F), intense desert solar radiation, July-August afternoon monsoon flash floods.",
+      "fall": "Premier boondocking season (70-82°F daytime, 40-50°F nights), clear dry skies.",
+      "winter": "Cool 40-50°F daytime, freezing nights (20-30°F), rare dustings of snow on red sandstone towers."
+    },
+    "dangers_and_hazards": [
+      "Flash flooding filling dry washes during summer monsoons",
+      "Dehydration and intense desert summer heat",
+      "High desert windstorms",
+      "Midget Faded Rattlesnakes (Crotalus concolor) in rocky crevices"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "10/10 - Pure Utah desert silence",
+      "common_human_made_sounds": [
+        "Infrequent overlanding rig driving slowly past on dirt road",
+        "Wind blowing past massive sandstone towers"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Utah Juniper",
+        "Pinyon Pine",
+        "Mormon Tea (Ephedra viridis)",
+        "Fourwing Saltbush (Atriplex canescens)",
+        "Prickly Pear Cactus"
+      ],
+      "common_animals": [
+        "Desert Bighorn Sheep",
+        "Mule Deer",
+        "Coyote",
+        "Raven",
+        "Side-blotched Lizard"
+      ]
+    },
+    "human_demographics_and_culture": "Full-time digital nomads, landscape photographers, Monument Valley travelers, overlanders, and solitude seekers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Navajo (Diné) oral traditions revere the red sandstone monoliths of Valley of the Gods as sacred stone warriors turned to rock by the Creator to protect the sacred Dinétah lands.",
+      "energetic_and_spiritual_features": "High quartz red sandstone earth energy, profound ancient silence, breathtaking cosmic night skies."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Valley of the Gods Monolith Exploration Route",
+        "length_miles": 17.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Winding desert path past iconic sandstone formations (Rooster Butte, Setting Hen, Battleship)"
+      }
+    ],
+    "public_reviews_summary": "Often called 'Mini Monument Valley without the fees or crowds'. Jaw-dropping red rock monolith views, total peace, and great cell service.",
+    "other_data": "Bortle Class 2 night sky. 100% solar power panel output.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ut-grand-staircase-escalante-blm-hole-in-the-rock",
+    "name": "Hole-in-the-Rock Road BLM Dispersed Primitive Camping",
+    "state": "Utah",
+    "county": "Garfield County",
+    "coordinates": {
+      "latitude": 37.7214,
+      "longitude": -111.5312,
+      "elevation_ft": 5300
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Grand Staircase-Escalante National Monument",
+      "type": "Federal BLM",
+      "phone": "(435) 826-5400",
+      "website": "https://www.blm.gov/grand-staircase-escalante"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Free BLM Dispersed Camping Permit available at Escalante Interagency Visitor Center (zero cost)",
+      "stay_limit": "14 consecutive days limit",
+      "guidelines": "Dispersed camping at established pullouts along Hole-in-the-Rock Road (BLM 200). Must carry portable toilet system or WAG bags in slot canyon zones."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Portable toilet system or pack-out human waste (WAG bags) mandatory in Escalante canyon country. Digging cat-holes strictly prohibited in narrow desert wash areas.",
+      "trash_policy": "Strict Pack-In / Pack-Out. Zero trash left in desert."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Must bring your own firewood. Gathering wood on Grand Staircase-Escalante BLM land is prohibited.",
+      "safety_requirements": "Campfires must be contained in metal fire pan. Fully extinguish before leaving.",
+      "seasonal_fire_bans": "Summer desert fire restrictions active June through August."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved Dirt / Washout Desert Road (Hole-in-the-Rock Road / BLM 200)",
+      "road_conditions": "Severe washboard dirt, clay mud when wet, flash flood wash crossings.",
+      "vehicle_recommendation": "High clearance 2WD or 4x4 recommended; careful standard 2WD cars can reach first 5 miles in dry conditions.",
+      "scores": {
+        "road_grade": 6,
+        "road_terrain_difficulty": 6,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair near Highway 12 / Weak down road",
+      "verizon_reliability": "2-3 bars 4G LTE near highway junction; SOS further down road",
+      "att_reliability": "2-3 bars 4G LTE near junction",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate (Sandstone slickrock mesas block signals in deep washes)",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Red Sandstone Slickrock Primitive Campsites",
+      "Slot Canyon Trailhead Access (Peek-A-Boo / Spooky Slot access)",
+      "Panoramic Desert Slickrock Views",
+      "Dark Sky Stargazing"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 3,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Escalante, UT",
+        "distance_miles": 7.0,
+        "services_available": [
+          "Griffin's Grocery",
+          "Gas Stations",
+          "Escalante Public Library",
+          "Outfitters",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "55-72°F, prime desert hiking weather, clear sunny skies.",
+      "summer": "88-102°F, intense desert heat, afternoon monsoon flash flood risk in slot canyons.",
+      "fall": "60-78°F, golden autumn cottonwoods in Escalante river canyon, perfect desert temps.",
+      "winter": "25-45°F, freezing desert nights, dustings of snow on red slickrock."
+    },
+    "dangers_and_hazards": [
+      "Monsoon flash floods in slot canyons (check weather forecast at visitor center)",
+      "Severe washboard road causing vehicle rattles and damage",
+      "Dehydration in dry high desert heat"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "10/10 - Pure canyon desert silence",
+      "common_human_made_sounds": [
+        "Occasional 4x4 passing on dirt road"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Utah Juniper",
+        "Piñon Pine",
+        "Slickrock Paintbrush",
+        "Prickly Pear Cactus",
+        "Fremont Cottonwood"
+      ],
+      "common_animals": [
+        "Desert Bighorn Sheep",
+        "Raven",
+        "Canyon Wren",
+        "Collared Lizard",
+        "Mule Deer"
+      ]
+    },
+    "human_demographics_and_culture": "Ancestral Puebloan & Fremont lands, slot canyon hikers, desert wanderers, vanlifers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Grand Staircase slickrock features ancient Fremont rock art and sacred petroglyphs honoring water and desert spirits.",
+      "energetic_and_spiritual_features": "Profound red rock desert mana, vast silent horizons, world-class dark night skies."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Peek-A-Boo and Spooky Slot Canyons Loop",
+        "length_miles": 5.5,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Narrow sandstone slot squeezes, arches, slickrock scrambles"
+      }
+    ],
+    "public_reviews_summary": "Unbelievable red rock desert primitive camping outside Escalante. Epic slot canyon hiking, free BLM permit, and solid cell service near the highway entrance.",
+    "other_data": "BLM Grand Staircase-Escalante National Monument. Free permit required.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ut-san-rafael-swell-blm-wedge-overlook",
+    "name": "Wedge Overlook BLM Dispersed Primitive Camping",
+    "state": "Utah",
+    "county": "Emery County",
+    "coordinates": {
+      "latitude": 39.0812,
+      "longitude": -110.7412,
+      "elevation_ft": 6200
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Price Field Office",
+      "type": "Federal BLM",
+      "phone": "(435) 636-3600",
+      "website": "https://www.blm.gov/office/price-field-office"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Public BLM Land Dispersed Primitive Camping (zero fees)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted at designated pullouts along Wedge Overlook Road (Buckhorn Draw / San Rafael Swell). Portable toilet recommended."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Portable toilet system or pack-out human waste (WAG bags) recommended on canyon rim. Dig cat-hole 6-8 inches deep in desert soil 200ft from rim edges.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Must bring your own firewood. Gathering wood on BLM rim lands is prohibited.",
+      "safety_requirements": "Campfires must be contained in metal fire pan. Fully extinguish before leaving.",
+      "seasonal_fire_bans": "Summer desert fire restrictions active June through August."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved UT 155 to graded gravel dirt BLM roads (Buckhorn Draw Road)",
+      "road_conditions": "Graded gravel, washboard dirt, easily drivable in dry weather.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars in dry weather.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / High Canyon Rim Elevation",
+      "verizon_reliability": "3-4 bars 4G LTE along 6,200ft Wedge Overlook canyon rim",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low along high open canyon rim; high inside deep Buckhorn Draw canyon",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "'Little Grand Canyon' Red Sandstone Panorama Views",
+      "Flat Dirt/Gravel RV & Van Pullouts",
+      "Buckhorn Draw Rock Art Access",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Castle Dale / Huntington, UT",
+        "distance_miles": 18.0,
+        "services_available": [
+          "Stewart's Market",
+          "Gas Stations",
+          "Emery County Library",
+          "Hospital",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Price, UT",
+        "distance_miles": 38.0,
+        "services_available": [
+          "Walmart Supercenter",
+          "Lin's Fresh Market",
+          "24/7 Gyms",
+          "Hardware Stores"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "55-72°F, prime desert canyon hiking weather, clear blue skies.",
+      "summer": "85-98°F, warm sunny desert canyon days, breezy nights.",
+      "fall": "60-78°F, golden autumn cottonwoods in canyon bottom, ideal desert temps.",
+      "winter": "22-42°F, freezing desert nights, dusting of snow on red canyon cliffs."
+    },
+    "dangers_and_hazards": [
+      "Sheer 1,000ft canyon cliff drop-offs at Wedge Overlook (watch footing near rim)",
+      "Flash floods in narrow slot draws during summer thunderstorms"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "10/10 - Pure canyon desert rim silence",
+      "common_human_made_sounds": [
+        "Occasional 4x4 engine on distant dirt road"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Utah Juniper",
+        "Piñon Pine",
+        "Slickrock Paintbrush",
+        "Fremont Cottonwood"
+      ],
+      "common_animals": [
+        "Desert Bighorn Sheep",
+        "Golden Eagle",
+        "Raven",
+        "Collared Lizard",
+        "Mule Deer"
+      ]
+    },
+    "human_demographics_and_culture": "Fremont Culture ancestral lands, San Rafael Swell ranchers, desert nomads, rock art stewards.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Known as the 'Little Grand Canyon of Utah'. Buckhorn Draw features world-famous ancient Fremont barrier-canyon style petroglyph panels.",
+      "energetic_and_spiritual_features": "Profound 1,000ft red sandstone canyon rim energy, breathtaking sunrise light."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Goodson Canyon / Wedge Rim Trail",
+        "length_miles": 6.5,
+        "difficulty": "Easy to Moderate",
+        "features": "1,000ft canyon rim panoramas, desert slickrock, ancient juniper groves"
+      }
+    ],
+    "public_reviews_summary": "Utah's single best free rim camping spot. 1,000ft canyon drop-off views over the Little Grand Canyon, blazing cell internet on the rim, and free BLM access.",
+    "other_data": "BLM San Rafael Swell Recreation Area. Free dispersed primitive camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "utah-004",
+    "name": "Comb Ridge Primitive Dispersed BLM Zone - Bears Ears National Monument",
+    "state": "Utah",
+    "county": "San Juan",
+    "coordinates": {
+      "latitude": 37.2812,
+      "longitude": -109.6214,
+      "elevation_ft": 4850.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Monticello Field Office",
+      "type": "Federal",
+      "phone": "(435) 587-1500",
+      "website": "https://www.blm.gov/utah"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive BLM dispersed camping)",
+      "stay_limit": "14 days maximum stay limit within a 28-day window",
+      "guidelines": "Dispersed primitive camping allowed along Comb Wash dirt road (Butler Wash & Comb Wash corridor). Do not touch or disturb archaeological sites. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Pack out solid human waste using Portable Toilet / WAG bags due to fragile desert soil. Alternatively bury 6-8 inches deep 200 ft from wash.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out desert policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down pinyon-juniper wood.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold with water.",
+      "seasonal_fire_bans": "Subject to BLM Stage 1 & Stage 2 dry desert fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel and dirt wash road (Comb Wash Road)",
+      "road_conditions": "Graded dirt/sand road with washboard ruts and dry wash crossings.",
+      "vehicle_recommendation": "CUV, SUV, or 2WD high clearance car fine in dry weather; 4WD required after flash rains.",
+      "scores": {
+        "road_grade": 5,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 6
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2.5/5 Stars)",
+      "verizon_reliability": "2 bars 4G LTE on open wash flats, spotty under cliff walls",
+      "att_reliability": "2 bars 4G LTE",
+      "tmobile_reliability": "1 bar 4G LTE",
+      "terrain_obstruction_risk": "High - 800-foot Navajo sandstone cliff monocline",
+      "distance_from_tower_corridor_miles": 9.5,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Navajo Sandstone Monocline Views",
+      "Ancestral Puebloan Ruins Viewing nearby",
+      "Dark Sky Star Observation"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 4,
+      "distance_to_library_score": 4,
+      "distance_to_gym_score": 3,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Bluff, UT",
+        "distance_miles": 12.4,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "Trading Post",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Blanding, UT",
+        "distance_miles": 24.5,
+        "services_available": [
+          "Supermarket",
+          "Hospital",
+          "Public Library",
+          "Hardware Store",
+          "Gym & Fitness Center"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Ideal desert spring weather (65-76°F) with blooming desert wildflowers.",
+      "summer": "Hot desert summer (90-98°F) with afternoon red rock monsoon thunderstorms.",
+      "fall": "Perfect dry autumn weather with golden cottonwood trees in wash.",
+      "winter": "Cold high desert winter (20-40°F) with snow-dusted red cliffs."
+    },
+    "dangers_and_hazards": [
+      "Flash Floods in Wash Bed (Never camp in dry wash bottoms)",
+      "Extreme High Desert Sun & Dehydration",
+      "Slick Mud Roads when Wet"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Red Rock Monocline Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "High altitude transcontinental flights"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Pinyon Pine",
+        "Utah Juniper",
+        "Fremont Cottonwood",
+        "Mormon Tea",
+        "Banana Yucca"
+      ],
+      "common_animals": [
+        "Desert Bighorn Sheep",
+        "Mule Deer",
+        "Peregrine Falcon",
+        "Coyote",
+        "Collared Lizard"
+      ]
+    },
+    "human_demographics_and_culture": "Ancestral Puebloan, Navajo (Dine), Hopi, Ute, and San Juan county outdoor conservation culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Dine, Hopi, and Ute sacred traditions honor Comb Ridge as a living ancestral backbone ('Bears Ears' landscape).",
+      "energetic_and_spiritual_features": "Towering 800-foot red sandstone monocline radiating 300 million years of earth history."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Comb Wash Canyon & Monarch Cave Trail",
+        "length_miles": 4.5,
+        "difficulty": "Moderate",
+        "features": "Red sandstone monocline cliff walls, dry wash canyon, cliff alcoves"
+      }
+    ],
+    "public_reviews_summary": "Mind-blowing red rock canyon solitude in Bears Ears National Monument with free BLM camping.",
+    "other_data": "Pack in all drinking water and treat archaeological sites with deep respect (Visit With Respect guidelines).",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "utah-005",
+    "name": "Dixie National Forest Boulder Mountain Primitive Zone",
+    "state": "Utah",
+    "county": "Wayne / Garfield",
+    "coordinates": {
+      "latitude": 38.1812,
+      "longitude": -111.4512,
+      "elevation_ft": 9250.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Dixie National Forest (Fremont River Ranger District)",
+      "type": "Federal",
+      "phone": "(435) 425-3702",
+      "website": "https://www.fs.usda.gov/dixie"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed forest camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Hells Backbone Road and forest service roads. Camp 100 ft from alpine lakes and streams. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from alpine lakes. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS dry summer fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel mountain road (Hells Backbone Road / FS 154)",
+      "road_conditions": "Graded gravel road with steep climbs and mountain pullouts.",
+      "vehicle_recommendation": "CUV, SUV, or standard FWD car driven carefully in dry weather.",
+      "scores": {
+        "road_grade": 5,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2.5/5 Stars)",
+      "verizon_reliability": "2 bars 4G LTE on high 9,000-ft rim pullouts",
+      "att_reliability": "2 bars 4G LTE",
+      "tmobile_reliability": "1 bar 4G LTE",
+      "terrain_obstruction_risk": "Moderate - high subalpine plateau and aspen forest",
+      "distance_from_tower_corridor_miles": 9.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "9,000-ft Subalpine Aspen Canopy",
+      "Capitol Reef Red Rock Vistas",
+      "Trout Lake Access",
+      "Primitive Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Boulder, UT",
+        "distance_miles": 12.4,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "Farm-to-Table Restaurants"
+        ]
+      },
+      {
+        "town_name": "Torrey, UT",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Capitol Reef Gateway Amenities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Road snowbound through late May.",
+      "summer": "Crisp 9,000-ft subalpine summer (70-76°F) escaping red rock desert heat below.",
+      "fall": "Spectacular golden aspen leaf display across Boulder Mountain in late September.",
+      "winter": "Closed to vehicle traffic due to deep snowpack."
+    },
+    "dangers_and_hazards": [
+      "High Altitude Weather Shifts & Freezing Night Temps",
+      "Cougars & Black Bears",
+      "Narrow Mountain Road Drop-offs (Hells Backbone Bridge)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Subalpine Aspen Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Occasional passing mountain road vehicle"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Quaking Aspen",
+        "Engelmann Spruce",
+        "Subalpine Fir",
+        "Ponderosa Pine"
+      ],
+      "common_animals": [
+        "Mule Deer",
+        "Elk",
+        "Brook Trout",
+        "Cougar",
+        "Steller's Jay"
+      ]
+    },
+    "human_demographics_and_culture": "High Southern Utah subalpine plateau, Boulder homesteading, and Capitol Reef conservation culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Paiute traditions honor high Boulder Mountain ('The Mountain of Many Waters') as a sacred realm of clear alpine lakes and aspen groves.",
+      "energetic_and_spiritual_features": "9,000-foot subalpine plateau overlooking 100 miles of red rock canyonlands generates an enchanting, majestic atmosphere."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Hells Backbone & Boulder Top Alpine Lake Trail",
+        "length_miles": 6.2,
+        "difficulty": "Moderate",
+        "features": "9,000-ft summit vistas over Capitol Reef, alpine trout lakes, golden aspen groves"
+      }
+    ],
+    "public_reviews_summary": "Cool 70-degree summer weather, breathtaking views over Southern Utah canyonlands, pristine trout lakes.",
+    "other_data": "Carry warm clothing even in mid-summer as night temperatures drop near 40°F.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "utah-006",
+    "name": "Valley of the Gods Dispersed Camping Area - BLM Monticello",
+    "state": "Utah",
+    "county": "San Juan",
+    "coordinates": {
+      "latitude": 37.2418,
+      "longitude": -109.8164,
+      "elevation_ft": 4800.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Monticello Field Office",
+      "type": "Federal",
+      "phone": "(435) 587-1500",
+      "website": "https://www.blm.gov/utah"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive BLM dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free primitive dispersed camping along 17-mile dirt loop road. Camp ONLY in designated pullouts with existing stone fire rings. Pack out all waste."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Pack out human waste via wag-bag or portable toilet system (mandatory in Bears Ears BLM zone).",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring firewood; no wood gathering in desert.",
+      "safety_requirements": "Campfires in cleared metal or stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to BLM stage fire bans in dry summer."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved dirt and gravel loop road",
+      "road_conditions": "17-mile dirt loop road featuring sandy dry-wash crossings; ruts after heavy rain.",
+      "vehicle_recommendation": "High clearance 2WD when dry; 4WD recommended after rain events.",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "3 bars 4G LTE",
+      "tmobile_reliability": "2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate near massive sandstone monoliths",
+      "distance_from_tower_corridor_miles": 11.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Iconic Sandstone Butte Scenery",
+      "17-Mile Scenic Dirt Loop",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 4,
+      "distance_to_library_score": 4,
+      "distance_to_gym_score": 2,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Mexican Hat, UT",
+        "distance_miles": 10.0,
+        "services_available": [
+          "Gas Station",
+          "Small Store",
+          "Diner"
+        ]
+      },
+      {
+        "town_name": "Bluff, UT",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Groceries",
+          "Cafes",
+          "Gas Stations",
+          "Outfitters"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush red rock spring (65-78°F).",
+      "summer": "Extremely hot summer (95-104°F).",
+      "fall": "Crisp pleasant autumn days.",
+      "winter": "Cold freezing winter (35-48°F)."
+    },
+    "dangers_and_hazards": [
+      "Flash Floods in Sandy Washes",
+      "Extreme Summer Heat",
+      "Lack of Water"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Red Rock Monolith Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Occasional dirt loop car pass",
+        "Desert wind"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Blackbrush",
+        "Mormon Tea",
+        "Prickly Pear",
+        "Yucca"
+      ],
+      "common_animals": [
+        "Desert Bighorn Sheep",
+        "Kit Fox",
+        "Raven",
+        "Lizard"
+      ]
+    },
+    "human_demographics_and_culture": "Diné (Navajo) sacred culture and Bears Ears red rock conservation heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Diné sacred tradition views the red sandstone monoliths as ancient frozen warriors guarding the land.",
+      "energetic_and_spiritual_features": "Miniature Monument Valley landscape radiating intense red rock desert grounding energy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Valley of the Gods Loop Road Walk",
+        "length_miles": 17.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Battleship Butte, Rooster Butte, iconic sandstone spires"
+      }
+    ],
+    "public_reviews_summary": "Unbelievable red rock scenery rivaling Monument Valley for free with dependable Verizon cell signal.",
+    "other_data": "Pack out ALL waste mandatory.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "utah-007",
+    "name": "Wedge Overlook Dispersed Area - San Rafael Swell BLM",
+    "state": "Utah",
+    "county": "Emery",
+    "coordinates": {
+      "latitude": 39.0933,
+      "longitude": -110.7589,
+      "elevation_ft": 6200.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Price Field Office",
+      "type": "Federal",
+      "phone": "(435) 636-3600",
+      "website": "https://www.blm.gov/utah"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive BLM dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed camping allowed along canyon rim pullouts. Camp in existing disturbed pullouts. Pack out all waste."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Pack out human waste via wag-bag or portable toilet system mandatory along canyon rim zone.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring firewood; no wood gathering on rim.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to BLM fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel access road",
+      "road_conditions": "Smooth gravel Buckhorn Draw road for 20 miles from Castle Dale; clay ruts when wet.",
+      "vehicle_recommendation": "Accessible by standard low-clearance FWD sedans when dry.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "3 bars 4G LTE",
+      "tmobile_reliability": "2 bars 4G LTE",
+      "terrain_obstruction_risk": "Low on high canyon rim",
+      "distance_from_tower_corridor_miles": 15.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "'Little Grand Canyon' Overlook Views",
+      "San Rafael River Access Nearby",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 3,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Castle Dale, UT",
+        "distance_miles": 21.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diner"
+        ]
+      },
+      {
+        "town_name": "Price, UT",
+        "distance_miles": 48.0,
+        "services_available": [
+          "Full Urban Services",
+          "Hospital",
+          "Walmart",
+          "Auto Repair"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Pleasant spring (60-74°F).",
+      "summer": "Warm days (85-92°F) with canyon breezes.",
+      "fall": "Crisp autumn weather (65-75°F).",
+      "winter": "Cold freezing winter (28-42°F)."
+    },
+    "dangers_and_hazards": [
+      "1,200-Foot Vertical Canyon Rim Drops",
+      "Wind Gusts"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Canyon Rim Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind blowing over canyon rim",
+        "Distant river echo"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Piñon Pine",
+        "Utah Juniper",
+        "Mormon Tea",
+        "Prickly Pear"
+      ],
+      "common_animals": [
+        "Desert Bighorn Sheep",
+        "Mountain Lion",
+        "Coyote",
+        "Golden Eagle"
+      ]
+    },
+    "human_demographics_and_culture": "Fremont rock art culture and San Rafael Swell wilderness conservation.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Fremont culture pictographs in nearby Buckhorn Draw date back over 2,000 years.",
+      "energetic_and_spiritual_features": "Dramatic 1,200-foot drop into the San Rafael River canyon canyonlands."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Wedge Canyon Rim Trail",
+        "length_miles": 4.0,
+        "difficulty": "Easy",
+        "features": "Little Grand Canyon views, petroglyph panels nearby"
+      }
+    ],
+    "public_reviews_summary": "Mind-boggling canyon view often called the Little Grand Canyon with rock-solid cell service.",
+    "other_data": "Buckhorn Draw pictograph panel located 10 miles down canyon.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "utah-008",
+    "name": "Sage Hen Dispersed Area - Little Sahara BLM",
+    "state": "Utah",
+    "county": "Juab",
+    "coordinates": {
+      "latitude": 39.7125,
+      "longitude": -112.3856,
+      "elevation_ft": 5100.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Fillmore Field Office",
+      "type": "Federal",
+      "phone": "(435) 743-3100",
+      "website": "https://www.blm.gov/utah"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed camping on BLM land outside fee gate)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on open BLM lands surrounding dune complex outside main OHV fee boundary. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from roads/dunes. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring firewood; gather dead down wood.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to BLM fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved access to gravel dirt tracks",
+      "road_conditions": "Paved road leads to hard-packed dirt/gravel side pullouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD on hard gravel; 4WD if pulling onto loose sand.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open desert plain",
+      "distance_from_tower_corridor_miles": 8.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Sand Dune Views",
+      "Flat Open Parking",
+      "OHV Trail Access Nearby",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 8,
+      "quietness_score": 7
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Eureka, UT",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Gas Station",
+          "Diner",
+          "Convenience Store"
+        ]
+      },
+      {
+        "town_name": "Nephi, UT",
+        "distance_miles": 32.0,
+        "services_available": [
+          "Groceries",
+          "Hardware Store",
+          "Medical Clinic",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Mild spring (60-72°F).",
+      "summer": "Warm to hot summer (88-96°F) on open sand.",
+      "fall": "Crisp autumn weather (65-75°F).",
+      "winter": "Cold winter (32-45°F)."
+    },
+    "dangers_and_hazards": [
+      "Getting Stuck in Soft Sand",
+      "High Wind Dust Storms"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Desert Plain (Quietness Score: 7/10)",
+      "common_human_made_sounds": [
+        "Occasional distant OHV motor hum during weekends"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Big Sagebrush",
+        "Indian Ricegrass",
+        "Utah Juniper"
+      ],
+      "common_animals": [
+        "Kangaroo Rat",
+        "Kit Fox",
+        "Pronghorn Antelope",
+        "Lizard"
+      ]
+    },
+    "human_demographics_and_culture": "Ancient Lake Bonneville sand dune geology and Great Basin OHV outdoor culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Remnant sand dunes deposited by wind from prehistoric Lake Bonneville 15,000 years ago.",
+      "energetic_and_spiritual_features": "Vast rolling white sand dunes set against the blue Utah sky."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "White Sand Dune Ridge Hike",
+        "length_miles": 3.0,
+        "difficulty": "Moderate",
+        "features": "Rolling sand dunes, Great Basin desert panorama"
+      }
+    ],
+    "public_reviews_summary": "Incredible dune scenery, super easy flat access, and lightning fast cell service.",
+    "other_data": "Do not drive off hard tracks without checking sand depth.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "utah-009",
+    "name": "Notch Peak / Tule Valley Dispersed - BLM Fillmore",
+    "state": "Utah",
+    "county": "Millard",
+    "coordinates": {
+      "latitude": 39.1412,
+      "longitude": -113.3489,
+      "elevation_ft": 5500.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Fillmore Field Office",
+      "type": "Federal",
+      "phone": "(435) 743-3100",
+      "website": "https://www.blm.gov/utah"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive BLM dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free primitive dispersed camping on open BLM desert lands at base of Notch Peak. Leave No Trace. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from dry washes. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to BLM fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved dirt wash access road",
+      "road_conditions": "10 miles of dirt gravel wash road off US-50/6; rocky with ruts.",
+      "vehicle_recommendation": "High clearance 2WD/4WD recommended.",
+      "scores": {
+        "road_grade": 5,
+        "road_terrain_difficulty": 6,
+        "supply_run_pain": 8
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Weak / Spotty (2/5 Stars)",
+      "verizon_reliability": "1-2 bars 4G LTE (Elevated ground only)",
+      "att_reliability": "1 bar 4G LTE",
+      "tmobile_reliability": "0-1 bar (No Data)",
+      "terrain_obstruction_risk": "High beneath 2,200-foot Notch Peak cliff wall",
+      "distance_from_tower_corridor_miles": 26.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "2,200-Foot Vertical Cliff View",
+      "Bristlecone Pine Forest Nearby",
+      "Dark Sky Astronomy",
+      "Wilderness Solitude"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 2,
+      "distance_to_library_score": 2,
+      "distance_to_gym_score": 1,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Delta, UT",
+        "distance_miles": 50.0,
+        "services_available": [
+          "Full Groceries",
+          "Hospital",
+          "Gas Stations",
+          "Hardware Store"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Mild spring (60-72°F).",
+      "summer": "Hot summer (92-100°F) in valley.",
+      "fall": "Crisp autumn hiking days.",
+      "winter": "Cold winter (30-42°F)."
+    },
+    "dangers_and_hazards": [
+      "Extreme Solitude",
+      "Flash Floods in Sawtooth Canyon",
+      "2,200-Foot Cliff Drop-offs"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Profound Great Basin Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Absolute mountain silence",
+        "Cliff wind Echoes"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Ancient Bristlecone Pine",
+        "Utah Juniper",
+        "Piñon Pine",
+        "Sagebrush"
+      ],
+      "common_animals": [
+        "Desert Bighorn Sheep",
+        "Golden Eagle",
+        "Mountain Lion",
+        "Coyote"
+      ]
+    },
+    "human_demographics_and_culture": "Great Basin wilderness exploration and geology heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Second highest pure vertical cliff drop in North America behind El Capitan.",
+      "energetic_and_spiritual_features": "2,200-foot sheer vertical limestone wall looming directly overhead."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Notch Peak Summit Trail",
+        "length_miles": 9.0,
+        "difficulty": "Strenuous",
+        "features": "Sawtooth Canyon, ancient bristlecone pines, 2,200-ft cliff edge"
+      }
+    ],
+    "public_reviews_summary": "One of the most awe-inspiring vertical cliffs in America; remote off-grid solitude requires Starlink for connectivity.",
+    "other_data": "Carry plenty of water for summit hike.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "utah-010",
+    "name": "Nine Mile Canyon Dispersed Area - BLM Price & Vernal",
+    "state": "Utah",
+    "county": "Carbon",
+    "coordinates": {
+      "latitude": 39.7754,
+      "longitude": -110.4512,
+      "elevation_ft": 5600.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Price Field Office",
+      "type": "Federal",
+      "phone": "(435) 636-3600",
+      "website": "https://www.blm.gov/utah"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive BLM dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed camping allowed on BLM side pullouts. Strictly illegal to touch, deface, or camp under rock art panels. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Nine Mile Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring firewood; do not gather wood from historic sites.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to BLM fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved main canyon road to gravel spurs",
+      "road_conditions": "Paved main canyon road with gravel side canyon pullouts.",
+      "vehicle_recommendation": "Accessible by all low-clearance vehicles on main paved road.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Poor inside Canyon (2/5 Stars)",
+      "verizon_reliability": "1-2 bars 4G LTE (Spotty)",
+      "att_reliability": "1 bar 4G LTE",
+      "tmobile_reliability": "0-1 bar (No Data)",
+      "terrain_obstruction_risk": "High inside 1,000-foot sandstone canyon walls",
+      "distance_from_tower_corridor_miles": 20.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "'World's Longest Art Gallery' (10,000+ Petroglyphs)",
+      "Paved Scenic Drive",
+      "Fremont Culture Ruins",
+      "Stream Side Camping"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 4,
+      "distance_to_library_score": 4,
+      "distance_to_gym_score": 2,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Wellington, UT",
+        "distance_miles": 28.0,
+        "services_available": [
+          "Gas Station",
+          "Diner",
+          "Convenience Store"
+        ]
+      },
+      {
+        "town_name": "Price, UT",
+        "distance_miles": 36.0,
+        "services_available": [
+          "Full Urban Services",
+          "Hospital",
+          "Walmart",
+          "Auto Repair"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Mild spring (60-72°F).",
+      "summer": "Warm summer (88-95°F) with canyon downdrafts.",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cold winter (28-40°F)."
+    },
+    "dangers_and_hazards": [
+      "Flash Floods in Narrow Side Canyons",
+      "Coal Truck Traffic on Road"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Canyon Wall Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Occasional passing vehicle",
+        "Creek flow"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Cottonwood",
+        "Piñon Pine",
+        "Utah Juniper",
+        "Willow"
+      ],
+      "common_animals": [
+        "Elk",
+        "Mule Deer",
+        "Wild Turkey",
+        "Bighorn Sheep"
+      ]
+    },
+    "human_demographics_and_culture": "Fremont and Ute ancestral petroglyph culture spanning thousands of years.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Contains over 10,000 ancient Fremont and Ute rock art images including the famous 'Great Hunt' panel.",
+      "energetic_and_spiritual_features": "Sacred rock art gallery walls carved into sandstone over 1,500 years."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Cottonwood Canyon Rock Art Walk",
+        "length_miles": 2.0,
+        "difficulty": "Easy",
+        "features": "Ancient Fremont pictographs, cliff alcoves"
+      }
+    ],
+    "public_reviews_summary": "World-class archaeological petroglyph canyon; cell service is spotty inside canyon bottom.",
+    "other_data": "Never touch petroglyphs or use wet rags on rock art.",
+    "last_updated": "2026-09-12"
+  }
+]

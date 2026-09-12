@@ -1,0 +1,1348 @@
+[
+  {
+    "id": "az-coconino-fr525-sedona",
+    "name": "Forest Road 525 Dispersed Camping Area - Coconino National Forest",
+    "state": "Arizona",
+    "county": "Coconino County",
+    "coordinates": {
+      "latitude": 34.8214,
+      "longitude": -111.9105,
+      "elevation_ft": 4520
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Red Rock Ranger District",
+      "type": "USFS",
+      "phone": "(928) 203-2900",
+      "website": "https://www.fs.usda.gov/coconino"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Designated dispersed camping corridor (no fees)",
+      "stay_limit": "14 consecutive days within a 30-day period",
+      "guidelines": "Camping permitted ONLY in designated marked campsites along FR 525 corridor. Vehicles must park within campsite boundaries. No camping within 1 mile of State Route 89A."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Extreme dry high-desert soil: cat-holes must be 6 inches deep, at least 200ft from washes and campsites. Packing out toilet paper in sealed bags is strictly required.",
+      "trash_policy": "Leave No Trace strictly enforced. No trash dumpsters on site; all waste must be hauled out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted. Do not break branches off live mesquite, juniper, or pinon pine.",
+      "safety_requirements": "Campfires permitted only in existing stone/metal fire rings when fire restrictions allow. Douse fire completely with water until cold to touch.",
+      "seasonal_fire_bans": "Stage 1 and Stage 2 fire restrictions strictly implemented in early summer (May-July) before monsoon season."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved dirt and washboard gravel forest road (FR 525)",
+      "road_conditions": "Heavy washboards and dust during dry season; red clay slickness and rutting after heavy rains/monsoons.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (accessible at slow speeds on main FR 525 corridor; high clearance recommended for side spurs)",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Connectivity",
+      "verizon_reliability": "3-4 bars 5G/LTE (20-50 Mbps download speed)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-4 bars 5G Ultra Capacity",
+      "terrain_obstruction_risk": "Low to Moderate (open high desert mesa with red rock bluffs in background)",
+      "distance_from_tower_corridor_miles": 3.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Designated Campsite Posts",
+      "Stone Fire Rings",
+      "Panoramic Red Rock & Mingus Mountain Views",
+      "High-speed 5G Cellular Internet"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 7,
+      "terrain_score": 10,
+      "quietness_score": 7
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Cottonwood, AZ",
+        "distance_miles": 9.5,
+        "services_available": [
+          "Walmart Supercenter",
+          "Fry's Food",
+          "Gyms",
+          "Verde Valley Medical Center",
+          "Public Library",
+          "Auto Repair"
+        ]
+      },
+      {
+        "town_name": "Sedona, AZ",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Natural Food Markets",
+          "Outdoor Outfitters",
+          "Art Galleries",
+          "Coffee Shops",
+          "Sedona Public Library"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "65-80\u00b0F pleasant days, breezy wind gusts (20-30 mph), excellent camping weather.",
+      "summer": "Hot 95-105\u00b0F early summer; July-August monsoon season brings dramatic afternoon thunderstorms, flash floods, and red mud.",
+      "fall": "Ideal boondocking season (70-85\u00b0F), clear sunny skies, cool comfortable nights (45-55\u00b0F).",
+      "winter": "Cool crisp days (50-60\u00b0F), freezing night temperatures (25-35\u00b0F), rare dustings of snow on surrounding red rock peaks."
+    },
+    "dangers_and_hazards": [
+      "Western Diamondback Rattlesnakes and Black-tailed Rattlesnakes active in warm months",
+      "Flash flooding in dry washes during summer monsoons",
+      "Dehydration and heat exhaustion during peak summer",
+      "OHV / Jeep tour dust and traffic during busy weekends"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "7/10 - Quiet at night; daytime tour traffic noise",
+      "common_human_made_sounds": [
+        "Pink Jeep tours and side-by-side OHV engines during daytime",
+        "Distant scenic flight helicopters or small propeller aircraft overhead",
+        "Campfire chatter from neighboring vanlifers"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Utah Juniper (Juniperus osteosperma)",
+        "Pinon Pine (Pinus edulis)",
+        "Prickly Pear Cactus (Opuntia)",
+        "Banana Yucca (Yucca baccata)",
+        "Velvet Mesquite (Prosopis velutina)"
+      ],
+      "common_animals": [
+        "Javelina / Collared Peccary (Pecari tajacu)",
+        "Coyote",
+        "Mule Deer (Odocoileus hemionus)",
+        "Coati / Coatimundi (Nasua narica)",
+        "Gambel's Quail (Callipepla gambelii)",
+        "Western Diamondback Rattlesnake"
+      ]
+    },
+    "human_demographics_and_culture": "Full-time digital nomads, vanlifers, mountain bikers, OHV enthusiasts, spiritual seekers visiting Sedona vortexes, and RV boondockers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Yavapai-Apache sacred creation lore centers on nearby Boynton Canyon ('Palatkwapi') and the Red Rocks as spiritual emergence lands.",
+      "energetic_and_spiritual_features": "Proximity to world-famous Sedona energy vortexes (Boynton Canyon, Bell Rock, Airport Mesa). High electromagnetic earth energy, renowned for inspiring clarity, deep dream activity, and spiritual grounding."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Palatki Heritage Site & Cliff Dwellings Trail",
+        "length_miles": 1.5,
+        "difficulty": "Easy",
+        "features": "Ancient Sinagua cliff dwellings, pictographs, red rock views"
+      },
+      {
+        "trail_name": "Fay Canyon Trail",
+        "length_miles": 2.6,
+        "difficulty": "Easy to Moderate",
+        "features": "Hidden arch, canyon walls, lush high-desert vegetation"
+      }
+    ],
+    "public_reviews_summary": "Extremely popular nomad hotspot due to killer 5G cell speeds and stunning red rock vistas. Can get busy on weekends, so arrive early in the week to secure prime designated spots.",
+    "other_data": "Bortle Class 3 night sky. High solar panel efficiency due to 300+ annual days of sunshine.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "az-kofa-nwr-palm-canyon",
+    "name": "Kofa National Wildlife Refuge Dispersed Primitive Camping (Palm Canyon Road)",
+    "state": "Arizona",
+    "county": "La Paz County / Yuma County",
+    "coordinates": {
+      "latitude": 33.3562,
+      "longitude": -114.1684,
+      "elevation_ft": 1650
+    },
+    "management_agency": {
+      "name": "U.S. Fish and Wildlife Service - Kofa National Wildlife Refuge",
+      "type": "USFWS",
+      "phone": "(928) 783-7861",
+      "website": "https://www.fws.gov/refuge/kofa"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No permits or fees required for primitive camping",
+      "stay_limit": "14 days maximum within a 28-day period",
+      "guidelines": "Dispersed primitive camping permitted within 100 feet of established public access roads. Camping prohibited within 1/4 mile of artificial water holes or natural guzzlers."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Strict desert pack-out or deep cat-hole (6 inches deep in sandy washes, 200ft from drainages). Pack out all toilet paper.",
+      "trash_policy": "Zero trash services on refuge. All waste and food scraps must be packed out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring your own firewood. Gathering of desert ironwood, palo verde, or saguaro rib wood is strictly illegal on wildlife refuge lands.",
+      "safety_requirements": "Use containerized fire pans or existing rock rings. Extinguish with water until cold to touch.",
+      "seasonal_fire_bans": "Enforced during hot summer fire season."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved desert dirt and gravel road (Palm Canyon Road / Queen Canyon Road)",
+      "road_conditions": "Washboarded gravel main road; secondary spurs have sharp volcanic rocks, dip washes, and loose sand pockets.",
+      "vehicle_recommendation": "High clearance car or 4x4 (Normal low clearance 2WD cars can reach lower Palm Canyon Road pullouts if driven very carefully, but high clearance recommended)",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 6,
+        "supply_run_pain": 6
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate / Tower Distance Dependent",
+      "verizon_reliability": "2-3 bars 4G LTE (10-20 Mbps download)",
+      "att_reliability": "1-3 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE / Extended",
+      "terrain_obstruction_risk": "Moderate (Jagged Kofa Mountains create signal shadows near mountain base)",
+      "distance_from_tower_corridor_miles": 8.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Primitive Flat Pullouts",
+      "Jagged Volcanic Mountain Scenery",
+      "Pristine Sonoran Desert Flora"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 4,
+      "distance_to_library_score": 3,
+      "distance_to_gym_score": 3,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Quartzsite, AZ",
+        "distance_miles": 24.5,
+        "services_available": [
+          "Propane Refill",
+          "Gas Stations",
+          "Basic Groceries",
+          "Post Office",
+          "Laundromat",
+          "Public Water Stations"
+        ]
+      },
+      {
+        "town_name": "Yuma, AZ",
+        "distance_miles": 58.0,
+        "services_available": [
+          "Walmart Supercenter",
+          "24/7 Gyms",
+          "Yuma Regional Medical Center",
+          "Full City Services",
+          "Public Library"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "75-85\u00b0F ideal conditions, blooming desert wildflowers and ocotillo.",
+      "summer": "Extremely hot (105-118\u00b0F), dangerous life-threatening heat, boondocking NOT recommended.",
+      "fall": "Warm pleasant days (80-90\u00b0F), cool starry nights (55-65\u00b0F).",
+      "winter": "Premier winter desert haven (65-75\u00b0F daytime, 40-50\u00b0F night)."
+    },
+    "dangers_and_hazards": [
+      "Extreme desert summer heat (temperatures exceeding 115\u00b0F)",
+      "Cholla cactus spines ('jumping cholla') penetrating footwear and tires",
+      "Mojave Rattlesnakes and Sonoran Sidewinders active at dusk in warm months",
+      "Flash floods filling dry desert washes during rain events"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "10/10 - Pure Sonoran Desert silence",
+      "common_human_made_sounds": [
+        "Occasional military jet flying high out of Yuma Proving Ground",
+        "Quiet desert breeze through saguaro needles"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Saguaro Cactus (Carnegiea gigantea)",
+        "Desert Ironwood (Olneya tesota)",
+        "Blue Palo Verde (Parkinsonia florida)",
+        "Ocotillo (Fouquieria splendens)",
+        "Teddy Bear Cholla (Cylindropuntia bigelovii)",
+        "California Fan Palm (Washingtonia filifera - rare wild palm canyon groves)"
+      ],
+      "common_animals": [
+        "Desert Bighorn Sheep (Ovis canadensis nelsoni)",
+        "Desert Tortoise (Gopherus agassizii)",
+        "Kit Fox (Vulpes macrotis)",
+        "Roadrunner (Geococcxy californianus)",
+        "Sonoran Sidewinder (Crotalus cerastes)"
+      ]
+    },
+    "human_demographics_and_culture": "Winter RV boondockers, solar-powered digital nomads, bighorn sheep wildlife photographers, and solitude seekers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Quechan and Mohave indigenous lore reveres the jagged Kofa spires as sacred guardians of desert water and bighorn spirit sanctuaries.",
+      "energetic_and_spiritual_features": "Profound silent desert energy, ancient ironwood tree vibrations, crystal-clear Bortle 2 night skies for deep celestial connection."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Palm Canyon Trail",
+        "length_miles": 1.4,
+        "difficulty": "Moderate (Rocky scramble)",
+        "features": "Viewing rare native California Fan Palms growing in narrow vertical rock gorge"
+      }
+    ],
+    "public_reviews_summary": "A top-tier winter boondocking paradise. Unmatched desert landscapes and dark skies. Solar power generation is 100% unimpeded.",
+    "other_data": "Bortle Class 2 night sky (exceptional star gazing). 100% unshaded solar exposure.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "az-kaibab-fr302-grand-canyon",
+    "name": "Grand Canyon Border Dispersed Camping (FR 302 / FR 688) - Kaibab National Forest",
+    "state": "Arizona",
+    "county": "Coconino County",
+    "coordinates": {
+      "latitude": 35.9612,
+      "longitude": -112.1214,
+      "elevation_ft": 6650
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Tusayan Ranger District",
+      "type": "USFS",
+      "phone": "(928) 638-2443",
+      "website": "https://www.fs.usda.gov/kaibab"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required",
+      "stay_limit": "14 consecutive days max stay within 30-day period",
+      "guidelines": "Dispersed primitive camping permitted throughout Kaibab NF land outside Grand Canyon National Park boundary. Must park within one vehicle length of forest service roads."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6 inches deep in ponderosa soil, 200 feet from drainage washes. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out. Dumpsters available in Tusayan."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only.",
+      "safety_requirements": "Campfires in established rock fire rings only. Extinguish cold to touch.",
+      "seasonal_fire_bans": "Stage 1 and Stage 2 fire restrictions common in early summer (May-July)."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved dirt and gravel forest service road (FR 302 / FR 688)",
+      "road_conditions": "Washboard gravel road with small rocks and dust. Easily drivable in dry weather.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (easily accessible along main FR 302 corridor)",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Internet",
+      "verizon_reliability": "3-4 bars 5G/LTE (20-45 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 5G LTE",
+      "terrain_obstruction_risk": "Low (Open high plateau ponderosa pine forest)",
+      "distance_from_tower_corridor_miles": 2.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Grand Canyon South Rim Proximity (2 miles)",
+      "Towering Ponderosa Pine Shade",
+      "Established Rock Fire Rings",
+      "High-speed 5G Cellular Internet"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 9,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Tusayan, AZ",
+        "distance_miles": 2.5,
+        "services_available": [
+          "General Store",
+          "Gas Stations",
+          "Restaurants",
+          "Grand Canyon Visitor Center",
+          "Medical Clinic"
+        ]
+      },
+      {
+        "town_name": "Flagstaff, AZ",
+        "distance_miles": 72.0,
+        "services_available": [
+          "Full City Services",
+          "Target / Walmart",
+          "Flagstaff Medical Center",
+          "24/7 Gyms",
+          "Northern Arizona University"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "55-70\u00b0F, breezy wind gusts, cool crisp nights.",
+      "summer": "80-88\u00b0F, pleasant high plateau summer, afternoon monsoon rainstorms.",
+      "fall": "Crisp 60-72\u00b0F days, freezing night temperatures (25-35\u00b0F), dry roads.",
+      "winter": "Cold 30-45\u00b0F daytime, sub-freezing nights (10-25\u00b0F), occasional snow dustings."
+    },
+    "dangers_and_hazards": [
+      "Elk defense during autumn rut",
+      "Freezing night temperatures in shoulder seasons",
+      "High altitude solar exposure (6,650 ft)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Ponderosa pine wind quiet",
+      "common_human_made_sounds": [
+        "Occasional helicopter scenic tour flying towards Grand Canyon",
+        "Passing camper vehicle on FR 302"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Ponderosa Pine (Pinus ponderosa)",
+        "Gambel Oak (Quercus gambelii)",
+        "Utah Juniper",
+        "Sagebrush"
+      ],
+      "common_animals": [
+        "Rocky Mountain Elk",
+        "Mule Deer",
+        "Kaibab Squirrel (Sciurus aberti kaibabensis)",
+        "Coyote",
+        "California Condor (Gymnogyps californianus overhead)"
+      ]
+    },
+    "human_demographics_and_culture": "Grand Canyon hikers, digital nomads, overlanders, road trippers, and wildlife photographers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Havasupai, Hualapai, and Hopi indigenous traditions revere the Grand Canyon and surrounding Kaibab plateau as the sacred place of emergence and ancient spirit water.",
+      "energetic_and_spiritual_features": "Profound high plateau ponderosa pine energy, high atmospheric clarity, 5G connected Grand Canyon gateway."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Arizona National Scenic Trail (Passage 37 - Grand Canyon South Rim)",
+        "length_miles": 12.0,
+        "difficulty": "Moderate",
+        "features": "Scenic ponderosa pine trail connecting Kaibab NF to South Rim entrance"
+      }
+    ],
+    "public_reviews_summary": "The single best free primitive camping option near the Grand Canyon. Just minutes from the South Rim entrance, fast 5G cell internet, and towering ponderosa pines.",
+    "other_data": "Bortle Class 2 night sky. Abundant pine deadwood.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "az-ironwood-forest-blm",
+    "name": "Ironwood Forest National Monument BLM Free Primitive Camping",
+    "state": "Arizona",
+    "county": "Pima County",
+    "coordinates": {
+      "latitude": 32.4812,
+      "longitude": -111.3814,
+      "elevation_ft": 2150
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management - Tucson Field Office",
+      "type": "BLM",
+      "phone": "(520) 258-7200",
+      "website": "https://www.blm.gov/arizona"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required",
+      "stay_limit": "14 consecutive days max stay within 28-day period",
+      "guidelines": "Dispersed primitive camping permitted within 100ft of established public dirt roads (Avra Valley Road / Silverbell Road corridor). Protect ancient desert ironwood trees."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Desert soil pack-out recommended or cat-hole 6 inches deep in sandy washes, 200 feet from drainages. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring your own firewood. Harvesting desert ironwood or palo verde is strictly illegal.",
+      "safety_requirements": "Campfires in containerized fire pans or existing rock rings only. Extinguish cold to touch.",
+      "seasonal_fire_bans": "Obey BLM Tucson fire restrictions during summer."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved county road changing to unpaved dirt desert roads (Avra Valley Road / Sasco Road)",
+      "road_conditions": "Washboard dirt roads with small wash dips and rocks.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (accessible on main dirt roads in dry weather; high clearance recommended for side spurs)",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Internet",
+      "verizon_reliability": "3-4 bars 5G/LTE (25-60 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-4 bars 5G Ultra Capacity",
+      "terrain_obstruction_risk": "Low (Open Sonoran Desert plain with Ragged Top Mountain backdrop)",
+      "distance_from_tower_corridor_miles": 3.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Ancient Desert Ironwood Grove Scenery",
+      "Ragged Top Mountain Views",
+      "100% Unshaded Solar Power Exposure",
+      "High-speed 5G Cellular Internet"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Marana / Avra Valley, AZ",
+        "distance_miles": 14.5,
+        "services_available": [
+          "Walmart Supercenter",
+          "Fry's Food",
+          "Gas Stations",
+          "Marana Library",
+          "Urgent Care"
+        ]
+      },
+      {
+        "town_name": "Tucson, AZ",
+        "distance_miles": 32.0,
+        "services_available": [
+          "Full Metropolitan Services",
+          "Tucson Medical Center",
+          "University of Arizona",
+          "24/7 Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "75-85\u00b0F ideal weather, blooming saguaro and ironwood purple flowers.",
+      "summer": "Extremely hot (102-112\u00b0F), dangerous heat, boondocking NOT recommended.",
+      "fall": "Warm pleasant days (80-90\u00b0F), cool comfortable nights (55-65\u00b0F).",
+      "winter": "Premier winter desert haven (65-75\u00b0F daytime, 42-50\u00b0F nights)."
+    },
+    "dangers_and_hazards": [
+      "Extreme summer desert heat",
+      "Mojave Rattlesnakes and Sonoran Sidewinders active in warm months",
+      "Cholla cactus spines"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Pure Sonoran Desert silence",
+      "common_human_made_sounds": [
+        "Occasional border patrol or local ranch vehicle",
+        "Soft desert wind through ironwood branches"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Desert Ironwood (Olneya tesota - 800+ year old trees)",
+        "Saguaro Cactus",
+        "Blue Palo Verde",
+        "Teddy Bear Cholla"
+      ],
+      "common_animals": [
+        "Desert Bighorn Sheep (on Ragged Top Mtn)",
+        "Javelina",
+        "Coyote",
+        "Sonoran Desert Tortoise",
+        "Cactus Wren (State bird of AZ)"
+      ]
+    },
+    "human_demographics_and_culture": "Winter digital nomads, botanical researchers, desert bighorn sheep photographers, and Tucson outdoor enthusiasts.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Tohono O'odham indigenous traditions revere the ancient Ironwood trees and Ragged Top Mountain as sacred ancestral plant guardians.",
+      "energetic_and_spiritual_features": "Ancient 800-year-old ironwood tree grounding vibrations, clear starry night skies, blazing 5G cell internet."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Ragged Top Mountain Trail",
+        "length_miles": 4.5,
+        "difficulty": "Strenuous Scramble",
+        "features": "Summit climb to desert bighorn sheep habitat with 360-degree Sonoran views"
+      }
+    ],
+    "public_reviews_summary": "Top-tier winter boondocking location near Tucson. Incredible ancient ironwood trees, zero crowds, and fast 5G cell internet.",
+    "other_data": "Bortle Class 2 night sky. 100% solar panel efficiency.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "az-plomosa-road-blm-quartzsite",
+    "name": "Plomosa Road BLM Free Dispersed Primitive Camping Area",
+    "state": "Arizona",
+    "county": "La Paz County",
+    "coordinates": {
+      "latitude": 33.7412,
+      "longitude": -114.1814,
+      "elevation_ft": 1250
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management - Yuma Field Office",
+      "type": "BLM",
+      "phone": "(928) 317-3200",
+      "website": "https://www.blm.gov/arizona"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for free 14-day BLM dispersed zone north of Plomosa Road",
+      "stay_limit": "14 consecutive days max stay within 28-day period",
+      "guidelines": "Dispersed primitive camping permitted on BLM public lands north of Plomosa Road. Camp at established desert pullouts."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Desert pack-out recommended or deep cat-hole 6 inches deep in sandy washes, 200 feet from drainages. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out. Water/trash stations available in Quartzsite."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring your own firewood. Gathering desert vegetation prohibited.",
+      "safety_requirements": "Campfires in elevated metal fire pans or existing rock rings only. Extinguish cold to touch.",
+      "seasonal_fire_bans": "Obey BLM fire restrictions."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved county road changing to flat dirt and gravel desert wash roads (Plomosa Road)",
+      "road_conditions": "Paved main access road; dirt camping pullouts are smooth with loose gravel and washboards.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (easily accessible on main dirt pullouts)",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Internet",
+      "verizon_reliability": "4-5 bars 5G/LTE (30-70 Mbps download)",
+      "att_reliability": "4-5 bars 5G/LTE",
+      "tmobile_reliability": "3-4 bars 5G Ultra Capacity",
+      "terrain_obstruction_risk": "Low (Flat open Sonoran Desert valley)",
+      "distance_from_tower_corridor_miles": 2.1,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Plomosa Mountain Range Backdrop",
+      "100% Unshaded Solar Power Exposure",
+      "High-speed 5G Cellular Internet",
+      "Flat Gravel RV/Van Parking Sites"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 8,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Quartzsite, AZ",
+        "distance_miles": 6.5,
+        "services_available": [
+          "Propane Refills",
+          "Gas Stations",
+          "Basic Groceries",
+          "Post Office",
+          "Laundromats",
+          "Water Fill Stations"
+        ]
+      },
+      {
+        "town_name": "Blythe, CA / Parker, AZ",
+        "distance_miles": 26.0,
+        "services_available": [
+          "Walmart Supercenter",
+          "Palo Verde Hospital",
+          "Gyms",
+          "Full Commercial Services"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "75-85\u00b0F ideal weather, desert bloom.",
+      "summer": "Hot (105-115\u00b0F), extreme dangerous heat.",
+      "fall": "Warm pleasant days (80-90\u00b0F), cool comfortable nights (55-65\u00b0F).",
+      "winter": "Premier winter nomad capital (65-75\u00b0F daytime, 42-50\u00b0F nights)."
+    },
+    "dangers_and_hazards": [
+      "Extreme desert summer heat",
+      "Cholla cactus spines",
+      "Mojave Rattlesnakes active in warm months"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Open desert quiet",
+      "common_human_made_sounds": [
+        "Occasional nomad rig driving on Plomosa Road",
+        "Campfire chatter from neighboring vanlifers"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Creosote Bush",
+        "Blue Palo Verde",
+        "Ocotillo",
+        "Teddy Bear Cholla"
+      ],
+      "common_animals": [
+        "Kit Fox",
+        "Desert Tortoise",
+        "Coyote",
+        "Roadrunner",
+        "Gambel's Quail"
+      ]
+    },
+    "human_demographics_and_culture": "Full-time winter RV nomads, vanlifers, solar tech enthusiasts, gem and mineral collectors, and overlanders.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Mohave and Chemehuevi indigenous lore reveres the Plomosa mountains as sacred desert hunting grounds.",
+      "energetic_and_spiritual_features": "Infinite desert horizon energy, 100% solar efficiency, world-famous winter nomad community spirit."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Plomosa Mountain Trail",
+        "length_miles": 5.0,
+        "difficulty": "Moderate",
+        "features": "Winding desert path climbing into jagged Plomosa mountain peaks"
+      }
+    ],
+    "public_reviews_summary": "The premier 100% free boondocking hub in Quartzsite. Vast open space, easy 2WD access, and blazing 5G cell internet.",
+    "other_data": "Bortle Class 3 night sky. 100% solar power availability.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "arizona-006",
+    "name": "Plomosa Road BLM Dispersed Camping Area",
+    "state": "Arizona",
+    "county": "La Paz",
+    "coordinates": {
+      "latitude": 33.7842,
+      "longitude": -114.1852,
+      "elevation_ft": 1150.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Yuma Field Office",
+      "type": "Federal",
+      "phone": "(928) 317-3200",
+      "website": "https://www.blm.gov/arizona"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive BLM dispersed camping)",
+      "stay_limit": "14 days maximum stay within a 28-day window",
+      "guidelines": "Dispersed camping allowed along Plomosa Road dirt pullouts north of Quartzsite. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Pack out human waste or bury in 6-8 inch cat-holes 200 ft from washes. RVs use Quartzsite dump station.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring firewood or collect dead palo verde/mesquite down wood.",
+      "safety_requirements": "Campfires permitted in cleared metal or stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to BLM Stage 1 & 2 fire restrictions in May/June."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved Plomosa Road to hard-packed gravel pullouts",
+      "road_conditions": "Smooth paved main road; gravel pullouts accessible by all rigs.",
+      "vehicle_recommendation": "Any vehicle including low-clearance FWD sedans and large motorhomes.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4-5 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "4 bars 5G",
+      "terrain_obstruction_risk": "Low - open desert plain surrounded by distant Plomosa mountains",
+      "distance_from_tower_corridor_miles": 2.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Hard-packed RV Pullouts",
+      "Plomosa Mountain Views",
+      "Sunset Vistas"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 7,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Quartzsite, AZ",
+        "distance_miles": 8.5,
+        "services_available": [
+          "Propane",
+          "Water Refill",
+          "Dump Station",
+          "Grocery Store",
+          "Hardware Store"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Pleasant spring weather (75-85\u00b0F) with desert wildflower blooms.",
+      "summer": "Extremely hot (105-115\u00b0F); dangerous heat.",
+      "fall": "Warm sunny days and cool desert nights.",
+      "winter": "Ideal winter desert climate (65-75\u00b0F); popular nomad snowbird hub."
+    },
+    "dangers_and_hazards": [
+      "Extreme Summer Heat",
+      "Rattlesnakes",
+      "Flash Floods in Wash Beds"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Peaceful Desert Plain (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Distant Plomosa Road traffic",
+        "Occasional generator hum"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Saguaro Cactus",
+        "Creosote Bush",
+        "Palo Verde",
+        "Ocotillo"
+      ],
+      "common_animals": [
+        "Desert Tortoise",
+        "Coyote",
+        "Gambel's Quail",
+        "Jackrabbit"
+      ]
+    },
+    "human_demographics_and_culture": "Quartzsite snowbird nomad culture and winter rockhounding hub.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Indigenous Mojave legends honor the Plomosa Mountains as spirit sentinels of the Sonoran desert.",
+      "energetic_and_spiritual_features": "Wide open desert plains offering vast 360-degree sunset vistas."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Plomosa Mountains Crest Trail",
+        "length_miles": 4.5,
+        "difficulty": "Moderate",
+        "features": "Desert mountain ridge walk, quartz veins, panoramic valley views"
+      }
+    ],
+    "public_reviews_summary": "Top choice for nomads needing lightning fast 5G cell service and easy flat access near Quartzsite.",
+    "other_data": "Water and dump stations available in nearby Quartzsite for small fee.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "arizona-007",
+    "name": "Indian Bread Rocks BLM Primitive Camping Area",
+    "state": "Arizona",
+    "county": "Cochise",
+    "coordinates": {
+      "latitude": 32.2412,
+      "longitude": -109.4125,
+      "elevation_ft": 4200.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Safford Field Office",
+      "type": "Federal",
+      "phone": "(928) 348-4400",
+      "website": "https://www.blm.gov/arizona"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive BLM dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed among granite boulder formations at Dos Cabezas mountain base. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Utilize BLM pit toilet at day-use area or bury 6-8 inches deep 200 ft from washes.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared metal or stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to BLM dry season burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel dirt access road",
+      "road_conditions": "Graded gravel road with flat pullouts among granite boulders.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car and camper vans.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open high desert plain framed by granite formations",
+      "distance_from_tower_corridor_miles": 3.1,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Granite Boulder Formations",
+      "Vault Toilet nearby",
+      "Metal Picnic Tables at Day Use",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Bowie, AZ",
+        "distance_miles": 6.2,
+        "services_available": [
+          "Gas Station",
+          "Post Office",
+          "Local Diner"
+        ]
+      },
+      {
+        "town_name": "Willcox, AZ",
+        "distance_miles": 18.5,
+        "services_available": [
+          "Supermarket",
+          "Hospital",
+          "Public Library",
+          "Hardware Store",
+          "Gym"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Mild high desert spring weather (70-80\u00b0F).",
+      "summer": "Warm to hot (90-98\u00b0F) with afternoon monsoons.",
+      "fall": "Crisp dry autumn days with glowing granite boulders.",
+      "winter": "Cool winter (45-60\u00b0F) with brisk night temps."
+    },
+    "dangers_and_hazards": [
+      "Rattlesnakes",
+      "High Desert Sun Exposure",
+      "Bee Hives in Boulder Crevices"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Granite Boulder Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Distant I-10 train horn in valley"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Scrub Oak",
+        "Mesquite",
+        "Yucca",
+        "Prickly Pear"
+      ],
+      "common_animals": [
+        "Javelina",
+        "Coati",
+        "Mule Deer",
+        "Great Horned Owl"
+      ]
+    },
+    "human_demographics_and_culture": "Cochise County historic Apache pass and high desert ranching heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Chiricahua Apache traditions honor the Dos Cabezas peak as sacred ancestral land.",
+      "energetic_and_spiritual_features": "Giant 1.5-billion-year-old weathered granite boulders generate a peaceful grounding energy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Dos Cabezas Foothills Trail",
+        "length_miles": 3.8,
+        "difficulty": "Moderate",
+        "features": "Granite bouldering outcrops, desert basin vistas"
+      }
+    ],
+    "public_reviews_summary": "Incredible bouldering landscape, clean vault toilet, and strong cell service make this a hidden nomad paradise.",
+    "other_data": "Bring fresh drinking water.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "arizona-008",
+    "name": "Coconino National Forest FR 525 Dispersed Camping Zone",
+    "state": "Arizona",
+    "county": "Yavapai",
+    "coordinates": {
+      "latitude": 34.8412,
+      "longitude": -111.9125,
+      "elevation_ft": 4450.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Coconino National Forest (Red Rock Ranger District)",
+      "type": "Federal",
+      "phone": "(928) 203-2900",
+      "website": "https://www.fs.usda.gov/coconino"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed forest camping in designated FR 525 sites)",
+      "stay_limit": "14 days maximum stay within a 30-day window",
+      "guidelines": "Camping allowed ONLY at designated numbered sites along Forest Road 525 outside Sedona red rock fee boundary. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from washes. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared metal or stone fire rings at designated sites. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS Stage 1 & 2 fire bans during dry spring/summer."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest service road (FR 525)",
+      "road_conditions": "Graded gravel road with occasional washboards; accessible by most vehicles.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car, camper vans, and small trailers.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate - high red rock plateau overview",
+      "distance_from_tower_corridor_miles": 2.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Red Rock Butte Views",
+      "Designated Numbered Sites",
+      "Dark Sky Star Observation"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 10,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Cottonwood, AZ",
+        "distance_miles": 10.5,
+        "services_available": [
+          "Supercenter",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Hardware Store"
+        ]
+      },
+      {
+        "town_name": "Sedona, AZ",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Grocery Stores",
+          "Arts & Culture",
+          "Outfitters",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush high desert spring weather (70-80\u00b0F).",
+      "summer": "Warm to hot (90-98\u00b0F); cool night air.",
+      "fall": "Stunning autumn foliage reflections on red rocks.",
+      "winter": "Cool winter (45-60\u00b0F) with light snow on red rock rims."
+    },
+    "dangers_and_hazards": [
+      "Rattlesnakes",
+      "High Summer Heat",
+      "Flash Floods in Washes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Red Rock Valley Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Occasional passing OHV tour",
+        "Distant highway US-89A hum"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Pinyon Pine",
+        "Utah Juniper",
+        "Red Rock Scrub Oak",
+        "Prickly Pear"
+      ],
+      "common_animals": [
+        "Mule Deer",
+        "Javelina",
+        "Coyote",
+        "Red-tailed Hawk"
+      ]
+    },
+    "human_demographics_and_culture": "Sedona red rock wilderness, vortex tourism, and high desert conservation culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Yavapai-Apache sacred tradition honors the red rock country of Sedona as ancestral heartland.",
+      "energetic_and_spiritual_features": "Panoramic views of Mingus Mountain and Sedona red rock bluffs radiate intense creative energy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Loy Canyon Trail & Robbers Roost",
+        "length_miles": 5.2,
+        "difficulty": "Moderate",
+        "features": "Red rock canyons, ancestral cliff alcoves, pine groves"
+      }
+    ],
+    "public_reviews_summary": "Unbelievable views of Sedona's red rocks with blazing fast 5G cell service and zero cost.",
+    "other_data": "Camp ONLY in designated numbered sites along FR 525.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "arizona-009",
+    "name": "Prescott National Forest Thumb Butte Dispersed Zone",
+    "state": "Arizona",
+    "county": "Yavapai",
+    "coordinates": {
+      "latitude": 34.5412,
+      "longitude": -112.5214,
+      "elevation_ft": 5820.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Prescott National Forest (Bradshaw Ranger District)",
+      "type": "Federal",
+      "phone": "(928) 443-8000",
+      "website": "https://www.fs.usda.gov/prescott"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Copper Basin Road (FR 53) outside Prescott city basin limit. Camp 100 ft from streams. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down pine wood locally.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS Stage 1 & 2 fire bans during dry spring/summer."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest service roads",
+      "road_conditions": "Graded gravel roads with flat ponderosa pine pullouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low - high ponderosa pine ridge looking towards Prescott",
+      "distance_from_tower_corridor_miles": 2.2,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Ponderosa Pine Shade",
+      "Prescott Valley Views",
+      "Primitive Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 7,
+      "terrain_score": 8,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Prescott, AZ",
+        "distance_miles": 6.8,
+        "services_available": [
+          "Supermarket",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Hardware Store",
+          "Historic Downtown"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Mild mountain spring (65-75\u00b0F).",
+      "summer": "Pleasant summer weather (80-86\u00b0F) escaping Phoenix heat.",
+      "fall": "Crisp mountain autumn foliage.",
+      "winter": "Cool to cold (30-48\u00b0F) with light snow."
+    },
+    "dangers_and_hazards": [
+      "High Wildfire Hazard in Summer",
+      "Javelina",
+      "Freezing Winter Night Temps"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Mountain Forest Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Distant Prescott valley hum",
+        "Occasional forest road car"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Ponderosa Pine",
+        "Gamble Oak",
+        "Alligator Juniper",
+        "Manzanita"
+      ],
+      "common_animals": [
+        "Mule Deer",
+        "Javelina",
+        "Abert's Squirrel",
+        "Mountain Lion"
+      ]
+    },
+    "human_demographics_and_culture": "Prescott mile-high mountain pine forest, historic territorial capital, and outdoor mountain biking culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Yavapai tradition honors Thumb Butte (Thumb Peak) as a sacred landmark sentinel.",
+      "energetic_and_spiritual_features": "High ponderosa pine ridges overlooking granite dells provide an invigorating mountain air."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Thumb Butte Loop Trail #33",
+        "length_miles": 2.5,
+        "difficulty": "Moderate",
+        "features": "Granite pinnacle views, ponderosa pine canopy, birdwatching"
+      }
+    ],
+    "public_reviews_summary": "Cool mile-high pine forest camping just minutes from downtown Prescott with fast 5G cell internet.",
+    "other_data": "Bring fresh drinking water.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "arizona-010",
+    "name": "Gardner Canyon Upper Dispersed Zone - Coronado National Forest",
+    "state": "Arizona",
+    "county": "Santa Cruz",
+    "coordinates": {
+      "latitude": 31.7125,
+      "longitude": -110.7412,
+      "elevation_ft": 5120.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Coronado National Forest (Nogales Ranger District)",
+      "type": "Federal",
+      "phone": "(520) 281-2296",
+      "website": "https://www.fs.usda.gov/coronado"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed forest camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Gardner Canyon Road (FR 92) pullouts at Santa Rita mountain base. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Gardner Creek wash. Pack out paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS dry season burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest service road",
+      "road_conditions": "Graded gravel road; high clearance recommended for upper canyon pullouts.",
+      "vehicle_recommendation": "CUV, SUV, or standard FWD car driven carefully.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Good (3.5/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "3 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate - Santa Rita mountain canyon slope",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Oak-Pine Canopy",
+      "Santa Rita Mountain Views",
+      "Primitive Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Sonoita, AZ",
+        "distance_miles": 9.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Local Wineries & Dining"
+        ]
+      },
+      {
+        "town_name": "Tucson, AZ",
+        "distance_miles": 42.0,
+        "services_available": [
+          "International Airport",
+          "Major Hospitals",
+          "Full Urban Amenities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush high desert mountain spring (70-78\u00b0F).",
+      "summer": "Warm (85-92\u00b0F) with cooling summer monsoons in July/August.",
+      "fall": "Crisp autumn weather with golden oak leaves.",
+      "winter": "Cool winter (48-60\u00b0F) with light mountain snow on Mount Wrightson peaks."
+    },
+    "dangers_and_hazards": [
+      "Border Region Remote Travel Caution",
+      "Rattlesnakes",
+      "Flash Floods in Wash Beds"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Mountain Canyon Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Occasional passing forest road car",
+        "High altitude commercial flights"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Emory Oak",
+        "Arizona White Oak",
+        "Pinyon Pine",
+        "Agave"
+      ],
+      "common_animals": [
+        "Coues White-tailed Deer",
+        "Coatimundi",
+        "Javelina",
+        "Elegant Trogon"
+      ]
+    },
+    "human_demographics_and_culture": "Southern Arizona sky island conservation, Sonoita wine country, and borderlands mountain heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Tohono O'odham traditions honor the Santa Rita Mountains as sacred high sky island peaks.",
+      "energetic_and_spiritual_features": "High elevation oak woodland beneath 9,400-foot Mount Wrightson offers a tranquil sky island sanctuary."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Gardner Canyon Trail & Mount Wrightson Wilderness Access",
+        "length_miles": 6.8,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Sky island oak-pine forest, mountain ridge overlooks, rare birdwatching"
+      }
+    ],
+    "public_reviews_summary": "Gorgeous sky island mountain camping near Sonoita wine country with reliable cell signal and cool mountain air.",
+    "other_data": "Bring fresh drinking water.",
+    "last_updated": "2026-09-12"
+  }
+]

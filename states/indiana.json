@@ -1,0 +1,1271 @@
+[
+  {
+    "id": "in-hoosier-blackwell-horizons",
+    "name": "Blackwell Horizons Dispersed Primitive Camping Area - Hoosier National Forest",
+    "state": "Indiana",
+    "county": "Monroe County / Jackson County",
+    "coordinates": {
+      "latitude": 39.0124,
+      "longitude": -86.3789,
+      "elevation_ft": 780
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Hoosier National Forest Headquarters",
+      "type": "USFS",
+      "phone": "(812) 275-5984",
+      "website": "https://www.fs.usda.gov/hoosier"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required",
+      "stay_limit": "14 consecutive days max stay within 30-day period",
+      "guidelines": "Dispersed primitive camping permitted at Blackwell Horizons clearing near the Charles C. Deam Wilderness border. Campsites set back 100ft from trails and ponds."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6-8 inches deep in rich organic soil, at least 200 feet from ponds or trails. Pack out all paper products.",
+      "trash_policy": "Strict Leave No Trace. Pack out all waste."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only.",
+      "safety_requirements": "Campfires in established rock fire rings only. Extinguish cold to touch.",
+      "seasonal_fire_bans": "Obey Indiana DNR / USFS fire alerts."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state road changing to well-graded gravel forest road (Tower Ridge Road / FS 15)",
+      "road_conditions": "Smooth gravel main ridge road; easy access.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (easily accessible year-round)",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Internet",
+      "verizon_reliability": "3-4 bars 5G/LTE (20-45 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 5G LTE",
+      "terrain_obstruction_risk": "Low (Open high ridge field clearing)",
+      "distance_from_tower_corridor_miles": 3.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Open Grassy Field Sites",
+      "Vault Toilet nearby at Trailhead",
+      "Established Rock Fire Rings",
+      "High-speed 5G Cellular Internet"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 7,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Bloomington, IN",
+        "distance_miles": 15.5,
+        "services_available": [
+          "Kroger / Target / Walmart",
+          "Indiana University",
+          "24/7 Gyms",
+          "IU Health Hospital",
+          "Monroe County Public Library"
+        ]
+      },
+      {
+        "town_name": "Bedford, IN",
+        "distance_miles": 18.0,
+        "services_available": [
+          "Full Supermarkets",
+          "Hardware Stores",
+          "Gas Stations",
+          "Medical Clinics"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "55-70°F, blooming dogwood and redbud, occasional rainstorms.",
+      "summer": "Hot and humid (80-88°F), lush green forest, high insect activity.",
+      "fall": "Stunning Midwest autumn colors (55-70°F daytime, 40-50°F nights), ideal camping.",
+      "winter": "Cool 30-45°F, freezing nights, occasional snow dustings."
+    },
+    "dangers_and_hazards": [
+      "Ticks and chiggers in high grass during warm months",
+      "Falling tree limbs during high winds"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Peaceful forest field soundscape",
+      "common_human_made_sounds": [
+        "Occasional horse trailer driving to Deam Wilderness trailhead",
+        "Campers talking near trailhead"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Yellow Poplar / Tulip Tree (Indiana State Tree)",
+        "Sugar Maple",
+        "White Oak",
+        "Flowering Dogwood"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Red Fox (Vulpes vulpes)",
+        "Eastern Box Turtle (Terrapene carolina)"
+      ]
+    },
+    "human_demographics_and_culture": "Backcountry backpackers (Deam Wilderness), equestrian riders, digital nomads from Bloomington, and stargazers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Miami and Shawnee indigenous traditions revere the ancient hardwood hills of southern Indiana as sacred hunting and peaceful gathering grounds.",
+      "energetic_and_spiritual_features": "Open ridge solar vitality, peaceful hardwood forest atmosphere."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Grubb Ridge Loop Trail (Charles C. Deam Wilderness)",
+        "length_miles": 13.2,
+        "difficulty": "Moderate",
+        "features": "Winding wilderness trail through oak-hickory forest and stream valleys"
+      }
+    ],
+    "public_reviews_summary": "Extremely accessible free primitive camping spot in Indiana. Outstanding 5G cell coverage and easy driving distance to Bloomington.",
+    "other_data": "Bortle Class 3 night sky. Great solar panel placement in open meadow.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "in-tower-ridge-road-hoosier-nf",
+    "name": "Tower Ridge Road Dispersed Campsites",
+    "state": "Indiana",
+    "county": "Monroe / Jackson County",
+    "coordinates": {
+      "latitude": 39.0215,
+      "longitude": -86.3654,
+      "elevation_ft": 820
+    },
+    "management_agency": {
+      "name": "US Forest Service - Hoosier National Forest (Brownstown Ranger District)",
+      "type": "USFS",
+      "phone": "(812) 275-5941",
+      "website": "https://www.fs.usda.gov/hoosier"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Hoosier National Forest Dispersed Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed camping at designated pullout sites along Tower Ridge Road. Camp 125ft minimum from roads and trails."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in soil 200 feet from drainage ravines. Pack out hygiene items.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on forest lands.",
+      "safety_requirements": "Campfires permitted in existing rock rings. Extinguish with water until cold to touch.",
+      "seasonal_fire_bans": "Fall dry leaf fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel Forest Road (Tower Ridge Road / FR 15)",
+      "road_conditions": "Smooth graded gravel, easy driving for all vehicles.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars, vans, and small rigs.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / High Ridge Line",
+      "verizon_reliability": "3-4 bars 4G LTE (15-30 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low along ridge line top road",
+      "distance_from_tower_corridor_miles": 3.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Flat Grassy Vehicle Pullouts",
+      "Stone Fire Rings",
+      "Hardwood Forest Canopy",
+      "Deam Wilderness Trailhead Access"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 7,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Bedford, IN",
+        "distance_miles": 16.0,
+        "services_available": [
+          "Walmart Supercenter",
+          "Gas Stations",
+          "Lawrence County Library",
+          "Gyms",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Bloomington, IN",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Kroger / Fresh Thyme",
+          "Indiana University Metro",
+          "Full Hospitals",
+          "Planet Fitness"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "48-66°F, blooming redbuds and dogwoods, light rain.",
+      "summer": "72-88°F, warm humid summer days under shaded hardwoods.",
+      "fall": "50-70°F, crisp pleasant autumn foliage weather.",
+      "winter": "22-40°F, dusting of snow, peaceful quiet woods."
+    },
+    "dangers_and_hazards": [
+      "Falling dead ash tree limbs (examine overhead canopy before pitching tent)",
+      "Ticks during summer months (use permethrin)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Forest songbirds and rustling leaves",
+      "common_human_made_sounds": [
+        "Occasional forest road vehicle passing"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Tulip Poplar (Indiana state tree)",
+        "White Oak",
+        "American Beech",
+        "Mayapple"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Gray Squirrel",
+        "Eastern Towhee",
+        "Red Fox"
+      ]
+    },
+    "human_demographics_and_culture": "IU college backpackers, local hunters, nomad vanlifers, regional campers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Hoosier National Forest hills hold rich pioneer history and local legends of hidden limestone caves and forest spirits.",
+      "energetic_and_spiritual_features": "Gentle rolling ridge tranquility, historic woodland solitude."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Terrill Ridge / Deam Wilderness Trail",
+        "length_miles": 5.2,
+        "difficulty": "Easy to Moderate",
+        "features": "Historic Terrill Cemetery, Monroe Lake scenic overlook"
+      }
+    ],
+    "public_reviews_summary": "Top free spot near Bloomington and Monroe Lake. Easy gravel access, strong cell signal, flat parking pullouts.",
+    "other_data": "Free Hoosier National Forest dispersed camping. No permit required.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "in-german-ridge-hoosier-nf",
+    "name": "German Ridge Trail Dispersed Primitive Camping",
+    "state": "Indiana",
+    "county": "Perry County",
+    "coordinates": {
+      "latitude": 37.9412,
+      "longitude": -86.5812,
+      "elevation_ft": 650
+    },
+    "management_agency": {
+      "name": "US Forest Service - Hoosier National Forest (Tell City Ranger District)",
+      "type": "USFS",
+      "phone": "(812) 547-7051",
+      "website": "https://www.fs.usda.gov/hoosier"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Hoosier National Forest Dispersed Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted along German Ridge Trail corridor and forest roads. Camp 125ft minimum from trails."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6 inches deep in soil 200 feet from German Ridge Lake and streams. Pack out all paper.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on forest land.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Autumn leaf dry weather fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route to gravel Forest Service roads (FR 132)",
+      "road_conditions": "Graded gravel access roads, flat pullout turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Ohio River Tower Line",
+      "verizon_reliability": "3-4 bars 4G LTE (15-35 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low along high sandstone ridge line",
+      "distance_from_tower_corridor_miles": 3.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Oak & Pine Ridge Campsites",
+      "German Ridge Lake Access",
+      "Trailhead Parking",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 7,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Tell City / Cannelton, IN",
+        "distance_miles": 10.0,
+        "services_available": [
+          "Walmart Supercenter",
+          "Gas Stations",
+          "Tell City Public Library",
+          "Hospital",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "50-68°F, blooming wild phlox and dogwood.",
+      "summer": "75-88°F, warm Southern Indiana summer days.",
+      "fall": "50-70°F, colorful Ohio River valley autumn foliage.",
+      "winter": "25-42°F, mild winter, light snow."
+    },
+    "dangers_and_hazards": [
+      "Ticks in summer months (use permethrin)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Forest wind and lake water trickles",
+      "common_human_made_sounds": [
+        "Occasional vehicle on forest road"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Oak",
+        "Shortleaf Pine",
+        "Sugar Maple",
+        "Flowering Dogwood"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Red Fox",
+        "Large-mouth Bass"
+      ]
+    },
+    "human_demographics_and_culture": "Shawnee ancestral lands, German-American pioneer heritage, Indiana outdoorsmen, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Historic 19th-century German pioneer settlement heritage. Rich Ohio River valley sandstone ridge folklore.",
+      "energetic_and_spiritual_features": "Relaxing oak ridge quietness, peaceful lake reflection views."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "German Ridge Trail Loop",
+        "length_miles": 6.2,
+        "difficulty": "Moderate",
+        "features": "German Ridge Lake, sandstone rock outcrops, hardwood forest"
+      }
+    ],
+    "public_reviews_summary": "Top free primitive camping in Southern Indiana's Hoosier National Forest. Solid cell internet, flat easy driving, and 10 minutes to Tell City.",
+    "other_data": "Hoosier National Forest. Free dispersed camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "indiana-004",
+    "name": "Pike State Forest Dispersed Primitive Campsites",
+    "state": "Indiana",
+    "county": "Pike",
+    "coordinates": {
+      "latitude": 38.3142,
+      "longitude": -87.1652,
+      "elevation_ft": 480.0
+    },
+    "management_agency": {
+      "name": "Indiana Department of Natural Resources (DNR) - Division of Forestry",
+      "type": "State",
+      "phone": "(812) 367-1524",
+      "website": "https://www.in.gov/dnr/forestry"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night, no fees required for dispersed camping)",
+      "stay_limit": "14 days maximum stay within a 30-day period",
+      "guidelines": "Primitive camping permitted in designated pullout zones and trailside areas. Maintain 100 feet distance from water bodies."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste in 6-8 inch cat-holes at least 200 feet from water. Pack out hygiene products.",
+      "trash_policy": "Carry in, carry out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires allowed in existing stone rings. Extinguish fully.",
+      "seasonal_fire_bans": "Subject to Indiana DNR dry weather burn advisories."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest roads",
+      "road_conditions": "Smooth gravel road access with small pullout turnouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Good (3.5/5 Stars)",
+      "verizon_reliability": "3 bars 4G LTE",
+      "att_reliability": "3 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - rolling timber hill country",
+      "distance_from_tower_corridor_miles": 3.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Gravel Pullouts",
+      "Primitive Fire Rings",
+      "Shaded Oak Canopy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 5,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Petersburg, IN",
+        "distance_miles": 9.4,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Local Dining"
+        ]
+      },
+      {
+        "town_name": "Jasper, IN",
+        "distance_miles": 18.6,
+        "services_available": [
+          "Supercenter",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush green southern Indiana hardwood forest blooming.",
+      "summer": "Warm and humid (80-88°F) with cicada soundscapes.",
+      "fall": "Rich autumn leaf colors; warm days and cool nights.",
+      "winter": "Chilly (22-38°F) with light periodic snow."
+    },
+    "dangers_and_hazards": [
+      "Ticks",
+      "Poison Ivy",
+      "Mosquitoes near Patoka River"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Peaceful Forest (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Distant agricultural machinery",
+        "Occasional passing vehicle"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Tulip Tree (Indiana State Tree)",
+        "White Oak",
+        "Sugar Maple",
+        "Black Walnut"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Gray Squirrel",
+        "Eastern Bluebird"
+      ]
+    },
+    "human_demographics_and_culture": "Southern Indiana rural timberland and agricultural heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Folklore tells of quiet spirit lights seen over old Patoka River bottomlands.",
+      "energetic_and_spiritual_features": "Gentle hardwood hills providing a relaxing, grounded ambiance."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Pike State Forest Multi-Use Trail",
+        "length_miles": 5.2,
+        "difficulty": "Easy to Moderate",
+        "features": "Rolling hardwood hills, creek crossings, pine plantations"
+      }
+    ],
+    "public_reviews_summary": "Very quiet state forest with easy access and reliable cell service for remote work.",
+    "other_data": "Bring potable water as forest sources are non-potable.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "indiana-005",
+    "name": "Greene-Sullivan State Forest Primitive Dispersed Campsites",
+    "state": "Indiana",
+    "county": "Greene / Sullivan",
+    "coordinates": {
+      "latitude": 39.0215,
+      "longitude": -87.2148,
+      "elevation_ft": 520.0
+    },
+    "management_agency": {
+      "name": "Indiana Department of Natural Resources (DNR) - Division of Forestry",
+      "type": "State",
+      "phone": "(812) 648-2698",
+      "website": "https://www.in.gov/dnr/forestry"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night, primitive backcountry sites are free of charge)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Primitive camping allowed near over 120 reclaimed strip-mine lakes. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Use vault toilets at main sites or bury 6-8 inches deep 200 ft from lakes.",
+      "trash_policy": "Pack it in, pack it out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood collection permitted.",
+      "safety_requirements": "Use established fire rings. Douse with water.",
+      "seasonal_fire_bans": "Subject to Indiana DNR burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest roads",
+      "road_conditions": "Well-maintained gravel roads connecting lake basins.",
+      "vehicle_recommendation": "Standard low-clearance FWD car accessible.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open lake shorelines and gentle hills",
+      "distance_from_tower_corridor_miles": 2.4,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Primitive Fire Rings",
+      "Lake Shoreline Access",
+      "Fishing Pier Access",
+      "Vault Toilets nearby"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 6,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Linton, IN",
+        "distance_miles": 6.2,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Terre Haute, IN",
+        "distance_miles": 32.5,
+        "services_available": [
+          "Supercenters",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Auto Repair"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lakes fill with spring rain; excellent bluegill and bass fishing.",
+      "summer": "Warm (82-90°F) with clear lake waters for paddling.",
+      "fall": "Cool, crisp fall days with reflecting autumn foliage on lakes.",
+      "winter": "Cold (20-35°F); lakes freeze over periodically."
+    },
+    "dangers_and_hazards": [
+      "Deep Mine Pit Lakes (Sudden Drop-offs)",
+      "Ticks",
+      "Mosquitoes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Tranquil Water Soundscape (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Distant trolling motor hum",
+        "Occasional passing car"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Cottonwood",
+        "Black Willow",
+        "Sycamore",
+        "Cattails"
+      ],
+      "common_animals": [
+        "Largemouth Bass",
+        "Beaver",
+        "Great Blue Heron",
+        "White-tailed Deer"
+      ]
+    },
+    "human_demographics_and_culture": "Southwestern Indiana coal mining heritage turned conservation and angling paradise.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Stories of legendary giant bass lurking in the crystal waters of reclaimed deep pit lakes.",
+      "energetic_and_spiritual_features": "Calm, mirror-like lakes provide peaceful reflection."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Greene-Sullivan Lake Trail",
+        "length_miles": 3.8,
+        "difficulty": "Easy",
+        "features": "Winding lakeside path around reclaimed pristine fishing lakes"
+      }
+    ],
+    "public_reviews_summary": "Incredible spot for kayak camping, fishing, and working remotely with strong cell coverage.",
+    "other_data": "Indiana fishing license required for angling in state forest lakes.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "indiana-006",
+    "name": "Charles C. Deam Wilderness Dispersed Area - Hoosier NF",
+    "state": "Indiana",
+    "county": "Monroe",
+    "coordinates": {
+      "latitude": 39.0112,
+      "longitude": -86.3812,
+      "elevation_ft": 840.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Hoosier National Forest (Brownstown District)",
+      "type": "Federal",
+      "phone": "(812) 275-5941",
+      "website": "https://www.fs.usda.gov/hoosier"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS wilderness dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free primitive dispersed camping allowed throughout 13,000-acre Charles C. Deam Wilderness 100 ft from trails and Lake Monroe. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Lake Monroe. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state road to gravel Tower Ridge Road",
+      "road_conditions": "Paved road access; smooth gravel ridge access road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low on high ridge line",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Lake Monroe Shoreline Views",
+      "Hardwood-Pine Forest Canopy",
+      "Sycamore Loop Trail Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Heltonville, IN",
+        "distance_miles": 7.0,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush ridge spring (56-70°F).",
+      "summer": "Warm summer (80-88°F) with canopy shade.",
+      "fall": "Spectacular southern Indiana autumn foliage.",
+      "winter": "Cool winter (26-40°F)."
+    },
+    "dangers_and_hazards": [
+      "Copperhead Snakes",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Hoosier Wilderness Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind in sugar maple canopy",
+        "Lake Monroe distant water lap"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Sugar Maple",
+        "Yellow Poplar",
+        "White Oak",
+        "Virginia Pine"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Bald Eagle",
+        "Gray Fox"
+      ]
+    },
+    "human_demographics_and_culture": "Miami and Delaware ancestral lands and Indiana wilderness preservation history.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Indiana's only designated federal wilderness area, preserving pristine unglaciated knobstone hills.",
+      "energetic_and_spiritual_features": "Quiet ridge trails overlooking Lake Monroe's vast water basins."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Sycamore Loop Trail",
+        "length_miles": 6.3,
+        "difficulty": "Moderate",
+        "features": "Lake Monroe shoreline, hardwood ridges, pine groves"
+      }
+    ],
+    "public_reviews_summary": "Top-tier wilderness basecamp near Bloomington and Heltonville with dependable cell service.",
+    "other_data": "Free self-registration at trailhead.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "indiana-007",
+    "name": "Nebo Ridge Trailhead Primitive Area - Hoosier NF",
+    "state": "Indiana",
+    "county": "Brown",
+    "coordinates": {
+      "latitude": 39.1112,
+      "longitude": -86.2412,
+      "elevation_ft": 890.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Hoosier National Forest",
+      "type": "Federal",
+      "phone": "(812) 275-5941",
+      "website": "https://www.fs.usda.gov/hoosier"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Nebo Ridge trailhead Forest Service pullouts. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Salt Creek tributaries. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved county road to gravel Forest Service road",
+      "road_conditions": "Paved county road access; smooth gravel ridge road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - high ridge line",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Nebo Ridge Trail Access",
+      "Brown County Oak Canopy",
+      "Granite/Gravel Pullouts",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Story, IN",
+        "distance_miles": 5.0,
+        "services_available": [
+          "Historic Inn",
+          "General Store",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Fresh mountain spring (56-70°F).",
+      "summer": "Warm summer (80-88°F).",
+      "fall": "World-famous Brown County autumn colors.",
+      "winter": "Cool winter (26-40°F)."
+    },
+    "dangers_and_hazards": [
+      "Copperhead Snakes",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Brown County Ridge Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through red oak leaves",
+        "Songbirds"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Red Oak",
+        "White Oak",
+        "Shagbark Hickory",
+        "Dogwood"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Red Fox",
+        "Pileated Woodpecker"
+      ]
+    },
+    "human_demographics_and_culture": "Miami ancestral lands and Brown County artisan and timber heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Nebo Ridge runs along high unglaciated sandstone ridges deep in southern Indiana.",
+      "energetic_and_spiritual_features": "Panoramic views over rolling hardwood ridges with magnificent autumn colors."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Nebo Ridge Trail",
+        "length_miles": 8.5,
+        "difficulty": "Moderate",
+        "features": "Long ridge walk, hardwood forest canopy, wildlife viewing"
+      }
+    ],
+    "public_reviews_summary": "Peaceful high-ridge forest basecamp near Story with strong cell coverage.",
+    "other_data": "Near historic Story Inn.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "indiana-008",
+    "name": "Hickory Ridge Dispersed Zone - Hoosier NF",
+    "state": "Indiana",
+    "county": "Jackson",
+    "coordinates": {
+      "latitude": 38.9612,
+      "longitude": -86.3112,
+      "elevation_ft": 860.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Hoosier National Forest",
+      "type": "Federal",
+      "phone": "(812) 275-5941",
+      "website": "https://www.fs.usda.gov/hoosier"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Forest Service road 150 pullouts near Hickory Ridge Fire Tower. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel Forest Service road",
+      "road_conditions": "Graded gravel forest road; smooth turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - ridge plateau",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Hickory Ridge Fire Tower Overlooks",
+      "Hardwood-Pine Forest Canopy",
+      "Trailhead Parking",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Norman, IN",
+        "distance_miles": 6.0,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush spring (56-70°F).",
+      "summer": "Warm summer (80-88°F).",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cool winter (26-40°F)."
+    },
+    "dangers_and_hazards": [
+      "Fire Tower Climbing Hazards",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Hickory Ridge Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through red pines",
+        "Songbirds"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Red Pine",
+        "White Oak",
+        "Yellow Poplar",
+        "Wild Geranium"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Red Fox",
+        "Sharp-shinned Hawk"
+      ]
+    },
+    "human_demographics_and_culture": "Miami ancestral lands and 1930s CCC fire tower lookouts heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Historic 110-foot Hickory Ridge Fire Tower built by the CCC in 1939.",
+      "energetic_and_spiritual_features": "360-degree panoramic views over Hoosier National Forest canopy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Hickory Ridge Trail #1",
+        "length_miles": 4.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Fire tower overlook, pine groves, oak forest walk"
+      }
+    ],
+    "public_reviews_summary": "Scenic high ridge basecamp near Norman with fast cell service and fire tower views.",
+    "other_data": "Fire tower open to public climbing.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "indiana-009",
+    "name": "Mogan Ridge Trail Dispersed Area - Hoosier NF",
+    "state": "Indiana",
+    "county": "Perry",
+    "coordinates": {
+      "latitude": 38.0112,
+      "longitude": -86.5112,
+      "elevation_ft": 750.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Hoosier National Forest (Tell City District)",
+      "type": "Federal",
+      "phone": "(812) 547-7051",
+      "website": "https://www.fs.usda.gov/hoosier"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Mogan Ridge trail pullouts. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Oil Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved county road to gravel Forest Service road",
+      "road_conditions": "Paved road access; smooth gravel ridge road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - high ridge line",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Ohio River Valley Overlooks",
+      "Oak-Hickory Canopy",
+      "Mogan Ridge Trail Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Derby, IN",
+        "distance_miles": 5.0,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "River Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush spring (58-72°F).",
+      "summer": "Warm summer (82-88°F).",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cool winter (28-42°F)."
+    },
+    "dangers_and_hazards": [
+      "Copperhead Snakes",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Ohio Valley Ridge Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through red oak",
+        "Songbirds"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Oak",
+        "Post Oak",
+        "Shagbark Hickory",
+        "Dogwood"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Gray Fox",
+        "Broad-winged Hawk"
+      ]
+    },
+    "human_demographics_and_culture": "Shawnee ancestral lands and Ohio River valley pioneer heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Mogan Ridge overlooks deep forested ravines draining into the historic Ohio River.",
+      "energetic_and_spiritual_features": "Quiet southern Indiana hardwood ridges with river valley breezes."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Mogan Ridge East Loop",
+        "length_miles": 5.0,
+        "difficulty": "Moderate",
+        "features": "Ridge walk, ravine views, oak-hickory forest"
+      }
+    ],
+    "public_reviews_summary": "Peaceful ridge basecamp near Derby and the Ohio River with strong cell service.",
+    "other_data": "Ohio River scenic views nearby.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "indiana-010",
+    "name": "Tipsaw Lake Forest Dispersed Zone - Hoosier NF",
+    "state": "Indiana",
+    "county": "Perry",
+    "coordinates": {
+      "latitude": 38.0812,
+      "longitude": -86.5812,
+      "elevation_ft": 680.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Hoosier National Forest",
+      "type": "Federal",
+      "phone": "(812) 547-7051",
+      "website": "https://www.fs.usda.gov/hoosier"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside paid campground)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Forest Service road pullouts outside paid campground perimeter. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Tipsaw Lake. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway to gravel forest access road",
+      "road_conditions": "Paved access road; smooth gravel forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open lake coves",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Tipsaw Lake Shoreline Access",
+      "Pine-Oak Canopy",
+      "Boat Ramp & Fishing Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Tell City, IN",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Grocery Store",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush spring (58-72°F).",
+      "summer": "Warm summer (82-88°F) with lake swimming.",
+      "fall": "Crisp autumn fishing days.",
+      "winter": "Cool winter (28-42°F)."
+    },
+    "dangers_and_hazards": [
+      "Lake Water Hazards",
+      "Copperhead Snakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Tipsaw Lake Cove Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Tipsaw lake wave lap",
+        "Pine wind"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "White Oak",
+        "Red Maple",
+        "Dogwood"
+      ],
+      "common_animals": [
+        "Large-mouth Bass",
+        "Bluegill",
+        "White-tailed Deer",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Shawnee ancestral lands and Perry County lake recreation heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "145-acre Tipsaw Lake nestled in the pine-hardwood hills of southern Indiana.",
+      "energetic_and_spiritual_features": "Quiet lakeside forest points with crystal clear water views."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Tipsaw Lake Trail",
+        "length_miles": 5.9,
+        "difficulty": "Easy to Moderate",
+        "features": "Lake shoreline walk, pine-hardwood canopy, wildlife viewing"
+      }
+    ],
+    "public_reviews_summary": "Pristine lakeside basecamp near Tell City with dependable 4G cell coverage.",
+    "other_data": "Great bass and bluegill fishing.",
+    "last_updated": "2026-09-12"
+  }
+]

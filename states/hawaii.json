@@ -1,0 +1,1278 @@
+[
+  {
+    "id": "hi-mauna-kea-hilo-fr-primitive",
+    "name": "Mauna Kea / Hilo Forest Reserve Backcountry Primitive Camping",
+    "state": "Hawaii",
+    "county": "Hawaii County (Big Island)",
+    "coordinates": {
+      "latitude": 19.7214,
+      "longitude": -155.3218,
+      "elevation_ft": 6400
+    },
+    "management_agency": {
+      "name": "Hawaii Department of Land and Natural Resources (DLNR) - Division of Forestry and Wildlife",
+      "type": "State DLNR",
+      "phone": "(808) 974-4221",
+      "website": "https://dlnr.hawaii.gov/dofaw"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Free DLNR Forest Reserve Permit required online/in-person (zero fee)",
+      "stay_limit": "3 consecutive nights maximum stay limit",
+      "guidelines": "Primitive backcountry camping permitted at designated forest reserve shelters/sites along Mana Road corridor. Must carry approved DLNR permit."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Volcanic soil / lava substrate: dig cat-hole 6 inches deep in soil pockets, 200 feet from stream channels. Pack out toilet paper and hygiene items.",
+      "trash_policy": "Strict Leave No Trace. Zero trash bins on high-elevation forest reserve lands."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on site.",
+      "safety_requirements": "Campfires permitted in designated stone fire rings only. Must be extinguished completely before vacating site.",
+      "seasonal_fire_bans": "Obey DLNR fire warnings during dry mountain periods."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved volcanic gravel/dirt mountain road (Mana Road / Saddle Road junction)",
+      "road_conditions": "Rough volcanic cinder gravel, steep grades, deep mud puddles after tropical rains.",
+      "vehicle_recommendation": "High clearance 4x4 required (Mana Road is rough and unmaintained; standard 2WD cars cannot navigate volcanic ruts)",
+      "scores": {
+        "road_grade": 7,
+        "road_terrain_difficulty": 8,
+        "supply_run_pain": 7
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate / High Altitude Advantage",
+      "verizon_reliability": "2-3 bars 4G LTE (10-25 Mbps download on clear mountain slopes)",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate (Open high volcanic mountain slopes, but gulches obstruct line of sight)",
+      "distance_from_tower_corridor_miles": 8.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Rustic Wooden Shelter",
+      "Rainwater Catchment Tank (Treatment mandatory)",
+      "Primitive Stone Fire Ring",
+      "Panoramic Mauna Kea / Mauna Loa Views"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 4,
+      "distance_to_library_score": 3,
+      "distance_to_gym_score": 3,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Waimea (Kamuela), HI",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Supermarkets",
+          "Gas Stations",
+          "Hardware Store",
+          "Pharmacy",
+          "Thelma Parker Public Library"
+        ]
+      },
+      {
+        "town_name": "Hilo, HI",
+        "distance_miles": 34.0,
+        "services_available": [
+          "Full City Services",
+          "Hilo Medical Center",
+          "Target / Safeway",
+          "24/7 Gyms",
+          "Public Library"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "55-68°F, cool tropical mountain air, passing misty showers.",
+      "summer": "60-72°F, pleasant high-elevation escape from coastal heat.",
+      "fall": "55-68°F, clear starry night skies, cool breeze.",
+      "winter": "Cool 40-58°F daytime, chilly 30-40°F nights, snow visible on Mauna Kea summit."
+    },
+    "dangers_and_hazards": [
+      "Rapid weather changes bringing thick mountain fog and heavy tropical rain",
+      "Rough volcanic cinder roads causing flat tires and undercarriage damage",
+      "High altitude exertion (6,400+ feet elevation)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "10/10 - High volcanic mountain serenity",
+      "common_human_made_sounds": [
+        "Infrequent 4x4 hunter truck passing on Mana Road",
+        "High-altitude trans-Pacific jet contrails"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Ohi'a Lehua (Metrosideros polymorpha)",
+        "Koa (Acacia koa)",
+        "Pukiawe (Leptecophylla tameiameiae)",
+        "Ama'u Fern (Sadleria cyatheoides)"
+      ],
+      "common_animals": [
+        "Nene / Hawaiian Goose (Branta sandvicensis - endemic state bird)",
+        "Io / Hawaiian Hawk (Buteo solitarius)",
+        "Feral Sheep / Mouflon",
+        "Feral Pig (Sus scrofa)"
+      ]
+    },
+    "human_demographics_and_culture": "Local pig/sheep hunters, native Hawaiian forest gatherers, off-grid adventure nomads, and stargazers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Native Hawaiian oral traditions (Mo'olelo) honor Mauna Kea as the sacred realm of Wakea (Sky Father) and Poli'ahu (Snow Goddess). The native Ohi'a forests are deeply sacred.",
+      "energetic_and_spiritual_features": "Profound volcanic mountain mana (spiritual energy), exceptional high-elevation atmospheric clarity, sacred island ground."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Mana Road High Mountain Loop",
+        "length_miles": 14.0,
+        "difficulty": "Strenuous 4x4 / Hike",
+        "features": "Volcanic mountain slopes, endemic native rainforest, Mauna Kea views"
+      }
+    ],
+    "public_reviews_summary": "Extremely unique high-elevation island boondocking experience. 4x4 vehicle is mandatory. Breathtaking views of Mauna Kea and pristine starry night skies.",
+    "other_data": "Bortle Class 1 night sky (world-class stargazing). Free DLNR permit required.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "hi-waimanu-valley-primitive",
+    "name": "Waimanu Valley Wilderness Primitive Campsites",
+    "state": "Hawaii",
+    "county": "Hawaii County (Big Island)",
+    "coordinates": {
+      "latitude": 20.1442,
+      "longitude": -155.6318,
+      "elevation_ft": 40
+    },
+    "management_agency": {
+      "name": "Hawaii DLNR - Division of Forestry and Wildlife (DOFAW)",
+      "type": "State DLNR",
+      "phone": "(808) 974-4221",
+      "website": "https://dlnr.hawaii.gov/dofaw"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Free DLNR Wilderness Permit required online (zero cost)",
+      "stay_limit": "6 consecutive nights maximum stay limit",
+      "guidelines": "Strenuous wilderness access via Muliwai Trail across 9 deep valleys. Leave No Trace mandatory. No trash services."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Composting toilet available at valley mouth or dig 6-8 inch cat-holes 200ft from Waimanu Stream and ocean line. Pack out hygiene products.",
+      "trash_policy": "Strict Pack-In / Pack-Out wilderness policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gathering fallen beach drift wood and invasive dead vegetation permitted.",
+      "safety_requirements": "Campfires permitted on sandy beach zone below high tide mark or established fire rings.",
+      "seasonal_fire_bans": "Observe dry weather high-wind fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Hike-in Wilderness Trail (Muliwai Trail / Waipio Valley trailhead access)",
+      "road_conditions": "No vehicle access to valley. 9-mile strenuous mountain backpack trail across 1,200ft valley walls.",
+      "vehicle_recommendation": "Vehicle parked at Waipio Valley Lookout (4x4 required if driving down Waipio valley road to trailhead)",
+      "scores": {
+        "road_grade": 9,
+        "road_terrain_difficulty": 10,
+        "supply_run_pain": 10
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "No Cellular Signal / Deep Valley Isolation",
+      "verizon_reliability": "No Service (0 bars in deep valley bay)",
+      "att_reliability": "No Service",
+      "tmobile_reliability": "No Service",
+      "terrain_obstruction_risk": "Extreme (1,000+ ft sheer valley cliffs block all cellular towers)",
+      "distance_from_tower_corridor_miles": 12.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Primitive Beach Campsites",
+      "Stream Water Source (Boil/Filter Mandatory)",
+      "Composting Vault Toilet",
+      "Pristine Black Sand Beach & Waterfalls"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 2,
+      "distance_to_library_score": 2,
+      "distance_to_gym_score": 1,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Honokaa, HI",
+        "distance_miles": 18.0,
+        "services_available": [
+          "Grocery Market",
+          "Gas Station",
+          "Pharmacy",
+          "Local Restaurants",
+          "Public Library"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "68-78°F, lush tropical waterfall flows, ocean swells.",
+      "summer": "72-83°F, warm tropical humidity, calm coastal ocean waters.",
+      "fall": "70-80°F, moderate rainfall, warm sea breeze.",
+      "winter": "66-76°F, heavy tropical rainfall, high ocean swells."
+    },
+    "dangers_and_hazards": [
+      "Flash flooding in stream crossings during heavy mountain rainfall",
+      "Rogue waves and strong ocean currents along black sand beach",
+      "Exhaustion and steep 1,200ft trail switchbacks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "10/10 - Ocean surf, waterfall thunder, and tropical bird calls",
+      "common_human_made_sounds": [
+        "None (Wilderness area)"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Hapu'u Tree Fern",
+        "Noni",
+        "Kukui (Candlenut)",
+        "Coconut Palms",
+        "Ohi'a Lehua"
+      ],
+      "common_animals": [
+        "Hawaiian White-tailed Tropicbird (Koa'e Kea)",
+        "Honu (Hawaiian Green Sea Turtle)",
+        "Feral Boar"
+      ]
+    },
+    "human_demographics_and_culture": "Backcountry backpackers, native Hawaiian cultural stewards, wilderness enthusiasts.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Waimanu Valley is steeped in ancient Hawaiian legend as a secluded valley of kings, sacred streams, and protective spirits of the forest.",
+      "energetic_and_spiritual_features": "Powerful tropical valley mana, roaring waterfalls, serene secluded black sand bay."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Muliwai Trail to Waiilikahi Falls",
+        "length_miles": 18.0,
+        "difficulty": "Extreme Backpack",
+        "features": "9 valley crossings, 1,000ft waterfall view, black sand ocean bay"
+      }
+    ],
+    "public_reviews_summary": "One of the most epic and remote wilderness camping locations in Hawaii. Extremely challenging hike in, but unmatched tropical paradise experience.",
+    "other_data": "Requires free DLNR permit. Zero cell service; bring satellite communicator (Garmin inReach).",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "hi-peacock-flats-fr-primitive",
+    "name": "Peacock Flats / Mokuleia Forest Reserve Primitive Camping",
+    "state": "Hawaii",
+    "county": "Honolulu County (Oahu)",
+    "coordinates": {
+      "latitude": 21.5645,
+      "longitude": -158.1925,
+      "elevation_ft": 1550
+    },
+    "management_agency": {
+      "name": "Hawaii DLNR - Division of Forestry and Wildlife (Oahu Branch)",
+      "type": "State DLNR",
+      "phone": "(808) 587-0166",
+      "website": "https://dlnr.hawaii.gov/dofaw"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Free DLNR Forest Reserve Permit required online (zero fee)",
+      "stay_limit": "3 consecutive nights maximum stay limit",
+      "guidelines": "Primitive camping in designated grassy flat clearing atop Mokuleia Ridge. Access gate combination provided with free permit."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Composting toilet available near campsite flat or dig cat-holes 6 inches deep in soil 200ft from waterways.",
+      "trash_policy": "Strict Leave No Trace. Pack out all garbage."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gathering dead and down branches permitted in forest reserve.",
+      "safety_requirements": "Campfires permitted in established metal fire rings only.",
+      "seasonal_fire_bans": "High fire risk during summer dry season on Oahu's North Shore mountains."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved to steep unpaved 4x4 dirt mountain road (Mokuleia Access Road)",
+      "road_conditions": "Steep switchbacks, deep red dirt ruts, slick clay mud when wet.",
+      "vehicle_recommendation": "High clearance 4x4 mandatory (locked DLNR gate at bottom; 4x4 permit required for vehicle access, or 3.5 mile hike-in)",
+      "scores": {
+        "road_grade": 8,
+        "road_terrain_difficulty": 8,
+        "supply_run_pain": 6
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Good / High Ridge Line Elevation",
+      "verizon_reliability": "3-4 bars 4G LTE (15-35 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low on top ridge clearing",
+      "distance_from_tower_corridor_miles": 3.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Covered Picnic Shelters",
+      "Composting Toilet",
+      "Grassy Camping Areas",
+      "Fire Rings",
+      "Panoramic Ocean Views of Oahu North Shore"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Waialua / Haleiwa, HI",
+        "distance_miles": 7.5,
+        "services_available": [
+          "Supermarkets",
+          "Gas Stations",
+          "Surf Shops",
+          "Restaurants",
+          "Health Clinic"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "68-80°F, pleasant mountain breezes, occasional afternoon mist.",
+      "summer": "72-85°F, sunny warm mountain ridge weather.",
+      "fall": "70-82°F, trade winds keep temperatures comfortable.",
+      "winter": "64-76°F, passing rain squalls, green lush mountain vegetation."
+    },
+    "dangers_and_hazards": [
+      "Slick mud switchbacks on 4x4 road during heavy rains",
+      "High cliff edges along Mokuleia Ridge trails",
+      "Mosquitoes in forested gulches"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Mountain bird calls and ocean breeze",
+      "common_human_made_sounds": [
+        "Distant military aviation overflights",
+        "Occasional 4x4 engine"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Ironwood Trees",
+        "Eucalyptus",
+        "Cook Pines",
+        "Native Ohi'a",
+        "Lilikoi Passionfruit Vines"
+      ],
+      "common_animals": [
+        "Oahu Elepaio (endemic bird)",
+        "Plover",
+        "Feral Pigs",
+        "Chukar Partridge"
+      ]
+    },
+    "human_demographics_and_culture": "Local hikers, mountain bikers, 4x4 enthusiasts, and North Shore campers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Mokuleia and the Waianae mountain range are honored in Hawaiian traditions as ancient dwelling places of forest guardians.",
+      "energetic_and_spiritual_features": "High ridge breezes, ocean-to-mountain vista energy, peaceful starry nights."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Kealia Trail / Mokuleia Ridge Loop",
+        "length_miles": 7.0,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Sweeping North Shore ocean panoramas, Norfolk pine groves"
+      }
+    ],
+    "public_reviews_summary": "Incredible ocean view ridge camping on Oahu. Free permit with DLNR gate code required. Great cell connectivity for remote work.",
+    "other_data": "Free DLNR permit required. 4x4 recommended for driving up or park at bottom and hike up.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "hawaii-004",
+    "name": "Waimanu Valley Primitive Wilderness Campsites",
+    "state": "Hawaii",
+    "county": "Hawaii (Big Island)",
+    "coordinates": {
+      "latitude": 20.1442,
+      "longitude": -155.6328,
+      "elevation_ft": 25.0
+    },
+    "management_agency": {
+      "name": "Hawaii Department of Land and Natural Resources (DLNR) - Division of Forestry and Wildlife",
+      "type": "State",
+      "phone": "(808) 974-4221",
+      "website": "https://dlnr.hawaii.gov/dofaw/"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive backcountry wilderness permit obtainable online through DLNR portal)",
+      "stay_limit": "6 consecutive nights maximum stay",
+      "guidelines": "Primitive wilderness backpacking access only via Muliwai Trail from Waipio Valley. Strict Leave No Trace required. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Composting toilets located in Waimanu Valley. Pack out all plastic waste and personal hygiene items.",
+      "trash_policy": "Strict Pack-It-In, Pack-It-Out rule. Absolutely no trash disposal facilities."
+    },
+    "campfire_rules": {
+      "permitted": false,
+      "firewood_policy": "No wood fires permitted. Backpacking gas stoves only.",
+      "safety_requirements": "Camp stoves must be operated on stable ground away from dry foliage.",
+      "seasonal_fire_bans": "Open campfires strictly prohibited year-round in Waimanu Valley Preserve."
+    },
+    "access_and_road_conditions": {
+      "road_type": "No vehicle access; strenuous 9-mile wilderness backpacking trail (Muliwai Trail)",
+      "road_conditions": "Extremely steep z-trail climbs out of Waipio Valley, crossing 13 gulches to reach Waimanu Valley.",
+      "vehicle_recommendation": "Vehicle left at trailhead parking (4x4 required to reach Waipio Valley bottom, or park FWD car at Waipio Lookout).",
+      "scores": {
+        "road_grade": 10,
+        "road_terrain_difficulty": 10,
+        "supply_run_pain": 10
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Zero (0/5 Stars)",
+      "verizon_reliability": "No service",
+      "att_reliability": "No service",
+      "tmobile_reliability": "No service",
+      "terrain_obstruction_risk": "Extreme - deep 3,000-foot volcanic amphitheater valley walls completely block cell signals",
+      "distance_from_tower_corridor_miles": 18.5,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Composting Privy",
+      "Freshwater Stream Source (Boil/Filter Required)",
+      "Black Sand Beach Access",
+      "Wilderness Solitude"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 1,
+      "distance_to_library_score": 1,
+      "distance_to_gym_score": 1,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Honokaa, HI",
+        "distance_miles": 18.2,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Restaurants",
+          "Post Office"
+        ]
+      },
+      {
+        "town_name": "Hilo, HI",
+        "distance_miles": 56.4,
+        "services_available": [
+          "Major Supercenters",
+          "Hospital",
+          "Public Library",
+          "Fitness Centers",
+          "Airport"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Warm and tropical with frequent mountain showers feeding dramatic waterfalls.",
+      "summer": "Warm ocean breezes (78-85°F), higher humidity, ocean swimming opportunities.",
+      "fall": "Tropical rains with lush green valley vegetation.",
+      "winter": "Increased rainfall and high sea swells along north shore beach line."
+    },
+    "dangers_and_hazards": [
+      "Flash Floods in Stream Crossings",
+      "Extreme Elevation Change & Heat Exhaustion on Trail",
+      "Falling Coconuts and Rocks",
+      "High Ocean Surf and Strong Rip Currents",
+      "Total Isolation (No Cell Service)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Sublime Ocean & Waterfall Soundscape (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Occasional tour helicopter high overhead"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Ohi'a Lehua",
+        "Hapu'u Tree Fern",
+        "Kukui (Candlenut)",
+        "Noni",
+        "Wild Banana"
+      ],
+      "common_animals": [
+        "Hawaiian Hoary Bat ('Ope'ape'a)",
+        "Nene Goose",
+        "Hawaiian Hawk ('Io)",
+        "Feral Pigs",
+        "Pacific Golden Plover"
+      ]
+    },
+    "human_demographics_and_culture": "Native Hawaiian sacred ancestral valley landscape (Waipio & Waimanu) deeply rooted in Hawaiian history, taro farming, and royal traditions.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Hawaiian tradition reveres Waimanu as a place of immense Mana (spiritual power), sacred to the Mo'o (water dragon guardians) of the waterfall pools.",
+      "energetic_and_spiritual_features": "3,000-foot green cliff walls and pristine waterfalls generate an awe-inspiring, sacred tranquility."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Muliwai Trail (Waipio to Waimanu Valley)",
+        "length_miles": 9.0,
+        "difficulty": "Strenuous / Expert",
+        "features": "3,000-ft valley climbs, 13 stream gulches, spectacular sea cliff vistas"
+      }
+    ],
+    "public_reviews_summary": "One of the most breathtaking wilderness camping spots on Earth, but requires immense physical endurance and zero cell connectivity.",
+    "other_data": "Always carry a satellite communicator (Garmin inReach/PLB) and purifiers capable of removing Leptospirosis bacteria from stream water.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "hawaii-005",
+    "name": "Polihale State Park Dispersed Beach Primitive Zone",
+    "state": "Hawaii",
+    "county": "Kauai",
+    "coordinates": {
+      "latitude": 22.0815,
+      "longitude": -159.7584,
+      "elevation_ft": 10.0
+    },
+    "management_agency": {
+      "name": "Hawaii State Parks Division (DLNR)",
+      "type": "State",
+      "phone": "(808) 274-3444",
+      "website": "https://dlnr.hawaii.gov/dsp/parks/kauai/polihale-state-park/"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0 entry/day access; free primitive resident permit or low-impact dispersed beach access)",
+      "stay_limit": "5 consecutive nights maximum stay",
+      "guidelines": "Primitive beach camping along designated sand dune sites at the end of the dirt access road. Do not drive or walk on sensitive sand dunes."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Utilize park primitive pit latrines. Do not bury waste in sand dunes.",
+      "trash_policy": "Pack out all trash. No trash collection at remote beach ends."
+    },
+    "campfire_rules": {
+      "permitted": false,
+      "firewood_policy": "Open wood fires strictly prohibited on sand dunes and beach brush.",
+      "safety_requirements": "Enclosed portable gas stoves allowed for cooking.",
+      "seasonal_fire_bans": "Year-round fire ban on open beach wood fires to protect coastal dune vegetation."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved 5-mile rough cane haul dirt road",
+      "road_conditions": "Extremely rutted dirt road with deep washboards, sand pockets, and severe mud puddles after rain.",
+      "vehicle_recommendation": "High-clearance CUV, SUV, or 4WD vehicle highly recommended; low clearance FWD cars risk bottoming out or getting stuck in soft sand.",
+      "scores": {
+        "road_grade": 8,
+        "road_terrain_difficulty": 8,
+        "supply_run_pain": 7
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2/5 Stars)",
+      "verizon_reliability": "1-2 bars 4G LTE near south end, spotty north near cliffs",
+      "att_reliability": "1-2 bars 4G LTE spotty",
+      "tmobile_reliability": "1 bar 4G LTE",
+      "terrain_obstruction_risk": "Moderate - towering Na Pali sea cliffs rising 2,000 feet behind beach",
+      "distance_from_tower_corridor_miles": 12.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Primitive Pit Latrine",
+      "Cold Water Shower Risers (Non-Potable)",
+      "Unsurpassed Ocean Sunset Views"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 4,
+      "distance_to_library_score": 4,
+      "distance_to_gym_score": 3,
+      "terrain_score": 9,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Waimea, HI",
+        "distance_miles": 15.4,
+        "services_available": [
+          "Supermarket",
+          "Gas Station",
+          "Hospital",
+          "Hardware Store",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Lihue, HI",
+        "distance_miles": 39.8,
+        "services_available": [
+          "Big Box Stores",
+          "Airport",
+          "Public Library",
+          "Gym & Fitness Centers"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Warm, sunny, and windy coastal conditions.",
+      "summer": "Hot ocean temperatures, intense tropical sun, calm water for swimming.",
+      "fall": "Warm weather with trade winds and glowing golden sunsets.",
+      "winter": "Massive ocean swells along beach; dangerous shorebreak waves make swimming unsafe."
+    },
+    "dangers_and_hazards": [
+      "Dangerous Rip Currents & Massive Shorebreak Waves (Winter)",
+      "Getting Vehicle Stuck in Deep Beach Sand",
+      "Dehydration & Severe Tropical Sun Exposure",
+      "No Potable Drinking Water Onsite"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Thunderous Ocean Waves (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Distant 4x4 engine revs on access road"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Naupaka Kahakai",
+        "Pohuehue (Beach Morning Glory)",
+        "Ironwood (Casuarina)",
+        "Coconut Palm"
+      ],
+      "common_animals": [
+        "Hawaiian Monk Seal (Protected)",
+        "Green Sea Turtle (Honu)",
+        "Humpback Whales (Winter)",
+        "Wedge-tailed Shearwater"
+      ]
+    },
+    "human_demographics_and_culture": "West Kauai agricultural and Hawaiian coastal culture where Polihale marks the sacred western doorway of spirits departing the Hawaiian islands.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "In ancient Hawaiian tradition, Polihale was the 'Leina a ka 'Uhane' - the cliff site where souls of the deceased departed to the ancestral realm.",
+      "energetic_and_spiritual_features": "Vast ocean horizons and 2,000-foot Na Pali cliffs create a profound, solemn spiritual majesty."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Polihale Beach Coastal Dune Walk",
+        "length_miles": 4.0,
+        "difficulty": "Moderate (Walking on Soft Sand)",
+        "features": "7-mile white sand beach, views of Na Pali coast cliffs and Niihau island"
+      }
+    ],
+    "public_reviews_summary": "Unbelievable sunsets and pristine white sand beach, but the 5-mile dirt road is notoriously rough and ocean currents are extremely treacherous.",
+    "other_data": "Bring all drinking water. Keep a minimum 50-foot distance from protected Hawaiian Monk Seals resting on beach sand.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "hawaii-006",
+    "name": "Kahuku Unit Backpacking Dispersed Area - Hawaii Volcanoes NP",
+    "state": "Hawaii",
+    "county": "Hawaii",
+    "coordinates": {
+      "latitude": 19.1112,
+      "longitude": -155.6812,
+      "elevation_ft": 3200.0
+    },
+    "management_agency": {
+      "name": "National Park Service - Hawaii Volcanoes NP",
+      "type": "Federal",
+      "phone": "(808) 985-6000",
+      "website": "https://www.nps.gov/havo"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive backcountry dispersed camping with free NPS backcountry registration)",
+      "stay_limit": "3 consecutive nights max limit",
+      "guidelines": "Free primitive backcountry camping in designated Kahuku pasture/volcanic zone. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from trails. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": false,
+      "firewood_policy": "Campfires strictly prohibited; portable backpacking stoves only.",
+      "safety_requirements": "Backpacking gas stoves mandatory.",
+      "seasonal_fire_bans": "Strict NPS volcanic island fire protection."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved Highway 11 to gravel park entrance road",
+      "road_conditions": "Paved highway access; gravel turnouts to trailheads.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open high elevation volcanic pastures",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Mauna Loa Volcanic Slope Views",
+      "Native Ohia Forest & Fern Meadows",
+      "Cool Upland Climate",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 3,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Ocean View, HI",
+        "distance_miles": 8.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Local Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool fresh high elevation spring (62-72°F).",
+      "summer": "Pleasant upland summer (70-78°F).",
+      "fall": "Mild crisp autumn days.",
+      "winter": "Cool brisk winter (50-65°F) with cool nights."
+    },
+    "dangers_and_hazards": [
+      "Volcanic Fissures & Pit Craters",
+      "High Elevation Sun Exposure"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Mauna Loa Highland Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Trade winds through ohia trees",
+        "Native honeycreeper songs"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Ohia Lehua",
+        "Koa",
+        "Amaumu Fern",
+        "Pukiawe"
+      ],
+      "common_animals": [
+        "Apapane",
+        "Amakihi",
+        "Nene (Hawaiian Goose)",
+        "Hawaiian Hawk (Io)"
+      ]
+    },
+    "human_demographics_and_culture": "Native Hawaiian ancestral lands of Ka'u district and Pele volcanic cultural heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Kahuku unit sits on the southern flank of Mauna Loa, sacred domain of fire goddess Pele.",
+      "energetic_and_spiritual_features": "Vast open volcanic rolling hills covered in flowering crimson ohia lehua blossoms."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Pu'u o Lokuana Trail",
+        "length_miles": 2.5,
+        "difficulty": "Moderate",
+        "features": "Cinder cone overlooks, old lava flows, native forest"
+      }
+    ],
+    "public_reviews_summary": "Incredible high-elevation volcanic pasture basecamp in Ka'u with great cell coverage.",
+    "other_data": "Free NPS backcountry registration required.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "hawaii-007",
+    "name": "Polipoli Spring State Recreation Area Dispersed Zone",
+    "state": "Hawaii",
+    "county": "Maui",
+    "coordinates": {
+      "latitude": 20.6812,
+      "longitude": -156.3312,
+      "elevation_ft": 6200.0
+    },
+    "management_agency": {
+      "name": "Hawaii DLNR - Division of State Parks",
+      "type": "State",
+      "phone": "(808) 984-8109",
+      "website": "https://dlnr.hawaii.gov/dsp"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state park trailside dispersed camping)",
+      "stay_limit": "3 consecutive nights max limit",
+      "guidelines": "Free primitive trailside camping allowed in upper Polipoli forest reserve zone. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from trails. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": false,
+      "firewood_policy": "Campfires strictly prohibited; portable backpacking stoves only.",
+      "safety_requirements": "Backpacking gas stoves mandatory.",
+      "seasonal_fire_bans": "Strict island forest fire protection."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved Kula highway to steep winding forest road",
+      "road_conditions": "Paved road access to lower park; unpaved steep section requires high clearance.",
+      "vehicle_recommendation": "High clearance or 4WD vehicle recommended for top ridge road.",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - high mountain elevation line of sight",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Haleakala High Mountain Overlooks",
+      "Redwood & Cedar Forest Grove",
+      "Cool Crisp Mountain Climate",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 3,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Kula, Maui, HI",
+        "distance_miles": 9.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware",
+          "Bistros"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool crisp cloud forest (50-65°F).",
+      "summer": "Pleasant cool mountain summer (58-70°F).",
+      "fall": "Crisp autumn mountain weather.",
+      "winter": "Cold mountain winter (38-52°F) with frost possible."
+    },
+    "dangers_and_hazards": [
+      "Cold High Elevation Mountain Temperatures",
+      "Fog & Low Visibility"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Haleakala Cloud Forest Quiet (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Wind through giant coast redwoods",
+        "Mountain bird songs"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Coast Redwood",
+        "Cryptomeria Cedar",
+        "Eucalyptus",
+        "Pukiawe"
+      ],
+      "common_animals": [
+        "Maui Amakihi",
+        "Apapane",
+        "Chukar Partridge",
+        "Wild Boar"
+      ]
+    },
+    "human_demographics_and_culture": "Native Hawaiian ancestral lands of Kula mountain uplands and 1930s CCC forest planting heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Giant coast redwoods planted by the Civilian Conservation Corps in 1930s stand at 6,200 ft elevation on Haleakala.",
+      "energetic_and_spiritual_features": "Mystical mist-shrouded redwood forest high above the Maui clouds."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Polipoli Redwood Trail",
+        "length_miles": 1.7,
+        "difficulty": "Moderate",
+        "features": "Coast redwood grove, mountain mist, Haleakala views"
+      }
+    ],
+    "public_reviews_summary": "High mountain redwood sanctuary on Maui with breathtaking cloud valley views and dependable cell service.",
+    "other_data": "High clearance recommended.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "hawaii-008",
+    "name": "Waimea Canyon Coastal Trail Dispersed Zone",
+    "state": "Hawaii",
+    "county": "Kauai",
+    "coordinates": {
+      "latitude": 22.0612,
+      "longitude": -159.6612,
+      "elevation_ft": 3400.0
+    },
+    "management_agency": {
+      "name": "Hawaii DLNR - Division of State Parks",
+      "type": "State",
+      "phone": "(808) 274-3444",
+      "website": "https://dlnr.hawaii.gov/dsp"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state forest backcountry camping with free DLNR permit)",
+      "stay_limit": "3 consecutive nights max limit",
+      "guidelines": "Free primitive backcountry camping along Waimea Canyon trail rim zones. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from canyon rim streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": false,
+      "firewood_policy": "Campfires strictly prohibited; backpack gas stoves only.",
+      "safety_requirements": "Backpacking gas stoves mandatory.",
+      "seasonal_fire_bans": "Strict DLNR fire protection rules."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved Waimea Canyon Drive to trailhead parking",
+      "road_conditions": "Paved scenic highway access; smooth parking turnout.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low on open canyon rim overlooks",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Grand Canyon of the Pacific Red Rock Overlooks",
+      "Waipoo Falls Waterfalls",
+      "Native Upland Forest",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 3,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Waimea, Kauai, HI",
+        "distance_miles": 11.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Local Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush waterfall spring (65-76°F).",
+      "summer": "Pleasant warm summer (72-82°F).",
+      "fall": "Mild crisp autumn days.",
+      "winter": "Cool pleasant winter (58-72°F)."
+    },
+    "dangers_and_hazards": [
+      "Steep Canyon Drop-offs",
+      "Flash Floods in Streams"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Waimea Canyon Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Trade wind through koa leaves",
+        "Distant waterfall roar"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Koa",
+        "Ohia Lehua",
+        "Uluhe Fern",
+        "Iliau"
+      ],
+      "common_animals": [
+        "Kauai Elepaio",
+        "White-tailed Tropicbird",
+        "Feral Goat",
+        "Apapane"
+      ]
+    },
+    "human_demographics_and_culture": "Native Hawaiian ancestral lands of Kauai Westside and ancient canyon farming heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Waimea Canyon carved over 3,000 feet deep into Kauai volcanic rock by ancient rainfall and Mauna Kahili collapses.",
+      "energetic_and_spiritual_features": "Vast red and green volcanic canyon chasms filled with rainbow morning light."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Canyon Trail to Waipoo Falls",
+        "length_miles": 3.4,
+        "difficulty": "Moderate",
+        "features": "Red rock canyon rim, 800ft waterfall overlook, native koa forest"
+      }
+    ],
+    "public_reviews_summary": "Spectacular red rock canyon rim basecamp on Kauai with strong cell service.",
+    "other_data": "Free DLNR permit required.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "hawaii-009",
+    "name": "Molokai Forest Reserve Primitive Dispersed Area",
+    "state": "Hawaii",
+    "county": "Maui",
+    "coordinates": {
+      "latitude": 21.1412,
+      "longitude": -156.9812,
+      "elevation_ft": 2400.0
+    },
+    "management_agency": {
+      "name": "Hawaii DLNR - Division of Forestry and Wildlife",
+      "type": "State",
+      "phone": "(808) 553-1745",
+      "website": "https://dlnr.hawaii.gov/dofaw"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive island forest reserve camping with free DLNR permit)",
+      "stay_limit": "3 consecutive nights max limit",
+      "guidelines": "Free primitive camping allowed in designated forest reserve clearings along Maunaloa Highway corridor. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": false,
+      "firewood_policy": "Campfires strictly prohibited; backpack gas stoves only.",
+      "safety_requirements": "Backpacking gas stoves mandatory.",
+      "seasonal_fire_bans": "Strict DLNR island wildfire protection."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved island highway to unpaved red dirt forest road",
+      "road_conditions": "Paved highway access; red dirt forest road unpaved.",
+      "vehicle_recommendation": "Accessible by standard 2WD when dry; high clearance recommended when wet.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open upland forest ridge",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Pacific Ocean Island Panoramic Overlooks",
+      "Native Hawaiian Upland Rainforest",
+      "Eucalyptus & Pine Canopy",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 3,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Kaunakakai, Molokai, HI",
+        "distance_miles": 8.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware",
+          "Local Bakery",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush tropical spring (68-78°F).",
+      "summer": "Warm pleasant trade wind summer (75-84°F).",
+      "fall": "Mild pleasant autumn days.",
+      "winter": "Cool tropical winter (62-74°F)."
+    },
+    "dangers_and_hazards": [
+      "Slippery Red Mud when Wet",
+      "High Sun Exposure"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Molokai Island Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Trade wind through eucalyptus",
+        "Pacific ocean distant roar"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Eucalyptus",
+        "Cook Pine",
+        "Ohia Lehua",
+        "Ferns"
+      ],
+      "common_animals": [
+        "Axis Deer",
+        "Molokai Thrush",
+        "Feral Pig",
+        "Plover"
+      ]
+    },
+    "human_demographics_and_culture": "Native Hawaiian ancestral lands of Molokai Nui A Hina and traditional ahupuaa land division heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Molokai is known in Hawaiian tradition as Molokai Pule O'o (Molokai of Powerful Prayer).",
+      "energetic_and_spiritual_features": "Quiet upland mountain ridge with sweeping views across the Pailolo Channel to Maui."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Pelekunu Overlook Trail",
+        "length_miles": 2.8,
+        "difficulty": "Moderate",
+        "features": "Sea cliff valley overlook, native rainforest, island ocean views"
+      }
+    ],
+    "public_reviews_summary": "Untouched Hawaiian island forest basecamp on Molokai with impressive cell coverage.",
+    "other_data": "Free DLNR permit required.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "hawaii-010",
+    "name": "Hilo Forest Reserve Upper Dispersed Zone",
+    "state": "Hawaii",
+    "county": "Hawaii",
+    "coordinates": {
+      "latitude": 19.6812,
+      "longitude": -155.2412,
+      "elevation_ft": 2800.0
+    },
+    "management_agency": {
+      "name": "Hawaii DLNR - Division of Forestry and Wildlife",
+      "type": "State",
+      "phone": "(808) 974-4221",
+      "website": "https://dlnr.hawaii.gov/dofaw"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive island forest reserve camping with free DLNR permit)",
+      "stay_limit": "3 consecutive nights max limit",
+      "guidelines": "Free primitive camping allowed in designated public forest clearings along Saddle Road corridor. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": false,
+      "firewood_policy": "Campfires prohibited; backpack gas stoves allowed.",
+      "safety_requirements": "Backpacking gas stoves mandatory.",
+      "seasonal_fire_bans": "Strict DLNR wildfire rules."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved Saddle Road (Highway 200) to gravel forest pullouts",
+      "road_conditions": "Paved high-speed highway access; smooth gravel pullouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open Mauna Kea slope line of sight",
+      "distance_from_tower_corridor_miles": 3.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Mauna Kea & Mauna Loa Twin Volcano Views",
+      "Native Hawaiian Cloud Rainforest Canopy",
+      "Cool High Elevation Climate",
+      "World-Class Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Hilo, Big Island, HI",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Grocery Store",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool refreshing upland spring (58-68°F).",
+      "summer": "Pleasant cool mountain summer (65-74°F).",
+      "fall": "Crisp dry autumn weather.",
+      "winter": "Cool winter (48-62°F)."
+    },
+    "dangers_and_hazards": [
+      "Frequent Rain & Mist",
+      "Cold Temperatures at Night"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Volcanic Highland Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Mountain breeze through ohia fern tree",
+        "Native apapane songs"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Ohia Lehua",
+        "Hapu'u Tree Fern",
+        "Koa",
+        "Mamane"
+      ],
+      "common_animals": [
+        "Apapane",
+        "Amakihi",
+        "Io (Hawaiian Hawk)",
+        "Nene"
+      ]
+    },
+    "human_demographics_and_culture": "Native Hawaiian ancestral lands of Hilo Hanakahi and Mauna Kea spiritual cultural heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Located on the gentle saddle between Mauna Kea and Mauna Loa amidst ancient hapu'u giant tree fern forests.",
+      "energetic_and_spiritual_features": "Vast dark sky canopy with pristine crystal clear views of the Milky Way galaxy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Pu'u O'o Trail",
+        "length_miles": 4.0,
+        "difficulty": "Moderate",
+        "features": "Lava flows, native rainforest, Mauna Kea overlooks, birding"
+      }
+    ],
+    "public_reviews_summary": "Unbelievable dark-sky high mountain volcanic forest basecamp between Hilo and Saddle Road with strong 4G cell service.",
+    "other_data": "Free DLNR permit required.",
+    "last_updated": "2026-09-12"
+  }
+]

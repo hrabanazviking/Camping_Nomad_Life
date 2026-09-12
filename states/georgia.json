@@ -1,0 +1,1283 @@
+[
+  {
+    "id": "ga-chattahoochee-nimblewill-gap",
+    "name": "Nimblewill Gap Dispersed Camping Area - Chattahoochee National Forest (FS 28)",
+    "state": "Georgia",
+    "county": "Lumpkin County",
+    "coordinates": {
+      "latitude": 34.6214,
+      "longitude": -84.1482,
+      "elevation_ft": 2450
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Blue Ridge Ranger District",
+      "type": "USFS",
+      "phone": "(706) 745-6928",
+      "website": "https://www.fs.usda.gov/conf"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required",
+      "stay_limit": "14 consecutive days max stay limit",
+      "guidelines": "Dispersed primitive camping permitted along Forest Service Road 28 (Nimblewill Gap Road). Must be set back 100 feet from streams and active trailheads."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6-8 inches deep in organic soil, 200 feet from streams and campsites. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace. Black bears active; hang food 12ft high or use bear canister."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only.",
+      "safety_requirements": "Use established rock fire pits. Clear away leaves 10 feet around ring. Douse completely cold with water.",
+      "seasonal_fire_bans": "Obey USFS burn bans during dry autumn months."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved mountain gravel forest road (FS 28)",
+      "road_conditions": "Winding gravel mountain road with steep inclines, washboards, and rocky dips.",
+      "vehicle_recommendation": "High clearance car or CUV/SUV (Normal 2WD low clearance cars can access lower FS 28 turnouts slowly in dry weather; 4x4 recommended for upper gap spurs)",
+      "scores": {
+        "road_grade": 6,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate / High Point Dependent",
+      "verizon_reliability": "2-3 bars 4G LTE on ridge turnouts; weak in mountain hollows",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate (Appalachian foothill ridges restrict signal in deep gaps)",
+      "distance_from_tower_corridor_miles": 5.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Mountain Stream Water Access (Nimblewill Creek - filter mandatory)",
+      "Established Stone Fire Rings",
+      "Shaded Appalachian Oak/Hickory Canopy",
+      "Appalachian Trail Proximity"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 9,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Dahlonega, GA",
+        "distance_miles": 12.8,
+        "services_available": [
+          "Walmart Supercenter",
+          "Gas Stations",
+          "University of North Georgia",
+          "Public Library",
+          "Hospital / Urgent Care"
+        ]
+      },
+      {
+        "town_name": "Gainesville, GA",
+        "distance_miles": 34.0,
+        "services_available": [
+          "Full City Services",
+          "Northeast Georgia Medical Center",
+          "24/7 Gyms",
+          "Shopping Malls"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "60-75°F, lush mountain blooms (rhododendron, mountain laurel), spring rainstorms.",
+      "summer": "Hot 80-88°F but cooler mountain breeze than Atlanta lowland, lush canopy shade, evening showers.",
+      "fall": "Spectacular autumn foliage (55-70°F daytime, 40-50°F nights), low rain, prime boondocking season.",
+      "winter": "Cool to chilly (35-55°F), freezing nights (20-30°F), occasional mountain snow dustings."
+    },
+    "dangers_and_hazards": [
+      "Black Bears active throughout Blue Ridge Ranger District - bear-proof food storage required",
+      "Copperheads and Timber Rattlesnakes active in warm months",
+      "Steep gravel road drop-offs",
+      "Falling dead tree snags during high winds"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Mountain stream and forest quiet",
+      "common_human_made_sounds": [
+        "Occasional passing 4x4 or overland vehicle on FS 28",
+        "Military training helicopters from nearby Camp Frank D. Merrill (Army Ranger School)"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Chestnut Oak",
+        "Eastern Hemlock",
+        "Tulip Poplar",
+        "Rosebay Rhododendron (Rhododendron maximum)",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Timber Rattlesnake",
+        "Broad-winged Hawk"
+      ]
+    },
+    "human_demographics_and_culture": "Appalachian Trail hikers (Springer Mountain approach), overlanders, digital nomads, Army Ranger trainees, and local trout anglers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Cherokee indigenous traditions revere the Georgia Blue Ridge mountains as sacred domains of the 'Yunwi Tsunsdi' (Little People / Nature Guardians) and the sacred mountain spirits.",
+      "energetic_and_spiritual_features": "Rich Appalachian granite/quartz bedrock energy, serene stream valley acoustics, historic gold-belt land vitality."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Springer Mountain Appalachian Trail Approach Trail",
+        "length_miles": 8.8,
+        "difficulty": "Strenuous",
+        "features": "Southern terminus of the 2,190-mile Appalachian Trail"
+      }
+    ],
+    "public_reviews_summary": "Great free primitive camping near Dahlonega. Beautiful mountain stream sites and solid cell service on the higher turnouts.",
+    "other_data": "Bortle Class 3 night sky. Abundant firewood.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ga-cohutta-grassy-mountain",
+    "name": "Cohutta Wilderness Border Dispersed Camping - Chattahoochee NF (FS 68)",
+    "state": "Georgia",
+    "county": "Murray County / Fannin County",
+    "coordinates": {
+      "latitude": 34.8812,
+      "longitude": -84.6814,
+      "elevation_ft": 2850
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Conasauga Ranger District",
+      "type": "USFS",
+      "phone": "(706) 695-6736",
+      "website": "https://www.fs.usda.gov/conf"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for general dispersed primitive camping",
+      "stay_limit": "14 consecutive days max stay limit",
+      "guidelines": "Dispersed primitive camping permitted along Forest Service Road 68. Must be set back 100ft from Cohutta Wilderness boundary and streams."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6-8 inches deep in forest soil, 200 feet from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out. Black bear territory: bear canister or hard-sided vehicle storage mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only.",
+      "safety_requirements": "Campfires in established rock fire rings only. Extinguish cold to touch with stream water.",
+      "seasonal_fire_bans": "Obey USFS burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved mountain gravel forest road (FS 68 / Grassy Mountain Road)",
+      "road_conditions": "Winding gravel mountain road with steep grades, switchbacks, and washboards.",
+      "vehicle_recommendation": "High clearance car or 4x4 recommended (Normal 2WD cars can access lower turnouts in dry weather)",
+      "scores": {
+        "road_grade": 6,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate",
+      "verizon_reliability": "2-3 bars 4G LTE on open ridge turnouts",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate (Cohutta Mountain ridges restrict line of sight)",
+      "distance_from_tower_corridor_miles": 6.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Cohutta Wilderness Access",
+      "Mountain Ridge Overlook Views",
+      "Established Rock Fire Rings",
+      "Shaded Oak & Hickory Canopy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Ellijay / Chatsworth, GA",
+        "distance_miles": 18.5,
+        "services_available": [
+          "Grocery Stores",
+          "Gas Stations",
+          "Pharmacy",
+          "Public Library",
+          "Medical Center"
+        ]
+      },
+      {
+        "town_name": "Dalton / Blue Ridge, GA",
+        "distance_miles": 32.0,
+        "services_available": [
+          "Walmart Supercenter",
+          "Hamilton Medical Center",
+          "24/7 Gyms",
+          "Full Commercial Services"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "60-75°F, blooming mountain laurel, high stream waterfall flow.",
+      "summer": "75-85°F, pleasant mountain elevation temperature, cool nights.",
+      "fall": "Spectacular Blue Ridge autumn foliage (55-70°F daytime, 38-48°F nights), prime camping.",
+      "winter": "Cool to chilly (35-50°F), freezing nights, light snow."
+    },
+    "dangers_and_hazards": [
+      "Black Bears active in Cohutta Wilderness - store food securely",
+      "Timber Rattlesnakes near rocky outcrops",
+      "Steep gravel road inclines"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Mountain wilderness quiet",
+      "common_human_made_sounds": [
+        "Occasional 4x4 vehicle on FS 68",
+        "Wind blowing past mountain ridge"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Chestnut Oak",
+        "Tulip Poplar",
+        "Eastern Hemlock",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Timber Rattlesnake"
+      ]
+    },
+    "human_demographics_and_culture": "Cohutta Wilderness backpackers, overlanders, trout anglers, and digital nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Cherokee indigenous traditions revere Cohutta ('Nightland' or place of high misty mountains) as sacred spirit wilderness.",
+      "energetic_and_spiritual_features": "Profound mountain wilderness solitude, ancient Appalachian granite bedrock energy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Conasauga River Trail (Cohutta Wilderness)",
+        "length_miles": 13.0,
+        "difficulty": "Strenuous Wilderness Hike",
+        "features": "Winding river canyon trail with dozens of river wade crossings"
+      }
+    ],
+    "public_reviews_summary": "Incredible free primitive camping bordering the massive Cohutta Wilderness. Quiet mountain ridges, pure air, and good cell service on high turnouts.",
+    "other_data": "Bortle Class 3 night sky. Abundant firewood.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ga-chattahoochee-nf-warwoman-dell",
+    "name": "Warwoman Dell / Chattahoochee National Forest Dispersed Camping",
+    "state": "Georgia",
+    "county": "Rabun County",
+    "coordinates": {
+      "latitude": 34.8812,
+      "longitude": -83.3612,
+      "elevation_ft": 1850
+    },
+    "management_agency": {
+      "name": "US Forest Service - Chattahoochee-Oconee National Forests (Chattooga River Ranger District)",
+      "type": "USFS",
+      "phone": "(706) 754-6221",
+      "website": "https://www.fs.usda.gov/conf"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Dispersed Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted along Warwoman Road pullouts (FR 28) and Sarah's Creek road spurs. Camp 100ft minimum from streams."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in soil 200 feet from Warwoman Creek. Pack out hygiene products.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on site.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Autumn leaf dry weather fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved county road to gravel Forest Service roads (FR 28)",
+      "road_conditions": "Paved main road, graded gravel forest pullouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance vehicles.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Clayton Tower Line",
+      "verizon_reliability": "3-4 bars 4G LTE (20-45 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate along mountain ridge pullouts",
+      "distance_from_tower_corridor_miles": 3.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Pristine Appalachian Creek Campsites",
+      "Warwoman Waterfall Views",
+      "Bartram Trailhead Access",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Clayton, GA",
+        "distance_miles": 6.0,
+        "services_available": [
+          "Ingles Supermarket",
+          "Gas Stations",
+          "Rabun County Public Library",
+          "Hospital",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "58-72°F, blooming wild azaleas and mountain laurel, clear trout streams.",
+      "summer": "75-88°F, pleasant mountain escape from Atlanta summer heat.",
+      "fall": "50-70°F, world-class North Georgia autumn foliage.",
+      "winter": "32-52°F, mild mountain winter, crisp clear days."
+    },
+    "dangers_and_hazards": [
+      "Black bears in Chattahoochee NF (bear hang or canister recommended)",
+      "Flash flooding in stream gorges during heavy rain"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Rushing creek water and songbirds",
+      "common_human_made_sounds": [
+        "Occasional vehicle on Warwoman Road"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Oak",
+        "Eastern Hemlock",
+        "Rhododendron",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "Rainbow Trout",
+        "White-tailed Deer",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Cherokee ancestral lands, North Georgia mountain outdoorsmen, Bartram Trail hikers, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Named after the revered Cherokee leader Warwoman (Ghigau / Beloved Woman). Rich Appalachian mountain history.",
+      "energetic_and_spiritual_features": "Peaceful mountain stream tranquility, lush rhododendron valley energy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Bartram Trail (Warwoman Section)",
+        "length_miles": 7.2,
+        "difficulty": "Moderate",
+        "features": "Becky Branch Falls, mountain bluffs, historic trail markers"
+      }
+    ],
+    "public_reviews_summary": "Top free primitive camping in North Georgia. Beautiful mountain waterfalls, fast cell internet near Clayton, and 100% free USFS access.",
+    "other_data": "Chattahoochee National Forest. Free dispersed camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ga-cohutta-wilderness-jacks-river",
+    "name": "Cohutta Wilderness Jacks River Primitive Camping",
+    "state": "Georgia",
+    "county": "Fannin / Murray County",
+    "coordinates": {
+      "latitude": 34.9412,
+      "longitude": -84.6512,
+      "elevation_ft": 1450
+    },
+    "management_agency": {
+      "name": "US Forest Service - Chattahoochee-Oconee National Forests (Conasauga Ranger District)",
+      "type": "USFS",
+      "phone": "(706) 695-6736",
+      "website": "https://www.fs.usda.gov/conf"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Wilderness Dispersed Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed wilderness camping permitted throughout Cohutta Wilderness along Jacks River and Conasauga River corridors. Camp 100ft minimum from water."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in soil 200 feet from Jacks River. Pack out hygiene products.",
+      "trash_policy": "Strict Leave No Trace."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on site.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Fall dry leaf fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved county road to gravel Forest Service roads (FR 68)",
+      "road_conditions": "Graded gravel access roads, flat trailhead parking.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate / High Ridge Signal",
+      "verizon_reliability": "3-4 bars 4G LTE on high wilderness ridges",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate inside deep hemlock river gorge",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Jacks River Falls & Gorge Overlooks",
+      "Hemlock & Oak Wilderness Canopy",
+      "Jacks River Trout Water Source (Filter mandatory)",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Ellijay / Blue Ridge, GA",
+        "distance_miles": 16.0,
+        "services_available": [
+          "Ingles Supermarket",
+          "Gas Stations",
+          "Gilmer County Library",
+          "Hospital",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "55-70°F, roaring waterfall flows, blooming mountain laurel.",
+      "summer": "75-88°F, refreshing mountain river swimming weather.",
+      "fall": "50-70°F, world-class North Georgia autumn foliage.",
+      "winter": "30-48°F, mild winter, crisp mountain air."
+    },
+    "dangers_and_hazards": [
+      "Black bears in Cohutta Wilderness (bear hang or canister mandatory)",
+      "Flash flooding in Jacks River gorge during heavy thunderstorms"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "10/10 - Roaring waterfall thunder and hemlock forest wind",
+      "common_human_made_sounds": [
+        "None inside wilderness boundary"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Eastern Hemlock",
+        "Catawba Rhododendron",
+        "White Oak",
+        "Shortleaf Pine"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "Native Brook Trout",
+        "White-tailed Deer",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Cherokee ancestral lands, North Georgia wilderness woodsmen, backpackers, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Largest wilderness area east of the Mississippi outside Florida. Sacred Cherokee territory honoring Jacks River Falls.",
+      "energetic_and_spiritual_features": "Thunderous waterfall power, serene old-growth hemlock forest quietness."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Jacks River Trail",
+        "length_miles": 16.0,
+        "difficulty": "Strenuous",
+        "features": "40+ river crossings, Jacks River Falls, old-growth hemlocks"
+      }
+    ],
+    "public_reviews_summary": "Georgia's premier wilderness primitive camping. Roaring waterfalls, ancient hemlocks, fast cell internet on high ridges, and 100% free USFS access.",
+    "other_data": "Chattahoochee National Forest. Free wilderness dispersed camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "georgia-005",
+    "name": "Sarah's Creek Dispersed Primitive Camping Area",
+    "state": "Georgia",
+    "county": "Rabun",
+    "coordinates": {
+      "latitude": 34.9126,
+      "longitude": -83.2415,
+      "elevation_ft": 2150.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Chattahoochee-Oconee National Forests (Chattooga River Ranger District)",
+      "type": "Federal",
+      "phone": "(706) 754-6221",
+      "website": "https://www.fs.usda.gov/conf"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night, no fees required for primitive dispersed creek sites)",
+      "stay_limit": "14 days maximum stay limit within a 30-day window",
+      "guidelines": "Primitive creek-side camping permitted at pullout campsites along Sarah's Creek Road. Maintain 50 feet distance from stream bank. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste in a cat-hole 6-8 inches deep at least 200 feet from Sarah's Creek. Pack out all paper products.",
+      "trash_policy": "Pack it in, pack it out. No garbage receptacles provided."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood may be gathered from forest floor. No cutting standing trees.",
+      "safety_requirements": "Campfires permitted in existing stone fire rings. Douse completely cold with creek water before leaving.",
+      "seasonal_fire_bans": "Subject to USFS high fire danger restrictions during dry fall months."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved forest service road (FS 156)",
+      "road_conditions": "Gravel and dirt road with occasional potholes and creek ford crossing.",
+      "vehicle_recommendation": "CUV, SUV, or high-clearance 2WD car; 4WD helpful after heavy mountain rain.",
+      "scores": {
+        "road_grade": 5,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2.5/5 Stars)",
+      "verizon_reliability": "1-2 bars 4G LTE near upper road pullouts, spotty by creek",
+      "att_reliability": "1-2 bars 4G LTE",
+      "tmobile_reliability": "No signal in creek gorge",
+      "terrain_obstruction_risk": "High - steep mountain valley and dense rhododendron thickets",
+      "distance_from_tower_corridor_miles": 8.2,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Primitive Stone Fire Rings",
+      "Creek Water Access",
+      "Shaded Mountain Sites"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 7,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Clayton, GA",
+        "distance_miles": 12.8,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Restaurants",
+          "Outfitter"
+        ]
+      },
+      {
+        "town_name": "Franklin, NC",
+        "distance_miles": 24.1,
+        "services_available": [
+          "Supercenter",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool temperatures with lush green mountain foliage and cascading creek waters.",
+      "summer": "Pleasant mountain temperatures (75-84°F), cooler than lowland Georgia. Frequent afternoon thunderstorms.",
+      "fall": "Vibrant Blue Ridge mountain autumn colors; crisp night temperatures (35-45°F).",
+      "winter": "Cold mountain weather (25-40°F) with occasional light snow or ice on mountain roads."
+    },
+    "dangers_and_hazards": [
+      "Black Bears (Bear canister/hang required)",
+      "Timber Rattlesnakes & Copperheads",
+      "High Water / Creek Flooding after rain",
+      "Slippery Wet Rocks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Serene Creek Audio (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Occasional passing 4x4 vehicle",
+        "High altitude airplanes"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Rosebay Rhododendron",
+        "Mountain Laurel",
+        "Eastern Hemlock",
+        "Tulip Poplar",
+        "Yellow Birch"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "White-tailed Deer",
+        "Brook Trout",
+        "Wild Turkey",
+        "Red-backed Salamander"
+      ]
+    },
+    "human_demographics_and_culture": "Southern Appalachian mountain community culture centered around trout fishing, moonshine history, and mountain arts.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Cherokee legends speak of the Nunne'hi, benevolent mountain spirits who dwell in high Blue Ridge peaks and hidden valleys.",
+      "energetic_and_spiritual_features": "The rushing waters of Sarah's Creek offer a deep sense of peaceful grounding and natural renewal."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Warwoman Dell to Willis Knob Trail",
+        "length_miles": 6.4,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Cascading waterfalls, lush fern ravines, mountain overlook vistas"
+      }
+    ],
+    "public_reviews_summary": "Gorgeous creek campsites with cool mountain air in summer, though cell service is weak and bear food storage is critical.",
+    "other_data": "Always store food in bear-proof containers or suspend at least 10 feet high and 4 feet out from tree trunks.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "georgia-006",
+    "name": "Coopers Creek Dispersed Area - Chattahoochee NF",
+    "state": "Georgia",
+    "county": "Union",
+    "coordinates": {
+      "latitude": 34.7512,
+      "longitude": -84.0212,
+      "elevation_ft": 2100.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Chattahoochee-Oconee National Forests",
+      "type": "Federal",
+      "phone": "(706) 745-6928",
+      "website": "https://www.fs.usda.gov/conf"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside developed fee loops)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along Coopers Creek Road (FS 33). Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Coopers Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy. Bear safety mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel Forest Service road; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate along creek valley floor",
+      "distance_from_tower_corridor_miles": 6.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Coopers Creek Trout Fishing",
+      "Appalachian Hardwood Canopy",
+      "Benton MacKaye Trail Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Blairsville / Suches, GA",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Outfitters",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush mountain spring (60-72°F).",
+      "summer": "Cool mountain summer (78-85°F) with stream pools.",
+      "fall": "Spectacular North Georgia autumn foliage.",
+      "winter": "Cool winter (35-48°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Habitat",
+      "Copperhead Snakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "North Georgia Mountain Creek Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Coopers Creek stream flow",
+        "Songbird calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Hemlock",
+        "Tulip Poplar",
+        "White Pine",
+        "Rhododendron"
+      ],
+      "common_animals": [
+        "Rainbow Trout",
+        "Black Bear",
+        "White-tailed Deer",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Cherokee ancestral lands and North Georgia mountain trout fishing culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Cherokee ancestral territory in the heart of the Blue Ridge mountains.",
+      "energetic_and_spiritual_features": "Pristine mountain stream flowing under dense hemlock and mountain laurel canopies."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Benton MacKaye Trail (Coopers Creek Section)",
+        "length_miles": 5.0,
+        "difficulty": "Moderate",
+        "features": "Stream side walking, hemlock groves, mountain ridge vistas"
+      }
+    ],
+    "public_reviews_summary": "Top choice free trout stream camping near Blairsville with reliable cell service.",
+    "other_data": "Benton MacKaye trail crosses Coopers Creek.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "georgia-007",
+    "name": "Nimblewill Gap Dispersed Area - Chattahoochee NF",
+    "state": "Georgia",
+    "county": "Lumpkin",
+    "coordinates": {
+      "latitude": 34.6123,
+      "longitude": -84.1412,
+      "elevation_ft": 3100.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Blue Ridge Ranger District",
+      "type": "Federal",
+      "phone": "(706) 745-6928",
+      "website": "https://www.fs.usda.gov/conf"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along Nimblewill Gap Road (FS 28). Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from mountain streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy. Bear safety mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel dirt mountain forest road",
+      "road_conditions": "Winding gravel forest road climbing mountain gap; high clearance advised near summit gap.",
+      "vehicle_recommendation": "High clearance 2WD/4WD recommended for upper gap pullouts.",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great on Gap (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low on 3,100-foot mountain gap ridge",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Springer Mountain AT Approach Proximity",
+      "High Ridge Overlook Views",
+      "Appalachian Hardwood Shade",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Dahlonega, GA",
+        "distance_miles": 14.0,
+        "services_available": [
+          "UNG Campus",
+          "Full Groceries",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Outfitters"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush mountain spring (58-70°F).",
+      "summer": "Cool mountain ridge breezes (76-84°F).",
+      "fall": "Spectacular North Georgia autumn foliage.",
+      "winter": "Cool winter (32-45°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Habitat",
+      "Steep Mountain Road Drop-offs"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Mountain Gap Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through mountain oak canopy",
+        "Songbird calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Chestnut Oak",
+        "Tulip Poplar",
+        "White Pine",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Broad-winged Hawk"
+      ]
+    },
+    "human_demographics_and_culture": "Cherokee ancestral lands and Dahlonega gold rush & Appalachian Trail hiker culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Historic gap trail leading toward Springer Mountain, southern terminus of the 2,190-mile Appalachian Trail.",
+      "energetic_and_spiritual_features": "3,100-foot mountain gap crest radiating cool high elevation air."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Appalachian Trail Springer Mountain Approach",
+        "length_miles": 4.0,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Springer Mountain AT southern terminus, high ridge overlooks"
+      }
+    ],
+    "public_reviews_summary": "Unbelievable high gap mountain views near Dahlonega with blazing 5G cell service on ridge pullouts.",
+    "other_data": "Near Springer Mountain AT southern terminus.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "georgia-008",
+    "name": "Sarah's Creek Dispersed Area - Chattahoochee NF",
+    "state": "Georgia",
+    "county": "Rabun",
+    "coordinates": {
+      "latitude": 34.9123,
+      "longitude": -83.2812,
+      "elevation_ft": 1850.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Chattooga River Ranger District",
+      "type": "Federal",
+      "phone": "(706) 754-6221",
+      "website": "https://www.fs.usda.gov/conf"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along Sarah's Creek Road (FS 156). Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Sarah's Creek / Chattooga River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy. Bear safety mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel Forest Service road; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate in stream valley",
+      "distance_from_tower_corridor_miles": 6.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Chattooga National Wild & Scenic River Proximity",
+      "Stream Side Camping",
+      "Rhododendron Canopies",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Clayton, GA",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Grocery Store",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Outfitters",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush mountain spring (60-72°F).",
+      "summer": "Pleasant summer (78-85°F) with stream pools.",
+      "fall": "Spectacular Blue Ridge autumn foliage.",
+      "winter": "Cool winter (35-48°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Habitat",
+      "Rapid Water Currents on Chattooga River"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Mountain Stream Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Sarah's Creek stream flow",
+        "Songbird calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Hemlock",
+        "Tulip Poplar",
+        "White Pine",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "Trout",
+        "Black Bear",
+        "White-tailed Deer",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Cherokee ancestral lands and Chattooga River whitewater paddling culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Chattooga National Wild and Scenic River corridor protecting untouched Blue Ridge mountain gorges.",
+      "energetic_and_spiritual_features": "Crystal clear mountain stream cascading into the wild Chattooga River."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Chattooga River Trail (Sarah's Creek Section)",
+        "length_miles": 4.5,
+        "difficulty": "Moderate",
+        "features": "Chattooga River gorges, sandy river beaches, mountain laurel tunnels"
+      }
+    ],
+    "public_reviews_summary": "Peaceful creek side camping near Clayton and the wild Chattooga River with solid cell service.",
+    "other_data": "Chattooga Wild & Scenic River access nearby.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "georgia-009",
+    "name": "Warwoman Dell Dispersed Area - Chattahoochee NF",
+    "state": "Georgia",
+    "county": "Rabun",
+    "coordinates": {
+      "latitude": 34.8812,
+      "longitude": -83.3412,
+      "elevation_ft": 1950.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Chattooga River Ranger District",
+      "type": "Federal",
+      "phone": "(706) 754-6221",
+      "website": "https://www.fs.usda.gov/conf"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside day-use picnic area)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along Warwoman Road forest spurs. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Warwoman Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy. Bear safety mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved road to gravel forest spurs",
+      "road_conditions": "Paved Warwoman Road with smooth gravel forest side turnouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low along Warwoman Road corridor",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Bartram Trail Access",
+      "Becky Branch Waterfalls",
+      "Historical Cherokee Heritage Site",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 6,
+      "terrain_score": 9,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Clayton, GA",
+        "distance_miles": 6.0,
+        "services_available": [
+          "Full Groceries",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Outfitters",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush mountain spring (60-72°F).",
+      "summer": "Pleasant summer (78-85°F) with cool ravine shade.",
+      "fall": "Spectacular autumn foliage.",
+      "winter": "Cool winter (35-48°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Habitat",
+      "Slippery Rock Waterfall Slopes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Appalachian Ravine Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Becky Branch waterfall flow",
+        "Songbird calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Tulip Poplar",
+        "White Pine",
+        "Eastern Hemlock",
+        "Trillium"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Black Bear",
+        "Pileated Woodpecker",
+        "Salamander"
+      ]
+    },
+    "human_demographics_and_culture": "Cherokee ancestral lands named after revered Cherokee leader Warwoman (Nanyehi / Nancy Ward).",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "18th-century naturalist William Bartram explored Warwoman Dell in 1775, documenting native botanical species.",
+      "energetic_and_spiritual_features": "Spring-fed mountain stream gorge steeped in Cherokee and early American botanical history."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Bartram Trail (Warwoman Dell Section)",
+        "length_miles": 3.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Becky Branch Falls, historic stone steps, lush Appalachian wildflower cove"
+      }
+    ],
+    "public_reviews_summary": "Historical botanical paradise just 10 minutes from downtown Clayton with blazing 5G cell service.",
+    "other_data": "Becky Branch Falls located directly at trailhead.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "georgia-010",
+    "name": "Cohutta Dispersed Area - Cohutta Wilderness Edge",
+    "state": "Georgia",
+    "county": "Fannin",
+    "coordinates": {
+      "latitude": 34.8812,
+      "longitude": -84.4512,
+      "elevation_ft": 2400.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Conasauga Ranger District",
+      "type": "Federal",
+      "phone": "(706) 695-6736",
+      "website": "https://www.fs.usda.gov/conf"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside wilderness boundary)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along FS Road 68 outside Cohutta Wilderness boundary. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Jack's River / streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy. Bear canister mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel mountain forest road",
+      "road_conditions": "Graded gravel Forest Service road climbing mountain ridge; smooth when dry.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great on Ridge (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate on 2,400-foot mountain ridge pullouts",
+      "distance_from_tower_corridor_miles": 7.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Cohutta Wilderness Gateway",
+      "Jack's River Falls Access",
+      "37,000-Acre Old-Growth Forest",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Blue Ridge / Ellijay, GA",
+        "distance_miles": 18.0,
+        "services_available": [
+          "Grocery Stores",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Outfitters",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush mountain spring (58-70°F).",
+      "summer": "Cool mountain breezes (76-84°F).",
+      "fall": "Spectacular North Georgia autumn foliage.",
+      "winter": "Cool winter (32-45°F)."
+    },
+    "dangers_and_hazards": [
+      "High Density Black Bear Habitat",
+      "Remote Wilderness Isolation"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Cohutta Wilderness Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Wind through chestnut oak canopy",
+        "River roar Echoes"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Chestnut Oak",
+        "White Pine",
+        "Eastern Hemlock",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "Wild Boar",
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Trout"
+      ]
+    },
+    "human_demographics_and_culture": "Cherokee ancestral lands and Cohutta wilderness conservation culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "37,000-acre Cohutta Wilderness is the largest contiguous wilderness area in the eastern United States south of the White Mountains.",
+      "energetic_and_spiritual_features": "Massive old-growth mountain forest valley carving deep crystal river gorges."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Jack's River Falls Trail",
+        "length_miles": 7.0,
+        "difficulty": "Strenuous",
+        "features": "Jack's River Falls waterfall, river crossings, old-growth wilderness"
+      }
+    ],
+    "public_reviews_summary": "Unrivaled wilderness solitude on the edge of the Cohutta Wilderness with reliable cell service on ridge pullouts.",
+    "other_data": "Certified bear canister mandatory for wilderness entry.",
+    "last_updated": "2026-09-12"
+  }
+]

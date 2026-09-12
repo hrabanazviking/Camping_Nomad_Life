@@ -1,0 +1,1288 @@
+[
+  {
+    "id": "ms-desoto-black-creek",
+    "name": "Black Creek Corridor Dispersed Primitive Camping - De Soto National Forest",
+    "state": "Mississippi",
+    "county": "Perry County / Forrest County",
+    "coordinates": {
+      "latitude": 31.0214,
+      "longitude": -89.0482,
+      "elevation_ft": 150
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - De Soto Ranger District",
+      "type": "USFS",
+      "phone": "(601) 528-6160",
+      "website": "https://www.fs.usda.gov/mississippi"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for general forest dispersed camping",
+      "stay_limit": "14 consecutive days max stay within 30-day period",
+      "guidelines": "Dispersed primitive camping permitted throughout general forest lands outside developed fee areas. Campsites set back 100ft from water bodies and designated trails."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6 inches deep in sandy soil layer, 200 feet from Black Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace. Pack out all garbage."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only.",
+      "safety_requirements": "Clear pine needles 10 feet around fire ring. Extinguish cold to touch.",
+      "seasonal_fire_bans": "Obey Mississippi Forestry Commission drought burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway changing to unpaved gravel forest road (FS 318)",
+      "road_conditions": "Flat gravel forest roads; side tracks can turn muddy after heavy Gulf rainstorms.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (accessible on main gravel forest roads in dry weather)",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Connectivity",
+      "verizon_reliability": "3-4 bars 4G LTE (15-35 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 5G LTE",
+      "terrain_obstruction_risk": "Low (Flat coastal plain longleaf pine savannah)",
+      "distance_from_tower_corridor_miles": 4.1,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Black Creek Water Access (Filter required)",
+      "Longleaf Pine & Wiregrass Savannah",
+      "Black Creek National Recreation Trail Access",
+      "Established Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 7,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Brooklyn / Wiggins, MS",
+        "distance_miles": 12.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Pharmacy",
+          "Public Library",
+          "Medical Clinic"
+        ]
+      },
+      {
+        "town_name": "Hattiesburg, MS",
+        "distance_miles": 24.0,
+        "services_available": [
+          "Full City Services",
+          "Forrest General Hospital",
+          "24/7 Gyms",
+          "University of Southern Mississippi"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "65-80°F, warm pleasant breezes, blooming azaleas and dogwood.",
+      "summer": "Hot and humid (90-96°F), high mosquito / yellow fly activity, afternoon downpours.",
+      "fall": "Ideal camping season (65-78°F daytime, 45-55°F nights), low rain.",
+      "winter": "Mild winters (50-65°F daytime, 35-45°F nights), premier winter escape."
+    },
+    "dangers_and_hazards": [
+      "Venomous snakes: Copperheads, Cottonmouths, and Eastern Diamondback Rattlesnakes",
+      "Mosquitoes and ticks near stream wetlands",
+      "High river water levels after heavy rainstorms"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Pine forest quiet",
+      "common_human_made_sounds": [
+        "Occasional canoeist on Black Creek",
+        "Wind blowing through longleaf pine needles"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Longleaf Pine",
+        "Slash Pine (Pinus elliottii)",
+        "Sweetbay Magnolia (Magnolia virginiana)",
+        "Wiregrass"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Gopher Tortoise",
+        "Wild Turkey",
+        "Red-cockaded Woodpecker",
+        "American Alligator (near river)"
+      ]
+    },
+    "human_demographics_and_culture": "Black Creek canoe paddlers, winter vanlifers, trail backpackers, and local hunters.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Choctaw indigenous traditions revere the Black Creek blackwater river and longleaf pine forests as sacred ancestral spirit lands.",
+      "energetic_and_spiritual_features": "Peaceful pine savannah grounding energy, gentle winter climate, serene blackwater river reflections."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Black Creek National Recreation Trail",
+        "length_miles": 41.0,
+        "difficulty": "Moderate",
+        "features": "Winding blackwater river trail through pine savannah and oxbow lakes"
+      }
+    ],
+    "public_reviews_summary": "Top choice for winter boondocking in Mississippi. Tranquil longleaf pine forest, great blackwater river access, and reliable cell service.",
+    "other_data": "Bortle Class 3 night sky. Great solar panel output.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ms-de-soto-nf-tuxachanie-trail",
+    "name": "Tuxachanie Trail Dispersed Primitive Camping",
+    "state": "Mississippi",
+    "county": "Forrest / Stone County",
+    "coordinates": {
+      "latitude": 30.9812,
+      "longitude": -89.0214,
+      "elevation_ft": 180
+    },
+    "management_agency": {
+      "name": "US Forest Service - National Forests in Mississippi (De Soto Ranger District)",
+      "type": "USFS",
+      "phone": "(601) 528-6160",
+      "website": "https://www.fs.usda.gov/mississippi"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Dispersed Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted along Tuxachanie Trail corridor and Forest Service dirt roads outside gun hunting season."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6 inches deep in soil 200 feet from Tuxachanie Creek. Pack out all paper.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down longleaf pine wood collection permitted.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Fall dry weather pine burn warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved US Hwy 49 to gravel/dirt Forest Service roads",
+      "road_conditions": "Graded gravel access roads, flat dirt trailhead pullouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Near US 49 Tower Line",
+      "verizon_reliability": "4-5 bars 4G/5G LTE (25-50 Mbps download)",
+      "att_reliability": "4-5 bars 4G/5G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low (Flat piney woods terrain)",
+      "distance_from_tower_corridor_miles": 2.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Shaded Longleaf Pine Canopy",
+      "Tuxachanie Creek Water Source (Filter mandatory)",
+      "Flat Dirt Vehicle Pullouts",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 6,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Wiggins, MS",
+        "distance_miles": 10.0,
+        "services_available": [
+          "Piggly Wiggly / Walmart",
+          "Gas Stations",
+          "Stone County Library",
+          "Hospital",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Hattiesburg, MS",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Full USM Metro City Services",
+          "Costco / Target",
+          "24/7 Gyms",
+          "Forrest General Hospital"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "62-78°F, blooming pitcher plants, warm pleasant breeze.",
+      "summer": "85-95°F, hot humid Gulf coastal piney woods summer.",
+      "fall": "60-78°F, prime mild camping weather, crisp cool nights.",
+      "winter": "42-62°F, short mild winters, sunny dry days."
+    },
+    "dangers_and_hazards": [
+      "Ticks and chiggers in summer (use permethrin)",
+      "High summer heat and humidity",
+      "Venomous snakes near wetland pitcher plant bogs"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Pine forest wind and cicadas",
+      "common_human_made_sounds": [
+        "Distant highway traffic on US 49 corridor"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Longleaf Pine",
+        "Pitcher Plants (carnivorous bog plants)",
+        "Slash Pine",
+        "Sweetbay Magnolia"
+      ],
+      "common_animals": [
+        "Gopher Tortoise (threatened species)",
+        "Red-cockaded Woodpecker",
+        "White-tailed Deer",
+        "Armadillo"
+      ]
+    },
+    "human_demographics_and_culture": "Choctaw ancestral lands, Mississippi Gulf Coast outdoorsmen, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Traditional Choctaw lands honoring the ancient longleaf pine savannas and sacred pitcher plant bogs.",
+      "energetic_and_spiritual_features": "Relaxing Gulf pine forest breezes, unique carnivorous plant bog ecosystem."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Tuxachanie National Recreation Trail",
+        "length_miles": 12.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Longleaf pine savanna, historic logging railroad bed, pitcher plant bogs"
+      }
+    ],
+    "public_reviews_summary": "Top free nomad spot in Southern Mississippi. Blazing 5G cell internet, flat pine campsites, and fast 10-minute drive to Wiggins.",
+    "other_data": "De Soto National Forest. Free dispersed primitive camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ms-homochitto-nf-clear-creek",
+    "name": "Homochitto National Forest Clear Creek Dispersed Camping",
+    "state": "Mississippi",
+    "county": "Franklin County",
+    "coordinates": {
+      "latitude": 31.4812,
+      "longitude": -90.8812,
+      "elevation_ft": 280
+    },
+    "management_agency": {
+      "name": "US Forest Service - National Forests in Mississippi (Homochitto District)",
+      "type": "USFS",
+      "phone": "(601) 384-5876",
+      "website": "https://www.fs.usda.gov/mississippi"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Dispersed Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted along Clear Creek Road pullouts and Forest Service dirt roads outside gun hunting season."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6 inches deep in soil 200 feet from Clear Creek. Pack out all paper.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on forest lands.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Fall dry pine burn warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route to gravel Forest Service roads",
+      "road_conditions": "Graded gravel access roads, flat dirt turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Meadville Tower Line",
+      "verizon_reliability": "3-4 bars 4G LTE (15-35 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low across rolling pine hills",
+      "distance_from_tower_corridor_miles": 3.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Loblolly & Shortleaf Pine Canopy Shade",
+      "Clear Creek Water Source (Filter mandatory)",
+      "Flat Dirt/Gravel Pullouts",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 7,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Meadville / Bude, MS",
+        "distance_miles": 8.0,
+        "services_available": [
+          "Supermarket",
+          "Gas Stations",
+          "Franklin County Library",
+          "Clinic",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Natchez, MS",
+        "distance_miles": 28.0,
+        "services_available": [
+          "Full Metro Services",
+          "Walmart / Kroger",
+          "Natchez Community Hospital",
+          "24/7 Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "62-78°F, blooming wild azaleas, pleasant pine breeze.",
+      "summer": "85-95°F, hot humid Southwest Mississippi summer weather.",
+      "fall": "60-78°F, prime mild camping weather.",
+      "winter": "42-62°F, short mild winters, sunny dry days."
+    },
+    "dangers_and_hazards": [
+      "Ticks and chiggers in summer (use permethrin)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Pine forest wind and woodland songbirds",
+      "common_human_made_sounds": [
+        "Occasional vehicle on forest road"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Loblolly Pine",
+        "Shortleaf Pine",
+        "Southern Magnolia",
+        "Dogwood"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Red-cockaded Woodpecker",
+        "Armadillo"
+      ]
+    },
+    "human_demographics_and_culture": "Choctaw ancestral lands, Mississippi outdoorsmen, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Traditional Choctaw lands honoring the rolling shortleaf pine hills of Southwest Mississippi.",
+      "energetic_and_spiritual_features": "Relaxing pine forest quietness, peaceful creek water flow."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Clear Creek Trail",
+        "length_miles": 5.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Clear Creek banks, loblolly pine canopy, wildlife viewing"
+      }
+    ],
+    "public_reviews_summary": "Top free primitive camping in Mississippi's Homochitto National Forest. Solid cell internet, flat pine campsites, and 10 minutes to Meadville.",
+    "other_data": "Homochitto National Forest. Free dispersed primitive camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "mississippi-004",
+    "name": "De Soto National Forest Primitive Dispersed Camping Area",
+    "state": "Mississippi",
+    "county": "Perry",
+    "coordinates": {
+      "latitude": 31.0812,
+      "longitude": -89.0142,
+      "elevation_ft": 160.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - National Forests in Mississippi (De Soto Ranger District)",
+      "type": "Federal",
+      "phone": "(601) 528-6160",
+      "website": "https://www.fs.usda.gov/mississippi"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed forest camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Primitive dispersed camping permitted along Tuxachanie Trail and forest service roads. Camp at least 100 feet from trails and water. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep in cat-holes 200 feet from creeks. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared ground rings. Douse cold with water.",
+      "seasonal_fire_bans": "Subject to USFS dry autumn burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest service roads",
+      "road_conditions": "Smooth gravel roads with flat longleaf pine pullouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Good (3.5/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "3 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open longleaf pine forest",
+      "distance_from_tower_corridor_miles": 3.2,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Longleaf Pine Savanna Shade",
+      "Primitive Fire Rings",
+      "Flat Sand-Clay Pullouts"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 5,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "New Augusta, MS",
+        "distance_miles": 8.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Local Restaurants"
+        ]
+      },
+      {
+        "town_name": "Hattiesburg, MS",
+        "distance_miles": 26.0,
+        "services_available": [
+          "Supercenters",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "University City Amenities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Warm, sunny weather with wild pitcher plant blooms.",
+      "summer": "Hot and humid (88-95°F) with afternoon thunder squalls.",
+      "fall": "Pleasant, mild autumn weather with warm days and cool nights.",
+      "winter": "Mild winter climate (45-62°F); excellent winter camping."
+    },
+    "dangers_and_hazards": [
+      "High Humidity & Heat in Summer",
+      "Ticks and Chiggers",
+      "Venomous Snakes (Eastern Diamondback, Copperhead)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Peaceful Pine Savanna (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Distant highway hum",
+        "High altitude military jets from Camp Shelby"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Longleaf Pine",
+        "Carnivorous Pitcher Plants",
+        "Slash Pine",
+        "Saw Palmetto"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Gopher Tortoise (Protected)",
+        "Wild Turkey",
+        "Red-cockaded Woodpecker"
+      ]
+    },
+    "human_demographics_and_culture": "South Mississippi piney woods timber, homesteading, and Gulf Coast backcountry culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Piney Woods folklore recalls ancient longleaf savannas where whisper winds rustle long needles.",
+      "energetic_and_spiritual_features": "Open, sun-dappled pine floor generates a bright, uplifting energy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Tuxachanie National Recreation Trail",
+        "length_miles": 12.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Historic logging railroad bed, pitcher plant bogs, longleaf pine ridges"
+      }
+    ],
+    "public_reviews_summary": "Extremely pleasant winter camping spot with fast cell internet and beautiful open pine woods.",
+    "other_data": "Avoid disturbing protected gopher tortoise burrows.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "mississippi-005",
+    "name": "Caney Creek Wildlife Management Area Primitive Spot",
+    "state": "Mississippi",
+    "county": "Scott",
+    "coordinates": {
+      "latitude": 32.2812,
+      "longitude": -89.4512,
+      "elevation_ft": 420.0
+    },
+    "management_agency": {
+      "name": "Mississippi Department of Wildlife, Fisheries, and Parks (MDWFP)",
+      "type": "State",
+      "phone": "(601) 432-2400",
+      "website": "https://www.mdwfp.com"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive camping with free WMA permit)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed at designated camping pullouts. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from creeks.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out rule."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down firewood locally.",
+      "safety_requirements": "Campfires allowed in cleared ground rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to state dry season burn warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest roads",
+      "road_conditions": "Well-maintained gravel roads with flat pullouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - gentle rolling loblolly pine hills",
+      "distance_from_tower_corridor_miles": 2.2,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Gravel Flat Campsites",
+      "Shaded Loblolly Pine Forest",
+      "Information Kiosk"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 4,
+      "quietness_score": 7
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Forest, MS",
+        "distance_miles": 7.5,
+        "services_available": [
+          "Supermarket",
+          "Gas Station",
+          "Hardware Store",
+          "Public Library",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Jackson, MS",
+        "distance_miles": 42.0,
+        "services_available": [
+          "International Airport",
+          "Major Hospitals",
+          "Metropolitan Amenities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Mild spring temperatures with blooming dogwood trees.",
+      "summer": "Hot and humid (88-94°F); shaded pine canopy provides relief.",
+      "fall": "Crisp autumn air; ideal weather for camping.",
+      "winter": "Mild winter climate (40-60°F)."
+    },
+    "dangers_and_hazards": [
+      "Ticks and Chiggers",
+      "Poison Ivy"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Quiet Country Forest (Quietness Score: 7/10)",
+      "common_human_made_sounds": [
+        "Distant highway traffic hum",
+        "Passing timber truck"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Loblolly Pine",
+        "Shortleaf Pine",
+        "Southern Red Oak",
+        "Dogwood"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Gray Squirrel",
+        "Red-tailed Hawk"
+      ]
+    },
+    "human_demographics_and_culture": "Central Mississippi timberland and agrarian countryside culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Choctaw history honors ancient forest trails through central Mississippi pine hills.",
+      "energetic_and_spiritual_features": "Peaceful pine woods offering a quiet, uncomplicated atmosphere."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Caney Creek Wildlife Trail",
+        "length_miles": 4.1,
+        "difficulty": "Easy",
+        "features": "Flat loblolly pine forest loop, small creek crossings"
+      }
+    ],
+    "public_reviews_summary": "Super easy access right off I-20 with blazing fast 5G cell internet and zero fees.",
+    "other_data": "Wear fluorescent orange during deer firearm hunting season.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "mississippi-006",
+    "name": "Leaf River Wildlife Management Area Primitive Sites - De Soto NF",
+    "state": "Mississippi",
+    "county": "Perry",
+    "coordinates": {
+      "latitude": 31.1112,
+      "longitude": -88.9412,
+      "elevation_ft": 140.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - De Soto National Forest / MDWFP",
+      "type": "Federal/State",
+      "phone": "(601) 528-6160",
+      "website": "https://www.fs.usda.gov/mississippi"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS/WMA dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free primitive dispersed camping allowed throughout Leaf River WMA along national forest pullouts. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Leaf River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared sand fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway to gravel Forest Service road",
+      "road_conditions": "Paved highway access; smooth gravel forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open pine flatwoods",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Leaf River Shoreline Access",
+      "Longleaf Pine Forest Canopy",
+      "Sandy River Sandbars",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Brooklyn, MS",
+        "distance_miles": 8.0,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush longleaf spring (65-78°F).",
+      "summer": "Warm humid summer (88-94°F) with river swimming.",
+      "fall": "Mild pleasant autumn days.",
+      "winter": "Mild southern winter (42-58°F)."
+    },
+    "dangers_and_hazards": [
+      "Cottonmouth & Rattlesnakes",
+      "Mosquitoes in Summer"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Leaf River Pine Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through longleaf pine needles",
+        "Leaf River water ripple"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Longleaf Pine",
+        "Slash Pine",
+        "Sweetbay Magnolia",
+        "Pitcher Plants"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Gopher Tortoise",
+        "Wild Turkey",
+        "Red-cockaded Woodpecker"
+      ]
+    },
+    "human_demographics_and_culture": "Choctaw ancestral lands and Piney Woods timber and riverboat culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Leaf River meanders through ancient longleaf pine forests with white sand riverbars.",
+      "energetic_and_spiritual_features": "Quiet pine flatwoods with crystal clear white sand streams."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Leaf River Trail",
+        "length_miles": 4.0,
+        "difficulty": "Easy",
+        "features": "River shoreline, sandbars, longleaf pine savanna"
+      }
+    ],
+    "public_reviews_summary": "Peaceful river sandbar basecamp in De Soto National Forest near Brooklyn with strong cell service.",
+    "other_data": "Great canoeing and sandbar camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "mississippi-007",
+    "name": "Delta National Forest Sunflower Primitive Dispersed Area",
+    "state": "Mississippi",
+    "county": "Sharkey",
+    "coordinates": {
+      "latitude": 32.7812,
+      "longitude": -90.8412,
+      "elevation_ft": 100.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Delta National Forest",
+      "type": "Federal",
+      "phone": "(662) 873-6256",
+      "website": "https://www.fs.usda.gov/mississippi"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Forest Service roads in the nation's only bottomland hardwood national forest. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Little Sunflower River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared ground rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway to gravel Forest Service road",
+      "road_conditions": "Paved access road; gravel forest road; flat terrain.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans when dry.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - flat Mississippi Delta landscape",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Bottomland Oak-Gum Hardwood Forest",
+      "Little Sunflower River Access",
+      "Green-tree Reservoir Views",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 8,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Rolling Fork, MS",
+        "distance_miles": 8.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Delta Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Spring green-tree flooded forest (64-76°F).",
+      "summer": "Warm humid Delta summer (88-94°F).",
+      "fall": "Crisp dry autumn days.",
+      "winter": "Mild Delta winter (38-54°F)."
+    },
+    "dangers_and_hazards": [
+      "Spring Flooding",
+      "Mosquitoes in Summer"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Mississippi Delta Quiet (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Wind in bald cypress & sweetgum",
+        "Barred owl calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Overcup Oak",
+        "Sweetgum",
+        "Bald Cypress",
+        "Green Ash"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Barred Owl",
+        "Wood Duck",
+        "Mississippi Alligator"
+      ]
+    },
+    "human_demographics_and_culture": "Choctaw ancestral lands and Mississippi Delta blues and agricultural heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "America's only bottomland hardwood national forest, preserving 60,000 acres of ancient Mississippi Delta floodplains.",
+      "energetic_and_spiritual_features": "Towering sweetgum and oak forest canopy with serene swamp bayous."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Sunflower River Trail",
+        "length_miles": 3.5,
+        "difficulty": "Easy",
+        "features": "Bottomland hardwood forest, river view, bird watching"
+      }
+    ],
+    "public_reviews_summary": "Unique bottomland hardwood forest basecamp in the Mississippi Delta near Rolling Fork with great cell coverage.",
+    "other_data": "America's only bottomland hardwood NF.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "mississippi-008",
+    "name": "Bienville National Forest Caney Creek Dispersed Area",
+    "state": "Mississippi",
+    "county": "Scott",
+    "coordinates": {
+      "latitude": 32.3112,
+      "longitude": -89.4812,
+      "elevation_ft": 420.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Bienville National Forest",
+      "type": "Federal",
+      "phone": "(601) 469-3811",
+      "website": "https://www.fs.usda.gov/mississippi"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along open Forest Service road pullouts. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Caney Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway to gravel Forest Service road",
+      "road_conditions": "Paved access road; smooth gravel forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - gently rolling pine terrain",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Pine-Hardwood Forest Canopy",
+      "Caney Creek Shoreline Access",
+      "Flat Level Pullout Sites",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Forest, MS",
+        "distance_miles": 6.0,
+        "services_available": [
+          "Grocery Store",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Fresh spring (62-76°F).",
+      "summer": "Warm humid summer (88-94°F).",
+      "fall": "Crisp dry autumn days.",
+      "winter": "Mild winter (38-54°F)."
+    },
+    "dangers_and_hazards": [
+      "Copperhead Snakes",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Bienville Pine Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through shortleaf pine",
+        "Songbirds"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "Loblolly Pine",
+        "Post Oak",
+        "Sweetgum"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Gray Fox",
+        "Red-headed Woodpecker"
+      ]
+    },
+    "human_demographics_and_culture": "Choctaw ancestral lands and central Mississippi timber heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Bienville National Forest preserves 178,000 acres of central Mississippi pine-hardwood hills.",
+      "energetic_and_spiritual_features": "Quiet pine hollows with gently flowing gravel creeks."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Caney Creek Trail",
+        "length_miles": 3.8,
+        "difficulty": "Easy",
+        "features": "Creek shoreline, pine-oak canopy, wildlife viewing"
+      }
+    ],
+    "public_reviews_summary": "Peaceful pine basecamp near Forest, MS with strong cell service.",
+    "other_data": "Harrell Prairie Botanical Area nearby.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "mississippi-009",
+    "name": "Holly Springs NF Puskus Primitive Dispersed Area",
+    "state": "Mississippi",
+    "county": "Lafayette",
+    "coordinates": {
+      "latitude": 34.3812,
+      "longitude": -89.3112,
+      "elevation_ft": 480.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Holly Springs National Forest",
+      "type": "Federal",
+      "phone": "(662) 236-6550",
+      "website": "https://www.fs.usda.gov/mississippi"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside paid recreation area)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Forest Service road pullouts. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Puskus Lake. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway to gravel Forest Service road",
+      "road_conditions": "Paved access road; smooth gravel forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE / 5G",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - gently rolling red clay pine hills",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Puskus Lake Shoreline Access",
+      "Loblolly Pine Canopy",
+      "Bass Fishing",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 6,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Oxford, MS",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Grocery Store",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Restaurants",
+          "Bookstores",
+          "Cafes"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush spring (60-74°F).",
+      "summer": "Warm summer (86-92°F).",
+      "fall": "Crisp autumn college football season days.",
+      "winter": "Cool winter (32-48°F)."
+    },
+    "dangers_and_hazards": [
+      "Copperhead Snakes",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Oxford Pine Hills Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through loblolly pine",
+        "Songbirds"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Loblolly Pine",
+        "Shortleaf Pine",
+        "Southern Red Oak",
+        "Dogwood"
+      ],
+      "common_animals": [
+        "Large-mouth Bass",
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Gray Fox"
+      ]
+    },
+    "human_demographics_and_culture": "Chickasaw ancestral lands and Oxford William Faulkner literary culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Rolling red clay pine hills of north Mississippi near historic Oxford and Ole Miss.",
+      "energetic_and_spiritual_features": "Quiet pine woods surrounding pristine 90-acre Puskus Lake."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Puskus Lake Trail",
+        "length_miles": 3.2,
+        "difficulty": "Easy",
+        "features": "Lake shoreline walk, pine-oak canopy, bass fishing access"
+      }
+    ],
+    "public_reviews_summary": "Pristine pine lake basecamp near Oxford with fast 5G cell service.",
+    "other_data": "Close to Oxford culture.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "mississippi-010",
+    "name": "Tombigbee National Forest Choctaw Lake Dispersed Zone",
+    "state": "Mississippi",
+    "county": "Choctaw",
+    "coordinates": {
+      "latitude": 33.2812,
+      "longitude": -89.1412,
+      "elevation_ft": 520.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Tombigbee National Forest",
+      "type": "Federal",
+      "phone": "(662) 285-3264",
+      "website": "https://www.fs.usda.gov/mississippi"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside paid area)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Forest Service road pullouts near Choctaw Lake perimeter. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Choctaw Lake. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route to gravel Forest Service road",
+      "road_conditions": "Paved route access; smooth gravel forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - gently rolling pine hills",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Choctaw Lake Shoreline Access",
+      "Noxubee Hills Pine Canopy",
+      "Bass & Crappie Fishing",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Ackerman, MS",
+        "distance_miles": 5.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush spring (60-74°F).",
+      "summer": "Warm summer (86-92°F).",
+      "fall": "Crisp autumn days.",
+      "winter": "Mild winter (34-50°F)."
+    },
+    "dangers_and_hazards": [
+      "Copperhead Snakes",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Noxubee Pine Hills Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through loblolly pine",
+        "Songbirds"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Loblolly Pine",
+        "Shortleaf Pine",
+        "White Oak",
+        "Dogwood"
+      ],
+      "common_animals": [
+        "Large-mouth Bass",
+        "Crappie",
+        "White-tailed Deer",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Choctaw ancestral lands and Choctaw County pine hills timber heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Choctaw Lake nestles in the high Noxubee Hills region of central Mississippi.",
+      "energetic_and_spiritual_features": "Peaceful pine hills overlooking 100-acre spring-fed lake waters."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Noxubee Hills Trail",
+        "length_miles": 4.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Lake shoreline, pine-oak ridges, wildlife viewing"
+      }
+    ],
+    "public_reviews_summary": "Quiet lakeside basecamp near Ackerman with strong cell service.",
+    "other_data": "Great crappie and bass fishing.",
+    "last_updated": "2026-09-12"
+  }
+]

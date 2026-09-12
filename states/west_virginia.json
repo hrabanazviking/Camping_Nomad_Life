@@ -1,0 +1,1288 @@
+[
+  {
+    "id": "wv-monongahela-williams-river",
+    "name": "Williams River Road Dispersed Camping - Monongahela National Forest",
+    "state": "West Virginia",
+    "county": "Pocahontas County / Webster County",
+    "coordinates": {
+      "latitude": 38.3412,
+      "longitude": -80.2814,
+      "elevation_ft": 2450
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Marlinton-White Sulphur Ranger District",
+      "type": "USFS",
+      "phone": "(304) 799-4334",
+      "website": "https://www.fs.usda.gov/mnf"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for general forest dispersed camping",
+      "stay_limit": "14 consecutive days max stay within 30-day period",
+      "guidelines": "Dispersed primitive camping permitted along Forest Service Road 86 (Williams River Road). Must be set back 100ft from Cranberry Wilderness boundary and river."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6-8 inches deep in rich organic topsoil, 200 feet from Williams River. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out. Black bears present: bear canister or vehicle storage mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only within forest.",
+      "safety_requirements": "Campfires in established rock fire rings only. Extinguish cold to touch with river water.",
+      "seasonal_fire_bans": "Obey WV Division of Forestry burn bans during spring (March-May) and autumn (Oct-Dec)."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved changing to unpaved gravel forest service road (FS 86 / Williams River Road)",
+      "road_conditions": "Winding gravel forest road along river gorge with small washboards and dips.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (accessible along main FS 86 gravel road in dry weather)",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Weak to Moderate / Cell Booster Recommended",
+      "verizon_reliability": "1-2 bars 4G LTE on higher ridge points; spotty down in river gorge (Note: near Green Bank Quiet Zone boundary)",
+      "att_reliability": "1-2 bars 4G LTE",
+      "tmobile_reliability": "No signal",
+      "terrain_obstruction_risk": "High (Deep Allegheny mountain river gorge restricts cell line of sight)",
+      "distance_from_tower_corridor_miles": 8.5,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Williams River Blue-Ribbon Trout Access",
+      "Cranberry Wilderness Proximity",
+      "Established Rock Fire Rings",
+      "Shaded Hemlock & Red Spruce Canopy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 3,
+      "terrain_score": 9,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Marlinton / Richwood, WV",
+        "distance_miles": 14.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Pharmacy",
+          "Pocahontas County Library",
+          "Pocahontas Memorial Hospital"
+        ]
+      },
+      {
+        "town_name": "Elkins / Lewisburg, WV",
+        "distance_miles": 42.0,
+        "services_available": [
+          "Walmart Supercenter",
+          "Davis Medical Center",
+          "Full City Services"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "50-65°F, high river waterfall flow, blooming ramp greens and wildflowers, spring rainstorms.",
+      "summer": "75-82°F, pleasant high-elevation mountain climate, cool nights (50-55°F).",
+      "fall": "Spectacular Allegheny autumn leaf foliage (50-65°F daytime, 30-40°F nights), prime camping.",
+      "winter": "Cold snowy mountain winter (20-35°F), heavy snowpack."
+    },
+    "dangers_and_hazards": [
+      "Black Bears active throughout Monongahela NF - store food securely",
+      "Timber Rattlesnakes near rocky outcrops",
+      "Flash flooding along Williams River after heavy mountain rain"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "10/10 - Rushing trout river and mountain silence",
+      "common_human_made_sounds": [
+        "Occasional fly angler truck on river road",
+        "River water rushing over boulders"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Red Spruce (Picea rubens)",
+        "Eastern Hemlock",
+        "Yellow Birch",
+        "Rhododendron maximum",
+        "Wild Ramp (Allium tricoccum)"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Native Brook Trout",
+        "Allegheny Woodrat"
+      ]
+    },
+    "human_demographics_and_culture": "Cranberry Wilderness backpackers, fly anglers, West Virginia digital nomads, and autumn leaf peepers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Shawnee indigenous traditions revere the Allegheny Highlands and Williams River gorge as sacred medicine lands of mountain spirits.",
+      "energetic_and_spiritual_features": "Profound mountain stream silence, ancient hemlock spruce forest vitality, pristine quiet."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Cranberry Wilderness Trail System",
+        "length_miles": 60.0,
+        "difficulty": "Strenuous Wilderness Hiking",
+        "features": "Deep wilderness valleys, high spruce ridges, pristine backcountry rivers"
+      }
+    ],
+    "public_reviews_summary": "Top choice for wilderness primitive camping in West Virginia. Breathtaking trout river gorge scenery and total acoustic peace.",
+    "other_data": "Bortle Class 2 night sky. Abundant firewood.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "wv-monongahela-nf-dolly-sods",
+    "name": "Dolly Sods Wilderness Dispersed Primitive Camping",
+    "state": "West Virginia",
+    "county": "Tucker / Grant County",
+    "coordinates": {
+      "latitude": 39.0214,
+      "longitude": -79.3214,
+      "elevation_ft": 4050
+    },
+    "management_agency": {
+      "name": "US Forest Service - Monongahela National Forest (Cheat-Potomac Ranger District)",
+      "type": "USFS",
+      "phone": "(304) 257-1663",
+      "website": "https://www.fs.usda.gov/mnf"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Monongahela NF Wilderness Dispersed Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed wilderness camping permitted along FR 75 corridor pullouts and interior wilderness trails. Camp 100ft minimum from roads and streams."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in peaty soil 200 feet from Red Creek and bogs. Pack out hygiene products.",
+      "trash_policy": "Strict Leave No Trace wilderness policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down spruce and birch wood gathering permitted.",
+      "safety_requirements": "Campfires in small rock rings using dead wood only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "High mountain wind autumn dry leaf fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved Gravel Dirt Mountain Ridge Road (Forest Road 75)",
+      "road_conditions": "Washboard gravel dirt, steep mountain grade switchbacks, potholed in spots.",
+      "vehicle_recommendation": "High clearance recommended; standard 2WD vehicles can access FR 75 carefully in dry weather.",
+      "scores": {
+        "road_grade": 6,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / 4,000ft High Ridge Line",
+      "verizon_reliability": "3-4 bars 4G LTE along FR 75 high crest pullouts",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low along 4,000ft high plateau crest",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "High-Elevation Sub-Alpine Bog & Heath Barren Landscapes",
+      "Sweeping Allegheny Mountain Panoramas",
+      "Red Creek Headwaters Access",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Davis / Thomas, WV",
+        "distance_miles": 16.0,
+        "services_available": [
+          "Shop 'n Save Supermarket",
+          "Gas Stations",
+          "Five Davis Library",
+          "Craft Breweries",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Elkins, WV",
+        "distance_miles": 34.0,
+        "services_available": [
+          "Walmart Supercenter",
+          "Davis Medical Center",
+          "Full City Services",
+          "Hardware Stores"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "40-55°F, misty bog rains, blooming mountain laurel.",
+      "summer": "65-78°F, cool sub-alpine summer climate, wild blueberry picking.",
+      "fall": "42-60°F, world-class crimson huckleberry and maple fall foliage.",
+      "winter": "10-30°F, severe Canadian-like freezing winds, snow-covered tundra landscape."
+    },
+    "dangers_and_hazards": [
+      "Sudden severe high-elevation mountain fog and weather changes",
+      "High wind gusts along exposed 4,000ft plateau",
+      "Unexploded ordnance warning (historical WWII artillery testing site; stay on established trails)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "10/10 - High plateau mountain wind and raven calls",
+      "common_human_made_sounds": [
+        "Occasional 4x4 on FR 75 dirt road"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Red Spruce (one-sided wind-flagged trees)",
+        "Wild Huckleberry",
+        "Cranberry",
+        "Mountain Ash",
+        "Sphagnum Moss"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "Snowshoe Hare",
+        "Raven",
+        "Cheat Mountain Salamander",
+        "Timber Rattlesnake"
+      ]
+    },
+    "human_demographics_and_culture": "Monongahela ancestral lands, West Virginia mountain outdoorsmen, wilderness backpackers, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Unique Canadian tundra-like ecology in the heart of West Virginia. Known as one of the most ecologically distinct high plateaus in North America.",
+      "energetic_and_spiritual_features": "Exhilarating sub-alpine tundra energy, vast open sky horizons, majestic sunrise vistas."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Bear Rocks to Black Sky Wilderness Loop",
+        "length_miles": 11.2,
+        "difficulty": "Strenuous",
+        "features": "Wind-flagged spruce groves, red sandstone hoodoos, sphagnum bogs"
+      }
+    ],
+    "public_reviews_summary": "Unrivaled sub-alpine wilderness camping in West Virginia. High 4,000ft ridge elevation with fast cell signal, wild blueberries, and Canadian-like landscapes.",
+    "other_data": "Monongahela National Forest. Free wilderness dispersed camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "wv-monongahela-nf-cranberry-backcountry",
+    "name": "Cranberry Backcountry Dispersed Primitive Camping",
+    "state": "West Virginia",
+    "county": "Pocahontas / Nicholas County",
+    "coordinates": {
+      "latitude": 38.2214,
+      "longitude": -80.3214,
+      "elevation_ft": 3450
+    },
+    "management_agency": {
+      "name": "US Forest Service - Monongahela National Forest (Gauley Ranger District)",
+      "type": "USFS",
+      "phone": "(304) 846-2695",
+      "website": "https://www.fs.usda.gov/mnf"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Monongahela NF Wilderness Dispersed Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted along Cranberry River Road (FR 76) pullouts and Cranberry Wilderness boundary. Camp 100ft minimum from river."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in peaty soil 200 feet from Cranberry River. Pack out hygiene products.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on site.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Fall dry leaf fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved WV 150 (Highland Scenic Highway) to gravel Forest Service roads",
+      "road_conditions": "Paved scenic highway main access, graded gravel river roads.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Highland Highway Pass Signal",
+      "verizon_reliability": "3-4 bars 4G LTE along Highland Scenic Highway 3,400ft pullouts",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low along high mountain scenic highway crest",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Pristine Appalachian Mountain River Campsites",
+      "Highland Scenic Highway Ridge Overlooks",
+      "Cranberry River Trout Stream Access",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Richwood / Marlinton, WV",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Supermarket",
+          "Gas Stations",
+          "Richwood Public Library",
+          "Hospital",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "45-62°F, blooming wild orchids in Cranberry Glades, crisp trout stream air.",
+      "summer": "68-80°F, cool West Virginia high mountain escape from summer heat.",
+      "fall": "48-65°F, world-class Highland Scenic Highway autumn foliage.",
+      "winter": "18-35°F, heavy mountain snowpack, snowshoeing & cross-country skiing."
+    },
+    "dangers_and_hazards": [
+      "Black bears in Monongahela NF (bear hang or canister recommended)",
+      "High mountain fog on Highland Scenic Highway"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "10/10 - Cranberry River rapids and mountain forest wind",
+      "common_human_made_sounds": [
+        "Occasional fly angler on river"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Red Spruce",
+        "Hemlock",
+        "Yellow Birch",
+        "Sugar Maple",
+        "Cranberry"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "Native Brook Trout",
+        "White-tailed Deer",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Monongahela ancestral lands, West Virginia mountain outdoorsmen, trout anglers, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Cranberry Glades Botanical Area (arctic-tundra bog ecology in West Virginia). Rich Allegheny mountain folklore.",
+      "energetic_and_spiritual_features": "Profound high mountain bog quietness, pristine trout river water."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Cranberry River Trail",
+        "length_miles": 16.0,
+        "difficulty": "Moderate",
+        "features": "Non-motorized river valley, hemlock groves, trout pools"
+      }
+    ],
+    "public_reviews_summary": "West Virginia's premier trout river primitive camping. Fast cell internet on Highland Scenic Highway, crystal clear Cranberry River pools, and 100% free USFS access.",
+    "other_data": "Monongahela National Forest. Free dispersed primitive camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "west_virginia-004",
+    "name": "Cranberry Wilderness Glades Primitive Zone - Monongahela National Forest",
+    "state": "West Virginia",
+    "county": "Pocahontas",
+    "coordinates": {
+      "latitude": 38.2148,
+      "longitude": -80.3412,
+      "elevation_ft": 3450.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Monongahela National Forest (Gauley Ranger District)",
+      "type": "Federal",
+      "phone": "(304) 846-2695",
+      "website": "https://www.fs.usda.gov/mana"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive wilderness dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive wilderness camping allowed along Cranberry River and wilderness trails. Camp 100 ft from water and trails. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from Cranberry River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out wilderness policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in existing stone fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS dry weather fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved Highland Scenic Highway to gravel forest service roads",
+      "road_conditions": "Paved scenic highway to smooth gravel trailhead turnouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Zero (0/5 Stars)",
+      "verizon_reliability": "No signal (National Radio Quiet Zone)",
+      "att_reliability": "No signal",
+      "tmobile_reliability": "No signal",
+      "terrain_obstruction_risk": "Extreme - National Radio Quiet Zone & deep Appalachian mountain valley",
+      "distance_from_tower_corridor_miles": 35.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Wild Cranberry River Access",
+      "Highland Boreal Glades Views",
+      "Primitive Stone Fire Rings",
+      "Unmatched Quiet Zone Solitude"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 4,
+      "distance_to_library_score": 4,
+      "distance_to_gym_score": 3,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Richwood, WV",
+        "distance_miles": 14.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Marlinton, WV",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Supermarket",
+          "Hospital",
+          "Public Library",
+          "Local Outfitter"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool high elevation spring with blooming orchids in Cranberry Glades bog.",
+      "summer": "Cool high elevation summer (72-78°F), escaping lowland heat.",
+      "fall": "World-class vibrant Allegheny mountain autumn foliage in October.",
+      "winter": "Cold mountain winter (15-30°F) with heavy snowpack."
+    },
+    "dangers_and_hazards": [
+      "Black Bears (Food storage required)",
+      "Total Lack of Cell Signal (Radio Quiet Zone)",
+      "Freezing Night Temperatures"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Radio Quiet Zone Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "High altitude commercial flights"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Red Spruce",
+        "Yellow Birch",
+        "Cranberry Bog Vegetation",
+        "Mountain Ash"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "Native Brook Trout",
+        "West Virginia Flying Squirrel",
+        "White-tailed Deer"
+      ]
+    },
+    "human_demographics_and_culture": "West Virginia Allegheny mountain timber, trout fishing, and National Radio Quiet Zone heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Allegheny mountain folklore tells of ancient cranberry bogs protected by peaceful woodland spirits.",
+      "energetic_and_spiritual_features": "High elevation boreal bog and trout stream in a radio-quiet wilderness produce profound mental tranquility."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Cranberry River Trail & Cowpasture Loop",
+        "length_miles": 7.2,
+        "difficulty": "Moderate",
+        "features": "Boreal cranberry bog boardwalk, trout river wilderness, spruce forests"
+      }
+    ],
+    "public_reviews_summary": "The ultimate digital detox primitive camping in West Virginia's Radio Quiet Zone surrounded by boreal glades.",
+    "other_data": "Store all food securely from black bears and bring paper maps.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "west_virginia-005",
+    "name": "Coopers Rock State Forest Primitive Dispersed Zone",
+    "state": "West Virginia",
+    "county": "Monongalia / Preston",
+    "coordinates": {
+      "latitude": 39.6412,
+      "longitude": -79.7812,
+      "elevation_ft": 2120.0
+    },
+    "management_agency": {
+      "name": "West Virginia Division of Forestry / Division of Natural Resources",
+      "type": "State",
+      "phone": "(304) 594-1561",
+      "website": "https://wvstateparks.com/park/coopers-rock-state-forest/"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive trailside camping for long-distance backpackers along Virginian Trail corridor)",
+      "stay_limit": "2 consecutive nights limit",
+      "guidelines": "Primitive backcountry camping permitted along designated trailside zones outside developed fee loop. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from Cheat River.",
+      "trash_policy": "Strict Carry-In, Carry-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to WV Division of Forestry burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved I-68 access to forest road parking",
+      "road_conditions": "Paved road access directly off I-68.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE on high rock overlooks",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low to Moderate - Cheat River Gorge overlook ridge",
+      "distance_from_tower_corridor_miles": 1.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Cheat River Gorge Overlook Vistas",
+      "Sandstone Rock Bouldering Formations",
+      "Primitive Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 7,
+      "terrain_score": 9,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Morgantown, WV",
+        "distance_miles": 11.4,
+        "services_available": [
+          "Supercenters",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "WVU University Amenities"
+        ]
+      },
+      {
+        "town_name": "Uniontown, PA",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Supermarket",
+          "Gas Station",
+          "Hardware Store"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush mountain greening with rhododendron blooms.",
+      "summer": "Warm days (76-84°F) with cool Cheat River Gorge breezes.",
+      "fall": "Spectacular Cheat River Gorge autumn leaf display in October.",
+      "winter": "Cool to cold (20-35°F) with snow-dusted sandstone boulders."
+    },
+    "dangers_and_hazards": [
+      "Sheer Sandstone Cliff Overlooks (Cheat Canyon Drop-offs)",
+      "Copperheads",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Tranquil Gorge Overlook (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Distant I-68 traffic hum",
+        "Overhead commercial flights"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Chestnut Oak",
+        "Hemlock",
+        "Rhododendron",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Black Bear",
+        "Wild Turkey",
+        "Ravens"
+      ]
+    },
+    "human_demographics_and_culture": "West Virginia University, Cheat River whitewater, and rock climbing culture near Morgantown.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Local legend of the fugitive cooper who lived in a rock shelter high above the Cheat River Gorge.",
+      "energetic_and_spiritual_features": "Massive sandstone boulders overlooking 1,200-foot Cheat River Gorge generate an exhilarating, free energy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Coopers Rock Overlook & Raven Rock Trail",
+        "length_miles": 5.4,
+        "difficulty": "Moderate",
+        "features": "1,200-ft Cheat River Gorge overlook, giant sandstone boulders, rhododendron tunnels"
+      }
+    ],
+    "public_reviews_summary": "Blazing fast 5G cell internet, unreal gorge views right off I-68, zero cost near Morgantown.",
+    "other_data": "Stay back from unfenced canyon cliff edges.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "west_virginia-006",
+    "name": "Spruce Knob Dispersed Area - Monongahela National Forest",
+    "state": "West Virginia",
+    "county": "Pendleton",
+    "coordinates": {
+      "latitude": 38.7123,
+      "longitude": -79.5412,
+      "elevation_ft": 4400.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Monongahela National Forest",
+      "type": "Federal",
+      "phone": "(304) 567-2827",
+      "website": "https://www.fs.usda.gov/mana"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside summit parking lot)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along Spruce Mountain Road (FS 112). Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from mountain streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved forest road to gravel ridge spurs",
+      "road_conditions": "Paved FS 112 climbing mountain summit with smooth gravel side turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great on Peak (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low on 4,400-foot Spruce Mountain summit ridge",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "West Virginia's Highest Mountain Ridge (4,863 ft Peak)",
+      "Red Spruce Subalpine Canopy",
+      "Seneca Rocks Proximity",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Franklin / Seneca Rocks, WV",
+        "distance_miles": 18.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Climbing Shops",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool subalpine spring (48-60°F).",
+      "summer": "Cool refreshing high elevation summer (68-76°F).",
+      "fall": "Spectacular Allegheny autumn foliage.",
+      "winter": "Severe cold winter (15-30°F) with snow."
+    },
+    "dangers_and_hazards": [
+      "High Summit Wind Gusts",
+      "Sudden Mountain Fog",
+      "Severe Winter Cold"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Subalpine Peak Silence (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through red spruce needles",
+        "Raven calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Red Spruce",
+        "Mountain Ash",
+        "Wild Blueberry",
+        "Allegheny Menziesia"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Raven",
+        "Black Bear",
+        "Cheat Mountain Salamander"
+      ]
+    },
+    "human_demographics_and_culture": "Monongahela ancestral lands and West Virginia high mountain conservation culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "West Virginia's highest point (Spruce Knob, 4,863 ft) featuring windswept red spruce trees with branches growing only on one side.",
+      "energetic_and_spiritual_features": "Subalpine red spruce mountain ridge offering panoramic views over the Potomac Highlands."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Whispering Spruce Trail",
+        "length_miles": 0.6,
+        "difficulty": "Easy",
+        "features": "Spruce Knob stone observation tower, 360-degree high peak views, one-sided red spruces"
+      }
+    ],
+    "public_reviews_summary": "Unbelievable high peak mountain basecamp near West Virginia's highest point with blazing 5G cell service.",
+    "other_data": "Spruce Knob summit is 4,863 feet tall.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "west_virginia-007",
+    "name": "Williams River Dispersed Area - Monongahela NF",
+    "state": "West Virginia",
+    "county": "Pocahontas",
+    "coordinates": {
+      "latitude": 38.3512,
+      "longitude": -80.2812,
+      "elevation_ft": 2200.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Marlinton Ranger District",
+      "type": "Federal",
+      "phone": "(304) 799-4334",
+      "website": "https://www.fs.usda.gov/mana"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside developed campsites)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along Williams River Road (FS 86). Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Williams River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy. Bear safety mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved forest road to gravel river pullouts",
+      "road_conditions": "Paved Williams River Road with smooth gravel side turnouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low along Williams River corridor",
+      "distance_from_tower_corridor_miles": 6.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Williams River Trout Fishing",
+      "Cranberry Wilderness Gateway",
+      "High Mountain River Shade",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Marlinton / Richwood, WV",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Grocery Store",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush mountain spring (52-65°F).",
+      "summer": "Cool refreshing river summer (72-80°F).",
+      "fall": "Spectacular Allegheny autumn foliage.",
+      "winter": "Cool winter (28-40°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Habitat",
+      "Rapid River Currents during High Water"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Mountain River Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Williams River water roar",
+        "Songbird calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Hemlock",
+        "Yellow Birch",
+        "Sugar Maple",
+        "Rhododendron"
+      ],
+      "common_animals": [
+        "Trout",
+        "Black Bear",
+        "White-tailed Deer",
+        "Beaver"
+      ]
+    },
+    "human_demographics_and_culture": "Shawnee ancestral lands and West Virginia mountain river trout culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Premier freestone trout stream in West Virginia flowing through high mountain hardwood forests.",
+      "energetic_and_spiritual_features": "Crystal clear mountain trout river cascading over dark boulder beds under hemlocks."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Williams River Trail",
+        "length_miles": 4.0,
+        "difficulty": "Easy to Moderate",
+        "features": "River side walking, trout pools, hemlock groves"
+      }
+    ],
+    "public_reviews_summary": "Top choice free trout stream camping along the Williams River with paved access and reliable cell service.",
+    "other_data": "Paved road access directly along river.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "west_virginia-008",
+    "name": "Cranberry Wilderness Edge Dispersed - Monongahela NF",
+    "state": "West Virginia",
+    "county": "Pocahontas",
+    "coordinates": {
+      "latitude": 38.2123,
+      "longitude": -80.2123,
+      "elevation_ft": 3400.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Gauley Ranger District",
+      "type": "Federal",
+      "phone": "(304) 846-2695",
+      "website": "https://www.fs.usda.gov/mana"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside Cranberry Glades visitor center)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along Highland Scenic Highway (WV-150) / FS 76 outside wilderness boundary. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Cranberry River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy. Bear canister mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved scenic highway to gravel forest turnouts",
+      "road_conditions": "Paved WV-150 Highland Scenic Highway with smooth gravel side turnouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great on Highway (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low along 4,000-foot Highland Scenic Highway",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Highland Scenic Highway Overlooks",
+      "Cranberry Glades Botanical Area Proximity",
+      "35,000-Acre Wilderness Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Richwood / Marlinton, WV",
+        "distance_miles": 16.0,
+        "services_available": [
+          "Grocery Store",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool subalpine spring (48-60°F).",
+      "summer": "Cool refreshing mountain summer (70-78°F).",
+      "fall": "Spectacular Highland autumn colors.",
+      "winter": "Snowy winter (15-30°F); highway unplowed."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Habitat",
+      "Sudden Mountain Fog on Highway"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Subalpine Wilderness Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Wind through red spruce",
+        "Songbird calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Red Spruce",
+        "Yellow Birch",
+        "Bog Cranberry",
+        "Skunk Cabbage"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "Timber Wolf",
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Trout"
+      ]
+    },
+    "human_demographics_and_culture": "Shawnee ancestral lands and Cranberry Glades botanical conservation heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Cranberry Glades protects a 750-acre subalpine arctic-boreal bog containing plants normally found in northern Canada.",
+      "energetic_and_spiritual_features": "35,000 acres of unbroken Appalachian wilderness with cool high elevation mountain air."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Cranberry Glades Boardwalk Trail",
+        "length_miles": 1.0,
+        "difficulty": "Easy",
+        "features": "Subalpine bog boardwalk, pitcher plants, bog cranberries, spruce forest"
+      }
+    ],
+    "public_reviews_summary": "Unbelievable High Scenic Highway basecamp near Cranberry Glades with cool summer air and blazing 5G cell service.",
+    "other_data": "750-acre subalpine arctic-boreal bog nearby.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "west_virginia-009",
+    "name": "Dolly Sods Edge Dispersed Area - Monongahela NF",
+    "state": "West Virginia",
+    "county": "Tucker",
+    "coordinates": {
+      "latitude": 39.0123,
+      "longitude": -79.3412,
+      "elevation_ft": 3800.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Cheat-Potomac Ranger District",
+      "type": "Federal",
+      "phone": "(304) 257-1663",
+      "website": "https://www.fs.usda.gov/mana"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside wilderness boundary)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along FR 75 / FR 19 outside wilderness boundary. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Red Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy. Bear safety mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved gravel mountain forest road",
+      "road_conditions": "Unpaved gravel FR 75 ridge road; rocky with dust in summer.",
+      "vehicle_recommendation": "High clearance 2WD/4WD recommended.",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great on Ridge (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low on 3,800-foot windswept plateau ridge",
+      "distance_from_tower_corridor_miles": 7.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Subalpine Windswept Plains Landscape",
+      "Red Creek Canyon Overlooks",
+      "Wild Blueberry Fields",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 3,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Davis / Thomas, WV",
+        "distance_miles": 16.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Craft Breweries",
+          "Hardware",
+          "Outfitters",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool windy spring (45-58°F).",
+      "summer": "Cool refreshing subalpine summer (68-76°F) with wild blueberries.",
+      "fall": "Vibrant red tundra-like autumn foliage.",
+      "winter": "Severe snow and wind; road closed."
+    },
+    "dangers_and_hazards": [
+      "Sudden Severe Mountain Weather",
+      "High Ridge Winds",
+      "Unexploded WWII Ordnance in Wilderness"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Subalpine Plateau Wind Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Mountain wind over blueberry plains",
+        "Raven calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Red Spruce",
+        "Wild Blueberry",
+        "Mountain Laurel",
+        "Cranberry"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "White-tailed Deer",
+        "Raven",
+        "Cheat Mountain Salamander"
+      ]
+    },
+    "human_demographics_and_culture": "Monongahela ancestral lands and Tucker County subalpine wilderness culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Dolly Sods is a 17,371-acre subalpine flat-topped mountain ridge resembling Canadian tundra 4,000 feet above sea level.",
+      "energetic_and_spiritual_features": "Windswept rocky plains, stunted red spruces, and vast open mountain sky."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Bear Rocks Ridge Trail",
+        "length_miles": 3.5,
+        "difficulty": "Moderate",
+        "features": "Giant sandstone tors, windswept blueberry plains, 360-degree valley vistas"
+      }
+    ],
+    "public_reviews_summary": "One of the most unique subalpine landscapes in the eastern US; usable cell service on the Bear Rocks ridge.",
+    "other_data": "Do not touch metal objects (historic WWII practice range).",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "west_virginia-010",
+    "name": "Seneca Creek Dispersed Area - Spruce Knob-Seneca Rocks NRA",
+    "state": "West Virginia",
+    "county": "Pendleton",
+    "coordinates": {
+      "latitude": 38.8123,
+      "longitude": -79.4812,
+      "elevation_ft": 2800.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Cheat-Potomac Ranger District",
+      "type": "Federal",
+      "phone": "(304) 567-2827",
+      "website": "https://www.fs.usda.gov/mana"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along FS Road 112 / Seneca Creek access roads. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Seneca Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel Forest Service road; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate in creek valley",
+      "distance_from_tower_corridor_miles": 6.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Seneca Creek Native Trout Stream",
+      "Seneca Rocks Climbing Proximity",
+      "Hardwood Forest Canopy",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Seneca Rocks / Franklin, WV",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Climbing Shops",
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush mountain spring (52-65°F).",
+      "summer": "Cool refreshing mountain summer (72-80°F).",
+      "fall": "Spectacular Allegheny autumn foliage.",
+      "winter": "Cool winter (25-38°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Habitat",
+      "Rapid Stream Currents during High Water"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Mountain Creek Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Seneca Creek stream roar",
+        "Songbird calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Sugar Maple",
+        "Hemlock",
+        "Yellow Birch",
+        "Rhododendron"
+      ],
+      "common_animals": [
+        "Native Brook Trout",
+        "Black Bear",
+        "White-tailed Deer",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Monongahela ancestral lands and Seneca Rocks rock climbing culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Seneca Creek is rated one of the top 100 trout streams in America, cascading through high Allegheny hardwood forests.",
+      "energetic_and_spiritual_features": "Pristine mountain stream with small waterfalls flowing over ancient limestone and shale beds."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Seneca Creek Trail",
+        "length_miles": 5.0,
+        "difficulty": "Moderate",
+        "features": "Judy Gap waterfalls, native brook trout pools, hardwood forest canopy"
+      }
+    ],
+    "public_reviews_summary": "Top 100 native trout stream camping near Seneca Rocks with dependable cell service.",
+    "other_data": "Seneca Rocks climbing crag is 12 miles away.",
+    "last_updated": "2026-09-12"
+  }
+]

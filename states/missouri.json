@@ -1,0 +1,1301 @@
+[
+  {
+    "id": "mo-mark-twain-eleven-point",
+    "name": "Eleven Point River Dispersed Primitive Camping - Mark Twain National Forest",
+    "state": "Missouri",
+    "county": "Oregon County / Shannon County",
+    "coordinates": {
+      "latitude": 36.8412,
+      "longitude": -91.2814,
+      "elevation_ft": 580
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Eleven Point Ranger District",
+      "type": "USFS",
+      "phone": "(417) 256-7101",
+      "website": "https://www.fs.usda.gov/mtnf"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for general forest dispersed camping",
+      "stay_limit": "14 consecutive days max stay within 30-day period",
+      "guidelines": "Dispersed primitive camping permitted throughout general national forest lands at least 100ft from roads, trails, and water bodies."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6-8 inches deep in organic soil, at least 200 feet from Eleven Point River and springs. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only.",
+      "safety_requirements": "Campfires in established rock fire rings only. Extinguish cold to touch.",
+      "seasonal_fire_bans": "Obey Missouri Department of Conservation burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved gravel forest service roads (FS 3152 / FS 4112)",
+      "road_conditions": "Winding gravel forest roads with small washboards and dips.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (accessible on main gravel forest roads in dry weather)",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate / High Point Dependent",
+      "verizon_reliability": "2-3 bars 4G LTE on ridge turnouts; weak down near river bottom",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate (Ozark bluff river valleys restrict cell signals)",
+      "distance_from_tower_corridor_miles": 5.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Spring-fed River Access (Eleven Point River - filter required)",
+      "Ozark Bluff Scenery",
+      "Established Fire Rings",
+      "Oak & Pine Shade"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Alton / West Plains, MO",
+        "distance_miles": 14.5,
+        "services_available": [
+          "Walmart Supercenter",
+          "Gas Stations",
+          "Pharmacy",
+          "Public Library",
+          "Ozarks Healthcare Hospital"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "55-70°F, high spring river flow, blooming dogwoods, spring rainstorms.",
+      "summer": "Hot and humid (85-92°F), spring-fed river float trips, high insect activity.",
+      "fall": "Spectacular Ozark autumn foliage (55-70°F daytime, 40-50°F nights), ideal camping weather.",
+      "winter": "Cool 35-50°F, freezing nights, quiet forest."
+    },
+    "dangers_and_hazards": [
+      "Flash flooding along river drainages after heavy Ozark rain",
+      "Venomous snakes: Copperheads active in warm months",
+      "Ticks and chiggers in brush"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - River and forest quiet",
+      "common_human_made_sounds": [
+        "Occasional canoeist paddling on Eleven Point River",
+        "High aircraft contrails"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "White Oak",
+        "Flowering Dogwood",
+        "Sycamore (Platanus occidentalis along river)"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Black Bear (re-establishing)",
+        "Copperhead",
+        "Ozark Hellbender (Cryptobranchus alleganiensis bishopi - endangered aquatic salamander)"
+      ]
+    },
+    "human_demographics_and_culture": "Canoe floats / kayakers, Ozark Trail backpackers, trout anglers, and digital nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Osage indigenous traditions revere the crystal-clear karst springs (Greer Spring) and river bluffs of the Eleven Point basin as sacred life waters.",
+      "energetic_and_spiritual_features": "Profound karst spring vitality, soothing river acoustics, peaceful Ozark hill energy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Ozark Trail (Eleven Point River Section)",
+        "length_miles": 28.0,
+        "difficulty": "Moderate",
+        "features": "Scenic bluffs, spring branches, hardwood forests, river views"
+      }
+    ],
+    "public_reviews_summary": "Beautiful free primitive camping along the National Wild & Scenic Eleven Point River. Clean sites and good cell service on higher ridge turnouts.",
+    "other_data": "Bortle Class 2-3 night sky. Abundant firewood.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "mo-paddy-creek-wilderness-mark-twain-nf",
+    "name": "Paddy Creek Wilderness Dispersed Primitive Camping",
+    "state": "Missouri",
+    "county": "Texas County",
+    "coordinates": {
+      "latitude": 37.5812,
+      "longitude": -92.0412,
+      "elevation_ft": 1150
+    },
+    "management_agency": {
+      "name": "US Forest Service - Mark Twain National Forest (Houston Ranger District)",
+      "type": "USFS",
+      "phone": "(417) 967-4194",
+      "website": "https://www.fs.usda.gov/mtnf"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Wilderness Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed wilderness camping permitted throughout Paddy Creek Wilderness. Camp 100ft minimum from trails and streams."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6 inches deep in soil 200 feet from Paddy Creek. Pack out all paper.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down oak wood gathering permitted on site.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Fall dry leaf fire warnings observed."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway to gravel Forest Service roads (FR 220)",
+      "road_conditions": "Graded gravel access roads, flat trailhead parking.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance vehicles.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair to Moderate / Ozark Ridge Signal",
+      "verizon_reliability": "2-3 bars 4G LTE on high forest ridges",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate in deep Ozark stream hollows",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Ozark Pine & Hardwood Ridge Campsites",
+      "Paddy Creek Water Source (Filter mandatory)",
+      "Bluff Overlook Views",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Houston, MO",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Town & Country Supermarket",
+          "Gas Stations",
+          "Texas County Library",
+          "Hospital",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Rolla, MO",
+        "distance_miles": 28.0,
+        "services_available": [
+          "Walmart Supercenter",
+          "Kroger / ALDI",
+          "Missouri S&T Metro",
+          "24/7 Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "52-70°F, blooming dogwood and redbuds, spring stream flows.",
+      "summer": "78-92°F, warm Ozark summer weather, shaded oak forest canopy.",
+      "fall": "52-72°F, spectacular Ozark hardwood autumn foliage.",
+      "winter": "28-48°F, crisp clear winter air, light snowfall."
+    },
+    "dangers_and_hazards": [
+      "Flash flooding in creek hollows during thunderstorms",
+      "Ticks and chiggers in summer (use permethrin)",
+      "Bluff cliff drop-offs"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Creek water trickles and Ozark woodland birds",
+      "common_human_made_sounds": [
+        "None inside wilderness boundary"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine (Missouri's native pine)",
+        "Post Oak",
+        "Flowering Dogwood",
+        "Wild Azalea"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Bobcat",
+        "Pileated Woodpecker",
+        "Smallmouth Bass"
+      ]
+    },
+    "human_demographics_and_culture": "Osage ancestral lands, Ozark mountain locals, Missouri backpackers, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Rich Ozark mountain folklore honoring the ancient pine hollows and crystal spring waters of Texas County.",
+      "energetic_and_spiritual_features": "Peaceful Ozark ridge solitude, pristine pine hollow air."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Paddy Creek Wilderness Loop Trail",
+        "length_miles": 17.0,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Sandstone bluffs, pine ridges, pristine creek crossings"
+      }
+    ],
+    "public_reviews_summary": "Ozark wilderness primitive camping at its finest. Free USFS access, serene pine ridges, and easy drive to Houston and Rolla.",
+    "other_data": "Mark Twain National Forest. Free wilderness dispersed camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "mo-bell-mountain-wilderness-mark-twain-nf",
+    "name": "Bell Mountain Wilderness Dispersed Primitive Camping",
+    "state": "Missouri",
+    "county": "Iron County",
+    "coordinates": {
+      "latitude": 37.6214,
+      "longitude": -90.8812,
+      "elevation_ft": 1680
+    },
+    "management_agency": {
+      "name": "US Forest Service - Mark Twain National Forest (Potosi-Fredericktown Ranger District)",
+      "type": "USFS",
+      "phone": "(573) 438-5427",
+      "website": "https://www.fs.usda.gov/mtnf"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Wilderness Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed wilderness camping permitted throughout Bell Mountain Wilderness. Camp 100ft minimum from trails and streams."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6 inches deep in soil 200 feet from streams. Pack out all paper.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down oak wood gathering permitted on site.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Fall dry leaf fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway to gravel Forest Service entrance road (FR 12)",
+      "road_conditions": "Graded gravel access road, flat trailhead parking.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / High Ozark Mountain Ridge Signal",
+      "verizon_reliability": "3-4 bars 4G LTE on 1,680ft Bell Mountain summit ridge",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low along high mountain ridge summit",
+      "distance_from_tower_corridor_miles": 3.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Sweeping 1,680ft Granite Shut-Ins Mountain Overlooks",
+      "Shortleaf Pine & Oak Summit Canopy",
+      "Shut-In Creek Water Source (Filter mandatory)",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Ironton / Pilot Knob, MO",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Supermarket",
+          "Gas Stations",
+          "Iron County Library",
+          "Hospital",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "52-70°F, blooming wild azaleas, spring stream flows.",
+      "summer": "78-90°F, pleasant high Ozark elevation breeze.",
+      "fall": "52-72°F, world-class St. Francois Mountain autumn foliage.",
+      "winter": "28-45°F, crisp clear winter air, light snowfall."
+    },
+    "dangers_and_hazards": [
+      "High granite cliff drop-offs at summit",
+      "Ticks and chiggers in summer (use permethrin)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - High mountain wind and Ozark woodland songbirds",
+      "common_human_made_sounds": [
+        "None inside wilderness boundary"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "Post Oak",
+        "Farkleberry",
+        "Lichens"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Bobcat",
+        "Pileated Woodpecker"
+      ]
+    },
+    "human_demographics_and_culture": "Osage ancestral lands, St. Francois Mountain locals, Missouri backpackers, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Oldest exposed granite mountain range in North America (St. Francois Mountains). Sacred ancient Osage territory.",
+      "energetic_and_spiritual_features": "Exhilarating ancient granite summit mountain energy, sweeping Ozark valley vistas."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Bell Mountain Wilderness Loop Trail",
+        "length_miles": 11.5,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Granite glades, 1,680ft mountain summit overlook, shut-in streams"
+      }
+    ],
+    "public_reviews_summary": "Top free high-elevation primitive camping in Missouri. Granite glade overlooks, fast cell internet on Bell Mountain summit, and 100% free USFS access.",
+    "other_data": "Mark Twain National Forest. Free wilderness dispersed camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "missouri-004",
+    "name": "Paddy Creek Wilderness Dispersed Camping Area - Mark Twain National Forest",
+    "state": "Missouri",
+    "county": "Texas",
+    "coordinates": {
+      "latitude": 37.6125,
+      "longitude": -92.0142,
+      "elevation_ft": 1180.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Mark Twain National Forest (Houston-Rolla Ranger District)",
+      "type": "Federal",
+      "phone": "(417) 967-4194",
+      "website": "https://www.fs.usda.gov/mtnf"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive wilderness dispersed camping)",
+      "stay_limit": "14 days maximum stay limit within a 30-day window",
+      "guidelines": "Primitive dispersed camping allowed along Big Paddy Creek and wilderness trails. Camp at least 100 feet from water and trails. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep in cat-holes 200 feet from Paddy Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out wilderness policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in existing rock rings. Douse cold with creek water.",
+      "seasonal_fire_bans": "Subject to USFS dry season burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest service roads",
+      "road_conditions": "Graded gravel roads with occasional ruts and steep Ozark hills.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car in dry weather; CUV helpful.",
+      "scores": {
+        "road_grade": 5,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2/5 Stars)",
+      "verizon_reliability": "1-2 bars 4G LTE on ridge tops, spotty in creek hollows",
+      "att_reliability": "1 bar 4G LTE",
+      "tmobile_reliability": "No signal in valleys",
+      "terrain_obstruction_risk": "High - steep Ozark bluffs and pine-oak canopy",
+      "distance_from_tower_corridor_miles": 11.2,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Primitive Stone Fire Rings",
+      "Paddy Creek Water Access",
+      "Sandstone Bluff Views"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Houston, MO",
+        "distance_miles": 14.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Hospital",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Rolla, MO",
+        "distance_miles": 34.0,
+        "services_available": [
+          "Supercenter",
+          "Public Library",
+          "Gym & Fitness Center",
+          "University Amenities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool spring weather with flowing waterfalls and blooming dogwoods.",
+      "summer": "Hot and humid (85-92°F); creek swimming holes offer cool relief.",
+      "fall": "Vibrant Ozark hardwood autumn foliage in October.",
+      "winter": "Cold Ozark winter (20-38°F) with light periodic snow."
+    },
+    "dangers_and_hazards": [
+      "Black Bears",
+      "Venomous Snakes (Copperheads)",
+      "Ticks and Chiggers",
+      "Flash Floods in Creek Hollows"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Deep Ozark Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Distant gravel road traffic",
+        "High altitude aircraft"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "White Oak",
+        "Dogwood",
+        "Redbud"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Black Bear",
+        "Pileated Woodpecker"
+      ]
+    },
+    "human_demographics_and_culture": "Missouri Ozark timberland, river floating, and hill country homestead culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Ozark hill folklore speaks of ancient stone bluffs guarding pristine spring-fed creeks.",
+      "energetic_and_spiritual_features": "Sandstone bluffs and clear Ozark stream waters foster peaceful solitude."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Paddy Creek Wilderness Loop Trail",
+        "length_miles": 17.0,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Sandstone bluff views, pine ridges, creek crossings, wilderness solitude"
+      }
+    ],
+    "public_reviews_summary": "Pristine Ozark wilderness stream camping with beautiful bluffs and quiet nights.",
+    "other_data": "Filter all water taken from Paddy Creek.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "missouri-005",
+    "name": "Peck Ranch Conservation Area Primitive Spot",
+    "state": "Missouri",
+    "county": "Carter / Shannon",
+    "coordinates": {
+      "latitude": 37.0215,
+      "longitude": -91.1412,
+      "elevation_ft": 940.0
+    },
+    "management_agency": {
+      "name": "Missouri Department of Conservation (MDC)",
+      "type": "State",
+      "phone": "(573) 323-4263",
+      "website": "https://mdc.mo.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive designated area camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Primitive camping permitted in designated primitive camping zones. No camping inside elk refuge fenced area. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from streams.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared ground rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to MDC dry weather burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel conservation service roads",
+      "road_conditions": "Graded gravel roads leading to primitive camping pullouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2.5/5 Stars)",
+      "verizon_reliability": "2 bars 4G LTE",
+      "att_reliability": "2 bars 4G LTE",
+      "tmobile_reliability": "1 bar 4G LTE",
+      "terrain_obstruction_risk": "Moderate - Ozark oak-pine hills",
+      "distance_from_tower_corridor_miles": 9.2,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Primitive Fire Rings",
+      "Missouri Elk Viewing",
+      "Ozark Trail Access"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Van Buren, MO",
+        "distance_miles": 18.2,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Outfitter",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Poplar Bluff, MO",
+        "distance_miles": 48.5,
+        "services_available": [
+          "Supercenters",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush spring foliage and bugling elk viewing opportunities.",
+      "summer": "Warm Ozark summer days (84-92°F) with cool evening breezes.",
+      "fall": "Brilliant autumn color display and elk bugling season in October.",
+      "winter": "Cold winter (22-38°F); quiet Ozark wilderness."
+    },
+    "dangers_and_hazards": [
+      "Black Bears",
+      "Ticks and Chiggers",
+      "Copperheads"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Peaceful Ozark Valley (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Occasional passing conservation vehicle",
+        "Elk bugling in fall"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "White Oak",
+        "Bluestem Prairie Grass",
+        "Wild Indigo"
+      ],
+      "common_animals": [
+        "Reintroduced Missouri Elk",
+        "White-tailed Deer",
+        "Black Bear",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Ozark National Scenic Riverways conservation and wildlife restoration heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Osage legends celebrate high Ozark glades where wild elk herds roam freely under starlight.",
+      "energetic_and_spiritual_features": "Restored wild elk savanna provides an inspiring, wild natural energy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Ozark Trail - Peck Ranch Section",
+        "length_miles": 10.4,
+        "difficulty": "Moderate",
+        "features": "Shortleaf pine glades, dolomite bluffs, elk viewing fields"
+      }
+    ],
+    "public_reviews_summary": "Incredible opportunity to hear and see wild elk bugling in Missouri, completely free camping.",
+    "other_data": "Check MDC website for seasonal closure dates during elk managed hunts.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "missouri-006",
+    "name": "Eleven Point Dispersed Area - Mark Twain National Forest",
+    "state": "Missouri",
+    "county": "Oregon",
+    "coordinates": {
+      "latitude": 36.7812,
+      "longitude": -91.2812,
+      "elevation_ft": 550.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Mark Twain National Forest (Eleven Point District)",
+      "type": "Federal",
+      "phone": "(417) 256-7151",
+      "website": "https://www.fs.usda.gov/mtnf"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside float camp fee sites)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest lands along Eleven Point National Wild and Scenic River corridor. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Eleven Point River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel Forest Service road; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great on Ridge (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate on ridge pullouts",
+      "distance_from_tower_corridor_miles": 7.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Eleven Point National Wild & Scenic River",
+      "Spring-fed River Canoeing",
+      "Dolomite Bluffs",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Alton, MO",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Gas Station",
+          "Grocery Store",
+          "Diner",
+          "Hardware"
+        ]
+      },
+      {
+        "town_name": "West Plains, MO",
+        "distance_miles": 32.0,
+        "services_available": [
+          "Full City Services",
+          "Hospital",
+          "Walmart",
+          "Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush Ozark spring (62-74°F).",
+      "summer": "Warm summer (84-90°F) with cool spring-fed river swimming.",
+      "fall": "Spectacular Ozark autumn foliage.",
+      "winter": "Cool winter (35-48°F)."
+    },
+    "dangers_and_hazards": [
+      "River Cold Currents near Springs",
+      "Copperhead Snakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Spring-Fed River Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Eleven Point River flow",
+        "Pine wind"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "White Oak",
+        "Sycamore",
+        "Dogwood"
+      ],
+      "common_animals": [
+        "River Otter",
+        "White-tailed Deer",
+        "Bald Eagle",
+        "Smallmouth Bass",
+        "Hellbender Salamander"
+      ]
+    },
+    "human_demographics_and_culture": "Osage ancestral lands and Ozark float trip canoe culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Greer Spring pours 220 million gallons of crystal clear 55°F water daily into the Eleven Point River.",
+      "energetic_and_spiritual_features": "Spring-fed turquoise river flowing beneath towering dolomite bluffs."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Greer Spring Trail",
+        "length_miles": 2.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Massive freshwater spring outburst, dolomite gorge, river confluence"
+      }
+    ],
+    "public_reviews_summary": "Pristine Wild and Scenic river float country with easy access and good cell service on ridge pullouts.",
+    "other_data": "Visit Greer Spring, 2nd largest spring in the Ozarks.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "missouri-007",
+    "name": "Bell Mountain Dispersed Area - Mark Twain NF",
+    "state": "Missouri",
+    "county": "Iron",
+    "coordinates": {
+      "latitude": 37.6123,
+      "longitude": -90.8812,
+      "elevation_ft": 1700.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Potosi Ranger District",
+      "type": "Federal",
+      "phone": "(573) 438-5427",
+      "website": "https://www.fs.usda.gov/mtnf"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside wilderness boundary)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free dispersed primitive camping on forest pullouts along Highway A / FR 2228 approaching Bell Mountain Wilderness trailhead. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved highway to gravel forest road",
+      "road_conditions": "Paved Highway A to well-graded gravel forest road.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low on high St. Francois mountain ridge",
+      "distance_from_tower_corridor_miles": 5.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "St. Francois Mountain Rhyolite Glades",
+      "Bell Mountain Wilderness Trailhead",
+      "Panoramic Ozark Views",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Ironton / Farmington, MO",
+        "distance_miles": 16.0,
+        "services_available": [
+          "Grocery Stores",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush mountain spring (60-72°F).",
+      "summer": "Warm summer (82-88°F) with cool ridge breezes.",
+      "fall": "Stunning Ozark mountain autumn foliage.",
+      "winter": "Cool winter (32-45°F)."
+    },
+    "dangers_and_hazards": [
+      "Exposed Rhyolite Glade Drop-offs",
+      "Ticks in Spring"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "St. Francois Mountain Silence (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind over granite glades",
+        "Songbird calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "Post Oak",
+        "Farkleberry",
+        "Rhyolite Glade Moss"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Collared Lizard",
+        "Black Bear",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Osage ancestral lands and St. Francois mountain iron mining history.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "St. Francois Mountains are among the oldest exposed rock formations in North America, over 1.4 billion years old.",
+      "energetic_and_spiritual_features": "Red rhyolite rock glades commanding panoramic vistas over Shutdown Creek valley."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Bell Mountain Wilderness Loop Trail",
+        "length_miles": 8.0,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Rhyolite glades, 360-degree St. Francois mountain views, pine groves"
+      }
+    ],
+    "public_reviews_summary": "Ancient 1.4 billion year old rhyolite mountain scenery with blazing 5G cell service on ridge pullouts.",
+    "other_data": "Taum Sauk Mountain State Park nearby.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "missouri-008",
+    "name": "Glade Top Trail Dispersed Area - Mark Twain NF",
+    "state": "Missouri",
+    "county": "Douglas",
+    "coordinates": {
+      "latitude": 36.7123,
+      "longitude": -92.7412,
+      "elevation_ft": 1450.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Ava Ranger District",
+      "type": "Federal",
+      "phone": "(417) 683-4428",
+      "website": "https://www.fs.usda.gov/mtnf"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed camping allowed in designated gravel pullouts along Glade Top National Forest Scenic Byway. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from dry glade washes. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel scenic byway",
+      "road_conditions": "23-mile well-graded gravel scenic byway along ridge tops.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low on 23-mile ridge top scenic byway",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "23-Mile National Scenic Byway Overlooks",
+      "Limestone Glade Flora",
+      "Panoramic Ozark Horizons",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Ava, MO",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Grocery Stores",
+          "Gas Stations",
+          "Hardware",
+          "Diner"
+        ]
+      },
+      {
+        "town_name": "Springfield, MO",
+        "distance_miles": 48.0,
+        "services_available": [
+          "Full Urban Services",
+          "Airport",
+          "Bass Pro Shops",
+          "Hospital"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush wild Smoke Tree spring (60-72°F).",
+      "summer": "Warm summer (82-88°F) with cool ridge breezes.",
+      "fall": "Famous Ozark fall foliage panorama.",
+      "winter": "Cool winter (35-48°F)."
+    },
+    "dangers_and_hazards": [
+      "High Ridge Wind Gusts",
+      "Rattlesnakes in Glades"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Scenic Byway Ridge Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind over limestone glades",
+        "Songbird calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "American Smoke Tree",
+        "Eastern Red Cedar",
+        "Post Oak",
+        "Purple Coneflower"
+      ],
+      "common_animals": [
+        "Roadrunner",
+        "White-tailed Deer",
+        "Collared Lizard",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Osage ancestral territory and Missouri Ozark glade conservation heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Missouri's only designated National Forest Scenic Byway, traversing narrow limestone glade ridge crests.",
+      "energetic_and_spiritual_features": "Sweeping 40-mile vistas across the rolling Ozark hills from open limestone glades."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Caney Mountain Glade Trail",
+        "length_miles": 3.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Limestone glade wildflowers, smoke trees, panoramic Ozark vistas"
+      }
+    ],
+    "public_reviews_summary": "Missouri's premier ridge top scenic drive with incredible 40-mile views and lightning fast 5G cell service.",
+    "other_data": "Smoke Tree bloom in May is a major highlight.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "missouri-009",
+    "name": "Black River Dispersed Area - Mark Twain NF",
+    "state": "Missouri",
+    "county": "Reynolds",
+    "coordinates": {
+      "latitude": 37.3512,
+      "longitude": -90.8123,
+      "elevation_ft": 600.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Salem Ranger District",
+      "type": "Federal",
+      "phone": "(573) 729-6656",
+      "website": "https://www.fs.usda.gov/mtnf"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside developed fee loops)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free dispersed primitive camping on national forest pullouts along Black River access roads. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Black River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel Forest Service road; smooth gravel pullouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low along Black River gravel bars",
+      "distance_from_tower_corridor_miles": 6.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Crystal Clear Black River Gravel Bars",
+      "Canoeing & Kayaking",
+      "Johnson's Shut-Ins Proximity",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Lesterville / Ellington, MO",
+        "distance_miles": 10.0,
+        "services_available": [
+          "Gas Station",
+          "Grocery Store",
+          "Canoe Outfitters",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush Ozark spring (62-74°F).",
+      "summer": "Warm summer (84-90°F) with clear gravel bar river swimming.",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cool winter (32-45°F)."
+    },
+    "dangers_and_hazards": [
+      "Flash Floods on Gravel Bars",
+      "Copperhead Snakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Gravel Bar River Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Black River gravel bar flow",
+        "Canoe paddle dips"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Sycamore",
+        "River Birch",
+        "Shortleaf Pine",
+        "Sweetgum"
+      ],
+      "common_animals": [
+        "Smallmouth Bass",
+        "White-tailed Deer",
+        "River Otter",
+        "Great Blue Heron"
+      ]
+    },
+    "human_demographics_and_culture": "Osage ancestral territory and Black River gravel bar canoe culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Johnson's Shut-Ins state park nearby features 1.4 billion year old volcanic rock chutes carved by the Black River.",
+      "energetic_and_spiritual_features": "Crystal clear spring-fed Ozark river flowing over smooth chert gravel bars."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Scour Trail (Johnson's Shut-Ins)",
+        "length_miles": 2.5,
+        "difficulty": "Moderate",
+        "features": "Proterozoic volcanic rock shut-ins, Black River gravel bars, canyon shut-ins"
+      }
+    ],
+    "public_reviews_summary": "Incredible crystal clear river gravel bar camping near Johnson's Shut-Ins with solid cell service.",
+    "other_data": "Never camp on low gravel bars when heavy rain is forecast.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "missouri-010",
+    "name": "Ridge Runner Dispersed Area - Mark Twain NF",
+    "state": "Missouri",
+    "county": "Howell",
+    "coordinates": {
+      "latitude": 36.8812,
+      "longitude": -91.9412,
+      "elevation_ft": 1100.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Willow Springs District",
+      "type": "Federal",
+      "phone": "(417) 469-3155",
+      "website": "https://www.fs.usda.gov/mtnf"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside trailhead fee lot)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Forest Road 2010 pullouts near Ridge Runner trailhead. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Noblett Lake / streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel Forest Service road; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low on elevated forest ridge",
+      "distance_from_tower_corridor_miles": 5.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Ridge Runner National Rec Trailhead",
+      "Noblett Lake Access Nearby",
+      "Pine & Oak Shade",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Willow Springs, MO",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware",
+          "Diner"
+        ]
+      },
+      {
+        "town_name": "West Plains, MO",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Full City Services",
+          "Hospital",
+          "Walmart",
+          "Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush pine spring (60-72°F).",
+      "summer": "Warm summer (82-88°F) with lake swimming.",
+      "fall": "Crisp autumn trail hiking days.",
+      "winter": "Cool winter (35-48°F)."
+    },
+    "dangers_and_hazards": [
+      "Ticks in Spring Brush",
+      "Copperhead Snakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Ozark Pine Ridge Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through shortleaf pine canopy",
+        "Songbird calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "White Oak",
+        "Post Oak",
+        "Dogwood"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Gray Fox",
+        "Large-mouth Bass"
+      ]
+    },
+    "human_demographics_and_culture": "Osage ancestral lands and 1930s CCC lake & trail build heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Civilian Conservation Corps (CCC) constructed historic stone dam at Noblett Lake in 1936.",
+      "energetic_and_spiritual_features": "Quiet shortleaf pine ridge trailing into historic Ozark hollows."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Ridge Runner National Recreation Trail",
+        "length_miles": 8.0,
+        "difficulty": "Moderate",
+        "features": "Pine ridges, Noblett Lake loop, CCC stone springhouse ruins"
+      }
+    ],
+    "public_reviews_summary": "Excellent free basecamp near West Plains with 22-mile Ridge Runner trail access and blazing 5G cell service.",
+    "other_data": "12 miles from Willow Springs.",
+    "last_updated": "2026-09-12"
+  }
+]

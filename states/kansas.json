@@ -1,0 +1,1280 @@
+[
+  {
+    "id": "ks-cimarron-national-grassland",
+    "name": "Cimarron National Grassland Free Dispersed Primitive Camping",
+    "state": "Kansas",
+    "county": "Morton County",
+    "coordinates": {
+      "latitude": 37.1412,
+      "longitude": -101.7684,
+      "elevation_ft": 3450
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Cimarron National Grassland District",
+      "type": "USFS",
+      "phone": "(620) 697-4621",
+      "website": "https://www.fs.usda.gov/psicc"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required",
+      "stay_limit": "14 consecutive days max stay within 30-day period",
+      "guidelines": "Dispersed primitive camping permitted throughout the 108,000-acre national grassland. Must park within 30 feet of public Forest Service dirt roads."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6 inches deep in prairie soil, 200 feet from Cimarron River channel. Pack out all paper products.",
+      "trash_policy": "Strict Leave No Trace. All trash must be packed out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring your own firewood; shortgrass prairie wood gathering is non-existent.",
+      "safety_requirements": "Campfires permitted only in containerized fire pans or established rock rings due to extreme prairie grass fire risk. Must be completely cold to touch.",
+      "seasonal_fire_bans": "Strict Red Flag Warning fire bans during dry prairie wind spells."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved dirt and gravel prairie roads (FS 600 series / Cimarron River Road)",
+      "road_conditions": "Flat dirt prairie roads. Can turn muddy and slick after rain.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (accessible on main dirt roads during dry weather)",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Internet",
+      "verizon_reliability": "3-4 bars 4G LTE (15-40 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low (Unobstructed Great Plains prairie horizon)",
+      "distance_from_tower_corridor_miles": 4.1,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Endless Great Plains Prairie Horizon",
+      "Santa Fe Historic National Historic Trail Access",
+      "100% Unshaded Solar Exposure",
+      "High-speed 4G Cell Service"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 7,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Elkhart, KS",
+        "distance_miles": 8.5,
+        "services_available": [
+          "Grocery Market",
+          "Gas Stations",
+          "Propane",
+          "Elkhart City Library",
+          "Medical Clinic"
+        ]
+      },
+      {
+        "town_name": "Liberal, KS",
+        "distance_miles": 45.0,
+        "services_available": [
+          "Walmart Supercenter",
+          "Gyms",
+          "Southwest Medical Center",
+          "Full City Services"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "60-75°F, high prairie winds (25-45 mph gusts), prairie wildflowers.",
+      "summer": "Hot (90-100°F), intense sun, afternoon severe thunderstorm / tornado watching season.",
+      "fall": "Ideal boondocking weather (65-80°F daytime, 40-50°F nights), clear dry skies.",
+      "winter": "Cold prairie winter (25-45°F daytime, freezing 10-25°F nights), strong blustery winds."
+    },
+    "dangers_and_hazards": [
+      "High prairie wind gusts capable of damaging RV awnings and light tents",
+      "Prairie wildfire risk during Red Flag Warnings",
+      "Severe thunderstorm and hail / tornado risk during late spring/early summer",
+      "Prairie Rattlesnakes active in warm months"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "10/10 - Deep Great Plains silence",
+      "common_human_made_sounds": [
+        "Distant freight train horn on Santa Fe railroad line (6 miles away)",
+        "Wind blowing through tall prairie grasses"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Sideoats Grama (Bouteloua curtipendula)",
+        "Buffalograss (Bouteloua dactyloides)",
+        "Cottonwood (Populus deltoides along riverbed)",
+        "Soapweed Yucca (Yucca glauca)"
+      ],
+      "common_animals": [
+        "Pronghorn (Antilocapra americana)",
+        "Lesser Prairie-Chicken (Tympanuchus pallidicinctus - rare/protected)",
+        "Mule Deer",
+        "Coyote",
+        "Black-tailed Prairie Dog (Cynomys ludovicianus)"
+      ]
+    },
+    "human_demographics_and_culture": "Santa Fe Trail history enthusiasts, solar digital nomads, birdwatchers, and long-distance overland rigs.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Comanche and Kiowa indigenous traditions honor the vast open plains of the Cimarron River basin as sacred domains of the wind spirits and buffalo guardians.",
+      "energetic_and_spiritual_features": "Infinite horizon energy, profound spatial freedom, 100% uninterrupted solar panel charging."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Santa Fe National Historic Trail (Cimarron Route)",
+        "length_miles": 10.5,
+        "difficulty": "Easy (Flat prairie walk)",
+        "features": "Historic wagon ruts from 19th-century Santa Fe Trail traders"
+      }
+    ],
+    "public_reviews_summary": "Incredible wide-open prairie boondocking location with zero crowds and excellent cell signal. Solar power generation is 100% effortless.",
+    "other_data": "Bortle Class 2 dark sky. Endless prairie views.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ks-kaw-wildlife-area-primitive",
+    "name": "Kaw Wildlife Area Dispersed Primitive Camping",
+    "state": "Kansas",
+    "county": "Cowley County",
+    "coordinates": {
+      "latitude": 37.0812,
+      "longitude": -96.9412,
+      "elevation_ft": 1080
+    },
+    "management_agency": {
+      "name": "Kansas Department of Wildlife and Parks (KDWP)",
+      "type": "State KDWP",
+      "phone": "(620) 221-3210",
+      "website": "https://ksoutdoors.com"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - KDWP Public Wildlife Area Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted at designated parking turnouts and primitive clearings throughout Kaw Wildlife Area along Arkansas River."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6 inches deep in soil 200 feet from Arkansas River. Pack out hygiene items.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down cottonwood gathering permitted on site.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse before vacating.",
+      "seasonal_fire_bans": "Spring high wind grassland prairie burn warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved county road to gravel/dirt wildlife area access drive",
+      "road_conditions": "Graded gravel, flat dirt parking turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance vehicles.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Flat River Valley Line",
+      "verizon_reliability": "3-4 bars 4G LTE (20-40 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low across open prairie river bottom",
+      "distance_from_tower_corridor_miles": 3.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Riverfront Primitive Campsites",
+      "Flat Dirt Vehicle Pullouts",
+      "Arkansas River Kayak Access",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 6,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Arkansas City, KS",
+        "distance_miles": 6.0,
+        "services_available": [
+          "Dillons Supermarket",
+          "Walmart",
+          "Gas Stations",
+          "Public Library",
+          "Hospital"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "55-72°F, green prairie grass bloom, spring rain showers.",
+      "summer": "85-98°F, hot sunny Kansas prairie summer weather.",
+      "fall": "58-76°F, mild golden cottonwood fall weather.",
+      "winter": "22-42°F, cold prairie wind, dry sunny days."
+    },
+    "dangers_and_hazards": [
+      "High spring river currents in Arkansas River",
+      "High winds on flat prairie",
+      "Summer mosquitoes in river bottom"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Prairie wind and river cottonwood leaves rustling",
+      "common_human_made_sounds": [
+        "Distant train whistle across prairie"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Eastern Cottonwood",
+        "Big Bluestem Prairie Grass",
+        "Black Willow",
+        "Sunflowers"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Channel Catfish",
+        "Pelican",
+        "Bald Eagle"
+      ]
+    },
+    "human_demographics_and_culture": "Kansas hunters, river anglers, prairie roadtrippers, digital nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Ancestral grounds of the Wichita and Osage nations honoring the wide prairie rivers.",
+      "energetic_and_spiritual_features": "Vast open Kansas sky horizons, soothing river bottom quietness."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Kaw Wildlife River Trail",
+        "length_miles": 4.2,
+        "difficulty": "Easy",
+        "features": "Arkansas River shoreline, cottonwood groves, waterfowl viewing"
+      }
+    ],
+    "public_reviews_summary": "Great free riverfront primitive camping in Southern Kansas. Fast cell internet, easy 2WD driving, and just 10 minutes to Arkansas City.",
+    "other_data": "Kansas KDWP Public Wildlife Area. Free dispersed camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ks-tuttle-creek-wildlife-area-dispersed",
+    "name": "Tuttle Creek Wildlife Area Dispersed Campsites",
+    "state": "Kansas",
+    "county": "Riley / Pottawatomie County",
+    "coordinates": {
+      "latitude": 39.3812,
+      "longitude": -96.6512,
+      "elevation_ft": 1080
+    },
+    "management_agency": {
+      "name": "Kansas Department of Wildlife and Parks (KDWP)",
+      "type": "State KDWP",
+      "phone": "(785) 539-7941",
+      "website": "https://ksoutdoors.com"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - KDWP Public Wildlife Area Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted at designated parking turnouts and primitive clearings in upper Tuttle Creek Wildlife Area."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6 inches deep in soil 200 feet from Tuttle Creek lake water. Pack out hygiene items.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on site.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse before vacating.",
+      "seasonal_fire_bans": "Spring Flint Hills prairie burn warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway to gravel/dirt wildlife area access drives",
+      "road_conditions": "Graded gravel access roads, flat dirt turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance vehicles.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Manhattan Metro Cell Signal",
+      "verizon_reliability": "4-5 bars 4G/5G LTE (25-60 Mbps download)",
+      "att_reliability": "4-5 bars 4G/5G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low across rolling Flint Hills prairie",
+      "distance_from_tower_corridor_miles": 2.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Flint Hills Prairie & Lake Views",
+      "Flat Dirt/Gravel Vehicle Pullouts",
+      "Boat & Kayak Access",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 7,
+      "terrain_score": 7,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Manhattan, KS",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Dillons / Hy-Vee",
+          "Target / Walmart",
+          "KSU Metro Services",
+          "Ascension Hospital",
+          "24/7 Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "55-72°F, greening Flint Hills prairie, wildflower bloom.",
+      "summer": "85-98°F, warm sunny Kansas summer days, refreshing lake dips.",
+      "fall": "58-76°F, mild golden prairie weather.",
+      "winter": "22-42°F, cold prairie wind, dry clear skies."
+    },
+    "dangers_and_hazards": [
+      "High wind on open prairie lake",
+      "Summer mosquitoes near water"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Prairie wind and lake water lapping",
+      "common_human_made_sounds": [
+        "Distant motorboat on lake"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Big Bluestem",
+        "Eastern Cottonwood",
+        "Bur Oak",
+        "Wild Indigo"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Bald Eagle",
+        "Pelican",
+        "Channel Catfish"
+      ]
+    },
+    "human_demographics_and_culture": "Kanza (Kaw) & Osage ancestral lands, KSU college outdoorsmen, Kansas nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Traditional Kanza nation territory honoring the ancient tallgrass Flint Hills prairie.",
+      "energetic_and_spiritual_features": "Vast open Flint Hills sky horizons, serene lake sunset energy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Fancy Creek Mountain Bike / Hike Trail",
+        "length_miles": 6.0,
+        "difficulty": "Moderate",
+        "features": "Flint Hills limestone bluffs, oak woodlands, lake vistas"
+      }
+    ],
+    "public_reviews_summary": "Top free primitive camping near Manhattan, Kansas. Blazing 5G cell internet, peaceful lake views, and easy 15-minute drive to KSU and gyms.",
+    "other_data": "Kansas KDWP Public Wildlife Area. Free dispersed camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "kansas-004",
+    "name": "Cimarron National Grassland Dispersed Primitive Zone",
+    "state": "Kansas",
+    "county": "Morton",
+    "coordinates": {
+      "latitude": 37.1425,
+      "longitude": -101.8541,
+      "elevation_ft": 3450.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Cimarron National Grassland",
+      "type": "Federal",
+      "phone": "(620) 697-4621",
+      "website": "https://www.fs.usda.gov/psicc"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night, no fee for primitive dispersed grassland camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed camping allowed across 108,000 acres of shortgrass prairie outside developed areas. Maintain 100 feet distance from water tanks and windmills."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury human waste 6-8 inches deep in cat-holes at least 200 feet from Cimarron River and windmills.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood collection permitted along river bottom cottonwoods.",
+      "safety_requirements": "Clear ground 10 feet around campfire. Extinguish thoroughly with water due to high prairie wind hazard.",
+      "seasonal_fire_bans": "Subject to USFS high prairie fire danger restrictions."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel and dirt prairie roads",
+      "road_conditions": "Flat gravel roads; sandy dirt spur roads can become muddy after rain.",
+      "vehicle_recommendation": "Standard FWD car fine on main gravel roads; 4WD recommended for sandy river bed spurs.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 6
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2.5/5 Stars)",
+      "verizon_reliability": "2 bars 4G LTE",
+      "att_reliability": "1-2 bars 4G LTE",
+      "tmobile_reliability": "1 bar 4G LTE",
+      "terrain_obstruction_risk": "Low - vast open high plains",
+      "distance_from_tower_corridor_miles": 12.4,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Endless Horizon Prairie Views",
+      "Historic Santa Fe Trail Ruts",
+      "Dark Sky Star Observation"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 4,
+      "distance_to_library_score": 4,
+      "distance_to_gym_score": 3,
+      "terrain_score": 4,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Elkhart, KS",
+        "distance_miles": 11.2,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Public Library",
+          "Local Restaurants"
+        ]
+      },
+      {
+        "town_name": "Liberal, KS",
+        "distance_miles": 52.6,
+        "services_available": [
+          "Supercenter",
+          "Hospital",
+          "Gym & Fitness Center",
+          "Auto Repair Shops"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Vast prairie winds and spring blooming yucca.",
+      "summer": "Hot high plains weather (90-100°F) with intense sun and cool prairie nights.",
+      "fall": "Crisp, clear autumn days with golden shortgrass plains.",
+      "winter": "Cold, windy high plains winter (15-35°F) with periodic blizzards."
+    },
+    "dangers_and_hazards": [
+      "High Prairie Winds & Rapid Wildfire Spread",
+      "Prairie Rattlesnakes",
+      "Dehydration & Severe Heat Exposure",
+      "Sudden Severe Thunderstorms / Tornadoes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Vast Prairie Wind Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Distant cattle windmill click",
+        "High altitude transcontinental flights"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Buffalograss",
+        "Blue Grama",
+        "Plains Cottonwood",
+        "Soapweed Yucca",
+        "Prickly Pear Cactus"
+      ],
+      "common_animals": [
+        "Pronghorn Antelope",
+        "Lesser Prairie-Chicken",
+        "Black-tailed Prairie Dog",
+        "Coyote",
+        "Ferruginous Hawk"
+      ]
+    },
+    "human_demographics_and_culture": "High Plains pioneer and Santa Fe Trail historic trading heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Pioneer history recalls Point of Rocks as a crucial landmark guide along the arid Cimarron Cutoff of the Santa Fe Trail.",
+      "energetic_and_spiritual_features": "360-degree prairie horizons create a humbling sense of cosmic expanse."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Santa Fe Companion National Historic Trail",
+        "length_miles": 10.5,
+        "difficulty": "Easy to Moderate",
+        "features": "Historic 1800s wagon ruts, Point of Rocks overlook, prairie wildlife"
+      }
+    ],
+    "public_reviews_summary": "Vast open shortgrass prairie with mind-blowing starry night skies, but high winds and hot sun require full prep.",
+    "other_data": "Bring plenty of fresh water and check fire danger ratings before lighting any camp stove.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "kansas-005",
+    "name": "Kanopolis Lake Wildlife Area Primitive Dispersed Spots",
+    "state": "Kansas",
+    "county": "Ellsworth",
+    "coordinates": {
+      "latitude": 38.6415,
+      "longitude": -97.9852,
+      "elevation_ft": 1480.0
+    },
+    "management_agency": {
+      "name": "Kansas Department of Wildlife and Parks (KDWP)",
+      "type": "State",
+      "phone": "(785) 546-2565",
+      "website": "https://ksoutdoors.com"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive camping in designated wildlife management areas)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping permitted in designated wildlife area access points around the Smoky Hill River arm. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep at least 200 feet from water bodies. Pack out hygiene products.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out rule."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down timber collection permitted.",
+      "safety_requirements": "Use established rock fire rings. Douse completely cold.",
+      "seasonal_fire_bans": "Subject to county burn bans during dry periods."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel and dirt wildlife access roads",
+      "road_conditions": "Well-maintained gravel roads lead to flat prairie river pullouts.",
+      "vehicle_recommendation": "Standard low-clearance FWD car accessible in dry conditions.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Good (3.5/5 Stars)",
+      "verizon_reliability": "3 bars 4G LTE",
+      "att_reliability": "3 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - red sandstone canyon rim and rolling prairie",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Smoky Hill River Access",
+      "Sandstone Bluff Views",
+      "Primitive Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 7,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Ellsworth, KS",
+        "distance_miles": 12.8,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hospital",
+          "Hardware Store",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Salina, KS",
+        "distance_miles": 34.2,
+        "services_available": [
+          "Supercenters",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Auto Repair"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush green prairie river valley with blooming wild flowers.",
+      "summer": "Warm to hot (85-94°F); swimming and fishing in river and lake.",
+      "fall": "Crisp autumn air and golden cottonwood foliage.",
+      "winter": "Cold prairie weather (20-38°F) with light snow."
+    },
+    "dangers_and_hazards": [
+      "High Prairie Winds",
+      "Ticks",
+      "Flash Flooding along Smoky Hill River"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Peaceful Prairie Valley (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Distant motorboat on main lake body",
+        "Passing farm vehicles"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Plains Cottonwood",
+        "Red Cedar",
+        "Switchgrass",
+        "Compass Plant"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Channel Catfish",
+        "Bald Eagle",
+        "Coyote"
+      ]
+    },
+    "human_demographics_and_culture": "Central Kansas red sandstone country steeped in cattle drive history and frontier army posts (Fort Harker).",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Indigenous Pawnee lore reveres red sandstone bluffs along the river as sacred ceremonial sites.",
+      "energetic_and_spiritual_features": "Red sandstone canyons contrasting with golden prairie fields provide an invigorating energy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Horsethief Canyon Trail",
+        "length_miles": 4.8,
+        "difficulty": "Moderate",
+        "features": "Red sandstone bluffs, cave overhangs, prairie river crossings"
+      }
+    ],
+    "public_reviews_summary": "Beautiful red rock canyon backdrop with great fishing and dependable cell connectivity.",
+    "other_data": "Avoid parking in low river bottoms if heavy rain is forecasted upstream.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "kansas-006",
+    "name": "Fall River Dispersed Area - Fall River Wildlife Area",
+    "state": "Kansas",
+    "county": "Greenwood",
+    "coordinates": {
+      "latitude": 37.6123,
+      "longitude": -96.0812,
+      "elevation_ft": 920.0
+    },
+    "management_agency": {
+      "name": "Kansas Department of Wildlife and Parks (KDWP)",
+      "type": "State",
+      "phone": "(620) 658-4445",
+      "website": "https://ksoutdoors.com"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state WMA dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on designated public Wildlife Management Area pullouts. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Fall River Lake. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to state fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel WMA access road",
+      "road_conditions": "Graded gravel access roads off US-400; smooth when dry.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low - open Flint Hills reservoir shoreline",
+      "distance_from_tower_corridor_miles": 5.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Fall River Reservoir Views",
+      "Flint Hills Sandstone Bluffs",
+      "Crappie & Catfish Fishing",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Eureka / Fredonia, KS",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush prairie spring (62-74°F).",
+      "summer": "Warm summer (85-92°F) with lake swimming.",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cool winter (32-45°F)."
+    },
+    "dangers_and_hazards": [
+      "High Prairie Winds",
+      "Severe Summer Thunderstorms"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Reservoir Prairie Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Fall River lake wave lap",
+        "Meadowlark calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Post Oak",
+        "Blackjack Oak",
+        "Big Bluestem",
+        "Switchgrass"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Crappie",
+        "Bald Eagle"
+      ]
+    },
+    "human_demographics_and_culture": "Osage ancestral lands and Kansas Flint Hills ranching heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Flint Hills tallgrass prairie transition zone featuring oak savannah and sandstone bluff lake coves.",
+      "energetic_and_spiritual_features": "Quiet reservoir waters surrounded by rolling Flint Hills tallgrass prairie."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Fall River Overlook Trail",
+        "length_miles": 3.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Sandstone bluffs, lake vistas, tallgrass prairie swales"
+      }
+    ],
+    "public_reviews_summary": "Peaceful lake side basecamp on the edge of the Flint Hills with fast 5G cell service.",
+    "other_data": "Great crappie fishing.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "kansas-007",
+    "name": "Tuttle Creek Dispersed Area - Tuttle Creek WMA",
+    "state": "Kansas",
+    "county": "Riley",
+    "coordinates": {
+      "latitude": 39.3512,
+      "longitude": -96.6412,
+      "elevation_ft": 1100.0
+    },
+    "management_agency": {
+      "name": "Kansas Department of Wildlife and Parks (KDWP)",
+      "type": "State",
+      "phone": "(785) 539-7941",
+      "website": "https://ksoutdoors.com"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state WMA dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on designated public WMA pullouts along Tuttle Creek reservoir arms. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Tuttle Creek Lake. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to state fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel access road",
+      "road_conditions": "Graded gravel access roads off US-77; smooth when dry.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low along open reservoir shoreline",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Tuttle Creek Reservoir Shoreline",
+      "Flint Hills Prairie Proximity",
+      "Boating & Kayaking",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 7,
+      "terrain_score": 8,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Manhattan, KS",
+        "distance_miles": 12.0,
+        "services_available": [
+          "KSU Campus",
+          "Full City Services",
+          "Hospital",
+          "Target",
+          "Walmart",
+          "Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush Flint Hills spring (60-72°F).",
+      "summer": "Warm summer (85-92°F) with lake breezes.",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cold winter (25-38°F)."
+    },
+    "dangers_and_hazards": [
+      "High Prairie Winds",
+      "Severe Summer Thunderstorms"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Reservoir Shoreline Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Tuttle Creek lake wave lap",
+        "Meadowlark calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Cottonwood",
+        "Bur Oak",
+        "Big Bluestem",
+        "Switchgrass"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Bald Eagle",
+        "Catfish",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Kaw (Kansa) ancestral lands and Kansas State University & Flint Hills ranching culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "12,000-acre reservoir situated in the heart of the Kansas Flint Hills tallgrass prairie region.",
+      "energetic_and_spiritual_features": "Vast prairie reservoir water framing rolling Flint Hills horizons."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Fancy Creek Mountain Bike & Hike Trail",
+        "length_miles": 6.0,
+        "difficulty": "Moderate",
+        "features": "Flint Hills limestone bluffs, oak woodlands, lake vistas"
+      }
+    ],
+    "public_reviews_summary": "Top choice free basecamp just 15 minutes from Manhattan with blazing 5G cell service.",
+    "other_data": "12 miles north of Kansas State University.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "kansas-008",
+    "name": "Kaw Dispersed Area - Kaw Wildlife Area",
+    "state": "Kansas",
+    "county": "Cowley",
+    "coordinates": {
+      "latitude": 37.0812,
+      "longitude": -96.9412,
+      "elevation_ft": 1050.0
+    },
+    "management_agency": {
+      "name": "Kansas Department of Wildlife and Parks (KDWP)",
+      "type": "State",
+      "phone": "(620) 442-4121",
+      "website": "https://ksoutdoors.com"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state WMA dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on designated public WMA pullouts along Arkansas River corridor. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Arkansas River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to state fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel access road",
+      "road_conditions": "Graded gravel access roads off US-77; smooth when dry.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low along Arkansas River valley",
+      "distance_from_tower_corridor_miles": 6.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Arkansas River Canoeing & Fishing",
+      "Hardwood Bottomland Canopy",
+      "Kaw Lake Proximity",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Arkansas City, KS",
+        "distance_miles": 8.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush river valley spring (62-74°F).",
+      "summer": "Warm summer (85-92°F) with river shade.",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cool winter (30-42°F)."
+    },
+    "dangers_and_hazards": [
+      "High Spring River Water",
+      "Ticks in Spring"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "River Bottomland Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Arkansas River water flow",
+        "Cottonwood wind"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Cottonwood",
+        "Sycamore",
+        "Bur Oak",
+        "Black Walnut"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Channel Catfish",
+        "Bald Eagle"
+      ]
+    },
+    "human_demographics_and_culture": "Kansa (Kaw) and Osage ancestral lands and Arkansas River valley pioneer heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Historic Arkansas River trade route used by Native American nations for thousands of years.",
+      "energetic_and_spiritual_features": "Quiet cottonwood bottomland forest along the broad Arkansas River."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Kaw River Bottoms Trail",
+        "length_miles": 3.0,
+        "difficulty": "Easy",
+        "features": "Arkansas River sandbars, cottonwood canopy, eagle watching"
+      }
+    ],
+    "public_reviews_summary": "Peaceful river side camping near Arkansas City with good cell service and river fishing.",
+    "other_data": "8 miles from Oklahoma border.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "kansas-009",
+    "name": "Marais des Cygnes Dispersed Area - WMA",
+    "state": "Kansas",
+    "county": "Linn",
+    "coordinates": {
+      "latitude": 38.2812,
+      "longitude": -94.6412,
+      "elevation_ft": 820.0
+    },
+    "management_agency": {
+      "name": "Kansas Department of Wildlife and Parks (KDWP)",
+      "type": "State",
+      "phone": "(913) 352-8941",
+      "website": "https://ksoutdoors.com"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state WMA dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free primitive dispersed camping on designated public WMA pullouts. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from river and marshes. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to state fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel access road",
+      "road_conditions": "Graded gravel access roads off US-69; smooth when dry.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low along US-69 corridor",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Hardwood Bottomland Forest",
+      "Waterfowl Migration Sanctuary",
+      "Historic Massacre Site Nearby",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Pleasanton / La Cygne, KS",
+        "distance_miles": 10.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush spring green (60-72°F) with waterfowl.",
+      "summer": "Warm summer (85-92°F) with forest shade.",
+      "fall": "Spectacular autumn colors & bird migration.",
+      "winter": "Cool winter (30-42°F)."
+    },
+    "dangers_and_hazards": [
+      "Spring Floodplain Water",
+      "Ticks in Spring"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Marsh & Bottomland Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Duck and goose waterfowl calls",
+        "River flow"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Bur Oak",
+        "Shellbark Hickory",
+        "Pecan",
+        "River Birch"
+      ],
+      "common_animals": [
+        "Mallard",
+        "Snow Goose",
+        "White-tailed Deer",
+        "Bald Eagle",
+        "Beaver"
+      ]
+    },
+    "human_demographics_and_culture": "Osage ancestral lands and Bleeding Kansas 1858 historic massacre site heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "French name meaning 'Marsh of the Swans', protecting 7,500 acres of ancient hardwood bottomland wetlands.",
+      "energetic_and_spiritual_features": "Quiet hardwood bottomland forest echoing with spring waterfowl migration calls."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Marais des Cygnes Wildlife Trail",
+        "length_miles": 3.5,
+        "difficulty": "Easy",
+        "features": "Hardwood bottomlands, marsh boardwalks, waterfowl viewing blinds"
+      }
+    ],
+    "public_reviews_summary": "World-class waterfowl watching and quiet hardwood forest camping under an hour from Kansas City with fast 5G cell service.",
+    "other_data": "Historic Bleeding Kansas site nearby.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "kansas-010",
+    "name": "Cedar Bluff Dispersed Area - Cedar Bluff WMA",
+    "state": "Kansas",
+    "county": "Trego",
+    "coordinates": {
+      "latitude": 38.7812,
+      "longitude": -99.7812,
+      "elevation_ft": 2150.0
+    },
+    "management_agency": {
+      "name": "Kansas Department of Wildlife and Parks (KDWP)",
+      "type": "State",
+      "phone": "(785) 726-3212",
+      "website": "https://ksoutdoors.com"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state WMA dispersed camping outside state park fee area)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on designated public WMA pullouts along reservoir shoreline outside state park fee boundary. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Cedar Bluff Reservoir. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to state fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel access road",
+      "road_conditions": "Graded gravel access roads off K-147; smooth when dry.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low along open reservoir shoreline",
+      "distance_from_tower_corridor_miles": 6.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Limestone Bluff Reservoir Overlook Views",
+      "Walleye & Bass Fishing",
+      "Dark Sky Astronomy",
+      "Boating Access"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "WaKeeney / Ellis, KS",
+        "distance_miles": 16.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diners",
+          "I-70 Access"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Breezy High Plains spring (58-70°F).",
+      "summer": "Warm summer (85-92°F) with water breezes.",
+      "fall": "Crisp autumn fishing days.",
+      "winter": "Cold windy winter (20-35°F)."
+    },
+    "dangers_and_hazards": [
+      "High Plains Prairie Winds",
+      "Severe Thunderstorms"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Limestone Bluff Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Cedar Bluff reservoir wave lap",
+        "Prairie wind"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Eastern Red Cedar",
+        "Cottonwood",
+        "Little Bluestem",
+        "Yucca"
+      ],
+      "common_animals": [
+        "Mule Deer",
+        "Pronghorn Antelope",
+        "Walleye",
+        "White Pelican",
+        "Coyote"
+      ]
+    },
+    "human_demographics_and_culture": "Cheyenne and Arapaho ancestral lands and Smoky Hill Trail pioneer heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Towering 100-foot white limestone bluffs carving the Smoky Hill River reservoir basin.",
+      "energetic_and_spiritual_features": "Striking white limestone bluffs standing over blue High Plains reservoir waters."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Cedar Bluff Limestone Rim Trail",
+        "length_miles": 3.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Limestone bluff edge overlooks, reservoir vistas, cedar thickets"
+      }
+    ],
+    "public_reviews_summary": "Stunning white limestone bluff reservoir basecamp just 20 minutes from I-70 with strong cell service.",
+    "other_data": "16 miles south of I-70.",
+    "last_updated": "2026-09-12"
+  }
+]

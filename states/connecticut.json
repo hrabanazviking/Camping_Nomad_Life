@@ -1,0 +1,1285 @@
+[
+  {
+    "id": "ct-at-ten-mile-river",
+    "name": "Ten Mile River Appalachian Trail Primitive Campsite",
+    "state": "Connecticut",
+    "county": "Litchfield County",
+    "coordinates": {
+      "latitude": 41.6742,
+      "longitude": -73.5014,
+      "elevation_ft": 420
+    },
+    "management_agency": {
+      "name": "National Park Service / Appalachian Trail Conservancy / CT DEEP",
+      "type": "NPS / ATC",
+      "phone": "(860) 424-3000",
+      "website": "https://portal.ct.gov/DEEP"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fee or permit required for primitive trail camping",
+      "stay_limit": "1 night stay limit for long-distance/section hikers",
+      "guidelines": "Primitive camping permitted only at designated AT campsites/shelters along the Housatonic River corridor. Leave No Trace mandatory."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Use on-site privy where available; otherwise dig cat-hole 6-8 inches deep in organic soil, at least 200 feet from Ten Mile River and Housatonic River. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out. Zero trash bins on site."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood collection allowed. Do not damage live trees.",
+      "safety_requirements": "Fires allowed only in designated fire rings at the campsite. Ensure completely cold before departing.",
+      "seasonal_fire_bans": "Subject to CT DEEP Forest Fire Danger burn bans during dry spring/autumn."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved road parking area (Bulls Bridge Road / Route 7 trailhead) followed by 1.2 mile foot trail walk-in",
+      "road_conditions": "Paved state highway access to parking lot. Campsite itself is walk-in / hike-in only.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (parked at trailhead lot)",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate",
+      "verizon_reliability": "2-3 bars 4G LTE",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate (Housatonic river valley surrounded by wooded hills)",
+      "distance_from_tower_corridor_miles": 2.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Wooden Privy / Moldering Toilet",
+      "Ten Mile River Water Source (filtration mandatory)",
+      "Primitive Tent Sites",
+      "Stone Fire Pit"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 8,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Kent, CT",
+        "distance_miles": 6.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Restaurants",
+          "Kent Memorial Library",
+          "Pharmacy"
+        ]
+      },
+      {
+        "town_name": "New Milford, CT",
+        "distance_miles": 11.2,
+        "services_available": [
+          "Big Box Supermarkets",
+          "Gyms",
+          "New Milford Hospital",
+          "Full Services"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "50-65°F, lush green river valley, muddy trails, high river flow.",
+      "summer": "75-85°F, humid, shaded woodland canopy, moderate mosquito activity.",
+      "fall": "Spectacular New England autumn foliage, crisp 45-65°F days, dry trail conditions.",
+      "winter": "Cold 20-40°F, snow and ice along riverbanks, quiet winter woods."
+    },
+    "dangers_and_hazards": [
+      "Black bears active along AT corridor; bear hang or canister required",
+      "High river currents during spring floods",
+      "Blacklegged ticks (Lyme disease vectors) in underbrush"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Rushing river soundscape",
+      "common_human_made_sounds": [
+        "Distant train horn along Housatonic railroad corridor",
+        "Appalachian Trail hikers talking"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Eastern Hemlock (Tsuga canadensis)",
+        "Sugar Maple (Acer saccharum)",
+        "American Beech (Fagus grandifolia)",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "White-tailed Deer",
+        "Wild Turkey",
+        "River Otter (Lontra canadensis)",
+        "Bald Eagle (Haliaeetus leucocephalus)"
+      ]
+    },
+    "human_demographics_and_culture": "Appalachian Trail thru-hikers, section backpackers, river kayakers, and outdoor enthusiasts.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Schaghticoke and Weantinock indigenous traditions hold the Housatonic and Ten Mile river confluence as sacred ancestral fishing and spirit waters.",
+      "energetic_and_spiritual_features": "Flowing river energy, ancient Appalachian granite bedrock, deep forest tranquility."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Appalachian Trail - Ten Mile River to Bull's Bridge",
+        "length_miles": 5.0,
+        "difficulty": "Moderate",
+        "features": "Scenic river gorge, historic covered bridge, rock bluffs"
+      }
+    ],
+    "public_reviews_summary": "Beautiful river-side trail campsite along the CT Appalachian Trail. Great quiet getaway with good cell coverage.",
+    "other_data": "Bortle Class 4 night sky. Hike-in access required.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ct-pachaug-state-forest-misery",
+    "name": "Pachaug State Forest Free Backpack Primitive Campsites (Mount Misery Section)",
+    "state": "Connecticut",
+    "county": "New London County",
+    "coordinates": {
+      "latitude": 41.5812,
+      "longitude": -71.8412,
+      "elevation_ft": 480
+    },
+    "management_agency": {
+      "name": "Connecticut Department of Energy and Environmental Protection (DEEP)",
+      "type": "State DEEP",
+      "phone": "(860) 376-4075",
+      "website": "https://portal.ct.gov/DEEP"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Free DEEP Youth/Backpack Permit required (zero fee)",
+      "stay_limit": "2 consecutive nights max stay limit",
+      "guidelines": "Primitive pack-in camping allowed at designated backpacking sites within the Pachaug State Forest trail network. Vehicles parked at trailhead."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6 inches deep in topsoil, 200 feet from streams and ponds. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only within forest.",
+      "safety_requirements": "Campfires in established rock fire rings only. Extinguish cold to touch.",
+      "seasonal_fire_bans": "Obey CT DEEP Forest Fire Danger warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway to gravel state forest parking area (Route 49 / Kinnie Road)",
+      "road_conditions": "Paved road access to trailhead lot. Campsites are a 0.5 to 1.0 mile walk-in trail.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (parked at trailhead lot)",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Internet",
+      "verizon_reliability": "3-4 bars 5G/LTE (20-50 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 5G LTE",
+      "terrain_obstruction_risk": "Low (Gentle rolling white pine and oak forest hills)",
+      "distance_from_tower_corridor_miles": 2.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Wooden Lean-to Shelter",
+      "Pachaug River Stream Source (Filter required)",
+      "Established Rock Fire Ring",
+      "High-speed 5G Cellular Internet"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 7,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Voluntown / Jewett City, CT",
+        "distance_miles": 5.2,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Pharmacy",
+          "Public Library",
+          "Clinic"
+        ]
+      },
+      {
+        "town_name": "Norwich / New London, CT",
+        "distance_miles": 18.0,
+        "services_available": [
+          "Full City Services",
+          "Backus Hospital",
+          "24/7 Gyms",
+          "Shopping Malls"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "50-65°F, blooming rhododendron and mountain laurel, spring rain.",
+      "summer": "75-85°F, shaded white pine canopy, pleasant summer climate.",
+      "fall": "Crisp 55-70°F days, brilliant New England autumn foliage, prime camping.",
+      "winter": "Cool 25-40°F, freezing night temperatures, light snow."
+    },
+    "dangers_and_hazards": [
+      "Blacklegged ticks in brush",
+      "Poison ivy in understory"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Pine forest quiet",
+      "common_human_made_sounds": [
+        "Pachaug Trail backpackers",
+        "High commercial aircraft contrails"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Eastern White Pine",
+        "Red Oak",
+        "Pitch Pine",
+        "Rhododendron maximum",
+        "Highbush Blueberry"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Gray Squirrel",
+        "Red-tailed Hawk"
+      ]
+    },
+    "human_demographics_and_culture": "Pachaug Trail backpackers, local trail runners, digital nomads, and nature lovers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Mohegan and Pequot indigenous traditions revere the ancient pine forests and swamps of eastern Connecticut as sacred spirit lands.",
+      "energetic_and_spiritual_features": "Calming white pine forest atmosphere, clean stream water, fast 5G connectivity."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Pachaug Trail Loop (Mount Misery)",
+        "length_miles": 8.0,
+        "difficulty": "Moderate",
+        "features": "Winding trail through white pine forest, rhododendron sanctuaries, and rock outcrops"
+      }
+    ],
+    "public_reviews_summary": "Great free primitive backpack camping in Eastern Connecticut. Quiet pine woods, clean lean-to shelters, and fast 5G cell internet.",
+    "other_data": "Bortle Class 4 night sky. Free DEEP permit required.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ct-pachaug-state-forest-mount-misery",
+    "name": "Pachaug State Forest Mount Misery Primitive Backpack Shelter",
+    "state": "Connecticut",
+    "county": "New London County",
+    "coordinates": {
+      "latitude": 41.5812,
+      "longitude": -71.8612,
+      "elevation_ft": 440
+    },
+    "management_agency": {
+      "name": "Connecticut Department of Energy and Environmental Protection (DEEP)",
+      "type": "State DEEP",
+      "phone": "(860) 424-3000",
+      "website": "https://portal.ct.gov/DEEP"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Free CT DEEP Backpacking Permit required online (zero cost)",
+      "stay_limit": "1 night stay limit per shelter area",
+      "guidelines": "Primitive backpacking camping permitted at designated Mount Misery shelter site along Pachaug Trail. Carry in / carry out."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Use wooden pit privy at shelter site or dig cat-hole 6 inches deep in soil 200 feet from streams. Pack out all paper.",
+      "trash_policy": "Strict Carry-In / Carry-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on site.",
+      "safety_requirements": "Campfires in established stone fire pit only. Fully douse with water before departing.",
+      "seasonal_fire_bans": "Spring dry weather forest fire restrictions."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state road to gravel forest parking lot",
+      "road_conditions": "Graded gravel access parking lot, 1.2 mile hike-in on trail.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Near I-395 Corridor",
+      "verizon_reliability": "4-5 bars 4G/5G LTE (25-55 Mbps download)",
+      "att_reliability": "4-5 bars 4G/5G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low (Gentle rolling piney woods topography)",
+      "distance_from_tower_corridor_miles": 2.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Wooden Shelter Lean-To",
+      "Pit Privy Toilet",
+      "Mount Misery Brook Water Source (Filter mandatory)",
+      "Stone Fire Ring"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 7,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Griswold / Jewett City, CT",
+        "distance_miles": 6.0,
+        "services_available": [
+          "Better Valu Supermarket",
+          "Gas Stations",
+          "Slater Library",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Norwich, CT",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Full Metro City Services",
+          "Stop & Shop",
+          "Backus Hospital",
+          "24/7 Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "48-65°F, blooming wild azaleas, pleasant spring breezes.",
+      "summer": "72-84°F, warm Connecticut forest summer weather.",
+      "fall": "50-68°F, vibrant colorful hardwood foliage.",
+      "winter": "25-40°F, crisp winter weather, light snow."
+    },
+    "dangers_and_hazards": [
+      "Ticks in summer months (use permethrin)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Brook water flow and woodland songbirds",
+      "common_human_made_sounds": [
+        "Occasional distant vehicle on country road"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Pine",
+        "Red Oak",
+        "Mountain Laurel",
+        "Rhododendron"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Red Fox",
+        "Barred Owl"
+      ]
+    },
+    "human_demographics_and_culture": "Mohegan and Pequot ancestral lands, Connecticut backpackers, digital nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Traditional Mohegan territory honoring the ancient white pine groves and sacred brook waters of New London County.",
+      "energetic_and_spiritual_features": "Relaxing pine forest quietness, peaceful brook cascades."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Pachaug Trail (Mount Misery Section)",
+        "length_miles": 5.5,
+        "difficulty": "Easy to Moderate",
+        "features": "Mount Misery summit view, rhododendron sanctuaries, pine groves"
+      }
+    ],
+    "public_reviews_summary": "Connecticut's top free primitive shelter camping. Blazing 5G cell internet, clean wooden lean-to, and easy 10-minute drive to Jewett City.",
+    "other_data": "CT DEEP State Forest. Free backpacking permit required.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ct-cockaponset-state-forest-primitive",
+    "name": "Cockaponset State Forest Primitive Backpack Campsite",
+    "state": "Connecticut",
+    "county": "Middlesex County",
+    "coordinates": {
+      "latitude": 41.4214,
+      "longitude": -72.5214,
+      "elevation_ft": 380
+    },
+    "management_agency": {
+      "name": "Connecticut Department of Energy and Environmental Protection (DEEP)",
+      "type": "State DEEP",
+      "phone": "(860) 345-8521",
+      "website": "https://portal.ct.gov/DEEP"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Free CT DEEP Backpacking Permit required online (zero cost)",
+      "stay_limit": "1 night stay limit per site",
+      "guidelines": "Primitive backpacking camping permitted at designated Pattaconk trail primitive clearings in Cockaponset State Forest."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6 inches deep in organic soil 200 feet from Pattaconk Reservoir. Pack out all paper.",
+      "trash_policy": "Strict Carry-In / Carry-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on site.",
+      "safety_requirements": "Campfires in established stone fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Spring dry leaf weather fire restrictions."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route to gravel forest entrance road",
+      "road_conditions": "Graded gravel access parking lot, 0.8 mile hike-in.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Route 9 Corridor Line",
+      "verizon_reliability": "4-5 bars 4G/5G LTE (30-65 Mbps download)",
+      "att_reliability": "4-5 bars 4G/5G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low (Gentle rolling forest topography)",
+      "distance_from_tower_corridor_miles": 2.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Oak & Mountain Laurel Forest Campsites",
+      "Pattaconk Reservoir Access",
+      "Flat Dirt Pullout Parking",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 7,
+      "terrain_score": 7,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Chester / Haddam, CT",
+        "distance_miles": 4.0,
+        "services_available": [
+          "Supermarket",
+          "Gas Stations",
+          "Chester Public Library",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Middletown, CT",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Full Metro Services",
+          "Stop & Shop",
+          "Middlesex Hospital",
+          "24/7 Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "50-68°F, blooming wild azaleas and mountain laurel, pleasant spring breezes.",
+      "summer": "72-84°F, warm Connecticut forest summer weather.",
+      "fall": "50-68°F, vibrant colorful hardwood foliage.",
+      "winter": "25-40°F, crisp winter weather, light snow."
+    },
+    "dangers_and_hazards": [
+      "Ticks in summer months (use permethrin)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Reservoir water flow and woodland songbirds",
+      "common_human_made_sounds": [
+        "Occasional distant vehicle on state route"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Oak",
+        "Red Maple",
+        "Mountain Laurel",
+        "Eastern Hemlock"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Red Fox",
+        "Osprey"
+      ]
+    },
+    "human_demographics_and_culture": "Wangunk ancestral lands, Connecticut outdoorsmen, digital nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Traditional Wangunk territory honoring the ancient oak forests and reservoir waters of Middlesex County.",
+      "energetic_and_spiritual_features": "Relaxing hardwood forest quietness, peaceful reservoir reflection views."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Pattaconk Reservoir Trail",
+        "length_miles": 4.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Pattaconk Reservoir shoreline, cedar swamps, hardwood forest"
+      }
+    ],
+    "public_reviews_summary": "Top free primitive backpacking camping in Connecticut. Blazing 5G cell internet, peaceful reservoir views, and 5 minutes to Chester.",
+    "other_data": "CT DEEP State Forest. Free backpacking permit required.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "connecticut-005",
+    "name": "Natchaug State Forest Dispersed Backpacking Lean-to Primitive Spot",
+    "state": "Connecticut",
+    "county": "Windham",
+    "coordinates": {
+      "latitude": 41.8375,
+      "longitude": -72.1022,
+      "elevation_ft": 610.0
+    },
+    "management_agency": {
+      "name": "Connecticut Department of Energy and Environmental Protection (DEEP)",
+      "type": "State",
+      "phone": "(860) 424-3000",
+      "website": "https://portal.ct.gov/DEEP/State-Parks/Forests/Natchaug-State-Forest"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night for primitive trailside lean-to shelters along Natchaug Trail)",
+      "stay_limit": "1 night limit at trailside shelters for backpackers",
+      "guidelines": "Primitive camping permitted at designated shelter zones along the Natchaug Trail. Carry-in carry-out policy strictly enforced."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Utilize primitive privy if available, otherwise bury waste 6-8 inches deep at least 200 feet from watercourses. Pack out paper products.",
+      "trash_policy": "Strict Carry-In, Carry-Out rule. No trash containers provided."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather small dead/down twigs only. Do not transport firewood across state lines to prevent emerald ash borer and spongy moth spread.",
+      "safety_requirements": "Fires permitted only in designated stone fire rings at shelter sites. Extinguish thoroughly with water.",
+      "seasonal_fire_bans": "Subject to state high forest fire danger alerts, especially during early spring before leaf-out."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway leading to forest trailhead parking",
+      "road_conditions": "Paved access roads; 1.2-mile hike required from parking lot along Natchaug Trail to reach shelter.",
+      "vehicle_recommendation": "Any standard front-wheel drive low-clearance sedan can park at main trailhead lot.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Good (3.5/5 Stars)",
+      "verizon_reliability": "2-3 bars 5G/4G LTE",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate - dense hemlock and oak forest canopy",
+      "distance_from_tower_corridor_miles": 3.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Wooden Lean-to Shelter",
+      "Stone Fire Ring",
+      "Stream Water Source (Treat Before Drinking)",
+      "Trailhead Parking"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 6,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Willimantic, CT",
+        "distance_miles": 11.2,
+        "services_available": [
+          "Supermarket",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Auto Repair"
+        ]
+      },
+      {
+        "town_name": "Eastford, CT",
+        "distance_miles": 4.5,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "Post Office"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool temperatures (45-60°F) with muddy trails and high water flow in Natchaug River.",
+      "summer": "Warm and humid (75-85°F). Mosquitoes and deer flies active near water.",
+      "fall": "Stunning autumn foliage with vibrant red maples and yellow birches. Pleasant day temps (55-65°F).",
+      "winter": "Cold with snow accumulation (20-35°F). Snowshoes or microspikes often necessary on trails."
+    },
+    "dangers_and_hazards": [
+      "Black Bears",
+      "Black-legged Ticks (Lyme Disease Risk)",
+      "Falling Tree Branches (Hazard Trees)",
+      "Freezing Night Temperatures in Winter"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Tranquil (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Distant traffic on Route 198",
+        "Occasional overhead commercial flights"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Eastern Hemlock",
+        "Red Maple",
+        "Mountain Laurel",
+        "Black Birch",
+        "Partridgeberry"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Black Bear",
+        "Wild Turkey",
+        "Red-tailed Hawk",
+        "Barred Owl"
+      ]
+    },
+    "human_demographics_and_culture": "Rural New England quiet forest culture with historic stone walls, colonial mill ruins, and active conservation traditions.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Local Connecticut lore tells of quiet woodland spirits guarding colonial stone walls and old hemlock groves.",
+      "energetic_and_spiritual_features": "The rushing waters of Natchaug River create a soothing, reflective natural soundscape."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Natchaug Trail (Blue-Blazed)",
+        "length_miles": 19.3,
+        "difficulty": "Moderate",
+        "features": "Historic stone structures, river vistas, quiet hemlock ravines"
+      }
+    ],
+    "public_reviews_summary": "Hikers appreciate the easy access, peaceful shelter, and babbling stream soundscape, though note that ticks are prevalent in summer.",
+    "other_data": "Filter or boil all water drawn from streams. Park overnight only in designated forest trailhead parking lots.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "connecticut-006",
+    "name": "Shenipsit State Forest Dispersed Backpacking Zone",
+    "state": "Connecticut",
+    "county": "Tolland",
+    "coordinates": {
+      "latitude": 41.9612,
+      "longitude": -72.4412,
+      "elevation_ft": 820.0
+    },
+    "management_agency": {
+      "name": "Connecticut Department of Energy and Environmental Protection (DEEP)",
+      "type": "State",
+      "phone": "(860) 424-3000",
+      "website": "https://portal.ct.gov/deep"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state forest trailside camping)",
+      "stay_limit": "2 consecutive nights max per location",
+      "guidelines": "Free primitive backpack camping along the Shenipsit Trail. Carry out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury human waste 6-8 inches deep 200 ft from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Carry-In Carry-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": false,
+      "firewood_policy": "No campfire gathering allowed; camp stoves only.",
+      "safety_requirements": "Use backpacking canister gas stoves only.",
+      "seasonal_fire_bans": "State forest fire warnings in dry autumn/spring."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved town access road to trailhead parking",
+      "road_conditions": "Paved road access; short hike in to dispersed trail sites.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE / 5G",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - gentle rolling forest terrain",
+      "distance_from_tower_corridor_miles": 3.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Shenipsit Trail Access",
+      "Soapstone Mountain Fire Tower Views",
+      "Pine-Hardwood Canopy",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 6,
+      "terrain_score": 7,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Somers, CT",
+        "distance_miles": 5.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Cafes"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool fresh spring (55-68°F).",
+      "summer": "Warm humid summer (78-85°F).",
+      "fall": "Vibrant New England autumn foliage.",
+      "winter": "Cold snowy winter (20-35°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Area",
+      "Ticks & Lyme Disease"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "New England Ridge Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Wind in hemlock branches",
+        "Songbirds"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Eastern Hemlock",
+        "Red Oak",
+        "White Pine",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Black Bear",
+        "Red Fox"
+      ]
+    },
+    "human_demographics_and_culture": "Nipmuc ancestral lands and Connecticut historic timber trail heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Soapstone Mountain observation tower overlooks northern Connecticut forest valleys.",
+      "energetic_and_spiritual_features": "Quiet hemlock ravines and rocky granite ridge outcrops."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Shenipsit Blue-Blazed Trail",
+        "length_miles": 4.5,
+        "difficulty": "Moderate",
+        "features": "Ridge hiking, Soapstone Mountain overlook, pine forest"
+      }
+    ],
+    "public_reviews_summary": "Peaceful Blue-Blazed trail camping near Somers with great cell service.",
+    "other_data": "Backpacking stove recommended.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "connecticut-007",
+    "name": "Natchaug State Forest Primitive Area",
+    "state": "Connecticut",
+    "county": "Windham",
+    "coordinates": {
+      "latitude": 41.8812,
+      "longitude": -72.0812,
+      "elevation_ft": 520.0
+    },
+    "management_agency": {
+      "name": "Connecticut DEEP - Division of Forestry",
+      "type": "State",
+      "phone": "(860) 424-3000",
+      "website": "https://portal.ct.gov/deep"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state forest backpacking campsites)",
+      "stay_limit": "2 consecutive nights max limit",
+      "guidelines": "Primitive trailside camping allowed along Natchaug River corridor. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Natchaug River. Pack out toilet paper.",
+      "trash_policy": "Strict Carry-In Carry-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": false,
+      "firewood_policy": "Campfires restricted to designated metal rings where present or backpack stoves.",
+      "safety_requirements": "Camp stoves strongly preferred.",
+      "seasonal_fire_bans": "Subject to state dry season fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route to gravel forest road",
+      "road_conditions": "Paved state route access; short gravel pullout to trailheads.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - river corridor valley",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Natchaug River Shoreline Access",
+      "Hemlock Forest Canopy",
+      "Natchaug Trail Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Eastford, CT",
+        "distance_miles": 4.0,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush river spring (52-66°F).",
+      "summer": "Pleasant summer (76-84°F) with river cooling.",
+      "fall": "Vibrant autumn foliage colors.",
+      "winter": "Cold winter (22-36°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Area",
+      "Ticks & Lyme Disease"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Natchaug River Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Natchaug River water murmur",
+        "Wind in white pine"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Pine",
+        "Eastern Hemlock",
+        "Yellow Birch",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "Brook Trout",
+        "White-tailed Deer",
+        "Beaver",
+        "Osprey"
+      ]
+    },
+    "human_demographics_and_culture": "Mohegan and Nipmuc ancestral lands and quiet corner rural Connecticut heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Natchaug River flows through the designated Last Green Valley National Heritage Corridor.",
+      "energetic_and_spiritual_features": "Quiet hemlock river ravines with crystalline trout streams."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Natchaug Blue-Blazed Trail",
+        "length_miles": 5.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Riverbank walk, historic CCC chimney ruins, hemlock groves"
+      }
+    ],
+    "public_reviews_summary": "Serene riverside pine forest basecamp near Eastford with strong cell coverage.",
+    "other_data": "Excellent spring fly fishing.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "connecticut-008",
+    "name": "Tunxis State Forest Dispersed Zone",
+    "state": "Connecticut",
+    "county": "Hartford",
+    "coordinates": {
+      "latitude": 42.0112,
+      "longitude": -72.9312,
+      "elevation_ft": 1150.0
+    },
+    "management_agency": {
+      "name": "Connecticut DEEP - Division of Forestry",
+      "type": "State",
+      "phone": "(860) 424-3000",
+      "website": "https://portal.ct.gov/deep"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state forest trailside camping)",
+      "stay_limit": "2 consecutive nights max per location",
+      "guidelines": "Dispersed primitive camping allowed along Tunxis Trail. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Barkhamsted Reservoir tributaries. Pack out toilet paper.",
+      "trash_policy": "Strict Carry-In Carry-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": false,
+      "firewood_policy": "No wood fires allowed; portable backpacking stoves only.",
+      "safety_requirements": "Backpacking gas stoves mandatory.",
+      "seasonal_fire_bans": "Subject to state dry season fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway to gravel forest road",
+      "road_conditions": "Paved access road; gravel turnouts to trailheads.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - upland plateau",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Tunxis Blue-Blazed Trail Access",
+      "Granite Ledge Overlooks",
+      "Northern Hardwood Canopy",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Hartland, CT",
+        "distance_miles": 4.0,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool mountain spring (50-65°F).",
+      "summer": "Pleasant cool summer (75-82°F).",
+      "fall": "Spectacular Litchfield Hills autumn colors.",
+      "winter": "Cold snowy winter (18-32°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Area",
+      "Ticks & Lyme Disease"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Litchfield Hills Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind in sugar maples",
+        "Songbirds"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Sugar Maple",
+        "Yellow Birch",
+        "White Pine",
+        "Hay-scented Fern"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Black Bear",
+        "Porcupine",
+        "Broad-winged Hawk"
+      ]
+    },
+    "human_demographics_and_culture": "Tunxis ancestral lands and historic Litchfield Hills farm and timber heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "High upland plateau near the Massachusetts border with pristine hemlock ravines.",
+      "energetic_and_spiritual_features": "Peaceful northern hardwood forest with mossy granite outcrops."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Tunxis Main Trail",
+        "length_miles": 4.0,
+        "difficulty": "Moderate",
+        "features": "Granite ledges, pond views, hardwood forest walk"
+      }
+    ],
+    "public_reviews_summary": "Cool highland hardwood forest basecamp near Hartland with dependable cell service.",
+    "other_data": "Backpacking stove required.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "connecticut-009",
+    "name": "Salmon River State Forest Primitive Area",
+    "state": "Connecticut",
+    "county": "Middlesex",
+    "coordinates": {
+      "latitude": 41.5612,
+      "longitude": -72.4812,
+      "elevation_ft": 350.0
+    },
+    "management_agency": {
+      "name": "Connecticut DEEP - Division of Forestry",
+      "type": "State",
+      "phone": "(860) 424-3000",
+      "website": "https://portal.ct.gov/deep"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state forest trailside camping)",
+      "stay_limit": "2 consecutive nights max per location",
+      "guidelines": "Dispersed primitive backpacking allowed along Salmon River trail corridor. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Salmon River. Pack out toilet paper.",
+      "trash_policy": "Strict Carry-In Carry-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": false,
+      "firewood_policy": "Campfires prohibited; backpack gas stoves allowed.",
+      "safety_requirements": "Backpacking gas stoves mandatory.",
+      "seasonal_fire_bans": "Subject to state dry season fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route access road",
+      "road_conditions": "Paved state route access; gravel turnouts to trailheads.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - river corridor",
+      "distance_from_tower_corridor_miles": 3.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Salmon River Shoreline Access",
+      "Historic Covered Bridge Views",
+      "Pine Canopy",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 6,
+      "terrain_score": 8,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Colchester, CT",
+        "distance_miles": 5.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Cafes"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush green spring (54-68°F).",
+      "summer": "Warm summer (78-86°F) with river cooling.",
+      "fall": "Crisp New England autumn colors.",
+      "winter": "Cold winter (22-38°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Area",
+      "Ticks & Lyme Disease"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Salmon River Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Salmon River water flow",
+        "Songbirds"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Oak",
+        "Hemlock",
+        "White Pine",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "Trout",
+        "White-tailed Deer",
+        "Bald Eagle",
+        "Great Blue Heron"
+      ]
+    },
+    "human_demographics_and_culture": "Wangunk and Mohegan ancestral lands and historic Comstock covered bridge heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Salmon River is home to Connecticut's famous historic Comstock Covered Bridge built in 1873.",
+      "energetic_and_spiritual_features": "Gently rushing river waters flanked by steep hemlock bluffs."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Salmon River Trail",
+        "length_miles": 4.2,
+        "difficulty": "Easy to Moderate",
+        "features": "Riverbank walk, covered bridge view, pine forest"
+      }
+    ],
+    "public_reviews_summary": "Pristine riverside state forest basecamp near Colchester with strong cell service.",
+    "other_data": "Trout fishing in spring.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "connecticut-010",
+    "name": "Mattatuck State Forest Trailhead Dispersed Area",
+    "state": "Connecticut",
+    "county": "Litchfield",
+    "coordinates": {
+      "latitude": 41.6412,
+      "longitude": -73.0812,
+      "elevation_ft": 750.0
+    },
+    "management_agency": {
+      "name": "Connecticut DEEP - Division of Forestry",
+      "type": "State",
+      "phone": "(860) 424-3000",
+      "website": "https://portal.ct.gov/deep"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state forest trailside camping)",
+      "stay_limit": "2 consecutive nights max per location",
+      "guidelines": "Dispersed primitive backpack camping along the Mattatuck Trail. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Carry-In Carry-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": false,
+      "firewood_policy": "Campfires prohibited; backpack gas stoves allowed.",
+      "safety_requirements": "Backpacking gas stoves mandatory.",
+      "seasonal_fire_bans": "Subject to state dry season fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved town access road",
+      "road_conditions": "Paved road access; short gravel pullout to trailheads.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - rolling ridge",
+      "distance_from_tower_corridor_miles": 3.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Mattatuck Blue-Blazed Trail Access",
+      "Naugatuck Valley Overlooks",
+      "Oak-Hickory Canopy",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 6,
+      "terrain_score": 8,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Litchfield, CT",
+        "distance_miles": 5.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Cafes"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Fresh spring (54-68°F).",
+      "summer": "Warm summer (78-85°F).",
+      "fall": "Vibrant Litchfield Hills foliage.",
+      "winter": "Cold snowy winter (20-35°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Area",
+      "Ticks & Lyme Disease"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Litchfield Ridge Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Wind through red oaks",
+        "Songbirds"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Red Oak",
+        "Chestnut Oak",
+        "White Pine",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Black Bear",
+        "Red-tailed Hawk"
+      ]
+    },
+    "human_demographics_and_culture": "Paugussett ancestral lands and Litchfield County historic village heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Mattatuck Trail traverses dramatic granite bluffs above the Naugatuck River valley.",
+      "energetic_and_spiritual_features": "Quiet oak ridges overlooking scenic Connecticut river valleys."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Mattatuck Blue-Blazed Trail",
+        "length_miles": 5.0,
+        "difficulty": "Moderate",
+        "features": "Granite cliff overlooks, hardwood canopy, historic caves"
+      }
+    ],
+    "public_reviews_summary": "Scenic ridge trail camping near Litchfield with great cell coverage and autumn colors.",
+    "other_data": "Backpacking stove required.",
+    "last_updated": "2026-09-12"
+  }
+]

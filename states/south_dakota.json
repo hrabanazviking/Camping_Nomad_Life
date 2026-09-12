@@ -1,0 +1,1313 @@
+[
+  {
+    "id": "sd-buffalo-gap-badlands-overlook",
+    "name": "Badlands Overlook Free Dispersed Camping - Buffalo Gap National Grassland",
+    "state": "South Dakota",
+    "county": "Pennington County",
+    "coordinates": {
+      "latitude": 43.8812,
+      "longitude": -102.2814,
+      "elevation_ft": 3150
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Wall Ranger District",
+      "type": "USFS",
+      "phone": "(605) 279-2125",
+      "website": "https://www.fs.usda.gov/nebraska"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for primitive dispersed camping",
+      "stay_limit": "14 consecutive days max stay within 30-day period",
+      "guidelines": "Dispersed primitive camping permitted on Buffalo Gap National Grassland public lands along the rim overlooking Badlands National Park. Must park within designated pullout areas."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6 inches deep in prairie badlands soil, 200 feet from dry washes. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring your own firewood; shortgrass prairie wood gathering non-existent.",
+      "safety_requirements": "Campfires in containerized fire pans or existing rock rings only due to extreme prairie grass fire hazard. Extinguish cold to touch.",
+      "seasonal_fire_bans": "Strict Red Flag Warning fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway changing to unpaved dirt prairie rim road (SD-240 / Nomad View Road / FS 7158)",
+      "road_conditions": "Flat dirt prairie rim road. Can turn slick gumbo mud when wet.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (accessible along main dirt rim road in dry conditions; high clearance recommended for rough side spurs)",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Internet",
+      "verizon_reliability": "4-5 bars 5G/LTE (30-80 Mbps download speed on open rim)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 5G Ultra Capacity",
+      "terrain_obstruction_risk": "Low (Unobstructed high prairie rim overlooking Badlands National Park)",
+      "distance_from_tower_corridor_miles": 2.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Jaw-Dropping Badlands Canyon Overlook",
+      "100% Unshaded Solar Panel Exposure",
+      "High-speed 5G Cellular Internet",
+      "High Plains Solitude"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Wall, SD",
+        "distance_miles": 12.5,
+        "services_available": [
+          "Wall Drug Store",
+          "Grocery Store",
+          "Gas Stations",
+          "Propane",
+          "Wall Community Library"
+        ]
+      },
+      {
+        "town_name": "Rapid City, SD",
+        "distance_miles": 52.0,
+        "services_available": [
+          "Walmart Supercenters",
+          "Target",
+          "Monument Health Hospital",
+          "24/7 Gyms",
+          "Full Commercial Services"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "55-70°F, high winds, spring rainstorms, muddy clay tracks.",
+      "summer": "Hot (85-98°F), intense solar radiation, late afternoon severe lightning / hail storms.",
+      "fall": "Ideal prairie rim boondocking (60-75°F daytime, 35-45°F nights), crisp clear skies.",
+      "winter": "Severe cold High Plains winter (15-35°F daytime, sub-zero nights), strong winds."
+    },
+    "dangers_and_hazards": [
+      "High wind gusts (40+ mph) on open cliff edge",
+      "Prairie wildfires during dry Red Flag Warnings",
+      "Steep vertical cliff drop-offs into Badlands canyons",
+      "Prairie Rattlesnakes active in warm months"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - High prairie wind quiet",
+      "common_human_made_sounds": [
+        "Occasional camper vehicle driving slowly on rim road",
+        "Wind howling over badland canyon rim"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Western Wheatgrass",
+        "Little Bluestem",
+        "Plains Prickly Pear",
+        "Yellow Sweetclover"
+      ],
+      "common_animals": [
+        "Bison / American Buffalo (grazing in nearby Badlands NP)",
+        "Bighorn Sheep",
+        "Pronghorn",
+        "Mule Deer",
+        "Black-tailed Prairie Dog",
+        "Coyote"
+      ]
+    },
+    "human_demographics_and_culture": "Full-time digital nomads (one of the most famous boondocking spots in North America), vanlifers, astrophotographers, and road trippers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Oglala Lakota Sioux indigenous traditions revere the Badlands ('Mako Sica') and surrounding high prairie rims as sacred ancestral spirit lands.",
+      "energetic_and_spiritual_features": "Profound spatial freedom, dramatic canyon cliff vistas, world-class 5G connected solar boondocking."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Castle Trail (Badlands National Park)",
+        "length_miles": 10.0,
+        "difficulty": "Moderate",
+        "features": "Winding path through badlands rock formations and shortgrass prairie"
+      }
+    ],
+    "public_reviews_summary": "World-famous boondocking location known as 'The Wall' or 'Nomad View'. Breathtaking canyon rim views combined with blazing fast 5G cell internet.",
+    "other_data": "Bortle Class 2 night sky. Outstanding solar panel power generation.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "sd-black-hills-nf-victoria-creek",
+    "name": "Victoria Creek Road Dispersed Primitive Camping",
+    "state": "South Dakota",
+    "county": "Pennington County",
+    "coordinates": {
+      "latitude": 44.0214,
+      "longitude": -103.3612,
+      "elevation_ft": 4450
+    },
+    "management_agency": {
+      "name": "US Forest Service - Black Hills National Forest (Mystic Ranger District)",
+      "type": "USFS",
+      "phone": "(605) 343-1567",
+      "website": "https://www.fs.usda.gov/blackhills"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Dispersed Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted at pullouts along Victoria Creek Road (FR 159). Camp 100ft minimum from creek."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in soil 200 feet from Victoria Creek. Pack out all paper.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down ponderosa pine wood collection permitted.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Summer high wind Black Hills fire restrictions enforced."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved Sheridan Lake Road to gravel Forest Service Road (FR 159)",
+      "road_conditions": "Paved main access, smooth gravel forest road pullouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance vehicles.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Rapid City Tower Corridor",
+      "verizon_reliability": "4-5 bars 4G/5G LTE (30-70 Mbps download)",
+      "att_reliability": "4-5 bars 4G/5G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low (Gentle Black Hills granite canyon terrain)",
+      "distance_from_tower_corridor_miles": 3.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Ponderosa Pine Canopy Shade",
+      "Victoria Creek Trout Stream Access",
+      "Flat Dirt/Gravel Vehicle Pullouts",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 7,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Rapid City, SD",
+        "distance_miles": 10.0,
+        "services_available": [
+          "Safeway / Family Fare",
+          "Walmart / Target",
+          "Rapid City Public Library",
+          "Monument Health Hospital",
+          "24/7 Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "45-62°F, blooming wild pasqueflower (SD state flower), green pine hills.",
+      "summer": "75-88°F, warm sunny Black Hills days, cool pine nights.",
+      "fall": "50-68°F, golden aspen colors, crisp chilly starry nights.",
+      "winter": "18-38°F, snowpack on pine hills, peaceful winter woods."
+    },
+    "dangers_and_hazards": [
+      "Summer afternoon lightning thunderstorms",
+      "Mountain lions in Black Hills (rare)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Creek water trickles and pine forest wind",
+      "common_human_made_sounds": [
+        "Occasional sightseer vehicle on forest road"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Ponderosa Pine (Paha Sapa signature tree)",
+        "Quaking Aspen",
+        "Pasqueflower",
+        "Wild Grape"
+      ],
+      "common_animals": [
+        "Mountain Goat",
+        "Bighorn Sheep",
+        "Elk",
+        "White-tailed Deer",
+        "Brown Trout"
+      ]
+    },
+    "human_demographics_and_culture": "Oceti Sakowin (Lakota) sacred ancestral land (Paha Sapa), Black Hills outdoorsmen, digital nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Lakota sacred heart of everything (Paha Sapa). Deep spiritual reverence for the granite spires and pine hills.",
+      "energetic_and_spiritual_features": "Profound high sacred mountain energy, soothing pine forest solitude."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Flume National Recreation Trail",
+        "length_miles": 6.5,
+        "difficulty": "Easy to Moderate",
+        "features": "Historic gold rush mining flume, rock tunnels, Victoria Creek canyon"
+      }
+    ],
+    "public_reviews_summary": "The ultimate free boondocking location in the Black Hills. Blazing 5G cell internet, peaceful pine creek setting, and just 15 minutes to Rapid City.",
+    "other_data": "Black Hills National Forest. Free dispersed primitive camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "sd-buffalo-gap-national-grassland",
+    "name": "Buffalo Gap National Grassland Dispersed Camping",
+    "state": "South Dakota",
+    "county": "Pennington / Custer County",
+    "coordinates": {
+      "latitude": 43.7812,
+      "longitude": -102.3214,
+      "elevation_ft": 2850
+    },
+    "management_agency": {
+      "name": "US Forest Service - Nebraska National Forests & Grasslands (Wall Ranger District)",
+      "type": "USFS",
+      "phone": "(605) 279-2125",
+      "website": "https://www.fs.usda.gov/nebraska"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Dispersed Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted throughout Buffalo Gap National Grassland along Badlands overlook rim roads. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6 inches deep in soil 200 feet from canyon washes. Pack out all paper.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Must bring your own firewood. Gathering wood on grassland is prohibited.",
+      "safety_requirements": "Campfires in established rock fire rings or metal fire pans only. Fully douse before vacating.",
+      "seasonal_fire_bans": "Summer high wind prairie burn bans active July-August."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved Interstate 90 / SD 240 to gravel/dirt grassland roads (Nomad View Rim Road)",
+      "road_conditions": "Graded gravel main access, clay dirt rim pullouts (slick when wet).",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance vehicles in dry weather.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Wall & I-90 Tower Line",
+      "verizon_reliability": "4-5 bars 4G/5G LTE (30-80 Mbps download on Nomad View rim)",
+      "att_reliability": "4-5 bars 4G/5G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low along high open Badlands wall rim",
+      "distance_from_tower_corridor_miles": 2.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Spectacular Badlands National Park Wall Rim Panorama Views",
+      "Flat Dirt/Gravel RV & Van Pullouts",
+      "Dark Sky Stargazing",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Wall, SD",
+        "distance_miles": 8.0,
+        "services_available": [
+          "Wall Drug / Supermarket",
+          "Gas Stations",
+          "Wall Public Library",
+          "Clinic",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Rapid City, SD",
+        "distance_miles": 52.0,
+        "services_available": [
+          "Full Metro Services",
+          "Costco / Target",
+          "Hospitals",
+          "24/7 Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "50-68°F, greening prairie grass, cool wind.",
+      "summer": "82-95°F, warm sunny Badlands days, bright clear skies.",
+      "fall": "55-72°F, golden prairie foliage, crisp chilly nights.",
+      "winter": "15-35°F, severe prairie cold, dusting of snow on Badlands bluffs."
+    },
+    "dangers_and_hazards": [
+      "Sheer 300ft Badlands cliff rim drop-offs (watch footing near edge)",
+      "High wind gusts on open prairie wall",
+      "Clay dirt roads become slick mud when wet"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Badlands prairie wind and coyote choruses",
+      "common_human_made_sounds": [
+        "Distant vehicle on SD 240 in Badlands park"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Western Wheatgrass",
+        "Prickly Pear Cactus",
+        "Yucca",
+        "Yellow Sweetclover"
+      ],
+      "common_animals": [
+        "Bison",
+        "Bighorn Sheep",
+        "Pronghorn Antelope",
+        "Prairie Dog",
+        "Black-footed Ferret",
+        "Coyote"
+      ]
+    },
+    "human_demographics_and_culture": "Oglala Lakota sacred ancestral lands, South Dakota ranchers, Badlands travelers, digital nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Famous 'Nomad View' rim location. Sacred Oglala Lakota territory honoring the majestic Badlands wall and vast Dakota prairie.",
+      "energetic_and_spiritual_features": "Unrivaled 300ft Badlands rim panorama energy, cosmic dark night sky stargazing."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Badlands Wall Rim Trail",
+        "length_miles": 5.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Badlands clay hoodoos, prairie grass overlooks, bison viewing"
+      }
+    ],
+    "public_reviews_summary": "World-famous 'Nomad View' primitive camping rim outside Badlands National Park. Blazing 5G cell internet, front-row Badlands sunsets, and 100% free USFS access.",
+    "other_data": "Buffalo Gap National Grassland. Free dispersed primitive camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "south_dakota-004",
+    "name": "Buffalo Gap National Grassland Dispersed Primitive Zone",
+    "state": "South Dakota",
+    "county": "Pennington",
+    "coordinates": {
+      "latitude": 43.8412,
+      "longitude": -102.3412,
+      "elevation_ft": 2980.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Nebraska National Forests and Grasslands (Wall Ranger District)",
+      "type": "Federal",
+      "phone": "(605) 279-2125",
+      "website": "https://www.fs.usda.gov/nebraska"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed grassland camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed across 600,000 acres of open grassland adjacent to Badlands National Park. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from dry washes. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Clear ground 10 ft around fire ring. Extinguish cold due to extreme prairie wind hazard.",
+      "seasonal_fire_bans": "Subject to USFS high prairie fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel and dirt prairie roads (Nomad View / Rim Road)",
+      "road_conditions": "Gravel Rim Road along badland wall; clay sections get slick when wet.",
+      "vehicle_recommendation": "Standard FWD car fine in dry weather; 4WD required when wet.",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE along badlands rim overview",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - perched high on badlands wall rim overlooking prairie",
+      "distance_from_tower_corridor_miles": 2.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Badlands Wall Panoramic Overlook",
+      "Dark Sky Star Observation",
+      "Bison & Bighorn Sheep Views"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Wall, SD",
+        "distance_miles": 8.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Drugstore & Dining"
+        ]
+      },
+      {
+        "town_name": "Rapid City, SD",
+        "distance_miles": 52.0,
+        "services_available": [
+          "Supercenters",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Airport"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Green prairie emergence with spring wildflowers.",
+      "summer": "Hot high plains summer (88-98°F) with intense sun and cool prairie nights.",
+      "fall": "Crisp autumn weather with golden shortgrass prairie.",
+      "winter": "Cold prairie winter (10-28°F) with brisk winds and snow."
+    },
+    "dangers_and_hazards": [
+      "High Prairie Wildfire Hazard & High Winds",
+      "Steep Badlands Wall Drop-offs",
+      "Prairie Rattlesnakes",
+      "Slick Clay Roads when Wet"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Badlands Rim Wind Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Distant I-90 traffic whistle in wind"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Western Wheatgrass",
+        "Blue Grama",
+        "Prickly Pear Cactus",
+        "Soapweed Yucca"
+      ],
+      "common_animals": [
+        "Bighorn Sheep",
+        "Plains Bison",
+        "Pronghorn Antelope",
+        "Black-tailed Prairie Dog",
+        "Coyote"
+      ]
+    },
+    "human_demographics_and_culture": "South Dakota high plains cattle ranching, Oglala Lakota heritage, and Badlands conservation culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Oglala Lakota sacred traditions honor the Badlands ('Mako Sica') as a realm of ancient earth spirits and fossil bone guardians.",
+      "energetic_and_spiritual_features": "Panoramic badlands wall overlooking 50 miles of open prairie creates a humbling cosmic stillness."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Badlands Rim & Deer Haven Exploration Trail",
+        "length_miles": 4.5,
+        "difficulty": "Moderate",
+        "features": "Badland clay pinnacles, open shortgrass prairie, bighorn sheep viewing"
+      }
+    ],
+    "public_reviews_summary": "One of the absolute top dispersed camping views in North America ('Nomad View') with 5G cell internet.",
+    "other_data": "Bring all water and avoid driving on clay roads during heavy rain.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "south_dakota-005",
+    "name": "Black Hills Custer Peak Primitive Zone - Black Hills National Forest",
+    "state": "South Dakota",
+    "county": "Lawrence",
+    "coordinates": {
+      "latitude": 44.2812,
+      "longitude": -103.7412,
+      "elevation_ft": 5820.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Black Hills National Forest (Northern Hills Ranger District)",
+      "type": "Federal",
+      "phone": "(605) 642-4622",
+      "website": "https://www.fs.usda.gov/blackhills"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed forest camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along forest service roads near Custer Peak outside developed sites. Camp 100 ft from water. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from streams.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down pine wood locally.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS dry summer fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest service roads",
+      "road_conditions": "Graded gravel roads with flat ponderosa pine pullouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE on high pine ridges",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate - high Black Hills ponderosa pine ridges",
+      "distance_from_tower_corridor_miles": 2.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Ponderosa Pine Canopy",
+      "Custer Peak Fire Tower Views",
+      "Primitive Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Deadwood, SD",
+        "distance_miles": 10.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Historic Gaming & Dining"
+        ]
+      },
+      {
+        "town_name": "Spearfish, SD",
+        "distance_miles": 18.0,
+        "services_available": [
+          "Supercenter",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "University City Amenities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool Black Hills spring weather with blooming pasqueflower.",
+      "summer": "Pleasant summer days (76-84°F) with cool pine night air (50°F).",
+      "fall": "Golden aspen and birch leaf display among ponderosa pines.",
+      "winter": "Cold winter (15-30°F) with snowpack; snowmobiling."
+    },
+    "dangers_and_hazards": [
+      "Mountain Lions & Black Bears",
+      "High Wildfire Hazard in Pine Forest",
+      "Sudden Summer Thunderstorms"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Black Hills Pine Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Occasional forest road car",
+        "High altitude aircraft"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Ponderosa Pine",
+        "Quaking Aspen",
+        "Paper Birch",
+        "Pasqueflower (State Flower)"
+      ],
+      "common_animals": [
+        "Mountain Goat",
+        "Elk",
+        "White-tailed Deer",
+        "Mountain Lion",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Black Hills gold mining history (Deadwood/Lead), Lakota sacred heritage, and outdoor mountain recreation.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Lakota sacred tradition honors the Black Hills ('Paha Sapa') as the sacred heart of everything that is.",
+      "energetic_and_spiritual_features": "Tall ponderosa pine stands and granite outcrops generate a deeply sacred, grounding energy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Custer Peak Fire Tower Trail & Centennial Trail",
+        "length_miles": 4.5,
+        "difficulty": "Moderate",
+        "features": "6,800-ft summit fire tower, 360-degree Black Hills panorama, pine forests"
+      }
+    ],
+    "public_reviews_summary": "Cool Black Hills pine forest camping with fast cell internet near Deadwood and Spearfish.",
+    "other_data": "Bring potable water or treat from mountain streams.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "south_dakota-006",
+    "name": "French Creek Dispersed Area - Buffalo Gap National Grassland",
+    "state": "South Dakota",
+    "county": "Custer",
+    "coordinates": {
+      "latitude": 43.7123,
+      "longitude": -103.3412,
+      "elevation_ft": 3100.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Buffalo Gap National Grassland",
+      "type": "Federal",
+      "phone": "(605) 273-1600",
+      "website": "https://www.fs.usda.gov/nebraska"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed grassland camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free dispersed camping on open public grassland pullouts along French Creek road. Pack out all waste."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from French Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring firewood; no wood gathering on prairie.",
+      "safety_requirements": "Campfires strictly in metal fire pans or rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Strict USFS stage fire bans in dry summer."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel grassland road",
+      "road_conditions": "Graded gravel access road; slick gumbo mud when wet.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars when dry.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open mixed-grass prairie",
+      "distance_from_tower_corridor_miles": 7.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Black Hills Mountain Panorama Views",
+      "Mixed-Grass Prairie",
+      "Bison Viewing Nearby",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Custer, SD",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Groceries",
+          "Hospital",
+          "Hardware",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Rapid City, SD",
+        "distance_miles": 42.0,
+        "services_available": [
+          "Full Urban Services",
+          "Airport",
+          "Walmart",
+          "REI"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Breezy prairie spring (58-70°F).",
+      "summer": "Warm summer (82-90°F) with afternoon thunderstorms.",
+      "fall": "Crisp dry autumn days.",
+      "winter": "Cold winter (25-38°F) with prairie snow."
+    },
+    "dangers_and_hazards": [
+      "Gumbo Mud when Wet",
+      "Severe Thunderstorms & Hail",
+      "Rattlesnakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Prairie Grassland Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Prairie wind",
+        "Meadowlark calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Western Wheatgrass",
+        "Green Needlegrass",
+        "Prickly Pear"
+      ],
+      "common_animals": [
+        "American Bison",
+        "Pronghorn Antelope",
+        "Prairie Dog",
+        "Coyote",
+        "Burrowing Owl"
+      ]
+    },
+    "human_demographics_and_culture": "Oglala Lakota sacred land heritage and Black Hills pioneer ranching culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Great Plains Lakota sacred traditional buffalo hunting territory.",
+      "energetic_and_spiritual_features": "Vast rolling grassland framing the dark silhouette of the Black Hills."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "French Creek Prairie Trail",
+        "length_miles": 3.5,
+        "difficulty": "Easy",
+        "features": "Mixed-grass prairie, bison viewing, creek flora"
+      }
+    ],
+    "public_reviews_summary": "Peaceful prairie basecamp right outside Custer State Park with fast 4G cell service.",
+    "other_data": "Do not drive on gumbo roads during rainstorms.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "south_dakota-007",
+    "name": "Victoria Lake Dispersed Area - Black Hills National Forest",
+    "state": "South Dakota",
+    "county": "Pennington",
+    "coordinates": {
+      "latitude": 44.0212,
+      "longitude": -103.3812,
+      "elevation_ft": 4400.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Black Hills National Forest",
+      "type": "Federal",
+      "phone": "(605) 343-1567",
+      "website": "https://www.fs.usda.gov/blackhills"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on designated forest pullouts along Victoria Road (FR 159). Camp within 30 ft of road. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Victoria Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest road",
+      "road_conditions": "Graded gravel forest road with occasional ruts and washboard.",
+      "vehicle_recommendation": "Accessible by standard low-clearance FWD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low to Moderate under ponderosa pine canopy",
+      "distance_from_tower_corridor_miles": 5.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Ponderosa Pine Canopy",
+      "Rapid Creek Access Nearby",
+      "Close to Rapid City",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 7,
+      "terrain_score": 9,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Rapid City, SD",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Full Urban Services",
+          "Hospital",
+          "Walmart",
+          "REI",
+          "Target"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush pine forest spring (58-70°F).",
+      "summer": "Warm pleasant summer (80-88°F) with cool pine nights.",
+      "fall": "Crisp autumn weather.",
+      "winter": "Cool winter (28-40°F) with snow."
+    },
+    "dangers_and_hazards": [
+      "Summer Fire Hazard",
+      "Mountain Lions",
+      "High Summer Tourist Traffic"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Black Hills Pine Forest (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Wind through ponderosa needles",
+        "Occasional forest road pass"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Ponderosa Pine",
+        "Quaking Aspen",
+        "Bur Oak",
+        "Wild Rose"
+      ],
+      "common_animals": [
+        "Mountain Lion",
+        "Mule Deer",
+        "Elk",
+        "Wild Turkey",
+        "Red Squirrel"
+      ]
+    },
+    "human_demographics_and_culture": "Lakota sacred Black Hills (Pahá Sápə) heritage and Rapid City outdoor culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Pahá Sápə (Black Hills) is the sacred heartland of the Lakota Sioux nation.",
+      "energetic_and_spiritual_features": "Fragrant ponderosa pine forest radiating deep grounding mountain stillness."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Victoria Lake Trail",
+        "length_miles": 3.2,
+        "difficulty": "Moderate",
+        "features": "Ponderosa pine forests, creek drainages, historic 1880s flume ruins"
+      }
+    ],
+    "public_reviews_summary": "Top choice for nomads wanting beautiful ponderosa pine forest camping just 15 minutes from Rapid City.",
+    "other_data": "Camp within 30 ft of established forest road pullouts.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "south_dakota-008",
+    "name": "Fort Pierre Dispersed Area - Fort Pierre National Grassland",
+    "state": "South Dakota",
+    "county": "Lyman",
+    "coordinates": {
+      "latitude": 44.1412,
+      "longitude": -100.2812,
+      "elevation_ft": 1800.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Fort Pierre National Grassland",
+      "type": "Federal",
+      "phone": "(605) 224-5117",
+      "website": "https://www.fs.usda.gov/nebraska"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed grassland camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free dispersed camping on public grassland pullouts along USFS dirt roads. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from stock ponds and dry drainages. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring firewood; no wood gathering on prairie.",
+      "safety_requirements": "Campfires strictly in metal fire pans. Extinguish cold.",
+      "seasonal_fire_bans": "Strict USFS stage fire bans in dry summer."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel and dirt grassland road",
+      "road_conditions": "Graded gravel access roads; sticky gumbo clay mud when wet.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars when dry.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open rolling prairie",
+      "distance_from_tower_corridor_miles": 8.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Endless Mixed-Grass Prairie",
+      "Missouri River Nearby",
+      "Stargazing",
+      "Bird Watching"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 8,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Pierre / Fort Pierre, SD",
+        "distance_miles": 15.0,
+        "services_available": [
+          "State Capital Services",
+          "Full Groceries",
+          "Hospital",
+          "Hardware",
+          "Gas Stations"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Breezy spring (55-68°F).",
+      "summer": "Warm to hot summer (85-95°F) with sun.",
+      "fall": "Crisp autumn prairie days.",
+      "winter": "Cold windy winter (20-35°F)."
+    },
+    "dangers_and_hazards": [
+      "Prairie Gumbo Mud",
+      "High Prairie Winds",
+      "Severe Summer Thunderstorms"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Rolling Prairie Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Grassland wind",
+        "Greater Prairie-Chicken booming"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Green Needlegrass",
+        "Western Wheatgrass",
+        "Yellow Coneflower"
+      ],
+      "common_animals": [
+        "Greater Prairie-Chicken",
+        "Sharptailed Grouse",
+        "Pronghorn",
+        "Prairie Dog",
+        "Coyote"
+      ]
+    },
+    "human_demographics_and_culture": "Lakota tradition, fur trade post history, and South Dakota state capital heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Historic 1830s Fort Pierre fur trading post and Lewis & Clark Missouri River expedition heritage.",
+      "energetic_and_spiritual_features": "Rolling mixed-grass prairie rolling to the horizon under vast open skies."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Fort Pierre Prairie Grouse Loop",
+        "length_miles": 4.0,
+        "difficulty": "Easy",
+        "features": "Mixed-grass prairie, prairie-chicken leks, panoramic prairie horizons"
+      }
+    ],
+    "public_reviews_summary": "Vast quiet prairie solitude just 15 minutes from the state capital in Pierre with strong cell service.",
+    "other_data": "Great location for bird watchers.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "south_dakota-009",
+    "name": "Grand River Dispersed Area - Grand River National Grassland",
+    "state": "South Dakota",
+    "county": "Perkins",
+    "coordinates": {
+      "latitude": 45.7123,
+      "longitude": -102.3412,
+      "elevation_ft": 2600.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Grand River National Grassland",
+      "type": "Federal",
+      "phone": "(701) 225-5151",
+      "website": "https://www.fs.usda.gov/d Dakota"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed grassland camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed camping allowed on open public grassland pullouts along USFS roads. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Grand River / Shadehill. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring firewood; no wood gathering on prairie.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel grassland road",
+      "road_conditions": "Graded gravel access road; slick clay gumbo when wet.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars when dry.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 6
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (3/5 Stars)",
+      "verizon_reliability": "2-3 bars 4G LTE",
+      "att_reliability": "2 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open prairie badlands",
+      "distance_from_tower_corridor_miles": 16.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Grand River Badlands",
+      "Shadehill Reservoir Proximity",
+      "Hugh Glass Monument Nearby",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 4,
+      "distance_to_library_score": 4,
+      "distance_to_gym_score": 2,
+      "terrain_score": 8,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Bison, SD",
+        "distance_miles": 18.0,
+        "services_available": [
+          "Gas Station",
+          "Small Grocery",
+          "Diner"
+        ]
+      },
+      {
+        "town_name": "Lemmon, SD",
+        "distance_miles": 24.0,
+        "services_available": [
+          "Groceries",
+          "Gas Stations",
+          "Hardware Store",
+          "Clinic"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Breezy spring (52-65°F).",
+      "summer": "Warm to hot summer (84-94°F).",
+      "fall": "Crisp dry autumn days.",
+      "winter": "Cold freezing winter (15-32°F)."
+    },
+    "dangers_and_hazards": [
+      "Gumbo Mud when Wet",
+      "Severe Thunderstorms & Hail",
+      "Extreme Remote Distance"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Northern Plains Solitude (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Prairie wind",
+        "Coyote howling"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Western Wheatgrass",
+        "Buffalograss",
+        "Prickly Pear"
+      ],
+      "common_animals": [
+        "Pronghorn Antelope",
+        "Mule Deer",
+        "Prairie Dog",
+        "Golden Eagle"
+      ]
+    },
+    "human_demographics_and_culture": "Standing Rock Sioux ancestral lands and Hugh Glass mountain man legend heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Site where legendary mountain man Hugh Glass survived a grizzly bear attack in 1823.",
+      "energetic_and_spiritual_features": "Stark northern plains prairie badlands along the Grand River."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Hugh Glass Memorial Prairie Trail",
+        "length_miles": 2.5,
+        "difficulty": "Easy",
+        "features": "Grand River vistas, Hugh Glass historic monument, prairie badlands"
+      }
+    ],
+    "public_reviews_summary": "Profound northern plains solitude steeped in mountain man history; usable 4G cell service.",
+    "other_data": "Visit Hugh Glass monument on Shadehill reservoir shore.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "south_dakota-010",
+    "name": "Cave Hills Dispersed Area - Custer National Forest",
+    "state": "South Dakota",
+    "county": "Harding",
+    "coordinates": {
+      "latitude": 45.8123,
+      "longitude": -103.5412,
+      "elevation_ft": 3400.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Custer Gallatin NF (Sioux District)",
+      "type": "Federal",
+      "phone": "(605) 797-4432",
+      "website": "https://www.fs.usda.gov/custergallatin"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free dispersed primitive camping on Custer NF sandbutte pullouts. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from dry washes. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest spur road",
+      "road_conditions": "Graded gravel forest road; slick mud when wet.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars when dry.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 7
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (3/5 Stars)",
+      "verizon_reliability": "2-3 bars 4G LTE",
+      "att_reliability": "2 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate near sandstone bluff walls",
+      "distance_from_tower_corridor_miles": 18.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Sandstone Butte Cliffs",
+      "Ponderosa Pine Islands",
+      "Petroglyph Caves Nearby",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 3,
+      "distance_to_library_score": 3,
+      "distance_to_gym_score": 1,
+      "terrain_score": 9,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Buffalo, SD",
+        "distance_miles": 16.0,
+        "services_available": [
+          "Gas Station",
+          "Small Grocery",
+          "Diner",
+          "Hardware Store"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Breezy spring (50-64°F).",
+      "summer": "Warm summer (82-90°F) with cool night breeze.",
+      "fall": "Crisp dry autumn days.",
+      "winter": "Cold freezing winter (15-30°F)."
+    },
+    "dangers_and_hazards": [
+      "Gumbo Mud when Wet",
+      "Rattlesnakes",
+      "Remote Location"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Sandstone Butte Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Wind through cliff pines",
+        "Coyote calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Ponderosa Pine",
+        "Green Needlegrass",
+        "Yucca",
+        "Skunkbush Sumac"
+      ],
+      "common_animals": [
+        "Mule Deer",
+        "Pronghorn",
+        "Porcupine",
+        "Golden Eagle",
+        "Merlin"
+      ]
+    },
+    "human_demographics_and_culture": "Lakota and Cheyenne sacred cave art culture and northwestern SD ranching heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Lakota and Cheyenne tradition views Ludlow Cave and sandstone arches as sacred medicine sites.",
+      "energetic_and_spiritual_features": "Island sandstone pine bluffs rising dramatically out of the open prairie."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Cave Hills Sandstone Bluff Trail",
+        "length_miles": 3.0,
+        "difficulty": "Moderate",
+        "features": "Sandstone caves, petroglyph panels, ponderosa pine bluffs"
+      }
+    ],
+    "public_reviews_summary": "Hidden jewel of northwestern South Dakota; dramatic sandstone pine bluffs with usable cell service.",
+    "other_data": "Do not deface historic rock art.",
+    "last_updated": "2026-09-12"
+  }
+]

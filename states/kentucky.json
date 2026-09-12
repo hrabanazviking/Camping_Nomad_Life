@@ -1,0 +1,1289 @@
+[
+  {
+    "id": "ky-daniel-boone-indian-creek",
+    "name": "Indian Creek Dispersed Primitive Camping Area - Daniel Boone National Forest",
+    "state": "Kentucky",
+    "county": "Menifee County / Powell County",
+    "coordinates": {
+      "latitude": 37.8412,
+      "longitude": -83.6684,
+      "elevation_ft": 820
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Cumberland Ranger District",
+      "type": "USFS",
+      "phone": "(606) 663-8100",
+      "website": "https://www.fs.usda.gov/dbnf"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees for backcountry dispersed primitive camping (Note: vehicles parked overnight in Red River Gorge Geological Area require $5 USFS parking pass; dispersed sites outside geological area on FS 9 are 100% free)",
+      "stay_limit": "14 consecutive days max stay limit",
+      "guidelines": "Dispersed primitive camping permitted along Forest Service Road 9 (Indian Creek Road). Must be set back 300ft from paved roads and 100ft from water bodies."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6-8 inches deep into forest topsoil, at least 200 feet from Indian Creek. Pack out toilet paper and wipes.",
+      "trash_policy": "Strict Leave No Trace. Black bears active in Daniel Boone NF: bear-proof food storage required."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only. Do not transport wood from outside region to prevent emerald ash borer spread.",
+      "safety_requirements": "Campfires in established rock fire rings only. Extinguish cold to touch with creek water.",
+      "seasonal_fire_bans": "Obey Kentucky Division of Forestry burn bans during spring (March-May) and fall (Oct-Dec) fire seasons."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved gravel forest road (FS 9 / Indian Creek Road)",
+      "road_conditions": "Winding gravel forest road along creek valley with potholes, shallow water crossings, and washboards.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (accessible along main FS 9 gravel road in dry weather; high clearance recommended for side spurs)",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Weak to Moderate (Sandstone Gorge Shadow)",
+      "verizon_reliability": "1-2 bars 4G LTE on higher ridge tops; weak/spotty down along creek bed",
+      "att_reliability": "1-2 bars 4G LTE",
+      "tmobile_reliability": "1 bar / Emergency only",
+      "terrain_obstruction_risk": "High (Towering sandstone cliffs and dense hardwood canopy restrict cell signals)",
+      "distance_from_tower_corridor_miles": 6.8,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Perennial Stream Access (Indian Creek - filter required)",
+      "Sandstone Rock Overhang Scenery",
+      "Established Rock Fire Rings",
+      "Lush Appalachian Hardwood Canopy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Stanton / Slade, KY",
+        "distance_miles": 11.5,
+        "services_available": [
+          "Kroger Grocery",
+          "Gas Stations",
+          "Restaurants (Miguel's Pizza)",
+          "Powell County Public Library",
+          "Clinic"
+        ]
+      },
+      {
+        "town_name": "Winchester / Lexington, KY",
+        "distance_miles": 38.0,
+        "services_available": [
+          "Full City Services",
+          "University of Kentucky Hospital",
+          "24/7 Gyms",
+          "Shopping Malls"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "55-70°F, high stream flow, blooming rhododendron and mountain laurel, spring rainstorms.",
+      "summer": "Hot and humid (82-90°F), shaded gorge canopy, high insect activity (ticks/mosquitoes).",
+      "fall": "World-class autumn leaf foliage (55-70°F daytime, 40-50°F nights), ideal climbing and boondocking season.",
+      "winter": "Cool 35-50°F, freezing nights (20-30°F), beautiful ice formations on sandstone arches."
+    },
+    "dangers_and_hazards": [
+      "High sandstone cliff drop-offs (extreme cliff safety required near gorge edges)",
+      "Black Bears active throughout Red River Gorge district",
+      "Venomous snakes: Copperheads and Timber Rattlesnakes near rock outcrops",
+      "Flash flooding along Indian Creek after heavy rainstorms"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Creek water and gorge acoustics",
+      "common_human_made_sounds": [
+        "Rock climbers calling out on cliffs",
+        "Occasional passing vehicle on FS 9"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Eastern Hemlock",
+        "Tulip Poplar",
+        "White Oak",
+        "Rhododendron maximum",
+        "Mountain Laurel",
+        "Red River Gorge Cliff Goldenrod (Solidago albopilosa - rare endemic)"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "White-tailed Deer",
+        "Copperhead",
+        "Timber Rattlesnake",
+        "Pileated Woodpecker"
+      ]
+    },
+    "human_demographics_and_culture": "World-class rock climbers, Red River Gorge backpackers, digital nomads with cell boosters/Starlink, local kayakers, and outdoor lovers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Shawnee and Cherokee indigenous traditions honor the sacred sandstone rock arches and hidden gorge springs as ancient spirit dwellings and healing grounds.",
+      "energetic_and_spiritual_features": "High quartz sandstone cliff acoustic resonance, ancient arch energy, peaceful forest stream sanctuary."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Auxier Ridge Trail (Red River Gorge)",
+        "length_miles": 4.2,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Narrow ridge walk with 360-degree views of Double Arch and Haystack Rock"
+      }
+    ],
+    "public_reviews_summary": "Spectacular forest camping next to Indian Creek in the Red River Gorge area. Cell service is spotty down in the hollow, so bring a signal booster if working remote.",
+    "other_data": "Bortle Class 3 night sky. Abundant firewood.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ky-land-between-the-lakes-rushing-creek",
+    "name": "Land Between the Lakes NRA Basic Camping / Rushing Creek",
+    "state": "Kentucky",
+    "county": "Trigg County",
+    "coordinates": {
+      "latitude": 36.7812,
+      "longitude": -88.0812,
+      "elevation_ft": 410
+    },
+    "management_agency": {
+      "name": "US Forest Service - Land Between the Lakes National Recreation Area",
+      "type": "USFS",
+      "phone": "(800) 525-7077",
+      "website": "https://landbetweenthelakes.us"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Basic Dispersed Primitive Camping (zero fee for basic dispersed shoreline camping outside developed fee campgrounds; free basic camping permit available online/visitor center)",
+      "stay_limit": "21 consecutive days limit",
+      "guidelines": "Dispersed primitive camping at designated backcountry shoreline pullouts along Kentucky Lake & Lake Barkley."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in soil 200 feet from lake shoreline. Pack out hygiene products.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood collection permitted.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Fall dry leaf fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved Trace Parkway to gravel backcountry Forest Roads",
+      "road_conditions": "Smooth gravel main access, dirt shoreline turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance vehicles.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Open Lake Water Tower Signals",
+      "verizon_reliability": "3-4 bars 4G LTE (20-45 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low along open lake shoreline",
+      "distance_from_tower_corridor_miles": 3.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Kentucky Lake Shoreline Primitive Campsites",
+      "Boat & Kayak Launching",
+      "Hardwood Canopy Shade",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 8,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Cadiz, KY",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Kroger Supermarket",
+          "Gas Stations",
+          "Trigg County Library",
+          "Hospital",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Murray, KY",
+        "distance_miles": 18.0,
+        "services_available": [
+          "Walmart Supercenter",
+          "Murray State Univ Metro",
+          "24/7 Gyms",
+          "Full City Services"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "55-72°F, green oak forest leaf out, pleasant lake breezes.",
+      "summer": "78-92°F, warm summer swimming & boating weather.",
+      "fall": "52-72°F, golden hardwood foliage around Kentucky Lake.",
+      "winter": "30-48°F, mild winters, open lake views."
+    },
+    "dangers_and_hazards": [
+      "Summer ticks in tall grass",
+      "High lake winds during severe summer thunderstorms"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Lake wave water laps and songbirds",
+      "common_human_made_sounds": [
+        "Distant motorboat on Kentucky Lake"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Oak",
+        "Shortleaf Pine",
+        "Red Maple",
+        "Sassafras"
+      ],
+      "common_animals": [
+        "Bald Eagle",
+        "Osprey",
+        "White-tailed Deer",
+        "Crappie",
+        "Large-mouth Bass"
+      ]
+    },
+    "human_demographics_and_culture": "Kentucky lake anglers, boaters, LBL backpackers, regional nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Chikasaw and Cherokee ancestral lands. Rich frontier heritage of the Cumberland and Tennessee river valleys.",
+      "energetic_and_spiritual_features": "Relaxing inland sea energy, serene shoreline sunsets."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "North-South Trail (LBL Section)",
+        "length_miles": 12.0,
+        "difficulty": "Moderate",
+        "features": "Lake shorelines, hardwood ridges, wildlife viewing"
+      }
+    ],
+    "public_reviews_summary": "Top free shoreline camping in Kentucky. Fast cell internet, peaceful lake views, and quick access to Cadiz and Murray.",
+    "other_data": "USFS Land Between the Lakes NRA. Free basic camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ky-beaver-creek-wilderness-dispersed",
+    "name": "Beaver Creek Wilderness Backpacking Primitive Camping",
+    "state": "Kentucky",
+    "county": "McCreary County",
+    "coordinates": {
+      "latitude": 36.8812,
+      "longitude": -84.4412,
+      "elevation_ft": 1120
+    },
+    "management_agency": {
+      "name": "US Forest Service - Daniel Boone National Forest (Stearns Ranger District)",
+      "type": "USFS",
+      "phone": "(606) 376-5323",
+      "website": "https://www.fs.usda.gov/dbnf"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Wilderness Dispersed Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed wilderness camping permitted throughout Beaver Creek Wilderness. Camp 100ft minimum from trails and streams."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in organic soil 200 feet from Beaver Creek. Pack out all paper.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on forest lands.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Autumn dry leaf fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved US 27 to gravel Forest Service roads (FR 411)",
+      "road_conditions": "Graded gravel access roads, flat trailhead parking.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate / US 27 Corridor Signal",
+      "verizon_reliability": "3-4 bars 4G LTE near Whitley City / US 27",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate inside sandstone cliff gorge",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Sandstone Cliff Overlook Campsites",
+      "Beaver Creek Trout Water Source (Filter mandatory)",
+      "Hardwood Canopy Shade",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Whitley City / Somerset, KY",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Kroger / Save-A-Lot",
+          "Gas Stations",
+          "McCreary County Library",
+          "Hospital",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "52-70°F, blooming wild azaleas, spring stream cascades.",
+      "summer": "78-90°F, warm summer days under shaded hardwoods.",
+      "fall": "52-72°F, colorful Appalachian cliff autumn foliage.",
+      "winter": "28-45°F, mild winter, light snow."
+    },
+    "dangers_and_hazards": [
+      "Sandstone cliff drop-offs",
+      "Copperhead snakes in rocky talus"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Creek water cascades and mountain wind",
+      "common_human_made_sounds": [
+        "Occasional backpacker on trail"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "White Oak",
+        "Hemlock",
+        "Rhododendron"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Bobcat",
+        "Pileated Woodpecker"
+      ]
+    },
+    "human_demographics_and_culture": "Cherokee ancestral lands, Cumberland Plateau outdoorsmen, Daniel Boone NF backpackers, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Traditional Cherokee territory honoring the sandstone bluffs and pristine creek waters of the Cumberland Plateau.",
+      "energetic_and_spiritual_features": "Peaceful sandstone gorge quietness, pristine stream water clarity."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Beaver Creek Wilderness Trail",
+        "length_miles": 7.5,
+        "difficulty": "Moderate",
+        "features": "Sandstone rock arches, coal seam historic sites, hemlock gorges"
+      }
+    ],
+    "public_reviews_summary": "Incredible free wilderness backpacking in Kentucky's Daniel Boone National Forest. Sandstone arches, fast cell internet near Whitley City, and 100% free USFS access.",
+    "other_data": "Daniel Boone National Forest. Free wilderness dispersed camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "kentucky-004",
+    "name": "Indian Creek Dispersed Primitive Camping Area - Daniel Boone National Forest",
+    "state": "Kentucky",
+    "county": "Menifee",
+    "coordinates": {
+      "latitude": 37.8912,
+      "longitude": -83.6541,
+      "elevation_ft": 820.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Daniel Boone National Forest (Cumberland Ranger District)",
+      "type": "Federal",
+      "phone": "(606) 663-8100",
+      "website": "https://www.fs.usda.gov/dbnf"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night, no permit or fee for primitive dispersed creek sites)",
+      "stay_limit": "14 days maximum stay within a 30-day window",
+      "guidelines": "Dispersed primitive camping allowed at pullout sites along Indian Creek Road (FS 9A/9B). Camp at least 300 feet away from Red River Gorge geological area boundary."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep at least 200 feet from Indian Creek. Pack out paper products.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood collection permitted.",
+      "safety_requirements": "Campfires permitted in existing stone fire rings. Extinguish fully with creek water.",
+      "seasonal_fire_bans": "Subject to USFS dry spring/fall burn restrictions."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest service road",
+      "road_conditions": "Gravel road with occasional pot holes and shallow creek crossing.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car in dry weather; CUV/SUV helpful.",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2/5 Stars)",
+      "verizon_reliability": "1-2 bars 4G LTE spotty near ridge pullouts",
+      "att_reliability": "1 bar 4G LTE",
+      "tmobile_reliability": "No signal in creek gorge",
+      "terrain_obstruction_risk": "High - steep sandstone canyon walls and dense hardwood canopy",
+      "distance_from_tower_corridor_miles": 8.5,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Creek Water Source",
+      "Stone Fire Rings",
+      "Shaded Sandstone Gorge Sites"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Frenchburg, KY",
+        "distance_miles": 11.4,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Local Dining"
+        ]
+      },
+      {
+        "town_name": "Morehead, KY",
+        "distance_miles": 28.6,
+        "services_available": [
+          "Supercenter",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Rushing creek water and blooming mountain laurel; mild spring days.",
+      "summer": "Warm (80-88°F) with high canopy shade and refreshing creek swimming holes.",
+      "fall": "World-class autumn foliage among cliff lines and sandstone arches.",
+      "winter": "Cold (22-38°F) with icicles hanging from rock overhangs."
+    },
+    "dangers_and_hazards": [
+      "Copperheads & Timber Rattlesnakes",
+      "Black Bears",
+      "Flash Floods in Creek Bottoms",
+      "Falling Rock/Cliff Hazards"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Serene Canyon Creek (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Occasional passing 4x4 vehicle",
+        "High altitude jet contrails"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Tulip Poplar",
+        "Eastern Hemlock",
+        "Rhododendron",
+        "White White Pine"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Green Salamander"
+      ]
+    },
+    "human_demographics_and_culture": "Eastern Kentucky Appalachian mountain culture steeped in rock climbing, timber, and bluegrass music traditions.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Appalachian folklore tells of ancient spirit arches and hidden rock shelters along Indian Creek.",
+      "energetic_and_spiritual_features": "Towering sandstone bluffs and rushing waters generate an inspiring natural sanctuary."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Indian Creek Trail to Auxier Ridge Loop",
+        "length_miles": 6.8,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Sandstone cliff ridge walk, double arch vistas, deep gorge views"
+      }
+    ],
+    "public_reviews_summary": "Gorgeous creek-side primitive spots near Red River Gorge without crowds or fees, though cell service is weak.",
+    "other_data": "Store food securely in bear canisters or vehicle trunks.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "kentucky-005",
+    "name": "Kaler Bottoms Wildlife Management Area Primitive Spot",
+    "state": "Kentucky",
+    "county": "Graves",
+    "coordinates": {
+      "latitude": 36.8412,
+      "longitude": -88.5412,
+      "elevation_ft": 360.0
+    },
+    "management_agency": {
+      "name": "Kentucky Department of Fish and Wildlife Resources (KDFWR)",
+      "type": "State",
+      "phone": "(800) 858-1549",
+      "website": "https://fw.ky.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive camping allowed for outdoorsmen)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Primitive dispersed camping allowed at designated gravel parking pullouts. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from wetlands.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out rule."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared ground rings. Douse cold.",
+      "seasonal_fire_bans": "Subject to Kentucky state fall burn laws (Oct 1 - Dec 15)."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved county road to short gravel parking pullouts",
+      "road_conditions": "Flat paved road access to gravel parking areas.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - flat wetland basin and agricultural bottoms",
+      "distance_from_tower_corridor_miles": 2.1,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Gravel Parking Flat Spot",
+      "Wetland Waterfowl Watching",
+      "Information Sign"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 3,
+      "quietness_score": 7
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Mayfield, KY",
+        "distance_miles": 9.2,
+        "services_available": [
+          "Supermarket",
+          "Gas Station",
+          "Hardware Store",
+          "Public Library",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Paducah, KY",
+        "distance_miles": 21.4,
+        "services_available": [
+          "Major Supercenters",
+          "Hospital",
+          "Gym & Fitness Center",
+          "Auto Repair"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Mild with wet cypress-tupelo bottomland flooding.",
+      "summer": "Warm and humid (84-92°F); heavy insect activity.",
+      "fall": "Crisp autumn weather with waterfowl migration.",
+      "winter": "Cool to chilly (30-45°F) with light snow."
+    },
+    "dangers_and_hazards": [
+      "Mosquitoes and Biting Insects",
+      "Cottonmouth Snakes (Wetlands)",
+      "Seasonal Flooding"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Peaceful Bottomland (Quietness Score: 7/10)",
+      "common_human_made_sounds": [
+        "Distant highway traffic",
+        "Agricultural tractors"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Bald Cypress",
+        "Water Tupelo",
+        "Overcup Oak",
+        "Buttonbush"
+      ],
+      "common_animals": [
+        "Wood Duck",
+        "Mallard",
+        "White-tailed Deer",
+        "Beaver",
+        "Barred Owl"
+      ]
+    },
+    "human_demographics_and_culture": "Western Kentucky Jackson Purchase agrarian and waterfowl hunting country.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Tales of swamp spirits and ancient cypress grove guardians in the Clarks River basin.",
+      "energetic_and_spiritual_features": "Quiet wetland waters provide a peaceful, rhythmic pulse."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Kaler Bottoms Wetland Access Trail",
+        "length_miles": 2.2,
+        "difficulty": "Easy",
+        "features": "Flat wetland boardwalk and dike trail, duck observation perches"
+      }
+    ],
+    "public_reviews_summary": "Super convenient stopover with fast 5G cell signal and zero cost, though bring bug spray in summer.",
+    "other_data": "Wear bright hunter orange during fall shotgun and archery deer seasons.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "kentucky-006",
+    "name": "Red River Gorge Dispersed Area - Daniel Boone NF",
+    "state": "Kentucky",
+    "county": "Powell",
+    "coordinates": {
+      "latitude": 37.8123,
+      "longitude": -83.6412,
+      "elevation_ft": 1100.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Daniel Boone NF (Cumberland District)",
+      "type": "Federal",
+      "phone": "(606) 663-2852",
+      "website": "https://www.fs.usda.gov/dbnf"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping with $5/night vehicle parking permit)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed 300 ft away from roads and 100 ft away from sandstone cliff bases / rock shelters. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Red River and streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved scenic byway to gravel forest roads",
+      "road_conditions": "Paved KY-715 Scenic Byway with gravel forest side roads.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great on Ridge (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "High inside deep sandstone gorges / Low on ridges",
+      "distance_from_tower_corridor_miles": 5.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Sandstone Rock Arches & Overhangs",
+      "World-Class Rock Climbing",
+      "Red River Canoeing",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Slade / Stanton, KY",
+        "distance_miles": 8.0,
+        "services_available": [
+          "Miguel's Pizza",
+          "Grocery Store",
+          "Gas Stations",
+          "Climbing Shops",
+          "Hardware"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush green gorge spring (60-72°F).",
+      "summer": "Warm humid summer (82-88°F) with rich forest shade.",
+      "fall": "World-class Red River Gorge fall foliage.",
+      "winter": "Cool winter (35-45°F)."
+    },
+    "dangers_and_hazards": [
+      "Sheer Sandstone Cliff Drops",
+      "Copperhead & Timber Rattlesnakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Sandstone Gorge Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Red River flow",
+        "Climber calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Tulip Poplar",
+        "Hemlock",
+        "White Pine",
+        "Rhododendron"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Copperhead",
+        "Black Bear",
+        "Pileated Woodpecker"
+      ]
+    },
+    "human_demographics_and_culture": "Shawnee ancestral lands and world-famous Red River Gorge rock climbing culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Over 100 natural sandstone arches carved into ancient Appalachian plateau cliffs.",
+      "energetic_and_spiritual_features": "Towering sandstone arches and rock shelters surrounded by lush hardwood forest."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Auxier Ridge Trail",
+        "length_miles": 4.2,
+        "difficulty": "Moderate",
+        "features": "Auxier Ridge razorback walk, Double Arch views, Haystack Rock panorama"
+      }
+    ],
+    "public_reviews_summary": "World-famous rock climbing and sandstone arch paradise with solid cell service on ridge pullouts.",
+    "other_data": "USFS overnight parking permit ($5) required on vehicle.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "kentucky-007",
+    "name": "Cave Run Dispersed Area - Daniel Boone NF",
+    "state": "Kentucky",
+    "county": "Rowan",
+    "coordinates": {
+      "latitude": 38.1412,
+      "longitude": -83.5412,
+      "elevation_ft": 820.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Cumberland Ranger District",
+      "type": "Federal",
+      "phone": "(606) 784-5624",
+      "website": "https://www.fs.usda.gov/dbnf"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside fee campgrounds)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along Cave Run Lake access roads. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Cave Run Lake. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved access to gravel forest roads",
+      "road_conditions": "Paved KY-801 leads to well-maintained gravel forest roads.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low along Cave Run lake shoreline",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Cave Run Lake Shoreline",
+      "Musky Fishing Capital",
+      "Boating & Kayaking",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 6,
+      "terrain_score": 9,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Morehead, KY",
+        "distance_miles": 10.0,
+        "services_available": [
+          "MSU Campus",
+          "Full Groceries",
+          "Hospital",
+          "Walmart",
+          "Hardware",
+          "Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush green lake spring (60-72°F).",
+      "summer": "Warm summer (82-88°F) with lake swimming.",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cool winter (35-48°F)."
+    },
+    "dangers_and_hazards": [
+      "Lake Water Hazards",
+      "Copperhead Snakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Lake Shoreline Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Cave Run lake wave lap",
+        "Occasional motorboat hum"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "White Oak",
+        "Sugar Maple",
+        "Dogwood"
+      ],
+      "common_animals": [
+        "Muskellunge (Musky)",
+        "White-tailed Deer",
+        "Bald Eagle",
+        "Osprey"
+      ]
+    },
+    "human_demographics_and_culture": "Shawnee ancestral lands and Morehead State University & musky fishing culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "8,270-acre reservoir surrounded by rolling Daniel Boone forest ridges, known as the 'Musky Capital of the South'.",
+      "energetic_and_spiritual_features": "Quiet hardwood forest ridges trailing down to blue water lake coves."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Sheltowee Trace National Recreation Trail (Cave Run Section)",
+        "length_miles": 5.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Cave Run shoreline, hardwood ridges, Sheltowee Trace trail access"
+      }
+    ],
+    "public_reviews_summary": "Fantastic lake side basecamp near Morehead with world-class musky fishing and blazing 5G cell service.",
+    "other_data": "Sheltowee Trace trail runs directly through area.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "kentucky-008",
+    "name": "Stearns Dispersed Area - Daniel Boone NF",
+    "state": "Kentucky",
+    "county": "McCreary",
+    "coordinates": {
+      "latitude": 36.7123,
+      "longitude": -84.4812,
+      "elevation_ft": 1200.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Stearns Ranger District",
+      "type": "Federal",
+      "phone": "(606) 376-5323",
+      "website": "https://www.fs.usda.gov/dbnf"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along Cumberland River corridor forest roads. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Cumberland River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel Forest Service road; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate on plateau pullouts",
+      "distance_from_tower_corridor_miles": 6.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Big South Fork National River Proximity",
+      "Cumberland River Views",
+      "Sandstone Rock Bluffs",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Whitley City / Stearns, KY",
+        "distance_miles": 10.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diner",
+          "Historic Railway"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush green plateau spring (60-72°F).",
+      "summer": "Warm summer (82-88°F) with river swimming.",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cool winter (35-48°F)."
+    },
+    "dangers_and_hazards": [
+      "Sandstone Cliff Overhang Drops",
+      "Copperhead Snakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Appalachian Plateau Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Cumberland River flow",
+        "Pine wind"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "White Oak",
+        "Hemlock",
+        "Rhododendron"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Black Bear",
+        "Copperhead",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Cherokee ancestral lands and Big South Fork coal mining & logging history.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Big South Fork National River and Recreation Area protects 125,000 acres of rugged Cumberland Plateau gorge country.",
+      "energetic_and_spiritual_features": "Sandstone bluff rim overlooks commanding views of the Cumberland River gorge."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Yahoo Falls Trail",
+        "length_miles": 1.2,
+        "difficulty": "Easy to Moderate",
+        "features": "113-foot Yahoo Falls waterfall, giant sandstone rock shelter, hemlock gorge"
+      }
+    ],
+    "public_reviews_summary": "Peaceful Cumberland Plateau basecamp near Big South Fork with 113-foot Yahoo Falls nearby and reliable cell service.",
+    "other_data": "Yahoo Falls is 113 feet tall.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "kentucky-009",
+    "name": "Laurel River Dispersed Area - Daniel Boone NF",
+    "state": "Kentucky",
+    "county": "Laurel",
+    "coordinates": {
+      "latitude": 36.9812,
+      "longitude": -84.1412,
+      "elevation_ft": 1020.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - London Ranger District",
+      "type": "Federal",
+      "phone": "(606) 864-4163",
+      "website": "https://www.fs.usda.gov/dbnf"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside developed fee sites)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free primitive dispersed camping on national forest pullouts along Laurel River Lake access roads. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Laurel River Lake. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved road to gravel forest roads",
+      "road_conditions": "Paved KY-192 leads to well-maintained gravel forest roads.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low along Laurel River Lake shoreline",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Laurel River Lake Shoreline",
+      "Scuba Diving & Swimming",
+      "Boating & Fishing",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 7,
+      "terrain_score": 9,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "London / Corbin, KY",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Full City Services",
+          "Hospital",
+          "Walmart",
+          "Gas Stations",
+          "Hardware"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush lake spring (60-72°F).",
+      "summer": "Warm summer (82-88°F) with clear lake swimming.",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cool winter (35-48°F)."
+    },
+    "dangers_and_hazards": [
+      "Lake Water Hazards",
+      "Copperhead Snakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Lake Shoreline Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Laurel River lake wave lap",
+        "Occasional motorboat hum"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "White Pine",
+        "Tulip Poplar",
+        "Dogwood"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Rainbow Trout",
+        "Large-mouth Bass",
+        "Bald Eagle"
+      ]
+    },
+    "human_demographics_and_culture": "Cherokee ancestral lands and London/Corbin Daniel Boone heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "5,600-acre deep clear lake surrounded by cliff walls, famous for exceptionally clean water and freshwater scuba diving.",
+      "energetic_and_spiritual_features": "Deep turquoise lake waters surrounded by pine-covered sandstone cliffs."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Laurel River Lake Trail",
+        "length_miles": 4.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Lake shoreline, pine forest, sandstone cliff overlooks"
+      }
+    ],
+    "public_reviews_summary": "Exceptionally clear lake camping near I-75 and London with blazing 5G cell service.",
+    "other_data": "Known for exceptionally clear water.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "kentucky-010",
+    "name": "Kuttawa Dispersed Area - Land Between the Lakes",
+    "state": "Kentucky",
+    "county": "Lyon",
+    "coordinates": {
+      "latitude": 37.0812,
+      "longitude": -88.0812,
+      "elevation_ft": 420.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Land Between the Lakes NRA",
+      "type": "Federal",
+      "phone": "(270) 924-2000",
+      "website": "https://www.landbetweenthelakes.us"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping with $10/3-day LBL basic camping permit)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on designated forest pullouts along Kentucky Lake & Lake Barkley shorelines outside fee campgrounds. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from lake high water line. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood locally.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved trace highway to gravel forest roads",
+      "road_conditions": "Paved Woodlands Trace National Scenic Byway with gravel side roads.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low along open lake shorelines",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Kentucky Lake & Lake Barkley Shoreline",
+      "Bison & Elk Prairie Proximity",
+      "Boating & Swimming",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 9,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Eddyville / Kuttawa, KY",
+        "distance_miles": 8.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diner",
+          "Marinas"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush green lake spring (62-74°F).",
+      "summer": "Warm summer (84-90°F) with lake swimming.",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cool winter (38-50°F)."
+    },
+    "dangers_and_hazards": [
+      "Lake Water Hazards",
+      "Ticks in Spring"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Lake Peninsula Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Kentucky Lake wave lap",
+        "Eagle calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Oak",
+        "Post Oak",
+        "Shortleaf Pine",
+        "Dogwood"
+      ],
+      "common_animals": [
+        "American Bison",
+        "Elk",
+        "Bald Eagle",
+        "White-tailed Deer",
+        "Crappie"
+      ]
+    },
+    "human_demographics_and_culture": "Chickasaw ancestral lands and Land Between the Lakes national recreation heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "170,000-acre national recreation peninsula situated between Kentucky Lake and Lake Barkley.",
+      "energetic_and_spiritual_features": "Vast freshwater lake peninsula offering quiet oak woodland shoreline camping."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Central Hardwoods Scenic Trail",
+        "length_miles": 11.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Lake views, hardwood forest canopy, wildlife viewing"
+      }
+    ],
+    "public_reviews_summary": "Incredible freshwater lake peninsula camping with bison viewing and blazing 5G cell service.",
+    "other_data": "LBL basic camping permit ($10/3-days) required.",
+    "last_updated": "2026-09-12"
+  }
+]

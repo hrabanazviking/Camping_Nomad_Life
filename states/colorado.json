@@ -1,0 +1,1333 @@
+[
+  {
+    "id": "co-san-isabel-twin-lakes",
+    "name": "Twin Lakes Dispersed Camping Area - San Isabel National Forest (FR 122)",
+    "state": "Colorado",
+    "county": "Lake County",
+    "coordinates": {
+      "latitude": 39.0815,
+      "longitude": -106.3982,
+      "elevation_ft": 9250
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Leadville Ranger District",
+      "type": "USFS",
+      "phone": "(719) 486-0749",
+      "website": "https://www.fs.usda.gov/psicc"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Designated primitive campsites (no fees)",
+      "stay_limit": "14 consecutive days max stay limit",
+      "guidelines": "Camping permitted only in designated numbered camping sites along Forest Road 122 (Dexter Creek corridor). Vehicles must park within campsite boundary post markers."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cat-hole method: dig 6 inches deep in high alpine soil, at least 200 feet away from lakes, streams, and campsites. Pack out all toilet paper.",
+      "trash_policy": "Strict Leave No Trace. Black bears active: store all food in bear-resistant canisters or hard-sided vehicles."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only. Do not cut standing lodgepole pine or aspen trees.",
+      "safety_requirements": "Campfires permitted only in established rock/metal fire rings. Extinguish with water until cold to touch before leaving.",
+      "seasonal_fire_bans": "Stage 1 and Stage 2 fire bans frequent during summer dry spells."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved dirt and gravel forest road (FR 122)",
+      "road_conditions": "Washboard gravel with rocks, ruts, and steep mountain inclines. Slow speeds required.",
+      "vehicle_recommendation": "High clearance car or CUV/SUV (Normal low clearance cars can access lower sites in dry conditions with careful driving)",
+      "scores": {
+        "road_grade": 6,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Connectivity",
+      "verizon_reliability": "3-4 bars 5G/LTE (20-45 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 5G LTE",
+      "terrain_obstruction_risk": "Low to Moderate (Clear line of sight across Twin Lakes valley to Mount Elbert / Leadville cell towers)",
+      "distance_from_tower_corridor_miles": 4.1,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Designated Campsite Posts",
+      "Panoramic Twin Lakes & Mt. Elbert (14,440 ft) Views",
+      "Established Rock Fire Rings",
+      "High-speed 5G Cell Service"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Leadville, CO",
+        "distance_miles": 14.5,
+        "services_available": [
+          "Safeway Grocery",
+          "Gas Stations",
+          "Propane",
+          "Hardware Store",
+          "Leadville Public Library",
+          "Hospital / Urgent Care"
+        ]
+      },
+      {
+        "town_name": "Buena Vista, CO",
+        "distance_miles": 19.8,
+        "services_available": [
+          "City Supermarket",
+          "Outdoor Gear Outfitters",
+          "Hot Springs",
+          "Laundromat",
+          "Public Library"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "May thaw: cold (35-50\u00b0F), high snowmelt runoff, lingering snowpacks blocking upper roads until June.",
+      "summer": "Ideal high alpine summer (68-78\u00b0F daytime, 40-45\u00b0F night), intense solar radiation, afternoon lightning thunderstorms.",
+      "fall": "Golden aspen leaf season in September (50-65\u00b0F daytime, freezing 20-30\u00b0F nights), dry roads, prime camping.",
+      "winter": "Severe sub-zero mountain winter weather (-10 to 30\u00b0F), FR 122 unplowed and impassable to vehicles."
+    },
+    "dangers_and_hazards": [
+      "High altitude sickness (elevation over 9,200 ft)",
+      "Severe afternoon lightning storms on exposed ridges and high peaks",
+      "Black bears (Ursus americanus) seeking food",
+      "Rapid temperature drops (30+ degree swings within hours)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Alpine breeze and lake silence",
+      "common_human_made_sounds": [
+        "Occasional passing vehicle on CO-82 highway across the lake",
+        "Campers hiking towards Mount Elbert trailhead",
+        "High-altitude mountain aircraft"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Lodgepole Pine (Pinus contorta)",
+        "Quaking Aspen (Populus tremuloides)",
+        "Engelmann Spruce (Picea engelmannii)",
+        "Colorado Blue Spruce (Picea pungens)",
+        "Alpine Indian Paintbrush (Castilleja)"
+      ],
+      "common_animals": [
+        "Rocky Mountain Elk (Cervus canadensis)",
+        "Mule Deer",
+        "Black Bear",
+        "Mountain Lion / Puma (Puma concolor - elusive)",
+        "Pine Marten (Martes americana)",
+        "Steller's Jay (Cyanocitta stelleri)"
+      ]
+    },
+    "human_demographics_and_culture": "Fourteener hikers (Mt. Elbert, Mt. Massive), high-elevation digital nomads, mountain bikers, fly anglers, and autumn aspen leaf peepers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Ute tribal history reveres Mount Elbert and the Sawatch Range lakes as sacred high-altitude spirit places where sky and mountain meet.",
+      "energetic_and_spiritual_features": "Profound high-altitude mountain clarity, high atmospheric ionization, inspiring glacial alpine lake vistas."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Mount Elbert North Trail",
+        "length_miles": 9.5,
+        "difficulty": "Strenuous (14er Climb)",
+        "features": "Ascent to the highest summit in Colorado (14,440 ft)"
+      },
+      {
+        "trail_name": "Colorado Trail (Segment 11 - Twin Lakes)",
+        "length_miles": 12.0,
+        "difficulty": "Moderate",
+        "features": "Winding alpine lakeshore trail through aspen groves"
+      }
+    ],
+    "public_reviews_summary": "Top-notch high elevation boondocking spot. Outstanding 5G cell speeds combined with spectacular views of Mt. Elbert over Twin Lakes. High altitude requires extra hydration.",
+    "other_data": "Bortle Class 2 dark sky. Excellent solar panel exposure in open campsites.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "co-gunnison-hartman-rocks-blm",
+    "name": "Hartman Rocks BLM Dispersed Primitive Camping Area",
+    "state": "Colorado",
+    "county": "Gunnison County",
+    "coordinates": {
+      "latitude": 38.4981,
+      "longitude": -106.9624,
+      "elevation_ft": 8150
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management - Gunnison Field Office",
+      "type": "BLM",
+      "phone": "(970) 642-4940",
+      "website": "https://www.blm.gov/colorado"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees or permits required",
+      "stay_limit": "7 days maximum stay limit within a 30-day period",
+      "guidelines": "Camping allowed in designated marked campsites only along Hartman Rocks main roads. Must park within designated site posts."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cat-hole 6 inches deep in sagebrush soil, 200ft from washes. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring your own firewood. Sagebrush gathering prohibited.",
+      "safety_requirements": "Campfires in designated metal/rock rings only. Extinguish cold to touch.",
+      "seasonal_fire_bans": "Obey Gunnison County fire restrictions."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved dirt and gravel road (McCabe Lane / Gold Basin Road)",
+      "road_conditions": "Washboard dirt road with granite outcrops and sandy wash crossings.",
+      "vehicle_recommendation": "Normal low clearance car can reach front campsites; high clearance recommended for back loop sites",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Internet",
+      "verizon_reliability": "3-4 bars 5G/LTE (30-70 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-4 bars 5G Ultra Capacity",
+      "terrain_obstruction_risk": "Low (Open high desert sagebrush plateau overlooking Gunnison Basin)",
+      "distance_from_tower_corridor_miles": 3.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Designated Campsite Posts",
+      "Granite Rock Scramble Towers",
+      "Vault Toilet at Main Trailhead",
+      "High-speed 5G Cell Service"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 7,
+      "terrain_score": 9,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Gunnison, CO",
+        "distance_miles": 5.2,
+        "services_available": [
+          "City Market Grocery",
+          "Gas Stations",
+          "Western Colorado University",
+          "Public Library",
+          "Hospitals / Clinics",
+          "Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "50-65\u00b0F, mud season in early May, chilly nights.",
+      "summer": "75-85\u00b0F ideal high desert weather, cool 45-50\u00b0F nights, mountain bike paradise.",
+      "fall": "Crisp 55-70\u00b0F days, freezing nights (20-30\u00b0F), golden foliage in Gunnison valley.",
+      "winter": "Severe cold (-10 to 25\u00b0F), heavy snow, road closed to wheeled motor vehicles (groomed for cross-country skiing)."
+    },
+    "dangers_and_hazards": [
+      "Sub-freezing temperatures in shoulder seasons",
+      "High altitude solar exposure",
+      "Fast-moving mountain bikes on shared singletrack trails"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - High plateau sagebrush silence",
+      "common_human_made_sounds": [
+        "Mountain bike freehub ratchets on singletrack",
+        "Occasional small aircraft taking off from Gunnison Airport (4 miles north)"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Big Sagebrush",
+        "Rubber Rabbitbrush (Ericameria nauseosa)",
+        "Colorado Wildflowers",
+        "Pinon Pine"
+      ],
+      "common_animals": [
+        "Gunnison Sage-Grouse (Centrocercus minimus - rare/protected)",
+        "Mule Deer",
+        "Pronghorn (Antilocapra americana)",
+        "Coyote"
+      ]
+    },
+    "human_demographics_and_culture": "Mountain bikers, rock climbers, digital nomads, and Western Colorado University students.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Ute Indian lore connects the ridge of Hartman Rocks with ancient sky observation grounds and ancestral hunting paths.",
+      "energetic_and_spiritual_features": "Unique granite rock outcrop vibrations, unobstructed 360-degree basin horizons, exceptional solar energy capture."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Hartman Rocks Singletrack Loop",
+        "length_miles": 8.5,
+        "difficulty": "Moderate",
+        "features": "Winding singletrack through granite formations and sagebrush ridges"
+      }
+    ],
+    "public_reviews_summary": "Extremely convenient boondocking spot just 10 minutes from Gunnison. Blazing fast 5G cell internet and instant access to world-class mountain biking.",
+    "other_data": "Bortle Class 3 night sky. 100% solar power availability.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "co-pike-guanella-pass-geneva-creek",
+    "name": "Geneva Creek Dispersed Camping (FR 119) - Pike National Forest",
+    "state": "Colorado",
+    "county": "Park County / Clear Creek County",
+    "coordinates": {
+      "latitude": 39.5412,
+      "longitude": -105.7184,
+      "elevation_ft": 9650
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - South Platte Ranger District",
+      "type": "USFS",
+      "phone": "(303) 275-5610",
+      "website": "https://www.fs.usda.gov/psicc"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Designated dispersed camping sites (no fees)",
+      "stay_limit": "14 consecutive days max stay within 30-day period",
+      "guidelines": "Dispersed primitive camping permitted at designated marked sites along Forest Road 119 (Geneva Creek corridor). Must park within designated site posts."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6 inches deep in granitic alpine soil, 200 feet from Geneva Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace. Black bears active: bear canister or hard-sided vehicle food storage mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only within forest.",
+      "safety_requirements": "Campfires in established rock fire rings only. Extinguish cold to touch with creek water.",
+      "seasonal_fire_bans": "Stage 1 and Stage 2 fire restrictions common in summer."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved scenic byway changing to unpaved gravel forest road (Guanella Pass Road / FR 119)",
+      "road_conditions": "Washboard gravel forest road with steep grades, rocks, and ruts.",
+      "vehicle_recommendation": "High clearance car or CUV/SUV (Normal 2WD low clearance cars can access lower sites near paved highway in dry weather)",
+      "scores": {
+        "road_grade": 7,
+        "road_terrain_difficulty": 6,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Internet",
+      "verizon_reliability": "3-4 bars 5G/LTE (20-50 Mbps download on high turnouts)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 5G LTE",
+      "terrain_obstruction_risk": "Moderate (Towering Mount Bierstadt & Geneva Peak restrict line of sight in deep gulches)",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Geneva Creek Water Access (Filter required)",
+      "Mt. Bierstadt (14,060 ft) & Mount Evans Wilderness Proximity",
+      "Established Rock Fire Rings",
+      "Shaded Aspen & Spruce Canopy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Grant / Bailey, CO",
+        "distance_miles": 9.5,
+        "services_available": [
+          "Grocery Market",
+          "Gas Stations",
+          "Propane",
+          "Post Office",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Conifer / Denver, CO",
+        "distance_miles": 38.0,
+        "services_available": [
+          "Full Metropolitan Services",
+          "Major Hospitals",
+          "Costco / Target",
+          "24/7 Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Late May thaw: cold (35-50\u00b0F), high snowmelt runoff, lingering snowpacks.",
+      "summer": "Ideal high alpine summer (68-78\u00b0F daytime, 40-45\u00b0F nights), afternoon lightning storms.",
+      "fall": "Golden quaking aspen leaf season in September (50-65\u00b0F daytime, freezing 20-30\u00b0F nights), prime camping.",
+      "winter": "Severe sub-zero mountain winter (-10 to 25\u00b0F), heavy snow, road unplowed."
+    },
+    "dangers_and_hazards": [
+      "High altitude sickness (elevation 9,650 ft)",
+      "Severe afternoon lightning storms on exposed ridges",
+      "Black Bears active - store food securely",
+      "Freezing night temperatures in shoulder seasons"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Mountain stream and pine breeze quiet",
+      "common_human_made_sounds": [
+        "Occasional camper vehicle on Guanella Pass Road",
+        "Mt. Bierstadt 14er hikers"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Quaking Aspen",
+        "Engelmann Spruce",
+        "Lodgepole Pine",
+        "Subalpine Fir (Abies lasiocarpa)",
+        "Colorado Wildflowers"
+      ],
+      "common_animals": [
+        "Rocky Mountain Bighorn Sheep (Ovis canadensis)",
+        "Rocky Mountain Elk",
+        "Mule Deer",
+        "Black Bear",
+        "Pika (Ochotona princeps on talus slopes)"
+      ]
+    },
+    "human_demographics_and_culture": "Fourteener climbers (Mt. Bierstadt, Mt. Evans), Denver metro digital nomads, autumn aspen leaf peepers, and fly anglers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Ute and Arapaho indigenous traditions revere the high peaks of the Front Range as sacred sky spirit vision grounds.",
+      "energetic_and_spiritual_features": "Profound alpine air clarity, high atmospheric ionization, fast 5G connected mountain sanctuary."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Mount Bierstadt 14er Trail",
+        "length_miles": 7.0,
+        "difficulty": "Strenuous (14er Climb)",
+        "features": "Ascent of popular 14,060-foot summit via Guanella Pass trailhead"
+      }
+    ],
+    "public_reviews_summary": "World-class high elevation primitive camping just 1 hour from Denver. Spectacular aspen groves, fast 5G cell internet, and instant 14er trail access.",
+    "other_data": "Bortle Class 2 night sky. Abundant firewood.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "co-san-juan-molas-pass-blm",
+    "name": "Molas Pass / Animas River Dispersed Camping - San Juan National Forest",
+    "state": "Colorado",
+    "county": "San Juan County",
+    "coordinates": {
+      "latitude": 37.7412,
+      "longitude": -107.6814,
+      "elevation_ft": 9850
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Columbine Ranger District",
+      "type": "USFS",
+      "phone": "(970) 884-2512",
+      "website": "https://www.fs.usda.gov/sanjuan"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for general forest dispersed camping",
+      "stay_limit": "14 consecutive days max stay within 30-day period",
+      "guidelines": "Dispersed primitive camping permitted on national forest lands along US-550 (Million Dollar Highway) turnouts and side forest service roads. Must park within one vehicle length of road."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6 inches deep in rocky alpine soil, 200 feet from streams and lakes. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out. Black bears active: bear canister or vehicle storage mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only within forest.",
+      "safety_requirements": "Campfires in established rock fire rings only. Extinguish cold to touch with snow/water.",
+      "seasonal_fire_bans": "Obey San Juan NF Stage 1/2 fire restrictions."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved scenic highway changing to unpaved alpine gravel roads (US-550 / FS 585)",
+      "road_conditions": "Paved main highway; side alpine roads are rocky with steep grades and washboards.",
+      "vehicle_recommendation": "Normal low clearance car can access paved turnouts on US-550; high clearance 4x4 recommended for side alpine tracks",
+      "scores": {
+        "road_grade": 8,
+        "road_terrain_difficulty": 6,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Internet",
+      "verizon_reliability": "3-4 bars 5G/LTE (20-50 Mbps download on Molas Pass summit)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 5G LTE",
+      "terrain_obstruction_risk": "Moderate (Towering San Juan mountain peaks restrict signal in deep gorges)",
+      "distance_from_tower_corridor_miles": 3.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Panoramic San Juan Mountain Needle Peaks",
+      "Colorado Trail Access",
+      "Established Rock Fire Rings",
+      "High-speed 5G Cellular Internet"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Silverton, CO",
+        "distance_miles": 6.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware Store",
+          "Silverton Public Library",
+          "Clinic"
+        ]
+      },
+      {
+        "town_name": "Durango / Ouray, CO",
+        "distance_miles": 42.0,
+        "services_available": [
+          "Full City Services",
+          "Mercy Hospital",
+          "Costco / Supermarkets",
+          "24/7 Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "June thaw: cold (40-55\u00b0F), lingering alpine snowpacks.",
+      "summer": "70-78\u00b0F, ideal San Juan summer, afternoon lightning storms, blooming wildflowers.",
+      "fall": "Spectacular golden aspen foliage in September (50-65\u00b0F daytime, freezing 20-30\u00b0F nights), prime camping.",
+      "winter": "Severe sub-zero mountain winter weather (-10 to 20\u00b0F), heavy snowpack."
+    },
+    "dangers_and_hazards": [
+      "High altitude sickness (9,850+ ft elevation)",
+      "Severe mountain lightning storms on exposed passes",
+      "Steep highway cliff drop-offs on Million Dollar Highway"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Alpine wind and peak silence",
+      "common_human_made_sounds": [
+        "Durango & Silverton Narrow Gauge Railroad steam train whistle in valley",
+        "Occasional motorcycle touring on US-550"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Quaking Aspen",
+        "Engelmann Spruce",
+        "Subalpine Fir",
+        "Alpine Wildflowers"
+      ],
+      "common_animals": [
+        "Rocky Mountain Elk",
+        "Mule Deer",
+        "Black Bear",
+        "Mountain Goat",
+        "Marmot"
+      ]
+    },
+    "human_demographics_and_culture": "San Juan 14er climbers, Colorado Trail backpackers, 4x4 overlanders, digital nomads, and autumn foliage photographers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Ute indigenous traditions revere the San Juan Mountains as sacred high-elevation spirit domains.",
+      "energetic_and_spiritual_features": "High alpine mountain peak energy, dramatic glacial cirques, 5G connected mountain pass."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Colorado Trail (Segment 24 - Molas Pass)",
+        "length_miles": 19.5,
+        "difficulty": "Strenuous",
+        "features": "High alpine ridge walking past Little Molas Lake with views of Animas River gorge"
+      }
+    ],
+    "public_reviews_summary": "Top choice for mountain boondocking in Southwestern Colorado. Unbelievable San Juan Mountain views, fast 5G cell internet, and instant Colorado Trail access.",
+    "other_data": "Bortle Class 1 night sky. High solar panel output.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "co-grand-mesa-lands-end",
+    "name": "Lands End Road Dispersed Camping - Grand Mesa National Forest",
+    "state": "Colorado",
+    "county": "Mesa County / Delta County",
+    "coordinates": {
+      "latitude": 39.0412,
+      "longitude": -108.1814,
+      "elevation_ft": 9800
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Grand Valley Ranger District",
+      "type": "USFS",
+      "phone": "(970) 242-8211",
+      "website": "https://www.fs.usda.gov/gmug"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required",
+      "stay_limit": "14 consecutive days max stay limit",
+      "guidelines": "Dispersed primitive camping permitted on national forest lands along Forest Road 100 (Lands End Road). Must park within designated pullout areas."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6 inches deep in volcanic alpine soil, 200 feet from mesa lakes. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only.",
+      "safety_requirements": "Campfires in established rock fire rings only. Extinguish cold to touch with water.",
+      "seasonal_fire_bans": "Obey GMUG NF fire restrictions."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved scenic highway changing to gravel forest road (CO-65 / Lands End Road / FR 100)",
+      "road_conditions": "Washboard gravel road climbing steep mesa rim with switchbacks.",
+      "vehicle_recommendation": "Normal low clearance car can access main gravel turnouts in dry summer; high clearance recommended for side lake tracks",
+      "scores": {
+        "road_grade": 7,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Internet",
+      "verizon_reliability": "4-5 bars 5G/LTE (30-80 Mbps download speed overlooking Grand Valley)",
+      "att_reliability": "4-5 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 5G Ultra Capacity",
+      "terrain_obstruction_risk": "Low (Direct line of sight across Grand Valley to Grand Junction cell towers)",
+      "distance_from_tower_corridor_miles": 3.2,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Panoramic Lands End Observatory Rim Views (6,000 ft drop to valley)",
+      "300+ Alpine Lakes Proximity",
+      "Established Rock Fire Rings",
+      "High-speed 5G Cellular Internet"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Grand Junction / Palisade, CO",
+        "distance_miles": 24.5,
+        "services_available": [
+          "Walmart Supercenter",
+          "Sprouts / City Market",
+          "St. Mary's Medical Center",
+          "24/7 Gyms",
+          "Mesa State University",
+          "Public Library"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "June thaw: cool (45-60\u00b0F), high snowmelt runoff.",
+      "summer": "70-80\u00b0F, ideal high mesa summer escape from Grand Junction valley heat.",
+      "fall": "Spectacular golden aspen foliage in September (50-65\u00b0F daytime, freezing 25-35\u00b0F nights), prime camping.",
+      "winter": "Severe cold mountain winter (15-30\u00b0F), heavy snow, road unplowed."
+    },
+    "dangers_and_hazards": [
+      "High elevation sickness (9,800 ft elevation)",
+      "Steep rim cliff drop-offs at Lands End",
+      "Black Bears active in Grand Mesa NF"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - High mesa wind and lake silence",
+      "common_human_made_sounds": [
+        "Occasional visitor car at Lands End Observatory",
+        "Wind blowing through aspen leaves"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Quaking Aspen",
+        "Engelmann Spruce",
+        "Subalpine Fir",
+        "Colorado Wildflowers"
+      ],
+      "common_animals": [
+        "Mule Deer",
+        "Rocky Mountain Elk",
+        "Black Bear",
+        "Rainbow Trout (in 300+ mesa lakes)"
+      ]
+    },
+    "human_demographics_and_culture": "Grand Junction digital nomads escaping summer valley heat, trout anglers, aspen leaf peepers, and overlanders.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Ute indigenous traditions revere the Grand Mesa ('Thigunawat' - House of the Spirits) as a sacred elevated mountain plateau.",
+      "energetic_and_spiritual_features": "Largest flat-top mountain in the world, high altitude atmospheric clarity, blazing 5G cell speeds."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Crag Crest National Recreation Trail",
+        "length_miles": 10.2,
+        "difficulty": "Strenuous Ridge Hike",
+        "features": "Narrow knife-edge ridge trail overlooking dozens of high alpine lakes"
+      }
+    ],
+    "public_reviews_summary": "Unbelievable high mesa boondocking. 6,000-foot drop-off views over Grand Junction, 300+ trout lakes, cool summer temps, and blazing 5G cell internet.",
+    "other_data": "Bortle Class 2 night sky. Excellent solar power generation.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "colorado-006",
+    "name": "San Juan National Forest Hermosa Creek Dispersed Zone",
+    "state": "Colorado",
+    "county": "La Plata",
+    "coordinates": {
+      "latitude": 37.4412,
+      "longitude": -107.8512,
+      "elevation_ft": 7820.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - San Juan National Forest (Columbine Ranger District)",
+      "type": "Federal",
+      "phone": "(970) 884-2512",
+      "website": "https://www.fs.usda.gov/sanjuan"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed forest camping)",
+      "stay_limit": "14 days maximum stay within a 30-day window",
+      "guidelines": "Dispersed primitive camping allowed along Hermosa Park Road (FR 578) pullouts outside Hermosa Creek Special Management Area boundary. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Hermosa Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold with creek water.",
+      "seasonal_fire_bans": "Subject to USFS Stage 1 & 2 fire restrictions during dry summer/fall."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest service road (FR 578)",
+      "road_conditions": "Graded gravel road with steep mountain grades and flat pullouts.",
+      "vehicle_recommendation": "CUV, SUV, or standard FWD passenger car driven carefully.",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2.5/5 Stars)",
+      "verizon_reliability": "2 bars 4G LTE on high ridge pullouts",
+      "att_reliability": "2 bars 4G LTE",
+      "tmobile_reliability": "1 bar 4G LTE",
+      "terrain_obstruction_risk": "High - San Juan mountain canyon walls and aspen-spruce canopy",
+      "distance_from_tower_corridor_miles": 8.2,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Hermosa Creek Water Access",
+      "San Juan Mountain Overlooks",
+      "Aspen Canopy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Durango, CO",
+        "distance_miles": 18.5,
+        "services_available": [
+          "Supercenters",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Outfitters",
+          "College Amenities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "High snowmelt thaw through June; muddy roads.",
+      "summer": "Pleasant 7,800-ft mountain summer (72-80\u00b0F) with cool mountain night air (42\u00b0F).",
+      "fall": "World-class golden aspen leaf display in late September.",
+      "winter": "Snowbound road; accessible by snowmobile or ski touring."
+    },
+    "dangers_and_hazards": [
+      "Black Bears (Bear canisters/hang recommended)",
+      "High Altitude Weather Shifts",
+      "Flash Floods in Creek Beds"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "San Juan Mountain Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Occasional forest road car",
+        "High altitude jet contrails"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Quaking Aspen",
+        "Ponderosa Pine",
+        "Douglas Fir",
+        "Colorado Blue Spruce"
+      ],
+      "common_animals": [
+        "Elk",
+        "Mule Deer",
+        "Black Bear",
+        "Pine Marten",
+        "Cutthroat Trout"
+      ]
+    },
+    "human_demographics_and_culture": "Southwestern Colorado Durango mountain biking, skiing, and San Juan wilderness conservation culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Ute traditions honor the San Juan mountains as sacred high sky peak realms.",
+      "energetic_and_spiritual_features": "Giant aspen groves framed by 13,000-foot red sandstone and granite peaks generate an awe-inspiring sanctuary."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Hermosa Creek National Recreation Trail",
+        "length_miles": 18.5,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Pristine mountain stream, aspen forests, San Juan peak vistas"
+      }
+    ],
+    "public_reviews_summary": "Incredible golden aspen foliage and mountain stream primitive camping near Durango with zero cost.",
+    "other_data": "Filter all drinking water taken from Hermosa Creek.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "colorado-007",
+    "name": "Uncompahgre National Forest Divide Road Primitive Zone",
+    "state": "Colorado",
+    "county": "Montrose",
+    "coordinates": {
+      "latitude": 38.3812,
+      "longitude": -108.1852,
+      "elevation_ft": 8920.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Grand Mesa, Uncompahgre, and Gunnison National Forests (Ouray Ranger District)",
+      "type": "Federal",
+      "phone": "(970) 240-5300",
+      "website": "https://www.fs.usda.gov/gmug"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed forest camping)",
+      "stay_limit": "14 days maximum stay within a 30-day window",
+      "guidelines": "Dispersed primitive camping allowed along Divide Road (FR 503) pullouts across Uncompahgre Plateau. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from mountain ponds and springs. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS Stage 1 & 2 fire restrictions during dry summer."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest service road (Divide Road / FR 503)",
+      "road_conditions": "Graded gravel road along plateau rim; flat turnouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car in dry weather.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE due to high 9,000-ft plateau elevation overlooking Montrose basin",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - high plateau rim line",
+      "distance_from_tower_corridor_miles": 3.1,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "San Juan & Grand Mesa Panorama Views",
+      "Golden Aspen Canopy",
+      "Primitive Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Montrose, CO",
+        "distance_miles": 16.5,
+        "services_available": [
+          "Supercenters",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Airport",
+          "Hardware Store"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Snow thaws through late May; muddy plateau dirt.",
+      "summer": "Cool 8,900-ft summer weather (70-78\u00b0F) with crisp mountain nights.",
+      "fall": "Spectacular golden aspen leaf changes in late September.",
+      "winter": "Closed to vehicle traffic due to deep snowpack; snowmobiling hub."
+    },
+    "dangers_and_hazards": [
+      "Black Bears",
+      "High Elevation Summer Lightning Storms",
+      "Freezing Night Temps"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "High Plateau Silence (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Occasional forest road car",
+        "High altitude commercial flights"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Quaking Aspen",
+        "Engelmann Spruce",
+        "Ponderosa Pine",
+        "Mountain Big Sagebrush"
+      ],
+      "common_animals": [
+        "Elk",
+        "Mule Deer",
+        "Black Bear",
+        "Golden Eagle",
+        "Coyote"
+      ]
+    },
+    "human_demographics_and_culture": "Western Colorado Uncompahgre Plateau cattle ranching, timber, and outdoor recreation culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Ute Chief Ouray history honors the Uncompahgre Plateau as ancient summer hunting grounds.",
+      "energetic_and_spiritual_features": "High 9,000-foot plateau rim overlooking the entire San Juan mountain range produces a majestic perspective."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Uncompahgre Plateau Divide Trail",
+        "length_miles": 12.0,
+        "difficulty": "Moderate",
+        "features": "Panoramic views of San Juan peaks and Grand Mesa, massive aspen groves"
+      }
+    ],
+    "public_reviews_summary": "Cool 70-degree summer plateau camping with blazing fast 5G cell internet overlooking Montrose.",
+    "other_data": "Bring fresh drinking water.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "colorado-008",
+    "name": "White River National Forest Shrine Pass Dispersed Zone",
+    "state": "Colorado",
+    "county": "Eagle / Summit",
+    "coordinates": {
+      "latitude": 39.5412,
+      "longitude": -106.2148,
+      "elevation_ft": 10850.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - White River National Forest (Eagle-Holy Cross Ranger District)",
+      "type": "Federal",
+      "phone": "(970) 827-5715",
+      "website": "https://www.fs.usda.gov/whiteriver"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed forest camping in designated Shrine Pass pullouts)",
+      "stay_limit": "14 days maximum stay within a 30-day window",
+      "guidelines": "Dispersed primitive camping allowed along Shrine Pass Road (FR 709) outside Vail Pass recreation fee area. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from alpine streams and wildflower meadows. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS dry summer fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel mountain road (Shrine Pass Road / FR 709)",
+      "road_conditions": "Graded gravel road connecting Vail Pass to Red Cliff; accessible in summer.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car in dry summer months.",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE due to high 10,800-ft pass summit overlooking I-70 corridor",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open subalpine meadow pass summit",
+      "distance_from_tower_corridor_miles": 2.2,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "10,850-ft Alpine Wildflower Meadows",
+      "Mount of the Holy Cross Vistas",
+      "Subalpine Fir Canopy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Vail, CO",
+        "distance_miles": 12.4,
+        "services_available": [
+          "Supermarket",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Outfitters",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Frisco, CO",
+        "distance_miles": 18.0,
+        "services_available": [
+          "Supercenters",
+          "Full Resort Amenities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Pass snowbound through late June.",
+      "summer": "World-class alpine wildflower bloom in July/August with cool 68-74\u00b0F day temps and cold night air (38\u00b0F).",
+      "fall": "Golden subalpine larch and aspen foliage in September.",
+      "winter": "Closed to vehicle traffic; popular snowmobile and cross-country ski route."
+    },
+    "dangers_and_hazards": [
+      "High Altitude Hypothermia & Weather Shifts",
+      "Lightning Hazard in Wildflower Meadows",
+      "Sub-Freezing Summer Night Temps"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Subalpine Pass Silence (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Occasional mountain road vehicle",
+        "High altitude commercial flights"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Subalpine Fir",
+        "Engelmann Spruce",
+        "Colorado Columbine (State Flower)",
+        "Paintbrush",
+        "Indian Paintbrush"
+      ],
+      "common_animals": [
+        "Rocky Mountain Bighorn Sheep",
+        "Elk",
+        "Pika",
+        "Yellow-bellied Marmot",
+        "Ptarmigan"
+      ]
+    },
+    "human_demographics_and_culture": "Colorado Rocky Mountain high alpine pass history (10th Mountain Division historical ski training grounds near Camp Hale).",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "10th Mountain Division ski troop history and Ute legends honor Shrine Pass as a high sacred mountain pass.",
+      "energetic_and_spiritual_features": "10,850-foot subalpine wildflower meadows with views of Mount of the Holy Cross evoke divine grandeur."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Shrine Mountain Trail & Shrine Pass Ridge",
+        "length_miles": 4.2,
+        "difficulty": "Moderate",
+        "features": "360-degree views of Sawatch range, Gore range, and Mount of the Holy Cross"
+      }
+    ],
+    "public_reviews_summary": "Unbelievable alpine wildflower meadows at 10,800 feet with blazing fast 5G cell internet near Vail.",
+    "other_data": "Dress warmly as night temperatures drop into the 30s even in July.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "colorado-009",
+    "name": "Comanche National Grassland Carrizo Canyon Primitive Zone",
+    "state": "Colorado",
+    "county": "Baca",
+    "coordinates": {
+      "latitude": 37.1412,
+      "longitude": -103.0142,
+      "elevation_ft": 4420.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Pike and San Isabel National Forests, Cimarron and Comanche National Grasslands (Carrizo Ranger District)",
+      "type": "Federal",
+      "phone": "(719) 523-6591",
+      "website": "https://www.fs.usda.gov/psicc"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed grassland canyon camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Carrizo Canyon dirt roads and picnic area buffer. Camp 100 ft from creek wash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Utilize vault toilet at Carrizo picnic area or bury 6-8 inches deep 200 ft from creek wash.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down cottonwood and juniper wood locally.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold due to prairie wind hazard.",
+      "seasonal_fire_bans": "Subject to USFS high prairie fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel prairie roads",
+      "road_conditions": "Graded gravel access roads to dirt canyon turnouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2.5/5 Stars)",
+      "verizon_reliability": "2 bars 4G LTE on high canyon rims",
+      "att_reliability": "2 bars 4G LTE",
+      "tmobile_reliability": "1 bar 4G LTE",
+      "terrain_obstruction_risk": "Moderate - sandstone canyon walls and cottonwood groves",
+      "distance_from_tower_corridor_miles": 8.5,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Red Sandstone Canyon Walls",
+      "Native Petroglyph Viewing nearby",
+      "Cottonwood Shade",
+      "Vault Toilet nearby"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 8,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Springfield, CO",
+        "distance_miles": 22.4,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Hospital",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Lamar, CO",
+        "distance_miles": 64.0,
+        "services_available": [
+          "Supercenters",
+          "Public Library",
+          "Gym & Fitness Center"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush canyon greening with spring blooming yucca.",
+      "summer": "Hot high plains weather (88-98\u00b0F) with cool canyon evening breezes.",
+      "fall": "Golden cottonwood leaf display in October.",
+      "winter": "Cool to cold high plains winter (20-40\u00b0F)."
+    },
+    "dangers_and_hazards": [
+      "Flash Floods in Canyon Wash",
+      "Prairie Rattlesnakes",
+      "High Prairie Wildfire Hazard"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Canyon Prairie Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "High altitude jet contrails"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Plains Cottonwood",
+        "Tree Cholla Cactus",
+        "Soapweed Yucca",
+        "Blue Grama"
+      ],
+      "common_animals": [
+        "Pronghorn Antelope",
+        "Tarantula",
+        "Golden Eagle",
+        "Mule Deer",
+        "Coyote"
+      ]
+    },
+    "human_demographics_and_culture": "Southeast Colorado Santa Fe Trail, Comanche history, and high plains cattle ranching heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Comanche and Kiowa traditions honor Carrizo Canyon as an ancient sheltered oasis along shortgrass prairie trading routes.",
+      "energetic_and_spiritual_features": "Red sandstone canyon walls tucked into vast prairie plains radiate peaceful, ancient shelter."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Carrizo Canyon & Picture Canyon Trail",
+        "length_miles": 4.5,
+        "difficulty": "Easy to Moderate",
+        "features": "Native American petroglyphs, red sandstone arches, cottonwood creek wash"
+      }
+    ],
+    "public_reviews_summary": "Peaceful red sandstone canyon hidden in Southeast Colorado's grasslands with zero cost and petroglyphs.",
+    "other_data": "Carry fresh drinking water.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "colorado-010",
+    "name": "Gunnison National Forest Kebler Pass Primitive Zone",
+    "state": "Colorado",
+    "county": "Gunnison",
+    "coordinates": {
+      "latitude": 38.8812,
+      "longitude": -107.1214,
+      "elevation_ft": 9850.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Grand Mesa, Uncompahgre, and Gunnison National Forests (Gunnison Ranger District)",
+      "type": "Federal",
+      "phone": "(970) 641-0471",
+      "website": "https://www.fs.usda.gov/gmug"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed forest camping)",
+      "stay_limit": "14 days maximum stay within a 30-day window",
+      "guidelines": "Dispersed primitive camping allowed along Kebler Pass Road (FR 12) pullouts. Camp 100 ft from streams. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down aspen wood locally.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS dry summer fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel mountain road (Kebler Pass Road / FR 12)",
+      "road_conditions": "Graded gravel scenic road connecting Crested Butte to Paonia; flat pullouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car in summer.",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2.5/5 Stars)",
+      "verizon_reliability": "2 bars 4G LTE on high pass pullouts",
+      "att_reliability": "2 bars 4G LTE",
+      "tmobile_reliability": "1 bar 4G LTE",
+      "terrain_obstruction_risk": "Moderate to High - West Elk mountain peaks and world's largest aspen grove",
+      "distance_from_tower_corridor_miles": 8.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "World's Largest Aspen Grove Vistas",
+      "Ruby Range Mountain Views",
+      "Primitive Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Crested Butte, CO",
+        "distance_miles": 11.2,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Outfitters",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Gunnison, CO",
+        "distance_miles": 32.0,
+        "services_available": [
+          "Supercenter",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Airport"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Pass snowbound through mid-June.",
+      "summer": "Cool mountain summer (70-76\u00b0F) with wildflower meadows.",
+      "fall": "World-famous peak aspen foliage in late September (largest contiguous aspen grove in North America).",
+      "winter": "Closed to vehicle traffic; snowmobile and ski route."
+    },
+    "dangers_and_hazards": [
+      "Black Bears",
+      "High Elevation Weather Shifts",
+      "Freezing Night Temps"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Aspen Forest Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Occasional scenic byway car",
+        "High altitude commercial flights"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Quaking Aspen (Largest Clonal Colony)",
+        "Engelmann Spruce",
+        "Subalpine Fir",
+        "Wild Lupine"
+      ],
+      "common_animals": [
+        "Elk",
+        "Mule Deer",
+        "Black Bear",
+        "Pine Marten",
+        "Red-tailed Hawk"
+      ]
+    },
+    "human_demographics_and_culture": "Crested Butte wildflower capital, ski culture, and West Elk wilderness conservation heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Ute traditions honor the West Elk mountains as sacred high autumn hunting grounds.",
+      "energetic_and_spiritual_features": "Surrounded by millions of interconnected golden aspen trees beneath the jagged Ruby Range produces breathtaking natural magic."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Three Lakes Trail & Kebler Pass Crest",
+        "length_miles": 5.4,
+        "difficulty": "Moderate",
+        "features": "Pristine backcountry mountain lakes, giant aspen forest, Ruby Crest vistas"
+      }
+    ],
+    "public_reviews_summary": "Hands-down the single best fall aspen foliage camping location in North America.",
+    "other_data": "Filter all water and store food in bear canisters.",
+    "last_updated": "2026-09-12"
+  }
+]

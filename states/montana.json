@@ -1,0 +1,1342 @@
+[
+  {
+    "id": "mt-beaverhead-wise-river",
+    "name": "Pioneer Mountains Scenic Byway Dispersed Camping - Beaverhead-Deerlodge NF",
+    "state": "Montana",
+    "county": "Beaverhead County",
+    "coordinates": {
+      "latitude": 45.6812,
+      "longitude": -113.0184,
+      "elevation_ft": 6550
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Wise River Ranger District",
+      "type": "USFS",
+      "phone": "(406) 832-3171",
+      "website": "https://www.fs.usda.gov/bdnf"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for general forest dispersed camping",
+      "stay_limit": "16 consecutive days max stay limit",
+      "guidelines": "Dispersed primitive camping permitted throughout national forest lands along Pioneer Mountains Scenic Byway. Campsites set back 100ft from streams."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6 inches deep in granitic soil, 200 feet from Wise River. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace. Grizzly & Black Bear territory: bear-proof food canisters or hard-sided vehicles mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only.",
+      "safety_requirements": "Campfires in established rock fire rings only. Extinguish cold to touch with river water.",
+      "seasonal_fire_bans": "Stage 1 and Stage 2 fire restrictions common in late summer."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved scenic highway changing to gravel forest roads (Pioneer Mountains Byway / FS 73)",
+      "road_conditions": "Paved main scenic byway; gravel side roads are smooth with small washboards.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (easily accessible along main paved scenic byway turnouts)",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate / Starlink Preferred",
+      "verizon_reliability": "2-3 bars 4G LTE near Wise River town end; 0-1 bar in deep high passes",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "No signal",
+      "terrain_obstruction_risk": "Moderate (Pioneer Mountain peaks create cell shadows)",
+      "distance_from_tower_corridor_miles": 8.2,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Wise River Blue-Ribbon Trout Access",
+      "Pioneer Mountains Alpine Views",
+      "Established Rock Fire Rings",
+      "Lodgepole Pine Shade"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 4,
+      "distance_to_gym_score": 3,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Wise River / Wise River Club, MT",
+        "distance_miles": 8.5,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "Trout Fly Shop",
+          "Saloon"
+        ]
+      },
+      {
+        "town_name": "Dillon / Butte, MT",
+        "distance_miles": 38.0,
+        "services_available": [
+          "Full Supermarkets",
+          "Gyms",
+          "Barrett Hospital",
+          "Montana Tech University",
+          "Public Library"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Late May thaw: cold (35-50\u00b0F), high mountain snowmelt, snow lingering on passes.",
+      "summer": "75-85\u00b0F daytime, crisp 40-45\u00b0F nights, ideal Big Sky summer boondocking.",
+      "fall": "Golden larch and aspen foliage (50-65\u00b0F daytime, freezing 20-30\u00b0F nights), dry roads.",
+      "winter": "Severe sub-zero Rocky Mountain winter (-20 to 20\u00b0F), heavy snow, scenic byway closed."
+    },
+    "dangers_and_hazards": [
+      "Grizzly Bears (Ursus arctos horribilis) and Black Bears active - bear spray mandatory",
+      "Moose defense along Wise River willow thickets",
+      "Freezing night temperatures in shoulder seasons"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Mountain stream and pine wind quiet",
+      "common_human_made_sounds": [
+        "Occasional fly angler truck on scenic byway",
+        "High-altitude mountain aircraft"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Lodgepole Pine",
+        "Douglas Fir",
+        "Quaking Aspen",
+        "Western Larch (Larix occidentalis)",
+        "Mountain Sagebrush"
+      ],
+      "common_animals": [
+        "Grizzly Bear",
+        "Rocky Mountain Elk",
+        "Mule Deer",
+        "Moose",
+        "Wolverine (Gulo gulo - rare)",
+        "West slope Cutthroat Trout (Oncorhynchus clarkii lewisi)"
+      ]
+    },
+    "human_demographics_and_culture": "Fly anglers, Montana Big Sky nomads, mountain bikers, elk hunters during autumn, and overlanders.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Salish and Kootenai indigenous traditions honor the Pioneer Mountains and high alpine lakes as sacred spirit vision sites.",
+      "energetic_and_spiritual_features": "Profound Rocky Mountain high-elevation energy, crystal-clear trout river purity, 100% unpolluted Big Sky stars."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Cool Creek Trail to Lake Agnes",
+        "length_miles": 6.5,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Alpine lake, granite cirques, high Pioneer Mountain vistas"
+      }
+    ],
+    "public_reviews_summary": "World-class Montana mountain boondocking along a scenic paved byway. Incredible trout river fishing, pristine stars, and good cell service near Wise River.",
+    "other_data": "Bortle Class 1 night sky. Excellent solar panel output.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "mt-flathead-nf-hungry-horse-reservoir",
+    "name": "Hungry Horse Reservoir Dispersed Primitive Camping",
+    "state": "Montana",
+    "county": "Flathead County",
+    "coordinates": {
+      "latitude": 48.3214,
+      "longitude": -113.9654,
+      "elevation_ft": 3580
+    },
+    "management_agency": {
+      "name": "US Forest Service - Flathead National Forest (Hungry Horse Ranger District)",
+      "type": "USFS",
+      "phone": "(406) 387-3800",
+      "website": "https://www.fs.usda.gov/flathead"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Flathead National Forest Dispersed Primitive Land (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed camping at designated pullouts along West and East Reservoir Roads (FR 895 / FR 38). Food storage order in effect (grizzly bear country)."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in soil 200 feet from reservoir shoreline. Pack out all hygiene paper.",
+      "trash_policy": "Strict Pack-In / Pack-Out. Zero trash left unattended (grizzly bear attractant)."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Abundant dead and down pine wood collection permitted.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water until cold before vacating.",
+      "seasonal_fire_bans": "Stage 1 and 2 fire restrictions common July-September."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved to gravel/dirt Forest Service Reservoir Road",
+      "road_conditions": "Washboard gravel, potholed sections, dusty in summer.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance vehicles to main reservoir pullouts; 4x4 recommended for high spur roads.",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair to Moderate / North End Signal",
+      "verizon_reliability": "2-3 bars 4G LTE near dam / north reservoir road",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "High further south down reservoir canyon",
+      "distance_from_tower_corridor_miles": 6.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Reservoir Waterfront Primitive Campsites",
+      "Mountain Glacier Overlooks",
+      "Boat Launch Access",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Hungry Horse / Columbia Falls, MT",
+        "distance_miles": 10.0,
+        "services_available": [
+          "Supermarket",
+          "Gas Stations",
+          "Hardware Store",
+          "Laundromat",
+          "Public Library"
+        ]
+      },
+      {
+        "town_name": "Kalispell, MT",
+        "distance_miles": 24.0,
+        "services_available": [
+          "Costco / Target",
+          "Logan Health Hospital",
+          "24/7 Gyms",
+          "Full Metro Services"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "40-55\u00b0F, snowmelt filling reservoir, crisp mountain weather.",
+      "summer": "72-88\u00b0F, warm sunny days, refreshing mountain reservoir swimming.",
+      "fall": "45-65\u00b0F, golden larch (tamarack) needle color change, cool nights.",
+      "winter": "15-30\u00b0F, heavy snowpack, road closed to wheeled vehicles past dam."
+    },
+    "dangers_and_hazards": [
+      "Grizzly and black bears present (certified bear canister or bear hang required)",
+      "Cold mountain reservoir water temperatures",
+      "Falling rock on reservoir roads"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Mountain wind and reservoir water lapping",
+      "common_human_made_sounds": [
+        "Distant motorboat on reservoir in summer",
+        "Infrequent forest road truck"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Western Larch (Tamarack)",
+        "Douglas Fir",
+        "Lodgepole Pine",
+        "Huckleberry"
+      ],
+      "common_animals": [
+        "Grizzly Bear",
+        "Black Bear",
+        "Elk",
+        "Osprey",
+        "Bull Trout",
+        "Bald Eagle"
+      ]
+    },
+    "human_demographics_and_culture": "Glacier National Park visitors, Montana boaters, huckleberry pickers, wilderness campers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Traditional lands of the Blackfeet, Salish, and Kootenai tribes. The surrounding Swan Peak wilderness holds deep reverence.",
+      "energetic_and_spiritual_features": "Majestic Rocky Mountain reflection views, serene turquoise reservoir waters."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Columbia Mountain Trail",
+        "length_miles": 11.5,
+        "difficulty": "Strenuous",
+        "features": "Sweeping Flathead Valley and Glacier Park vistas"
+      }
+    ],
+    "public_reviews_summary": "Top free camping spot right outside Glacier National Park. Gorgeous reservoir views, solid cell service near dam end, and free USFS access.",
+    "other_data": "Flathead National Forest. Strict Forest Service food storage order enforced for bears.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "mt-custer-gallatin-nf-beartooth-highway",
+    "name": "Beartooth Highway Dispersed Primitive Camping",
+    "state": "Montana",
+    "county": "Carbon County",
+    "coordinates": {
+      "latitude": 45.1214,
+      "longitude": -109.3214,
+      "elevation_ft": 7800
+    },
+    "management_agency": {
+      "name": "US Forest Service - Custer Gallatin National Forest (Beartooth Ranger District)",
+      "type": "USFS",
+      "phone": "(406) 446-2103",
+      "website": "https://www.fs.usda.gov/custergallatin"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Dispersed Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted at established pullout sites along US Hwy 212 (Beartooth All-American Road) and Rock Creek dirt spur roads. Strict food storage order in effect (grizzly bear country)."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in alpine soil 200 feet from Rock Creek. Pack out all hygiene items.",
+      "trash_policy": "Strict Pack-In / Pack-Out. Zero attractants left unattended."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down pine wood collection permitted.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water until cold before vacating.",
+      "seasonal_fire_bans": "Summer high wind fire restrictions active July-September."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved All-American Road (US 212) to gravel mountain pullouts",
+      "road_conditions": "Paved main highway, smooth gravel turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance vehicles.",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Red Lodge Tower Line",
+      "verizon_reliability": "3-4 bars 4G LTE (20-50 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low along high mountain highway pullouts",
+      "distance_from_tower_corridor_miles": 3.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Alpine Snowcapped Beartooth Peak Views",
+      "Rock Creek Mountain Stream Access",
+      "Flat Gravel Van Pullouts",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Red Lodge, MT",
+        "distance_miles": 10.0,
+        "services_available": [
+          "Red Lodge Supermarket",
+          "Gas Stations",
+          "Carbon County Library",
+          "Hospital",
+          "Outdoor Gear Shops",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Billings, MT",
+        "distance_miles": 62.0,
+        "services_available": [
+          "Costco / Target / Sam's Club",
+          "Full Metro Services",
+          "Hospitals",
+          "24/7 Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "35-50\u00b0F, snow clearing on highway, roaring snowmelt streams.",
+      "summer": "68-80\u00b0F, prime alpine mountain summer camping, cool crisp nights.",
+      "fall": "40-60\u00b0F, golden aspen colors, early high mountain snow dustings.",
+      "winter": "5-25\u00b0F, heavy alpine snowpack, highway closed past snow gate."
+    },
+    "dangers_and_hazards": [
+      "Grizzly and black bear country (bear spray and certified bear canister mandatory)",
+      "High altitude exertion (7,800+ ft)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Mountain wind and alpine stream cascades",
+      "common_human_made_sounds": [
+        "Occasional scenic drive vehicle on highway"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Subalpine Fir",
+        "Engelmann Spruce",
+        "Quaking Aspen",
+        "Alpine Wildflowers"
+      ],
+      "common_animals": [
+        "Grizzly Bear",
+        "Black Bear",
+        "Bighorn Sheep",
+        "Mountain Goat",
+        "Elk",
+        "Yellow-bellied Marmot"
+      ]
+    },
+    "human_demographics_and_culture": "Crow & Cheyenne ancestral lands, Red Lodge mountain culture, Yellowstone travelers, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Charles Kuralt called the Beartooth Highway 'the most beautiful drive in America'. Sacred ancestral territory of the Crow nation.",
+      "energetic_and_spiritual_features": "Breathtaking high alpine mountain energy, crystalline mountain stream water."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Lake Fork Rock Creek Trail",
+        "length_miles": 8.0,
+        "difficulty": "Moderate",
+        "features": "Glacial lakes, roaring waterfalls, towering granite peaks"
+      }
+    ],
+    "public_reviews_summary": "Top free high-alpine camping spot in Montana. Breathtaking mountain views, fast cell internet near Red Lodge, and 100% free USFS access.",
+    "other_data": "Custer Gallatin National Forest. Free dispersed primitive camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "montana-004",
+    "name": "Middle Fork Flathead Dispersed Primitive Zone - Flathead National Forest",
+    "state": "Montana",
+    "county": "Flathead",
+    "coordinates": {
+      "latitude": 48.3125,
+      "longitude": -113.6541,
+      "elevation_ft": 3480.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Flathead National Forest (Hungry Horse Ranger District)",
+      "type": "Federal",
+      "phone": "(406) 387-3800",
+      "website": "https://www.fs.usda.gov/flathead"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed forest camping)",
+      "stay_limit": "14 days maximum stay limit within a 30-day window",
+      "guidelines": "Primitive dispersed camping allowed along USFS river pullouts outside Glacier National Park boundary. Camp 100 ft from water. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep in cat-holes 200 feet from river. Pack out paper products.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy. Food storage order strictly enforced."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in existing stone rings. Douse cold with river water.",
+      "seasonal_fire_bans": "Subject to USFS Stage 1 & Stage 2 fire bans in late summer."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved US-2 to gravel forest service roads",
+      "road_conditions": "Paved highway access to smooth gravel river turnouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Good (3/5 Stars)",
+      "verizon_reliability": "3 bars 4G LTE",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate - Glacier Rocky Mountain canyon corridor",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Turquoise River Water Access",
+      "Rocky Mountain Views",
+      "Primitive Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Columbia Falls, MT",
+        "distance_miles": 18.5,
+        "services_available": [
+          "Supermarket",
+          "Gas Station",
+          "Hardware Store",
+          "Outfitter",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Kalispell, MT",
+        "distance_miles": 32.0,
+        "services_available": [
+          "Supercenters",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Airport"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Melting snowpack creates roaring turquoise whitewater waves in May/June.",
+      "summer": "Pleasant Rocky Mountain summer days (75-84\u00b0F) and crisp mountain night air.",
+      "fall": "Stunning golden larch and aspen foliage along Glacier park border.",
+      "winter": "Cold mountain winter (10-25\u00b0F) with heavy snow."
+    },
+    "dangers_and_hazards": [
+      "Grizzly Bears & Black Bears (Mandatory USFS Bear Food Storage Order)",
+      "Cold Whitewater River Currents",
+      "Sub-Freezing Temperatures in Shoulder Seasons"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Rushing Turquoise River Audio (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Distant BNSF train horn along river canyon",
+        "Highway US-2 hum"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Western Larch (Tamarack)",
+        "Douglas Fir",
+        "Engelmann Spruce",
+        "Bearberry"
+      ],
+      "common_animals": [
+        "Grizzly Bear",
+        "Rocky Mountain Elk",
+        "Bighorn Sheep",
+        "Wolverine",
+        "Harlequin Duck"
+      ]
+    },
+    "human_demographics_and_culture": "Montana Rocky Mountain wild river, Glacier National Park, and rail corridor culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Blackfeet and Salish traditions honor the crystal waters of the Flathead as sacred life force rivers.",
+      "energetic_and_spiritual_features": "Turquoise glacial river waters against 8,000-foot Rocky Mountain peaks instill majestic wonder."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Middle Fork River Trail & Belton Bridge Trail",
+        "length_miles": 5.4,
+        "difficulty": "Easy to Moderate",
+        "features": "Turquoise river views, Glacier park peaks, old growth larch forests"
+      }
+    ],
+    "public_reviews_summary": "World-class Glacier view primitive camping right on the river with dependable cell signal.",
+    "other_data": "Must carry bear spray and store all food in certified bear containers.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "montana-005",
+    "name": "Beaverhead National Forest Upper Ruby Dispersed Primitive Zone",
+    "state": "Montana",
+    "county": "Madison",
+    "coordinates": {
+      "latitude": 45.1412,
+      "longitude": -112.1412,
+      "elevation_ft": 6420.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Beaverhead-Deerlodge National Forest (Madison Ranger District)",
+      "type": "Federal",
+      "phone": "(406) 682-4253",
+      "website": "https://www.fs.usda.gov/bdnf"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed forest camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Upper Ruby River Road pullouts. Camp at least 100 feet from river. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from river. Pack out paper products.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out rule."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down firewood locally.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS dry summer fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest service road (Upper Ruby Road)",
+      "road_conditions": "Graded gravel road; washboards and loose stone.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car in dry weather; CUV/SUV recommended.",
+      "scores": {
+        "road_grade": 5,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 6
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2/5 Stars)",
+      "verizon_reliability": "1-2 bars 4G LTE spotty",
+      "att_reliability": "1 bar 4G LTE",
+      "tmobile_reliability": "No signal",
+      "terrain_obstruction_risk": "High - Gravelly Range mountain valley",
+      "distance_from_tower_corridor_miles": 16.5,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Ruby River Blue-Ribbon Trout Access",
+      "Gravelly Range Mountain Vistas",
+      "Primitive Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 4,
+      "distance_to_library_score": 4,
+      "distance_to_gym_score": 3,
+      "terrain_score": 9,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Sheridan, MT",
+        "distance_miles": 22.4,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Local Dining"
+        ]
+      },
+      {
+        "town_name": "Bozeman, MT",
+        "distance_miles": 78.0,
+        "services_available": [
+          "International Airport",
+          "Major Supercenters",
+          "Hospitals",
+          "University City Amenities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Road muddy through June; high trout stream water flow.",
+      "summer": "Mild high elevation summer (72-80\u00b0F) with cool mountain nights (40\u00b0F).",
+      "fall": "Crisp autumn weather with golden aspen groves in September.",
+      "winter": "Severe winter weather; road snowbound."
+    },
+    "dangers_and_hazards": [
+      "Grizzly Bears & Black Bears (Food storage required)",
+      "High Elevation Weather Shifts",
+      "Remote Mountain Location"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Mountain Valley Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Occasional rancher truck or fly angler car"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Lodgepole Pine",
+        "Douglas Fir",
+        "Quaking Aspen",
+        "Mountain Sagebrush"
+      ],
+      "common_animals": [
+        "Grizzly Bear",
+        "Elk",
+        "Moose",
+        "Pronghorn Antelope",
+        "Brown Trout"
+      ]
+    },
+    "human_demographics_and_culture": "Southwest Montana cattle ranching, fly fishing, and historic gold rush mining heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Shoshone and Bannock ancestral summer hunting trails across the Gravelly Range.",
+      "energetic_and_spiritual_features": "Wide mountain valleys framed by high peaks foster profound peace."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Gravelly Range Crest Road & Ruby River Trail",
+        "length_miles": 8.0,
+        "difficulty": "Moderate",
+        "features": "9,000-ft alpine ridge vistas, trout river valley, wildflower meadows"
+      }
+    ],
+    "public_reviews_summary": "World-class fly fishing and remote mountain valley solitude surrounded by Montana peaks.",
+    "other_data": "Carry bear spray and filter river water.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "montana-006",
+    "name": "Custer Gallatin National Forest Hyalite Canyon Dispersed Zone",
+    "state": "Montana",
+    "county": "Gallatin",
+    "coordinates": {
+      "latitude": 45.4812,
+      "longitude": -110.9512,
+      "elevation_ft": 6850.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Custer Gallatin National Forest (Bozeman Ranger District)",
+      "type": "Federal",
+      "phone": "(406) 522-2520",
+      "website": "https://www.fs.usda.gov/gallatin"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed forest camping)",
+      "stay_limit": "14 days maximum stay within a 30-day window",
+      "guidelines": "Dispersed primitive camping allowed along Hyalite Creek Road (FR 62) pullouts outside developed fee loops. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Hyalite Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy. Food storage order strictly enforced."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS dry summer fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved canyon road to gravel forest service roads",
+      "road_conditions": "Paved access road to smooth gravel reservoir pullouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Good (3/5 Stars)",
+      "verizon_reliability": "3 bars 4G LTE near reservoir rim",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate - Gallatin mountain canyon walls",
+      "distance_from_tower_corridor_miles": 5.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Hyalite Reservoir Water Access",
+      "10,000-ft Gallatin Peak Views",
+      "Waterfall Trail Access"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 10,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Bozeman, MT",
+        "distance_miles": 14.5,
+        "services_available": [
+          "International Airport",
+          "Major Supercenters",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Centers",
+          "University Amenities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "High mountain snowmelt thaws through June.",
+      "summer": "Pleasant summer weather (74-82\u00b0F) with reservoir canoeing and cool night air.",
+      "fall": "Golden larch and aspen foliage in September.",
+      "winter": "Cold mountain winter (10-25\u00b0F); world-class ice climbing hub."
+    },
+    "dangers_and_hazards": [
+      "Grizzly Bears & Black Bears (Food storage order enforced)",
+      "Cold Reservoir Waters"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Gallatin Canyon Audio (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Occasional forest road car",
+        "High altitude commercial flights"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Lodgepole Pine",
+        "Engelmann Spruce",
+        "Douglas Fir",
+        "Quaking Aspen"
+      ],
+      "common_animals": [
+        "Grizzly Bear",
+        "Black Bear",
+        "Elk",
+        "Moose",
+        "Cutthroat Trout"
+      ]
+    },
+    "human_demographics_and_culture": "Bozeman mountain town, Montana State University, ice climbing, and Gallatin wilderness culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Crow and Salish traditions honor the Gallatin Range as sacred high mountain hunting grounds.",
+      "energetic_and_spiritual_features": "Glacial turquoise reservoir surrounded by 10,000-foot alpine peaks generates an invigorating mountain energy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Hyalite Creek Trail to Palisade Falls & Blackmore Peak",
+        "length_miles": 5.5,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Cascading waterfalls, subalpine cirque basins, 10,000-ft peak views"
+      }
+    ],
+    "public_reviews_summary": "Top-tier free camping spot near Bozeman with reservoir views, waterfalls, and solid cell coverage.",
+    "other_data": "Grizzly bear food storage required by USFS.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "montana-007",
+    "name": "Kootenai National Forest Yaak River Primitive Zone",
+    "state": "Montana",
+    "county": "Lincoln",
+    "coordinates": {
+      "latitude": 48.8412,
+      "longitude": -115.9125,
+      "elevation_ft": 2850.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Kootenai National Forest (Three Rivers Ranger District)",
+      "type": "Federal",
+      "phone": "(406) 295-4693",
+      "website": "https://www.fs.usda.gov/kootenai"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed forest camping)",
+      "stay_limit": "14 days maximum stay within a 30-day window",
+      "guidelines": "Dispersed primitive camping allowed along Yaak River Road (FR 92) pullouts outside developed fee loops. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Yaak River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy. Bear food storage required."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold with river water.",
+      "seasonal_fire_bans": "Subject to USFS dry summer fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved county road to gravel forest service roads",
+      "road_conditions": "Paved main access road to smooth gravel river pullouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2/5 Stars)",
+      "verizon_reliability": "1-2 bars 4G LTE spotty",
+      "att_reliability": "1 bar 4G LTE",
+      "tmobile_reliability": "No signal",
+      "terrain_obstruction_risk": "High - Yaak River valley gorge and dense larch-fir forest",
+      "distance_from_tower_corridor_miles": 18.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Yaak River Trout Access",
+      "Yaak Falls Access",
+      "Old-Growth Forest Canopy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 4,
+      "distance_to_library_score": 4,
+      "distance_to_gym_score": 3,
+      "terrain_score": 9,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Troy, MT",
+        "distance_miles": 18.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Libby, MT",
+        "distance_miles": 34.0,
+        "services_available": [
+          "Supermarket",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush Pacific Northwest rainforest greening; roaring Yaak Falls runoff.",
+      "summer": "Pleasant summer weather (76-84\u00b0F) with river swimming holes.",
+      "fall": "Spectacular golden western larch foliage in October.",
+      "winter": "Cold mountain winter (15-30\u00b0F) with heavy snow pack."
+    },
+    "dangers_and_hazards": [
+      "Grizzly Bears & Black Bears (Mandatory Bear Storage Order)",
+      "Cold River Whitewater Currents"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Yaak Valley Wilderness Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Occasional forest road car"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Western Larch (Tamarack)",
+        "Douglas Fir",
+        "Western Red Cedar",
+        "Huckleberry"
+      ],
+      "common_animals": [
+        "Grizzly Bear",
+        "Moose",
+        "Wolverine",
+        "Harlequin Duck",
+        "Bull Trout"
+      ]
+    },
+    "human_demographics_and_culture": "Northwest Montana Yaak Valley timber, remote wilderness living, and trout conservation culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Kutenai (Ktunaxa) traditions honor the Yaak River valley as a sacred ancestral wilderness refuge.",
+      "energetic_and_spiritual_features": "Dense ancient larch-cedar forest and rushing Yaak Falls generate deep, untouched wilderness peace."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Yaak Falls Trail & Northwest Peak Trail",
+        "length_miles": 4.5,
+        "difficulty": "Moderate",
+        "features": "Cascading Yaak River falls, old-growth cedar groves, Canadian border views"
+      }
+    ],
+    "public_reviews_summary": "Pristine Pacific Northwest-style Montana wilderness river camping with Yaak Falls and zero crowds.",
+    "other_data": "Grizzly bear food storage strictly required by USFS.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "montana-008",
+    "name": "Beaverhead-Deerlodge National Forest Big Hole Primitive Zone",
+    "state": "Montana",
+    "county": "Beaverhead",
+    "coordinates": {
+      "latitude": 45.3412,
+      "longitude": -113.4125,
+      "elevation_ft": 6120.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Beaverhead-Deerlodge National Forest (Wisdom Ranger District)",
+      "type": "Federal",
+      "phone": "(406) 689-3243",
+      "website": "https://www.fs.usda.gov/bdnf"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed forest camping)",
+      "stay_limit": "14 days maximum stay within a 30-day window",
+      "guidelines": "Dispersed primitive camping allowed along Big Hole River roads and forest turnouts. Camp 100 ft from river. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Big Hole River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy. Bear food storage required."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS dry summer fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved MT-43 to gravel forest service roads",
+      "road_conditions": "Paved highway access to flat gravel river turnouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Good (3/5 Stars)",
+      "verizon_reliability": "3 bars 4G LTE",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "2 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - vast open Big Hole mountain valley basin",
+      "distance_from_tower_corridor_miles": 5.2,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Big Hole Blue-Ribbon Trout River Access",
+      "Anaconda-Pintler Wilderness Views",
+      "Primitive Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Wisdom, MT",
+        "distance_miles": 7.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Historic Saloon & Dining"
+        ]
+      },
+      {
+        "town_name": "Dillon, MT",
+        "distance_miles": 46.0,
+        "services_available": [
+          "Supermarket",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "College Amenities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool high valley spring; salmonfly hatch on Big Hole River in June.",
+      "summer": "Pleasant summer weather (75-82\u00b0F) with cool mountain night air (38\u00b0F).",
+      "fall": "Crisp autumn weather with golden willow and aspen banks.",
+      "winter": "Severe cold winter (-20 to 15\u00b0F); 'Valley of 10,000 Haystacks'."
+    },
+    "dangers_and_hazards": [
+      "Grizzly Bears & Black Bears",
+      "Extreme Winter Cold",
+      "Biting Flies in Early Summer"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Big Hole Valley Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Occasional rancher truck or fly angler car"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Lodgepole Pine",
+        "Quaking Aspen",
+        "Sandbar Willow",
+        "Mountain Big Sagebrush"
+      ],
+      "common_animals": [
+        "Grizzly Bear",
+        "Moose",
+        "Arctic Grayling (Native Species)",
+        "Brown Trout",
+        "Sandhill Crane"
+      ]
+    },
+    "human_demographics_and_culture": "Southwest Montana Big Hole cattle ranching, Nez Perce National Historic Trail, and world-class fly fishing culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Nez Perce (Nimiipuu) historic sacred site (Big Hole National Battlefield) honors ancestors of the 1877 campaign.",
+      "energetic_and_spiritual_features": "Vast mountain valley framed by the Anaconda-Pintler peaks and meandering trout waters produces solemn majesty."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Big Hole Battlefield Trail & Anaconda-Pintler Wilderness Access",
+        "length_miles": 4.8,
+        "difficulty": "Easy to Moderate",
+        "features": "Historic 1877 Nez Perce battlefield trails, trout river meanders, mountain panoramas"
+      }
+    ],
+    "public_reviews_summary": "World-class trout stream camping in Montana's famous Big Hole valley with great cell signal and quiet night skies.",
+    "other_data": "Carry bear spray and respect historic site guidelines.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "montana-009",
+    "name": "Bitterroot National Forest West Fork Primitive Zone",
+    "state": "Montana",
+    "county": "Ravalli",
+    "coordinates": {
+      "latitude": 45.7812,
+      "longitude": -114.2812,
+      "elevation_ft": 4450.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Bitterroot National Forest (West Fork Ranger District)",
+      "type": "Federal",
+      "phone": "(406) 821-3269",
+      "website": "https://www.fs.usda.gov/bitterroot"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed forest camping)",
+      "stay_limit": "14 days maximum stay within a 30-day window",
+      "guidelines": "Dispersed primitive camping allowed along West Fork Road (FR 473) pullouts outside developed fee loops. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from West Fork river. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy. Bear food storage required."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS dry summer fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved county road to gravel forest service roads",
+      "road_conditions": "Paved access roads to smooth gravel river pullouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Good (3/5 Stars)",
+      "verizon_reliability": "3 bars 4G LTE",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate - Bitterroot mountain canyon walls",
+      "distance_from_tower_corridor_miles": 5.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "West Fork Bitterroot River Trout Access",
+      "Bitterroot Mountain Ridge Views",
+      "Primitive Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Darby, MT",
+        "distance_miles": 14.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Outfitters",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Hamilton, MT",
+        "distance_miles": 32.0,
+        "services_available": [
+          "Supermarket",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush mountain valley greening with rushing river melt.",
+      "summer": "Pleasant summer weather (78-85\u00b0F) with fly fishing and river floating.",
+      "fall": "Vibrant golden larch and aspen foliage in October.",
+      "winter": "Cold mountain winter (20-35\u00b0F) with snowpack."
+    },
+    "dangers_and_hazards": [
+      "Grizzly Bears & Black Bears",
+      "Cold River Currents",
+      "High Summer Wildfire Risk"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Bitterroot River Audio (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Occasional forest road car",
+        "High altitude commercial flights"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Ponderosa Pine",
+        "Douglas Fir",
+        "Western Larch",
+        "Bitterroot (State Flower)"
+      ],
+      "common_animals": [
+        "Grizzly Bear",
+        "Elk",
+        "Bighorn Sheep",
+        "West slope Cutthroat Trout",
+        "Osprey"
+      ]
+    },
+    "human_demographics_and_culture": "Western Montana Bitterroot Valley timber, fly fishing, and mountain ranching culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Salish traditions honor the Bitterroot River valley as sacred ancestral home of bitterroot plant gatherers.",
+      "energetic_and_spiritual_features": "Towering Bitterroot mountain granite peaks above clear river waters generate serene clarity."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Painted Rocks State Park Trail & Trapper Peak Access",
+        "length_miles": 6.2,
+        "difficulty": "Moderate to Strenuous",
+        "features": "10,157-ft Trapper Peak vistas, granite cliff formations, trout river pools"
+      }
+    ],
+    "public_reviews_summary": "Fantastic Bitterroot riverfront primitive camping near Darby with solid cell service and blue-ribbon fly fishing.",
+    "other_data": "Store food in bear canisters.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "montana-010",
+    "name": "BLM Upper Missouri River Breaks Dispersed Primitive Zone",
+    "state": "Montana",
+    "county": "Fergus / Chouteau",
+    "coordinates": {
+      "latitude": 47.7812,
+      "longitude": -109.6812,
+      "elevation_ft": 2840.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Lewistown Field Office",
+      "type": "Federal",
+      "phone": "(406) 538-1900",
+      "website": "https://www.blm.gov/montana-dakotas"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive BLM dispersed camping)",
+      "stay_limit": "14 days maximum stay within a 28-day window",
+      "guidelines": "Dispersed primitive camping allowed along Missouri River breaks dirt roads and river float access sites. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Missouri River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down cottonwood locally.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold with river water.",
+      "seasonal_fire_bans": "Subject to BLM Stage 1 & 2 fire bans during dry summer."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel and dirt prairie break roads",
+      "road_conditions": "Graded gravel road to dirt river pullouts; gumbo dirt roads get slick when wet.",
+      "vehicle_recommendation": "Accessible by standard FWD car in dry weather; 4WD required when wet.",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 6
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2/5 Stars)",
+      "verizon_reliability": "1-2 bars 4G LTE spotty on high break rims",
+      "att_reliability": "1 bar 4G LTE",
+      "tmobile_reliability": "No signal",
+      "terrain_obstruction_risk": "High - white sandstone cliff canyon and badland breaks",
+      "distance_from_tower_corridor_miles": 18.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Historic Lewis & Clark River Route",
+      "White Cliffs Sandstone Overlooks",
+      "Dark Sky Star Observation"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 4,
+      "distance_to_library_score": 4,
+      "distance_to_gym_score": 3,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Fort Benton, MT",
+        "distance_miles": 26.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Historic Museums & Dining"
+        ]
+      },
+      {
+        "town_name": "Lewistown, MT",
+        "distance_miles": 48.0,
+        "services_available": [
+          "Supermarket",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush green prairie breaks; river floating season thaws.",
+      "summer": "Hot dry prairie summer (88-96\u00b0F) with cool river night air.",
+      "fall": "Crisp autumn weather with golden cottonwood trees along river.",
+      "winter": "Cold prairie winter (10-28\u00b0F) with light snow."
+    },
+    "dangers_and_hazards": [
+      "Gumbo Dirt Roads Impassable when Wet",
+      "Prairie Rattlesnakes",
+      "Remote Prairie Isolation"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Missouri River Breaks Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Occasional float trip canoeist",
+        "High altitude jet contrails"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Plains Cottonwood",
+        "Rocky Mountain Juniper",
+        "Ponderosa Pine",
+        "Big Sagebrush"
+      ],
+      "common_animals": [
+        "Bighorn Sheep",
+        "Elk",
+        "Mule Deer",
+        "Bald Eagle",
+        "Pelican"
+      ]
+    },
+    "human_demographics_and_culture": "Central Montana Missouri River breaks, Lewis & Clark National Historic Trail, and cattle ranching culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Blackfeet and Gros Ventre traditions honor the White Cliffs of the Missouri as sacred spirit rock portals described in Lewis & Clark journals.",
+      "energetic_and_spiritual_features": "Towering white sandstone cliffs carved by the Missouri River generate timeless wilderness majesty."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "White Cliffs & Hole-in-the-Wall Trail",
+        "length_miles": 5.4,
+        "difficulty": "Moderate",
+        "features": "White sandstone rock formations, Missouri River canyon vistas, bighorn sheep"
+      }
+    ],
+    "public_reviews_summary": "Historic Lewis & Clark river canyon scenery and complete quietness on Montana's Missouri River Breaks.",
+    "other_data": "Do not drive on gumbo clay roads during rain.",
+    "last_updated": "2026-09-12"
+  }
+]

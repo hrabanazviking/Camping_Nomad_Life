@@ -1,0 +1,1270 @@
+[
+  {
+    "id": "pa-allegheny-minister-creek",
+    "name": "Minister Creek Dispersed Primitive Camping Area - Allegheny National Forest",
+    "state": "Pennsylvania",
+    "county": "Warren County / Forest County",
+    "coordinates": {
+      "latitude": 41.7412,
+      "longitude": -79.1482,
+      "elevation_ft": 1420
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Marienville Ranger District",
+      "type": "USFS",
+      "phone": "(814) 927-6628",
+      "website": "https://www.fs.usda.gov/allegheny"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for general forest dispersed camping",
+      "stay_limit": "14 consecutive days max stay within 30-day period",
+      "guidelines": "Dispersed primitive camping permitted throughout general national forest lands outside developed fee areas. Campsites set back 100ft from trails, streams, and PA Route 666."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6-8 inches deep in forest topsoil, 200 feet from Minister Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only within forest.",
+      "safety_requirements": "Campfires in established rock fire rings only. Extinguish cold to touch with stream water.",
+      "seasonal_fire_bans": "Obey DCNR / USFS fire danger warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route changing to unpaved gravel forest service road (PA-666 / FS 120)",
+      "road_conditions": "Paved main road access; gravel forest side roads have small washboards and dips.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (easily accessible year-round along main road turnouts)",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Connectivity",
+      "verizon_reliability": "3-4 bars 4G LTE (20-45 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 5G LTE",
+      "terrain_obstruction_risk": "Low to Moderate (Rolling Allegheny plateau hills)",
+      "distance_from_tower_corridor_miles": 3.4,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Perennial Stream Access (Minister Creek - filter required)",
+      "Minister Creek Trail Access",
+      "Giant Sandstone Boulder Formations",
+      "Established Rock Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Tionesta / Sheffield, PA",
+        "distance_miles": 12.5,
+        "services_available": [
+          "Grocery Market",
+          "Gas Stations",
+          "Pharmacy",
+          "Local Hardware",
+          "Public Library"
+        ]
+      },
+      {
+        "town_name": "Warren, PA",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Walmart Supercenter",
+          "Warren General Hospital",
+          "24/7 Gyms",
+          "Full Commercial Services"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "50-65°F, blooming mountain laurel, spring stream flow, light mud.",
+      "summer": "75-85°F, shaded hemlock-hardwood canopy, pleasant summer climate.",
+      "fall": "Spectacular Pennsylvania autumn leaf foliage (55-68°F daytime, 35-45°F nights), prime camping.",
+      "winter": "Cold 20-35°F, freezing nights, snow-covered forest."
+    },
+    "dangers_and_hazards": [
+      "Black Bears active in Allegheny NF - store food securely",
+      "Timber Rattlesnakes active near rocky outcrops in warm months",
+      "Blacklegged ticks in leaf litter"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Creek water and forest quiet",
+      "common_human_made_sounds": [
+        "Occasional vehicle passing on PA-666",
+        "Minister Creek trail hikers"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Black Cherry (Prunus serotina - famous Allegheny black cherry)",
+        "Eastern Hemlock",
+        "Sugar Maple",
+        "American Beech",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Black Bear",
+        "Wild Turkey",
+        "Timber Rattlesnake",
+        "Porcupine"
+      ]
+    },
+    "human_demographics_and_culture": "Minister Creek backpackers, North Country Trail hikers, trout anglers, digital nomads, and autumn color tourists.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Seneca (Iroquois) indigenous traditions honor the Allegheny River basin and plateau hemlock forests as sacred ancestral spirit lands.",
+      "energetic_and_spiritual_features": "Giant sandstone boulder acoustic sanctuary, ancient hemlock forest peace, clean stream water."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Minister Creek Trail Loop",
+        "length_miles": 6.6,
+        "difficulty": "Moderate",
+        "features": "Giant moss-covered sandstone boulders, stream valleys, scenic overlooks"
+      }
+    ],
+    "public_reviews_summary": "Top choice for free primitive camping in Western Pennsylvania. Gorgeous hemlock forests, massive sandstone boulders, and reliable cell internet.",
+    "other_data": "Bortle Class 3 night sky. Abundant firewood.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "pa-allegheny-nf-minister-creek",
+    "name": "Minister Creek Trail Dispersed Primitive Camping",
+    "state": "Pennsylvania",
+    "county": "Warren County",
+    "coordinates": {
+      "latitude": 41.7412,
+      "longitude": -79.1412,
+      "elevation_ft": 1580
+    },
+    "management_agency": {
+      "name": "US Forest Service - Allegheny National Forest (Marienville Ranger District)",
+      "type": "USFS",
+      "phone": "(814) 927-6628",
+      "website": "https://www.fs.usda.gov/allegheny"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Dispersed Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted along Minister Creek Trail corridor and Forest Road 420. Camp 100ft minimum from trail and creek."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in organic soil 200 feet from Minister Creek. Pack out hygiene products.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on forest lands.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Spring/autumn leaf weather fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved PA Route 666 to gravel Forest Road 420",
+      "road_conditions": "Paved main access, graded gravel forest pullouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate / High Overlook Elevation",
+      "verizon_reliability": "3-4 bars 4G LTE at Minister Creek Overlook summit",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate in deep hemlock stream valleys",
+      "distance_from_tower_corridor_miles": 3.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Gigantic Mossy Sandstone Conglomerate Boulder Overlooks",
+      "Hemlock & Black Cherry Forest Canopy",
+      "Minister Creek Water Source (Filter mandatory)",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Warren, PA",
+        "distance_miles": 15.0,
+        "services_available": [
+          "Tops Friendly Markets / Walmart",
+          "Gas Stations",
+          "Warren Public Library",
+          "Warren General Hospital",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "45-62°F, spring mountain stream runoff, lush hemlock green.",
+      "summer": "70-82°F, cool Allegheny forest canopy escape from summer heat.",
+      "fall": "48-65°F, magnificent black cherry and maple autumn foliage.",
+      "winter": "20-35°F, heavy snowfall, winter woods trail hiking."
+    },
+    "dangers_and_hazards": [
+      "Giant sandstone rock crevasse drop-offs (watch footing at overlooks)",
+      "Black bears in Allegheny NF (bear hang for food recommended)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Rushing creek water and forest wind",
+      "common_human_made_sounds": [
+        "Occasional backpacker on trail"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Black Cherry (world famous Allegheny cherry wood)",
+        "Eastern Hemlock",
+        "American Beech",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "White-tailed Deer",
+        "Porcupine",
+        "Ruffed Grouse",
+        "Native Brook Trout"
+      ]
+    },
+    "human_demographics_and_culture": "Seneca Nation ancestral territory, Pennsylvania lumber history, Allegheny backpackers, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Seneca (Iroquois) lands honoring the ancient hemlock forest and giant sandstone rock labyrinths.",
+      "energetic_and_spiritual_features": "Enchanting mossy boulder energy, sweeping valley outlook serenity."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Minister Creek Loop Trail",
+        "length_miles": 6.6,
+        "difficulty": "Moderate",
+        "features": "Giant sandstone boulder labyrinths, valley overlook, stream valley"
+      }
+    ],
+    "public_reviews_summary": "One of Pennsylvania's best free primitive camping spots. Giant mossy rock formations, fast cell service on the ridge overlook, and easy drive to Warren.",
+    "other_data": "Allegheny National Forest. Free dispersed camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "pa-susquehannock-state-forest-dispersed",
+    "name": "Susquehannock State Forest Dispersed Primitive Camping",
+    "state": "Pennsylvania",
+    "county": "Potter County",
+    "coordinates": {
+      "latitude": 41.6812,
+      "longitude": -77.8812,
+      "elevation_ft": 2150
+    },
+    "management_agency": {
+      "name": "Pennsylvania Department of Conservation and Natural Resources (DCNR) - Bureau of Forestry",
+      "type": "State DCNR",
+      "phone": "(814) 274-3600",
+      "website": "https://www.dcnr.pa.gov/StateForests"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Free PA DCNR State Forest Camping Permit required online/at forest district office (zero cost)",
+      "stay_limit": "7 consecutive days stay limit per site",
+      "guidelines": "Dispersed primitive roadside camping permitted at designated motorized sites throughout Susquehannock State Forest."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in organic soil 200 feet from streams. Pack out hygiene products.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on forest lands.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Spring/autumn dry leaf weather fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route to gravel Forest Service roads (Denton Hill Road)",
+      "road_conditions": "Graded gravel access roads, flat pullout turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Route 6 & Coudersport Tower Line",
+      "verizon_reliability": "3-4 bars 4G LTE near Coudersport / Route 6 corridor",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate across high Allegheny plateau crests",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "High Allegheny Plateau Cherry & Maple Forest Campsites",
+      "Cherry Springs International Dark Sky Park Access",
+      "Flat Dirt/Gravel Pullouts",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Coudersport, PA",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Shop 'n Save Supermarket",
+          "Gas Stations",
+          "Coudersport Public Library",
+          "UPMC Cole Hospital",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "42-58°F, spring forest leaf-out, crisp mountain air.",
+      "summer": "68-80°F, cool high-elevation escape from Pennsylvania summer heat.",
+      "fall": "45-65°F, world-class black cherry and maple autumn foliage.",
+      "winter": "18-32°F, heavy snowfall, snowmobile and winter woods trail hiking."
+    },
+    "dangers_and_hazards": [
+      "Black bears in Potter County (store food securely)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "10/10 - High plateau forest wind and absolute night silence",
+      "common_human_made_sounds": [
+        "Occasional forest road vehicle"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Black Cherry",
+        "Sugar Maple",
+        "Eastern Hemlock",
+        "American Beech"
+      ],
+      "common_animals": [
+        "Elk",
+        "Black Bear",
+        "White-tailed Deer",
+        "Porcupine",
+        "Ruffed Grouse"
+      ]
+    },
+    "human_demographics_and_culture": "Seneca (Iroquois) ancestral lands, Pennsylvania Wilds lumber culture, stargazers, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Heart of the Pennsylvania Wilds. World-famous Bortle Class 2 dark sky stargazing near Cherry Springs State Park.",
+      "energetic_and_spiritual_features": "Profound high plateau silence, world-class Milky Way night skies."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Susquehannock Trail System (STS)",
+        "length_miles": 10.0,
+        "difficulty": "Moderate",
+        "features": "Allegheny plateau ridges, black cherry forests, remote stream valleys"
+      }
+    ],
+    "public_reviews_summary": "Pennsylvania's dark sky primitive camping capital. Free state forest sites near Cherry Springs, fast cell internet near Coudersport, and world-class stargazing.",
+    "other_data": "PA DCNR Bureau of Forestry. Free permit required.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "pennsylvania-004",
+    "name": "Rothrock State Forest Dispersed Primitive Zone",
+    "state": "Pennsylvania",
+    "county": "Centre / Huntingdon",
+    "coordinates": {
+      "latitude": 40.7125,
+      "longitude": -77.7812,
+      "elevation_ft": 1450.0
+    },
+    "management_agency": {
+      "name": "Pennsylvania Department of Conservation and Natural Resources (DCNR) - Bureau of Forestry",
+      "type": "State",
+      "phone": "(814) 643-2340",
+      "website": "https://www.dcnr.pa.gov/StateForests/FindAForest/Rothrock"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive motorized/backpacking permit available online or free self-registration)",
+      "stay_limit": "7 consecutive nights limit per site",
+      "guidelines": "Dispersed primitive camping permitted at designated motorized sites and trailside along Mid State Trail. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Carry-In, Carry-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold with water.",
+      "seasonal_fire_bans": "Subject to PA DCNR spring and fall burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest service roads",
+      "road_conditions": "Well-maintained gravel roads with flat cleared pullouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE on ridge tops",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate - Ridge and Valley mountain topography",
+      "distance_from_tower_corridor_miles": 2.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Gravel Flat Campsite",
+      "Ridge Overlook Vistas",
+      "Stone Fire Ring"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 7,
+      "terrain_score": 8,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "State College, PA",
+        "distance_miles": 9.5,
+        "services_available": [
+          "Supermarkets",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Penn State University Amenities"
+        ]
+      },
+      {
+        "town_name": "Huntingdon, PA",
+        "distance_miles": 18.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush Appalachian forest greening with spring wild flowers.",
+      "summer": "Pleasant summer weather (76-84°F) with cool mountain canopy shade.",
+      "fall": "Spectacular central Pennsylvania ridge foliage colors.",
+      "winter": "Cold mountain winter (20-35°F) with snowpack; cross-country skiing."
+    },
+    "dangers_and_hazards": [
+      "Black Bears",
+      "Timber Rattlesnakes (Rocky Ridges)",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Appalachian Ridge Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Distant valley traffic hum",
+        "High altitude commercial flights"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Chestnut Oak",
+        "Red Maple",
+        "Mountain Laurel",
+        "Eastern Hemlock"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Black Bear",
+        "Wild Turkey",
+        "Porcupine"
+      ]
+    },
+    "human_demographics_and_culture": "Central Pennsylvania Appalachian timber, university (Penn State), and mountain biking culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Susquehannock and Iroquois history honors the high ridges of Rothrock as ancient trade and lookout corridors.",
+      "energetic_and_spiritual_features": "Panoramic views over Nittany Valley provide an uplifting, wide-open perspective."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Mid State Trail - Rothrock Section & Tussey Mountain",
+        "length_miles": 8.5,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Rocky ridge walking, fire tower vistas, mountain laurel groves"
+      }
+    ],
+    "public_reviews_summary": "Incredible mountain biking trails, blazing fast 5G cell internet near State College, and zero fees.",
+    "other_data": "Obey PA DCNR free permit rules.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "pennsylvania-005",
+    "name": "Sprowl Mountain Primitive Zone - Loyalsock State Forest",
+    "state": "Pennsylvania",
+    "county": "Sullivan",
+    "coordinates": {
+      "latitude": 41.4812,
+      "longitude": -76.5812,
+      "elevation_ft": 1820.0
+    },
+    "management_agency": {
+      "name": "Pennsylvania Department of Conservation and Natural Resources (DCNR) - Bureau of Forestry",
+      "type": "State",
+      "phone": "(570) 946-4049",
+      "website": "https://www.dcnr.pa.gov/StateForests/FindAForest/Loyalsock"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive trailside camping for backpackers along Loyalsock Trail)",
+      "stay_limit": "7 consecutive nights limit",
+      "guidelines": "Primitive backcountry camping permitted along Loyalsock Trail corridor at least 100 feet from water and trails. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from Loyalsock Creek.",
+      "trash_policy": "Strict Carry-In Carry-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to PA DCNR spring/fall burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway to gravel trailhead lot",
+      "road_conditions": "Paved access roads to trailhead parking area.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Good (3/5 Stars)",
+      "verizon_reliability": "3 bars 4G LTE on high ridges",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate - Endless Mountains plateau and creek ravines",
+      "distance_from_tower_corridor_miles": 5.2,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Loyalsock Creek Water Access",
+      "Waterfall Overlooks",
+      "Primitive Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Dushore, PA",
+        "distance_miles": 11.4,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Williamsport, PA",
+        "distance_miles": 28.5,
+        "services_available": [
+          "Supercenters",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cascading mountain waterfalls and lush hemlock ravine growth.",
+      "summer": "Pleasant summer weather (72-80°F) with swimming in Loyalsock Creek.",
+      "fall": "Endless Mountains peak fall foliage in October.",
+      "winter": "Cold mountain winter (18-32°F) with snow pack."
+    },
+    "dangers_and_hazards": [
+      "Black Bears",
+      "Timber Rattlesnakes",
+      "High Water in Creek Ravines"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Endless Mountains Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Occasional passing forest road car",
+        "High altitude aircraft"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Eastern Hemlock",
+        "Black Birch",
+        "Sugar Maple",
+        "Rhododendron"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "White-tailed Deer",
+        "Ruffed Grouse",
+        "River Otter"
+      ]
+    },
+    "human_demographics_and_culture": "Pennsylvania Endless Mountains timber, coal, and outdoor backpacking tradition.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Iroquois history celebrates Loyalsock Creek ('Middle Creek') as a sacred ancestral waterway.",
+      "energetic_and_spiritual_features": "Deep hemlock ravines and cascading waterfalls foster deep peace."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Loyalsock Trail - Haystacks & Jacoby Falls Section",
+        "length_miles": 7.8,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Haystacks sandstone rapids, 29-ft Jacoby Falls, high plateau views"
+      }
+    ],
+    "public_reviews_summary": "Gorgeous waterfalls and deep hemlock ravines in PA's Endless Mountains with free backcountry camping.",
+    "other_data": "Treat or filter all creek water.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "pennsylvania-006",
+    "name": "Allegheny NF Hickory Creek Wilderness Primitive Area",
+    "state": "Pennsylvania",
+    "county": "Warren",
+    "coordinates": {
+      "latitude": 41.6812,
+      "longitude": -79.3112,
+      "elevation_ft": 1450.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Allegheny National Forest (Bradford District)",
+      "type": "Federal",
+      "phone": "(814) 362-4613",
+      "website": "https://www.fs.usda.gov/allegheny"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS wilderness dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed throughout 8,600-acre Hickory Creek Wilderness 100 ft from trails and streams. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Hickory Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved US Route 62 to gravel Forest Service road",
+      "road_conditions": "Paved highway access; smooth gravel forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open plateau line of sight",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Hickory Creek Shoreline Access",
+      "Old-Growth Hemlock-Hardwood Canopy",
+      "Wilderness Trail Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Tidioute, PA",
+        "distance_miles": 8.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush fresh spring (52-66°F).",
+      "summer": "Pleasant cool summer (74-82°F).",
+      "fall": "Spectacular Allegheny autumn colors.",
+      "winter": "Cold snowy winter (16-30°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Area",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Allegheny Wilderness Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Hickory Creek water murmur",
+        "Wind through old hemlock"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Eastern Hemlock",
+        "American Beech",
+        "Black Cherry",
+        "Sugar Maple"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "White-tailed Deer",
+        "Native Brook Trout",
+        "Pileated Woodpecker"
+      ]
+    },
+    "human_demographics_and_culture": "Haudenosaunee (Seneca) ancestral lands and Allegheny Plateau timber preservation heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Hickory Creek is Pennsylvania's largest federal wilderness area, protecting mature hemlock and black cherry forests.",
+      "energetic_and_spiritual_features": "Quiet crystalline trout streams winding under giant old-growth hemlocks."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Hickory Creek Wilderness Loop",
+        "length_miles": 6.0,
+        "difficulty": "Moderate",
+        "features": "Stream canyon walk, old-growth hemlock groves, wilderness solitude"
+      }
+    ],
+    "public_reviews_summary": "Top-tier wilderness river basecamp in Allegheny National Forest near Tidioute with strong cell service.",
+    "other_data": "PA's flagship federal wilderness area.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "pennsylvania-007",
+    "name": "Allegheny NF Tracy Ridge Trailside Zone",
+    "state": "Pennsylvania",
+    "county": "McKean",
+    "coordinates": {
+      "latitude": 41.8812,
+      "longitude": -78.8812,
+      "elevation_ft": 1950.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Allegheny National Forest",
+      "type": "Federal",
+      "phone": "(814) 362-4613",
+      "website": "https://www.fs.usda.gov/allegheny"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along 33-mile Tracy Ridge trail network. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Allegheny Reservoir. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved PA Route 321 to trailhead parking",
+      "road_conditions": "Paved road access; smooth parking turnout.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - high ridge line of sight",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Allegheny Reservoir Overlooks",
+      "Black Cherry-Oak Canopy",
+      "Tracy Ridge Trail Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Bradford, PA",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Grocery Store",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush ridge spring (50-64°F).",
+      "summer": "Pleasant cool summer (72-80°F).",
+      "fall": "World-class Allegheny autumn colors.",
+      "winter": "Cold snowy winter (14-28°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Area",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Tracy Ridge Quiet (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Wind through black cherry canopy",
+        "Allegheny Reservoir distant water lap"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Black Cherry",
+        "Red Oak",
+        "White Pine",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "White-tailed Deer",
+        "Bald Eagle",
+        "Porcupine"
+      ]
+    },
+    "human_demographics_and_culture": "Seneca ancestral lands and Allegheny Reservoir conservation heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Tracy Ridge forms one of the largest roadless areas in the northeastern United States.",
+      "energetic_and_spiritual_features": "Panoramic bluffs high above the expansive Allegheny Reservoir."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Tracy Ridge Trail",
+        "length_miles": 5.0,
+        "difficulty": "Moderate",
+        "features": "Reservoir vistas, black cherry forest walk, mountain laurel"
+      }
+    ],
+    "public_reviews_summary": "Peaceful high-ridge reservoir basecamp near Bradford with strong cell service.",
+    "other_data": "Largest roadless area in PA.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "pennsylvania-008",
+    "name": "Sproul State Forest Donut Hole Trail Dispersed Area",
+    "state": "Pennsylvania",
+    "county": "Clinton",
+    "coordinates": {
+      "latitude": 41.3112,
+      "longitude": -77.7812,
+      "elevation_ft": 1650.0
+    },
+    "management_agency": {
+      "name": "Pennsylvania DCNR - Bureau of Forestry",
+      "type": "State",
+      "phone": "(570) 923-6011",
+      "website": "https://www.dcnr.pa.gov/forestry"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state forest dispersed camping with free DCNR permit)",
+      "stay_limit": "7 consecutive nights max limit",
+      "guidelines": "Free primitive camping allowed at designated forest clearings along Donut Hole Trail in 300,000-acre Sproul State Forest. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from West Branch Susquehanna River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to DCNR stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route to gravel forest road",
+      "road_conditions": "Paved access road; smooth gravel interior forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - ridge plateau line of sight",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "West Branch Susquehanna Canyon Views",
+      "Oak-Hickory Canopy",
+      "Donut Hole Trail Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Renovo, PA",
+        "distance_miles": 6.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush canyon spring (52-66°F).",
+      "summer": "Pleasant cool summer (75-82°F).",
+      "fall": "Spectacular PA Wilds autumn foliage.",
+      "winter": "Cold snowy winter (16-30°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Area",
+      "Timber Rattlesnakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "PA Wilds Canyon Quiet (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "West Branch Susquehanna water roar",
+        "Wind through red oak"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Oak",
+        "Chestnut Oak",
+        "Mountain Laurel",
+        "Hemlock"
+      ],
+      "common_animals": [
+        "Elk (Vagrant)",
+        "Black Bear",
+        "White-tailed Deer",
+        "Timber Rattlesnake"
+      ]
+    },
+    "human_demographics_and_culture": "Susquehannock ancestral lands and PA Wilds timber and CCC heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Sproul State Forest is Pennsylvania's largest state forest, protecting vast unpopulated canyon plateaus.",
+      "energetic_and_spiritual_features": "Deep mountain gorges overlooking the winding Susquehanna River."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Donut Hole Trail (Renovo Section)",
+        "length_miles": 5.0,
+        "difficulty": "Moderate to Advanced",
+        "features": "Susquehanna river canyon vistas, mountain laurel, oak forest"
+      }
+    ],
+    "public_reviews_summary": "PA Wilds premier wilderness canyon basecamp near Renovo with solid cell coverage.",
+    "other_data": "Free DCNR permit required.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "pennsylvania-009",
+    "name": "Elk State Forest Quehanna Wild Area Primitive Zone",
+    "state": "Pennsylvania",
+    "county": "Cameron",
+    "coordinates": {
+      "latitude": 41.1812,
+      "longitude": -78.1812,
+      "elevation_ft": 2100.0
+    },
+    "management_agency": {
+      "name": "Pennsylvania DCNR - Bureau of Forestry",
+      "type": "State",
+      "phone": "(814) 486-3353",
+      "website": "https://www.dcnr.pa.gov/forestry"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state forest dispersed camping with free permit)",
+      "stay_limit": "7 consecutive nights max limit",
+      "guidelines": "Free primitive camping allowed throughout 48,000-acre Quehanna Wild Area. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Medix Run. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to DCNR stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route to gravel forest road",
+      "road_conditions": "Paved access road; smooth gravel interior forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - high plateau line of sight",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Wild PA Elk Herd Viewing",
+      "Quehanna Trail Access",
+      "High Elevation Pine-Oak Canopy",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Benezette, PA",
+        "distance_miles": 8.0,
+        "services_available": [
+          "Elk Country Visitor Center",
+          "General Store",
+          "Gas Station",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush plateau spring (50-64°F).",
+      "summer": "Pleasant cool mountain summer (72-80°F).",
+      "fall": "World-famous PA Elk Rut autumn season.",
+      "winter": "Cold snowy winter (14-28°F)."
+    },
+    "dangers_and_hazards": [
+      "Wild Elk Herd Hazards during Rut",
+      "Black Bear Area"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Quehanna Highland Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Elk bugling in autumn",
+        "Wind through red pine"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Red Pine",
+        "White Oak",
+        "Pitch Pine",
+        "Blueberry Bushes"
+      ],
+      "common_animals": [
+        "Rocky Mountain Elk",
+        "Black Bear",
+        "White-tailed Deer",
+        "Bobcat"
+      ]
+    },
+    "human_demographics_and_culture": "Susquehannock ancestral lands and PA Wilds elk reintroduction heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Quehanna Wild Area is the heart of Pennsylvania's wild free-roaming elk herd country.",
+      "energetic_and_spiritual_features": "Vast high-altitude pine plateau echoed by autumn bull elk bugling."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Quehanna Trail (Medix Run Loop)",
+        "length_miles": 5.2,
+        "difficulty": "Moderate",
+        "features": "Elk viewing meadows, pine plateau walk, stream ravines"
+      }
+    ],
+    "public_reviews_summary": "Incredible wild elk viewing basecamp near Benezette with dependable cell coverage.",
+    "other_data": "Heart of PA wild elk range.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "pennsylvania-010",
+    "name": "Michaux State Forest AT Dispersed Campsites",
+    "state": "Pennsylvania",
+    "county": "Adams",
+    "coordinates": {
+      "latitude": 40.0112,
+      "longitude": -77.3812,
+      "elevation_ft": 1450.0
+    },
+    "management_agency": {
+      "name": "Pennsylvania DCNR - Bureau of Forestry",
+      "type": "State",
+      "phone": "(717) 352-2141",
+      "website": "https://www.dcnr.pa.gov/forestry"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state forest dispersed camping with free permit)",
+      "stay_limit": "7 consecutive nights max limit",
+      "guidelines": "Free primitive camping allowed at designated campsites along Appalachian Trail corridor in 85,000-acre Michaux State Forest. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Mountain Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires strictly in cleared rock fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to DCNR stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state route to gravel forest road",
+      "road_conditions": "Paved access road; smooth gravel forest road.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4-5 bars 4G LTE / 5G",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - South Mountain ridge line of sight",
+      "distance_from_tower_corridor_miles": 3.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Appalachian Trail Halfway Point Access",
+      "Pine Grove Furnace Park Nearby",
+      "Oak-Pine Canopy",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 6,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Gardners, PA",
+        "distance_miles": 5.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "AT Museum",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Fresh mountain spring (54-68°F).",
+      "summer": "Warm summer (78-86°F).",
+      "fall": "Vibrant autumn colors.",
+      "winter": "Cool winter (22-38°F)."
+    },
+    "dangers_and_hazards": [
+      "Copperhead & Timber Rattlesnakes",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "South Mountain Ridge Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through pitch pine",
+        "Songbirds"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Chestnut Oak",
+        "Pitch Pine",
+        "Mountain Laurel",
+        "Teaberry"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Red Fox",
+        "Broad-winged Hawk"
+      ]
+    },
+    "human_demographics_and_culture": "Susquehannock ancestral lands and historic iron furnace and Appalachian Trail halfway point heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Michaux State Forest marks the geographic midpoint of the 2,190-mile Appalachian Trail.",
+      "energetic_and_spiritual_features": "Quiet oak and pitch pine ridges along historic Native American mountain paths."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Appalachian Trail Halfway Point Trail",
+        "length_miles": 4.0,
+        "difficulty": "Easy to Moderate",
+        "features": "AT midpoint marker, pine ridge walk, mountain laurel"
+      }
+    ],
+    "public_reviews_summary": "Historic AT midpoint basecamp near Gardners with fast 5G cell service.",
+    "other_data": "AT Halfway Point & Museum.",
+    "last_updated": "2026-09-12"
+  }
+]

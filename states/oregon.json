@@ -1,0 +1,1331 @@
+[
+  {
+    "id": "or-deschutes-sparks-lake",
+    "name": "Sparks Lake Surrounding Dispersed Camping - Deschutes National Forest",
+    "state": "Oregon",
+    "county": "Deschutes County",
+    "coordinates": {
+      "latitude": 44.0214,
+      "longitude": -121.6814,
+      "elevation_ft": 5420
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Bend-Fort Rock Ranger District",
+      "type": "USFS",
+      "phone": "(541) 383-5300",
+      "website": "https://www.fs.usda.gov/deschutes"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Designated primitive campsites (no fees)",
+      "stay_limit": "14 consecutive days max stay within 30-day period",
+      "guidelines": "Dispersed primitive camping permitted only at designated numbered sites along Forest Road 4600-370 corridor. Campers must park within designated site boundary posts. Camping set back 100ft from water."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6 inches deep in volcanic ash/pumice soil, at least 200 feet from Sparks Lake and streams. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out. Black bear country: hard-sided vehicle or bear canister storage mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only.",
+      "safety_requirements": "Campfires in designated stone/metal fire rings only. Extinguish cold to touch with lake water.",
+      "seasonal_fire_bans": "Stage 1 and Stage 2 fire restrictions strictly enforced during dry summer (July-September)."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved highway changing to unpaved volcanic cinder forest road (Cascade Lakes Highway / FR 370)",
+      "road_conditions": "Washboard gravel and volcanic cinder road with rocks, dust, and washboards.",
+      "vehicle_recommendation": "High clearance car or CUV/SUV recommended (Normal 2WD low clearance cars can access lower sites near paved highway in dry weather)",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Internet",
+      "verizon_reliability": "3-4 bars 5G/LTE (20-50 Mbps download near Century Drive junction)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 5G LTE",
+      "terrain_obstruction_risk": "Low to Moderate (Open volcanic plateau with Mt. Bachelor & South Sister views)",
+      "distance_from_tower_corridor_miles": 4.2,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Designated Campsite Posts",
+      "Panoramic Views of South Sister & Mount Bachelor",
+      "Glacial Spring Lake Access (Filter required)",
+      "Established Rock Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 10,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Bend, OR",
+        "distance_miles": 24.5,
+        "services_available": [
+          "Trader Joe's / Whole Foods / Safeway",
+          "REI Outdoor Store",
+          "St. Charles Medical Center",
+          "24/7 Gyms",
+          "Deschutes Public Library"
+        ]
+      },
+      {
+        "town_name": "Sunriver, OR",
+        "distance_miles": 18.0,
+        "services_available": [
+          "Supermarket",
+          "Gas Stations",
+          "Propane",
+          "Hardware Store"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Late May thaw: cold (40-55°F), high snowmelt runoff, road gates opening around Memorial Day.",
+      "summer": "Ideal Pacific Northwest summer (75-85°F daytime, crisp 40-45°F nights), low humidity, mosquito activity near lake in June.",
+      "fall": "Crisp 55-68°F days, freezing night temperatures (25-35°F), clear starry nights, prime boondocking.",
+      "winter": "Severe Cascade mountain winter (15-30°F), heavy snowpack, Cascade Lakes Highway closed to cars (groomed snowmobile trail)."
+    },
+    "dangers_and_hazards": [
+      "Black Bears and Cougars present in Cascades",
+      "High elevation solar exposure",
+      "Volcanic dust storms during dry summer winds"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Alpine lake and lodgepole pine quiet",
+      "common_human_made_sounds": [
+        "Paddleboarders and kayakers on Sparks Lake",
+        "Occasional vehicle passing on Cascade Lakes Highway"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Lodgepole Pine",
+        "Ponderosa Pine",
+        "Mountain Hemlock (Tsuga mertensiana)",
+        "Manzanita (Arctostaphylos)",
+        "Cascade Aster"
+      ],
+      "common_animals": [
+        "Mule Deer",
+        "Elk",
+        "Black Bear",
+        "Osprey (Pandion haliaetus)",
+        "Cascade Red Fox (Vulpes vulpes cascadensis)"
+      ]
+    },
+    "human_demographics_and_culture": "Cascade Mountain trail runners, stand-up paddleboarders, Bend digital nomads, landscape photographers, and overlanders.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Klamath and Warm Springs indigenous oral traditions honor the Three Sisters volcanic peaks and glacial headwater lakes as sacred emergence homes of the mountain and fire spirits.",
+      "energetic_and_spiritual_features": "High volcanic mountain peak energy, crystal-clear glacial lake reflections, 5G-connected alpine sanctuary."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Ray Atkeson Memorial Loop Trail (Sparks Lake)",
+        "length_miles": 2.5,
+        "difficulty": "Easy",
+        "features": "Winding lava rock trail along Sparks Lake shore with iconic reflections of South Sister"
+      }
+    ],
+    "public_reviews_summary": "World-class Oregon mountain boondocking near Bend. Breathtaking volcanic peak views, pristine water, and fast 5G cell internet.",
+    "other_data": "Bortle Class 2 night sky. Excellent solar panel efficiency.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "or-deschutes-nf-three-sisters-wilderness",
+    "name": "Three Sisters Wilderness Dispersed Primitive Camping",
+    "state": "Oregon",
+    "county": "Deschutes County",
+    "coordinates": {
+      "latitude": 44.0214,
+      "longitude": -121.6512,
+      "elevation_ft": 4850
+    },
+    "management_agency": {
+      "name": "US Forest Service - Deschutes National Forest (Bend-Fort Rock Ranger District)",
+      "type": "USFS",
+      "phone": "(541) 383-5300",
+      "website": "https://www.fs.usda.gov/deschutes"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Dispersed Primitive Camping (zero cost; free wilderness permit self-issue at trailhead outside peak day-use permit zones)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping at established forest road sites along Cascade Lakes Highway corridors and Forest Road 46. Camp 100ft from lakes."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in soil 200 feet from volcanic lakes and streams. Pack out hygiene items.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down pine wood gathering permitted.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully extinguish with water.",
+      "seasonal_fire_bans": "Strict summer wildfire bans enforced July through September."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved Cascade Lakes Scenic Byway to dirt/gravel Forest Roads",
+      "road_conditions": "Paved main highway, smooth gravel forest spur pullouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance vehicles.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Good to Strong / Highway Tower Line",
+      "verizon_reliability": "3-4 bars 4G LTE (20-45 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate on open lava pine flats",
+      "distance_from_tower_corridor_miles": 3.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Snowcapped Volcanic Peak Views (South Sister / Broken Top)",
+      "Ponderosa Pine & Lodgepole Shade",
+      "Clear Volcanic Stream Access",
+      "Flat Gravel Van Parking Pullouts"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Bend, OR",
+        "distance_miles": 18.0,
+        "services_available": [
+          "Trader Joe's / Safeway",
+          "REI / Outdoor Gear",
+          "Deschutes County Library",
+          "St. Charles Hospital",
+          "24/7 Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "40-55°F, snow melt on mountain roads, crisp sunny Central Oregon air.",
+      "summer": "72-86°F, warm sunny dry mountain weather, clear blue skies.",
+      "fall": "48-68°F, golden aspen colors, crisp chilly starry nights.",
+      "winter": "15-32°F, heavy Cascade mountain snowpack, snowshoe and cross-country ski season."
+    },
+    "dangers_and_hazards": [
+      "Summer wildfire smoke risks",
+      "Volcanic rock tripping hazards",
+      "Mosquitoes around snowmelt lakes in June/July"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Mountain wind through lodgepole pines",
+      "common_human_made_sounds": [
+        "Distant vehicle on Cascade Lakes Byway"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Ponderosa Pine",
+        "Lodgepole Pine",
+        "Manzanita",
+        "Bitterbrush",
+        "Wild Huckleberry"
+      ],
+      "common_animals": [
+        "Osprey",
+        "Cascades Frog",
+        "Mule Deer",
+        "Black Bear",
+        "Golden-mantled Ground Squirrel"
+      ]
+    },
+    "human_demographics_and_culture": "Bend outdoor athletes, trail runners, paddleboarders, vanlife digital nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Warm Springs and Paiute ancestral lands honoring the sacred Cascade volcanic peaks as majestic guardians.",
+      "energetic_and_spiritual_features": "Revitalizing high desert mountain energy, crystalline volcanic lake clarity."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Green Lakes Trail",
+        "length_miles": 9.1,
+        "difficulty": "Moderate",
+        "features": "Obsidian lava flows, rushing mountain waterfalls, South Sister views"
+      }
+    ],
+    "public_reviews_summary": "Top nomad boondocking spot outside Bend, Oregon. Excellent cell internet, flat pine campsites, and quick access to Bend's cafes and gyms.",
+    "other_data": "Deschutes National Forest. Free dispersed camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "or-rogue-river-siskiyou-nf-illinois-river",
+    "name": "Illinois River Road Dispersed Primitive Camping",
+    "state": "Oregon",
+    "county": "Josephine County",
+    "coordinates": {
+      "latitude": 42.2412,
+      "longitude": -123.6812,
+      "elevation_ft": 1150
+    },
+    "management_agency": {
+      "name": "US Forest Service - Rogue River-Siskiyou National Forest (Wild Rivers Ranger District)",
+      "type": "USFS",
+      "phone": "(541) 592-4000",
+      "website": "https://www.fs.usda.gov/rogue-siskiyou"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Dispersed Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted at designated pullouts along Illinois River Road (Forest Road 4103). Camp 100ft minimum from river high water mark."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in soil 200 feet from Illinois River. Pack out hygiene products.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down pine and madrone wood collection permitted.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Summer dry forest fire restrictions active July through September."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved US 199 to unpaved dirt/gravel Forest Road 4103",
+      "road_conditions": "Winding narrow paved/gravel river road, steep shelf turnouts.",
+      "vehicle_recommendation": "High clearance recommended; standard 2WD vehicles can reach lower pullouts carefully in dry weather.",
+      "scores": {
+        "road_grade": 5,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Cave Junction Tower Line",
+      "verizon_reliability": "3-4 bars 4G LTE near US 199 highway junction",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate inside deep emerald river canyon",
+      "distance_from_tower_corridor_miles": 3.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Emerald Turquoise Riverfront Campsites",
+      "Siskiyou Mountain Pine & Madrone Canopy",
+      "Natural Swimming Holes & Rock Jumps",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Cave Junction, OR",
+        "distance_miles": 8.0,
+        "services_available": [
+          "Shop Smart Supermarket",
+          "Gas Stations",
+          "Illinois Valley Public Library",
+          "Clinic",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Grants Pass, OR",
+        "distance_miles": 32.0,
+        "services_available": [
+          "Full Metro Services",
+          "Safeway / Fred Meyer",
+          "Three Rivers Hospital",
+          "24/7 Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "50-68°F, roaring emerald river runoff, green Siskiyou growth.",
+      "summer": "78-92°F, prime Oregon river swimming weather, warm sunny days.",
+      "fall": "52-72°F, golden madrone and bigleaf maple foliage.",
+      "winter": "38-50°F, mild winter rain, rushing green river water."
+    },
+    "dangers_and_hazards": [
+      "Fast-moving river currents and slippery rocks in Illinois River canyon",
+      "Poison oak in Siskiyou underbrush",
+      "Narrow dirt canyon road with steep drop-offs"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Emerald river rapids and forest wind",
+      "common_human_made_sounds": [
+        "Occasional 4x4 on river road"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Pacific Madrone",
+        "Douglas Fir",
+        "Ponderosa Pine",
+        "Darlingtonia (Carnivorous Cobra Lily)",
+        "Poison Oak"
+      ],
+      "common_animals": [
+        "Chinook Salmon",
+        "River Otter",
+        "Black Bear",
+        "Osprey",
+        "Bald Eagle"
+      ]
+    },
+    "human_demographics_and_culture": "Takelma and Tututni ancestral lands, Siskiyou mountain locals, river swimmers, digital nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Traditional Takelma territory honoring the emerald Illinois River as a sacred life-giving waterway of the Siskiyou mountains.",
+      "energetic_and_spiritual_features": "Crystalline emerald green river water energy, lush madrone forest serenity."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Illinois River Trail",
+        "length_miles": 12.0,
+        "difficulty": "Strenuous",
+        "features": "Emerald river canyon bluffs, cobra lily bogs, old-growth pines"
+      }
+    ],
+    "public_reviews_summary": "One of Oregon's most beautiful free river boondocking locations. Crystal clear emerald green swimming holes, fast cell internet near Cave Junction, and free USFS access.",
+    "other_data": "Rogue River-Siskiyou National Forest. Free dispersed primitive camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "oregon-004",
+    "name": "Steens Mountain Loop Dispersed BLM Primitive Zone",
+    "state": "Oregon",
+    "county": "Harney",
+    "coordinates": {
+      "latitude": 42.6412,
+      "longitude": -118.5812,
+      "elevation_ft": 7450.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Burns District",
+      "type": "Federal",
+      "phone": "(541) 573-4400",
+      "website": "https://www.blm.gov/oregon-washington"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive BLM dispersed camping along mountain loop roads)",
+      "stay_limit": "14 days maximum stay limit within a 28-day window",
+      "guidelines": "Dispersed primitive camping allowed on open BLM lands along Steens Mountain Backcountry Byway. Camp 200 ft from springs and lakes. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from streams and lakes. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down mountain wood locally.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to BLM Stage 1 & Stage 2 dry summer fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel Steens Mountain Backcountry Byway",
+      "road_conditions": "Graded gravel mountain road; steep grades, sharp stones, pullouts.",
+      "vehicle_recommendation": "CUV, SUV, or high clearance vehicle recommended; FWD cars fine with slow careful driving.",
+      "scores": {
+        "road_grade": 6,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 7
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2/5 Stars)",
+      "verizon_reliability": "1-2 bars 4G LTE spotty on high ridge viewpoints",
+      "att_reliability": "1 bar 4G LTE",
+      "tmobile_reliability": "No signal",
+      "terrain_obstruction_risk": "High - 9,700-foot Steens fault-block mountain ridge",
+      "distance_from_tower_corridor_miles": 28.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Glacial Gorge Overlooks (Kiger Gorge)",
+      "Alpine Aspen Groves",
+      "Dark Sky Astronomy Observation"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 3,
+      "distance_to_library_score": 3,
+      "distance_to_gym_score": 2,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Frenchglen, OR",
+        "distance_miles": 18.5,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "Historic Hotel & Dining"
+        ]
+      },
+      {
+        "town_name": "Burns, OR",
+        "distance_miles": 68.0,
+        "services_available": [
+          "Supermarket",
+          "Hospital",
+          "Public Library",
+          "Hardware Store"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Road snowbound through June.",
+      "summer": "Mild high alpine summer (70-78°F) with cool mountain nights (40°F).",
+      "fall": "Spectacular golden aspen foliage in September before early snow.",
+      "winter": "Closed to vehicle traffic due to deep alpine snow."
+    },
+    "dangers_and_hazards": [
+      "High Altitude Weather Shifts & Severe Cold",
+      "Sheer 5,000-ft Vertical Steens Escarpment Drop-offs",
+      "Extreme Remote High Desert Isolation"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Glacial Gorge Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Occasional passing backcountry byway vehicle"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Quaking Aspen",
+        "Western Juniper",
+        "Mountain Big Sagebrush",
+        "Steens Mountain Paintbrush"
+      ],
+      "common_animals": [
+        "Wild Horses (Kiger Mustangs)",
+        "Bighorn Sheep",
+        "Mule Deer",
+        "Golden Eagle",
+        "Pronghorn Antelope"
+      ]
+    },
+    "human_demographics_and_culture": "Southeast Oregon high desert cattle ranching, wild horse protection, and solitary wilderness culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Northern Paiute traditions revere Steens Mountain as a sacred high sky mountain of ancestral spirits.",
+      "energetic_and_spiritual_features": "Carved glacial U-gorges (Kiger Gorge) dropping 2,000 vertical feet evoke awe and quiet wonder."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Kiger Gorge Overlook & Wildhorse Lake Trail",
+        "length_miles": 2.6,
+        "difficulty": "Strenuous (Steep Alpine Descent)",
+        "features": "Glacial U-shaped gorge view, alpine lake basin, bighorn sheep viewing"
+      }
+    ],
+    "public_reviews_summary": "One of Oregon's most spectacular high desert mountain landscapes with wild horses and mind-blowing stargazing.",
+    "other_data": "Carry extra fuel, water, and full spare tire.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "oregon-005",
+    "name": "Ochoco National Forest Rager Primitive Dispersed Zone",
+    "state": "Oregon",
+    "county": "Crook",
+    "coordinates": {
+      "latitude": 44.2812,
+      "longitude": -119.8812,
+      "elevation_ft": 4820.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Ochoco National Forest (Paulina Ranger District)",
+      "type": "Federal",
+      "phone": "(541) 477-6200",
+      "website": "https://www.fs.usda.gov/ochoco"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed forest camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along forest service roads across Ochoco pine hills. Camp 100 ft from water. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from creeks.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS dry summer fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest service roads",
+      "road_conditions": "Graded gravel roads with flat ponderosa pine pullouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Good (3/5 Stars)",
+      "verizon_reliability": "3 bars 4G LTE on open ridges",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate - rolling ponderosa pine hills",
+      "distance_from_tower_corridor_miles": 5.4,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Ponderosa Pine Canopy",
+      "Thunderhead Mountain Views",
+      "Primitive Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Prineville, OR",
+        "distance_miles": 28.5,
+        "services_available": [
+          "Supermarket",
+          "Gas Station",
+          "Hospital",
+          "Hardware Store",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Bend, OR",
+        "distance_miles": 62.0,
+        "services_available": [
+          "Major Supercenters",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Full Urban Amenities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Mild Central Oregon spring with wild mountain blooms.",
+      "summer": "Warm, dry summer days (78-86°F) with crisp pine night air (45°F).",
+      "fall": "Golden larch and aspen foliage in October.",
+      "winter": "Cold mountain winter (20-35°F) with snow pack."
+    },
+    "dangers_and_hazards": [
+      "Black Bears & Cougars",
+      "High Wildfire Danger in Summer",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Ponderosa Forest Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Occasional passing forest road car"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Ponderosa Pine",
+        "Western Larch",
+        "Mountain Mahogany",
+        "Western Juniper"
+      ],
+      "common_animals": [
+        "Rocky Mountain Elk",
+        "Mule Deer",
+        "Wild Horses",
+        "Cougar",
+        "Red-tailed Hawk"
+      ]
+    },
+    "human_demographics_and_culture": "Central Oregon timber, cattle ranching, and outdoor rockhounding heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Wassama and Northern Paiute traditions honor the Ochoco pine hills as a place of peaceful summer gathering.",
+      "energetic_and_spiritual_features": "Open, sun-dappled ponderosa pine stands generate an invigorating, clean fragrance and calm atmosphere."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Lookout Mountain Trail - Ochoco",
+        "length_miles": 7.2,
+        "difficulty": "Moderate",
+        "features": "6,900-ft summit viewpoint, wild mountain meadows, ponderosa forests"
+      }
+    ],
+    "public_reviews_summary": "Peaceful ponderosa pine forest camping with rockhounding opportunities and solid cell coverage.",
+    "other_data": "Check USFS fire restrictions during summer.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "oregon-006",
+    "name": "Alvord Desert Dispersed Area - BLM Burns",
+    "state": "Oregon",
+    "county": "Harney",
+    "coordinates": {
+      "latitude": 42.5321,
+      "longitude": -118.4608,
+      "elevation_ft": 4000.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Burns District",
+      "type": "Federal",
+      "phone": "(541) 573-4400",
+      "website": "https://www.blm.gov/oregon"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive BLM dispersed camping)",
+      "stay_limit": "14 days maximum stay within a 28-day window",
+      "guidelines": "Dispersed camping allowed on open dry playa and desert edges. Do not drive on wet playa surface. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Pack out human waste via wag-bag or portable toilet system due to hard-baked playa surface.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring firewood; no wood gathering on playa.",
+      "safety_requirements": "Campfires must be contained in portable fire pans. Do not leave ash on playa. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to BLM fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel road to dry alkali playa",
+      "road_conditions": "Fields-Denio gravel road; dry playa surface is flat as glass, wet playa becomes impassable clay mud.",
+      "vehicle_recommendation": "Accessible by all vehicles when playa is dry; high clearance / 4WD recommended during wet season.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 8
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Poor / Spotty (2/5 Stars)",
+      "verizon_reliability": "1-2 bars 4G LTE (Near Fields-Denio road)",
+      "att_reliability": "1 bar 4G LTE",
+      "tmobile_reliability": "0-1 bar (No Data)",
+      "terrain_obstruction_risk": "Low on playa / High under Steens mountain wall shadow",
+      "distance_from_tower_corridor_miles": 22.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Flat Alkali Lake Bed",
+      "Steens Mountain Scenery Wall",
+      "Dark Sky Astronomy",
+      "Land-Sailing Area"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 2,
+      "distance_to_library_score": 2,
+      "distance_to_gym_score": 1,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Fields, OR",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Gas Station",
+          "Famous Milkshake Diner",
+          "Small Store"
+        ]
+      },
+      {
+        "town_name": "Burns, OR",
+        "distance_miles": 105.0,
+        "services_available": [
+          "Full Groceries",
+          "Hospital",
+          "Hardware",
+          "Auto Repair"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Spring rains create wet mud on playa.",
+      "summer": "Warm to hot summer (85-95°F) with dry playa.",
+      "fall": "Crisp autumn days with clear skies.",
+      "winter": "Cold freezing winter with dust storms."
+    },
+    "dangers_and_hazards": [
+      "Dust Storms",
+      "Getting Stuck in Wet Mud",
+      "Remote Distance from Emergency Services"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Absolute Desert Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Wind blowing across dry lake bed"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Grease Wood",
+        "Big Sagebrush",
+        "Saltbush"
+      ],
+      "common_animals": [
+        "Wild Horses (Mustangs)",
+        "Pronghorn Antelope",
+        "Coyote",
+        "Golden Eagle"
+      ]
+    },
+    "human_demographics_and_culture": "Paiute ancestral history, land speed record trials, and high desert solitude culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Northern Paiute traditions honor the surrounding Steens Mountain range.",
+      "energetic_and_spiritual_features": "Unending flat horizon providing feeling of otherworldly spatial freedom."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Pike Creek Canyon Trail",
+        "length_miles": 5.4,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Steens mountain canyon, perennial stream, desert wildflowers"
+      }
+    ],
+    "public_reviews_summary": "Surreal desert landscape like nowhere else on Earth; cell service is weak so Starlink is mandatory for working.",
+    "other_data": "Never drive on wet playa surface.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "oregon-007",
+    "name": "Leslie Gulch Dispersed Area - BLM Vale District",
+    "state": "Oregon",
+    "county": "Malheur",
+    "coordinates": {
+      "latitude": 43.3189,
+      "longitude": -117.3214,
+      "elevation_ft": 2650.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Vale District",
+      "type": "Federal",
+      "phone": "(541) 473-3144",
+      "website": "https://www.blm.gov/oregon"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive BLM dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed camping allowed in designated pullouts along Leslie Gulch Road outside delicate ACEC botanical zones. Pack out all waste."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Owyhee Reservoir high water mark. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring firewood; wood gathering prohibited inside canyon ACEC.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to BLM fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel canyon dirt road",
+      "road_conditions": "15 miles of dirt gravel canyon road with washboards and loose rock.",
+      "vehicle_recommendation": "Accessible by standard 2WD when dry; high clearance recommended.",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 7
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "No Service inside Canyon (1/5 Stars)",
+      "verizon_reliability": "0-1 bar (No Data)",
+      "att_reliability": "0 bars",
+      "tmobile_reliability": "0 bars",
+      "terrain_obstruction_risk": "Extreme inside steep volcanic tuff canyon walls",
+      "distance_from_tower_corridor_miles": 28.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Volcanic Ash Tuff Formations",
+      "Owyhee Reservoir Access",
+      "Boat Ramp Nearby",
+      "Bighorn Sheep Habitat"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 3,
+      "distance_to_library_score": 3,
+      "distance_to_gym_score": 2,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Jordan Valley, OR",
+        "distance_miles": 35.0,
+        "services_available": [
+          "Gas Station",
+          "Small Grocery",
+          "Diner"
+        ]
+      },
+      {
+        "town_name": "Ontario, OR",
+        "distance_miles": 65.0,
+        "services_available": [
+          "Superstores",
+          "Hospital",
+          "Hardware",
+          "All Urban Services"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Mild spring (62-75°F) with wildflower blooms.",
+      "summer": "Intense summer heat (95-105°F) inside canyon.",
+      "fall": "Crisp pleasant autumn days.",
+      "winter": "Cold winter (30-45°F) with mud on road."
+    },
+    "dangers_and_hazards": [
+      "Flash Floods in Narrow Canyons",
+      "Extreme Summer Heat",
+      "Zero Cell Service"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Volcanic Cathedral Quiet (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Echoing canyon breeze",
+        "Chukar calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Packard's Milkvetch",
+        "Big Sagebrush",
+        "Western Juniper"
+      ],
+      "common_animals": [
+        "California Bighorn Sheep",
+        "Golden Eagle",
+        "Chukar",
+        "Coyote"
+      ]
+    },
+    "human_demographics_and_culture": "Owyhee canyonlands wilderness conservation and geology heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Northern Paiute legends honor the honeycomb volcanic spires as natural sacred columns.",
+      "energetic_and_spiritual_features": "Towering red and pink ash spires creating cathedral-like natural acoustic resonance."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Juniper Gulch Trail",
+        "length_miles": 1.6,
+        "difficulty": "Moderate",
+        "features": "Honeycomb rock formations, rare desert plants, canyon walls"
+      }
+    ],
+    "public_reviews_summary": "Mind-blowing volcanic rock formations; zero cell service means absolute off-grid disconnection.",
+    "other_data": "Do not enter canyon during severe flash flood warnings.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "oregon-008",
+    "name": "Skull Hollow Dispersed Area - Crooked River National Grassland",
+    "state": "Oregon",
+    "county": "Jefferson",
+    "coordinates": {
+      "latitude": 44.4753,
+      "longitude": -120.8261,
+      "elevation_ft": 3100.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Crooked River National Grassland (Ochoco NF)",
+      "type": "Federal",
+      "phone": "(541) 416-6500",
+      "website": "https://www.fs.usda.gov/ochoco"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed camping on adjacent grassland spur tracks)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed camping allowed on forest spur tracks surrounding Skull Hollow. Keep vehicles within 30 ft of roads. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from dry washes. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Strict USFS stage fire bans in dry summer/fall."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved road to graded gravel spurs",
+      "road_conditions": "Paved Lone Pine Road leads to well-maintained gravel grassland spurs.",
+      "vehicle_recommendation": "Accessible by low-clearance passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low - open juniper savanna plain",
+      "distance_from_tower_corridor_miles": 6.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Proximity to Smith Rock State Park",
+      "Juniper Savanna Views",
+      "Trailhead Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 7,
+      "terrain_score": 8,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Redmond, OR",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Fred Meyer",
+          "Home Depot",
+          "Hospital",
+          "Gyms",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Prineville, OR",
+        "distance_miles": 18.0,
+        "services_available": [
+          "Groceries",
+          "Hardware Store",
+          "Gas Stations",
+          "Outdoor Supplies"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush high desert spring (60-72°F).",
+      "summer": "Warm sunny summer (82-90°F) with cool nights.",
+      "fall": "Crisp autumn weather (65-75°F).",
+      "winter": "Cool winter (38-48°F) with light snow."
+    },
+    "dangers_and_hazards": [
+      "Summer Wildfire Risk",
+      "Rattlesnakes",
+      "Ticks in Spring Brush"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "High Desert Savanna Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Occasional Lone Pine Road vehicle pass",
+        "Coyote howling"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Western Juniper",
+        "Big Sagebrush",
+        "Bitterbrush",
+        "Bluebunch Wheatgrass"
+      ],
+      "common_animals": [
+        "Mule Deer",
+        "Coyote",
+        "Golden Eagle",
+        "Red-tailed Hawk"
+      ]
+    },
+    "human_demographics_and_culture": "Central Oregon rock climbing and high desert outdoor culture near Smith Rock.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Wasco and Paiute traditional hunting grounds.",
+      "energetic_and_spiritual_features": "Panoramic views of Gray Butte radiating high desert clarity."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Gray Butte Trail",
+        "length_miles": 7.0,
+        "difficulty": "Moderate",
+        "features": "Juniper savanna, Smith Rock vistas, Cascade mountain panorama"
+      }
+    ],
+    "public_reviews_summary": "Perfect free basecamp for climbing at Smith Rock State Park with blazing 5G cell service.",
+    "other_data": "3 miles from Smith Rock State Park entrance.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "oregon-009",
+    "name": "Steens Mountain Loop Dispersed Area - BLM Burns",
+    "state": "Oregon",
+    "county": "Harney",
+    "coordinates": {
+      "latitude": 42.6375,
+      "longitude": -118.5789,
+      "elevation_ft": 7800.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Burns District",
+      "type": "Federal",
+      "phone": "(541) 573-4400",
+      "website": "https://www.blm.gov/oregon"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive BLM dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed camping allowed along Steens Mountain Loop Road outside designated fee campgrounds. Camp only in previously impacted pullouts."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to BLM fire bans during dry summer."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel mountain loop road",
+      "road_conditions": "Steep gravel mountain road reaching ~9,700 ft; closed by snow Oct-July.",
+      "vehicle_recommendation": "High clearance 2WD/4WD required due to steep gravel grades and rocks.",
+      "scores": {
+        "road_grade": 8,
+        "road_terrain_difficulty": 7,
+        "supply_run_pain": 8
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair on Crest / Poor in Gorges (2.5/5 Stars)",
+      "verizon_reliability": "2-3 bars 4G LTE on high ridges",
+      "att_reliability": "1-2 bars 4G LTE on high ridges",
+      "tmobile_reliability": "1 bar 4G LTE on high ridges",
+      "terrain_obstruction_risk": "High in Kiger Gorge / Low on crest",
+      "distance_from_tower_corridor_miles": 18.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Glacial U-Shaped Gorges View",
+      "Subalpine Lakes",
+      "Wild Mustang Herds",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 2,
+      "distance_to_library_score": 2,
+      "distance_to_gym_score": 1,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Frenchglen, OR",
+        "distance_miles": 18.0,
+        "services_available": [
+          "Historic Hotel",
+          "Small Store",
+          "Gas Pump"
+        ]
+      },
+      {
+        "town_name": "Burns, OR",
+        "distance_miles": 78.0,
+        "services_available": [
+          "Full Groceries",
+          "Hospital",
+          "Hardware",
+          "Auto Repair"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Snow blocks road until late June/July.",
+      "summer": "Cool subalpine summer (65-75°F).",
+      "fall": "Crisp autumn foliage before snow arrives.",
+      "winter": "Impassable; closed by heavy snow."
+    },
+    "dangers_and_hazards": [
+      "Sudden Alpine Blizzards",
+      "2,000-Foot Vertical Glacial Drop-offs",
+      "Severe Brake Overheating"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Subalpine Crest Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Mountain wind gusts",
+        "Glacial stream flow"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Quaking Aspen",
+        "Subalpine Sagebrush",
+        "Mountain Big Sagebrush"
+      ],
+      "common_animals": [
+        "California Bighorn Sheep",
+        "Wild Horses",
+        "Mule Deer",
+        "Elk",
+        "Redband Trout"
+      ]
+    },
+    "human_demographics_and_culture": "Paiute traditional lands and historic Frenchglen livestock heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Paiute tradition reveres Steens Mountain as a sacred high mountain weather spine.",
+      "energetic_and_spiritual_features": "30-mile massive fault-block mountain towering 5,000 feet above the Alvord Desert floor."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Kiger Gorge Overlook Trail",
+        "length_miles": 0.5,
+        "difficulty": "Easy",
+        "features": "Perpendicular view into 2,000-foot glacial U-shaped gorge"
+      }
+    ],
+    "public_reviews_summary": "Unrivaled alpine mountain scenery; summer only destination with usable ridge cell service.",
+    "other_data": "Check road status in Frenchglen before driving upper loop.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "oregon-010",
+    "name": "Lake Owyhee Overlook Dispersed - BLM Vale District",
+    "state": "Oregon",
+    "county": "Malheur",
+    "coordinates": {
+      "latitude": 43.6412,
+      "longitude": -117.2348,
+      "elevation_ft": 3200.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Vale District",
+      "type": "Federal",
+      "phone": "(541) 473-3144",
+      "website": "https://www.blm.gov/oregon"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive BLM dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free primitive dispersed camping on BLM ridge pullouts overlooking Lake Owyhee. Leave No Trace. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from high water line. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to BLM fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel dirt plateau road",
+      "road_conditions": "Unpaved gravel plateau road with loose rock near overlooks.",
+      "vehicle_recommendation": "High clearance vehicle recommended due to rocky dirt tracks.",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great on Ridge (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "3 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate",
+      "distance_from_tower_corridor_miles": 16.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Lake Owyhee Panoramic Views",
+      "Volcanic Canyon Rim",
+      "Boating Access Nearby",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 4,
+      "distance_to_gym_score": 3,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Adrian, OR",
+        "distance_miles": 24.0,
+        "services_available": [
+          "Gas Station",
+          "Small Store",
+          "Diner"
+        ]
+      },
+      {
+        "town_name": "Nyssa, OR",
+        "distance_miles": 36.0,
+        "services_available": [
+          "Groceries",
+          "Hardware Store",
+          "Gas Stations",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Mild spring (60-72°F).",
+      "summer": "Warm to hot summer (88-98°F) with canyon winds.",
+      "fall": "Crisp autumn weather (65-75°F).",
+      "winter": "Cool winter (35-45°F)."
+    },
+    "dangers_and_hazards": [
+      "Sheer Reservoir Cliff Drops",
+      "High Canyon Winds",
+      "Rattlesnakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Reservoir Canyon Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Occasional distant motorboat hum",
+        "Canyon wind"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Big Sagebrush",
+        "Rabbitbrush",
+        "Wheatgrass"
+      ],
+      "common_animals": [
+        "Bighorn Sheep",
+        "Chukar",
+        "Coyote",
+        "Golden Eagle",
+        "Bass"
+      ]
+    },
+    "human_demographics_and_culture": "Owyhee River fur trapper history and desert water reservoir culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Named after 1819 Hawaiian fur trappers who explored the wild canyon.",
+      "energetic_and_spiritual_features": "Vast desert water basin contrasting against stark volcanic badland canyon walls."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Owyhee Dam Overlook Trail",
+        "length_miles": 2.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Historic 1930s dam overlook, reservoir vistas"
+      }
+    ],
+    "public_reviews_summary": "Stunning clifftop lake views with surprisingly solid line-of-sight cell coverage across the Snake River plain.",
+    "other_data": "Bring fresh drinking water.",
+    "last_updated": "2026-09-12"
+  }
+]

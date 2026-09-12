@@ -1,0 +1,1329 @@
+[
+  {
+    "id": "ak-denali-hwy-blm-mile79",
+    "name": "Denali Highway BLM Dispersed Primitive Camping (MP 79 Brushkana Corridor)",
+    "state": "Alaska",
+    "county": "Matanuska-Susitna Borough",
+    "coordinates": {
+      "latitude": 63.2201,
+      "longitude": -148.1512,
+      "elevation_ft": 2850
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Glennallen Field Office",
+      "type": "BLM",
+      "phone": "(907) 822-3217",
+      "website": "https://www.blm.gov/alaska"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required on BLM public lands",
+      "stay_limit": "14 days maximum stay within any 28-day period",
+      "guidelines": "Dispersed camping is allowed on all unappropriated BLM public lands along the Denali Highway corridor. Pull off highway onto existing gravel turnouts. Do not create new tracks across tundra."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "In sub-arctic tundra, decomposition is extremely slow. Cat-holes must be 6-8 inches deep in topsoil, 200ft from water. Full pack-out of human waste using WAG bags is highly recommended due to fragile tundra and permafrost.",
+      "trash_policy": "Strict LNT pack-it-in pack-it-out. Bears are highly active; zero food or trash may be left unsealed outside vehicles."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead/down spruce firewood gathering permitted. Tundra brush must not be cut or cleared.",
+      "safety_requirements": "Use existing rock/gravel fire rings. Ensure fires are completely extinguished with river water. Never ignite fires on organic peat/tundra moss (tundra fires burn underground).",
+      "seasonal_fire_bans": "Subject to Alaska Interagency Fire Center emergency burn bans during high wind and dry summer spells."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved 135-mile gravel highway (Denali Highway / AK-8)",
+      "road_conditions": "Rough gravel with sharp schist rocks, deep washboards, pot-holes, and dust clouds. Flat tires are extremely common.",
+      "vehicle_recommendation": "High clearance car or 4x4 (Normal 2WD low-clearance cars can make it at slow speeds, but must carry 2 full-sized spare tires)",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 7,
+        "supply_run_pain": 9
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Very Weak / Starlink Required",
+      "verizon_reliability": "No service along vast stretches; spotty 1-bar 3G/LTE near Paxson or Cantwell ends",
+      "att_reliability": "1 bar Emergency 3G/LTE near high mountain passes",
+      "tmobile_reliability": "No signal",
+      "terrain_obstruction_risk": "High (Alaska Range & Amphitheater Mountains block cellular signals; zero tower infrastructure)",
+      "distance_from_tower_corridor_miles": 45.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Gravel Vehicle Turnouts",
+      "Glacial River Water Access (Brushkana Creek / Delta River - heavy sediment filtering needed)",
+      "Unobstructed Tundra Horizon"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 1,
+      "distance_to_library_score": 1,
+      "distance_to_gym_score": 1,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Cantwell, AK",
+        "distance_miles": 54.0,
+        "services_available": [
+          "Gas Station",
+          "Basic Convenience Goods",
+          "Post Office"
+        ]
+      },
+      {
+        "town_name": "Fairbanks, AK",
+        "distance_miles": 182.0,
+        "services_available": [
+          "Full Supermarkets",
+          "24/7 Gyms",
+          "Hospital",
+          "Outdoor Outfitters",
+          "Public Library",
+          "Auto Repair"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Late May thaw: heavy snowmelt, mud season, high flooding rivers, highway often closed until mid-May.",
+      "summer": "June-August: 20-24 hours daylight, 55-75°F, intense mosquito swarms, snow lingering on peaks.",
+      "fall": "Late August-September: Stunning golden tundra foliage, crisp 30-50°F, early night snow, Aurora Borealis viewing begins.",
+      "winter": "October-April: Extreme sub-zero arctic weather (-20 to -50°F), highway impassable and unmaintained."
+    },
+    "dangers_and_hazards": [
+      "Grizzly Bears (Ursus arctos horribilis) and Black Bears active throughout tundra; bear spray mandatory",
+      "Moose defense during spring calving and autumn rut",
+      "Remote isolation: no cellular service or tow trucks for 80+ miles",
+      "Sharp gravel rocks causing multiple tire punctures",
+      "Hypothermia risk even during summer cold rainstorms"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "10/10 - Pure wilderness stillness",
+      "common_human_made_sounds": [
+        "Infrequent overlanding vehicle driving past on gravel highway (1 per hour in peak summer)",
+        "Bush plane flying high overhead"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Black Spruce (Picea mariana)",
+        "Dwarf Birch (Betula nana)",
+        "Arctic Willow (Salix arctica)",
+        "Tundra Cotton Grass (Eriophorum angustifolium)",
+        "Crowberry (Empetrum nigrum)",
+        "Reindeer Lichen (Cladonia rangiferina)"
+      ],
+      "common_animals": [
+        "Grizzly Bear",
+        "Gila / Nelchina Caribou Herd (Rangifer tarandus)",
+        "Alaskan Moose (Alces alces gigas)",
+        "Dall Sheep (Ovis dalli on high ridges)",
+        "Arctic Ground Squirrel (Urocitellus parryii)",
+        "Willow Ptarmigan (Lagopus lagopus)"
+      ]
+    },
+    "human_demographics_and_culture": "Off-grid arctic explorers, Starlink digital nomads, caribou hunters in autumn, overland expedition rigs, and berry pickers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Ahtna and Tanana Athabascan oral traditions honor the ancient mountain spirits of the Alaska Range and the sacred animal guardians of the caribou migration routes.",
+      "energetic_and_spiritual_features": "Profound arctic silence, raw glacial mountain energy, midnight sun solar saturation in summer, magnetic Aurora Borealis field in autumn nights."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Brushkana Creek Trail",
+        "length_miles": 4.5,
+        "difficulty": "Moderate",
+        "features": "Tundra ridge walking, stream views, wildlife observation"
+      },
+      {
+        "trail_name": "Monahan Flat Tundra Route",
+        "length_miles": 8.0,
+        "difficulty": "Strenuous (Off-trail navigation)",
+        "features": "Open alpine tundra, panoramic Alaska Range vistas"
+      }
+    ],
+    "public_reviews_summary": "One of the most spectacular sub-arctic boondocking drives on Earth. Total wilderness solitude. Starlink satellite internet is mandatory for remote work as cellular signal is non-existent.",
+    "other_data": "Bortle Class 1 night sky (pristine zero light pollution). Aurora Borealis frequently visible starting in late August.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ak-steese-hwy-twelvemile-blm",
+    "name": "Twelvemile Summit Dispersed Camping - Steese Highway BLM",
+    "state": "Alaska",
+    "county": "Fairbanks North Star Borough / Yukon-Koyukuk",
+    "coordinates": {
+      "latitude": 65.3922,
+      "longitude": -145.9786,
+      "elevation_ft": 3190
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management - Eastern Interior Field Office",
+      "type": "BLM",
+      "phone": "(907) 474-2200",
+      "website": "https://www.blm.gov/alaska"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free primitive camping is permitted on BLM public lands off the Steese Highway corridor. Park in existing gravel turnouts at Twelvemile Summit."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Pack-out using human waste bags (WAG bags) recommended due to shallow rocky alpine tundra soil. Cat-holes 6 inches deep where soil allows, 200ft from tundra streams.",
+      "trash_policy": "Strict Leave No Trace. All trash must be packed out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Wood is extremely scarce above treeline at Twelvemile Summit; bring your own firewood or cook on camp stove.",
+      "safety_requirements": "Never ignite fires directly on alpine tundra moss.",
+      "seasonal_fire_bans": "Adhere to Alaska Division of Forestry burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved changing to gravel alpine highway (Steese Highway / AK-6 MP 85)",
+      "road_conditions": "Steep alpine highway grade with gravel sections, frost heaves, and fog.",
+      "vehicle_recommendation": "Normal low clearance car can access Twelvemile Summit pullouts in summer; 4x4 recommended in early spring / late fall snow",
+      "scores": {
+        "road_grade": 8,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 7
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Weak / Intermittent Line-of-Sight",
+      "verizon_reliability": "1 bar 4G LTE on high summit vantage point (boosted by summit orientation towards Fairbanks towers)",
+      "att_reliability": "1-2 bars 4G LTE on open ridge",
+      "tmobile_reliability": "No signal",
+      "terrain_obstruction_risk": "Moderate (Open alpine tundra summit provides clear sky view, but line-of-sight to distant tower is weak)",
+      "distance_from_tower_corridor_miles": 38.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Alpine Summit Overlook Parking",
+      "Pinnell Mountain Trailhead Access",
+      "360-degree Panorama Views"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 2,
+      "distance_to_library_score": 2,
+      "distance_to_gym_score": 2,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Fairbanks, AK",
+        "distance_miles": 85.5,
+        "services_available": [
+          "Full City Services",
+          "International Airport",
+          "Hospital",
+          "Costco / Walmart",
+          "Public Library"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "June thaw: lingering snowdrifts, cool alpine winds (40-60°F).",
+      "summer": "24 hours continuous sunlight in late June; 50-70°F with sudden alpine mountain wind.",
+      "fall": "August-September: Brilliant red tundra autumn colors, crisp freezing nights (25-45°F), prime Aurora viewing.",
+      "winter": "Severe arctic winter weather, heavy blowing snow and ice."
+    },
+    "dangers_and_hazards": [
+      "High tundra winds gusting over 50 mph",
+      "Grizzly bear territory",
+      "Rapid weather changes bringing freezing fog or summer snowstorms",
+      "Frost heaves and road surface damage along Steese Highway"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Wind and mountain silence",
+      "common_human_made_sounds": [
+        "Occasional supply truck heading to Central/Circle City",
+        "High-altitude jet contrails"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Alpine Bearberry (Arctostaphylos alpina)",
+        "Mountain Avens (Dryas octopetala)",
+        "Lichen and Moss Tundra Carpet"
+      ],
+      "common_animals": [
+        "White Mountains Caribou Herd",
+        "Hoary Marmot (Marmota caligata)",
+        "Grizzly Bear",
+        "Northern Raven (Corvus corax)"
+      ]
+    },
+    "human_demographics_and_culture": "Pinnell Mountain Trail backpackers, tundra gold prospectors heading to Circle, wild interior nomads, and northern lights photographers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Hän and Gwich'in Athabascan legends view the high wind-swept interior summits as sacred domains of the sky and storm spirits.",
+      "energetic_and_spiritual_features": "Vast 360-degree horizon energy, high-altitude alpine air purity, exceptional electromagnetic viewing conditions for the Northern Lights."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Pinnell Mountain National Recreation Trail",
+        "length_miles": 27.0,
+        "difficulty": "Strenuous Alpine Trail",
+        "features": "Ridge-top walking above treeline, wooden cairn trail markers, emergency shelters"
+      }
+    ],
+    "public_reviews_summary": "Incredible alpine tundra camping with endless summer daylight or breathtaking autumn Northern Lights. High winds can test tent setups; hard-sided van or truck camper is ideal.",
+    "other_data": "Bortle Class 1 dark sky. Continuous 24-hour sun around summer solstice.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ak-dalton-hwy-finger-mtn-blm",
+    "name": "Finger Mountain BLM Primitive Camping Pullouts - Dalton Highway MP 98",
+    "state": "Alaska",
+    "county": "Yukon-Koyukuk Census Area",
+    "coordinates": {
+      "latitude": 66.3512,
+      "longitude": -150.4814,
+      "elevation_ft": 2250
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management - Central Yukon Field Office",
+      "type": "BLM",
+      "phone": "(907) 474-2200",
+      "website": "https://www.blm.gov/alaska"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required on BLM public lands",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping permitted at designated gravel turnouts along the Dalton Highway (AK-11 corridor). Yield right-of-way to heavy industrial haul trucks."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "WAG bag human waste pack-out strictly recommended due to arctic permafrost layer. Cat-hole 6 inches deep in soil where possible, 200ft from tundra streams.",
+      "trash_policy": "Strict Leave No Trace. Zero trash bins on haul road."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "No trees exist on Finger Mountain tundra plateau; cook on self-contained camp stove.",
+      "safety_requirements": "Never ignite fires on organic peat/tundra moss.",
+      "seasonal_fire_bans": "Obey Alaska Interagency burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved industrial gravel & dirt haul highway (Dalton Highway / AK-11)",
+      "road_conditions": "Rough gravel with sharp rocks, deep mud when wet, dust clouds, and heavy semi-truck traffic.",
+      "vehicle_recommendation": "High clearance 4x4 or truck camper required (Must carry 2 full-sized spare tires, CB radio, and extra fuel)",
+      "scores": {
+        "road_grade": 6,
+        "road_terrain_difficulty": 8,
+        "supply_run_pain": 10
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "No Cellular Signal / Starlink Required",
+      "verizon_reliability": "No service",
+      "att_reliability": "No service",
+      "tmobile_reliability": "No service",
+      "terrain_obstruction_risk": "High (Remote Arctic Circle wilderness corridor; 100+ miles from nearest cell tower)",
+      "distance_from_tower_corridor_miles": 98.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Gravel Haul Road Pullout",
+      "Finger Mountain Tors Granite Formations",
+      "Arctic Circle Proximity (MP 115)",
+      "Infinite Arctic Tundra Views"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 1,
+      "distance_to_library_score": 1,
+      "distance_to_gym_score": 1,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Coldfoot, AK",
+        "distance_miles": 77.0,
+        "services_available": [
+          "Gas Station ($$$)",
+          "Coldfoot Camp Cafe",
+          "Post Office",
+          "BLM Visitor Center"
+        ]
+      },
+      {
+        "town_name": "Fairbanks, AK",
+        "distance_miles": 195.0,
+        "services_available": [
+          "Full City Services",
+          "International Airport",
+          "Hospital",
+          "Costco / Walmart",
+          "Auto Repair"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Late June thaw: cold (35-50°F), heavy gravel mud, 24-hour midnight sun begins.",
+      "summer": "50-70°F, continuous 24-hour daylight, intense mosquito swarms, tundra flora blooming.",
+      "fall": "August-September: Brilliant red arctic tundra foliage, crisp freezing nights (20-35°F), world-class Aurora viewing.",
+      "winter": "Severe arctic winter (-20 to -60°F), heavy ice, extreme hazards."
+    },
+    "dangers_and_hazards": [
+      "Grizzly Bears and Black Bears active throughout arctic tundra - bear spray mandatory",
+      "Heavy industrial semi-trucks throwing flying gravel rocks",
+      "Extreme isolation: no medical facilities or tow trucks for 100+ miles",
+      "Multiple flat tires from sharp road rocks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Arctic tundra wind quiet",
+      "common_human_made_sounds": [
+        "Occasional North Slope oilfield haul truck passing on Dalton Highway",
+        "Arctic wind blowing through granite tors"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Arctic Cotton Grass",
+        "Dwarf Birch",
+        "Lichen and Moss Carpet",
+        "Crowberry"
+      ],
+      "common_animals": [
+        "Grizzly Bear",
+        "Central Arctic Caribou Herd",
+        "Alaskan Moose",
+        "Arctic Fox (Vulpes lagopus)",
+        "Raven"
+      ]
+    },
+    "human_demographics_and_culture": "Dalton Highway arctic expedition travelers, Prudhoe Bay haul truck drivers, Starlink digital nomads, and aurora photographers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Koyukon Athabascan indigenous traditions revere the high arctic tors of Finger Mountain as sacred stone land sentinels holding ancient spirit power.",
+      "energetic_and_spiritual_features": "Profound arctic wilderness energy, 24-hour solar saturation in summer, magnetic Aurora Borealis field in autumn nights."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Finger Mountain Alpine Tundra Trail",
+        "length_miles": 1.2,
+        "difficulty": "Easy to Moderate",
+        "features": "Winding path around ancient granite tor rock formations above treeline"
+      }
+    ],
+    "public_reviews_summary": "The ultimate arctic overlanding milestone. Camping under Finger Mountain's granite tors under the midnight sun or Northern Lights is unforgettable. Prepare for no cell service and rough roads.",
+    "other_data": "Bortle Class 1 night sky. 24-hour sun in June.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ak-elliott-hwy-white-mtns-blm",
+    "name": "Elliott Highway BLM Primitive Pulloffs - White Mountains NRA Access",
+    "state": "Alaska",
+    "county": "Fairbanks North Star Borough / Yukon-Koyukuk",
+    "coordinates": {
+      "latitude": 65.1812,
+      "longitude": -147.8814,
+      "elevation_ft": 1450
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management - Eastern Interior Field Office",
+      "type": "BLM",
+      "phone": "(907) 474-2200",
+      "website": "https://www.blm.gov/alaska"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free primitive camping allowed on BLM public turnouts along the Elliott Highway (AK-2 corridor). Yield to industrial vehicles."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "WAG bag pack-out or cat-hole 6 inches deep in topsoil, 200ft from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed spruce wood only.",
+      "safety_requirements": "Campfires in established rock fire rings only. Extinguish cold to touch.",
+      "seasonal_fire_bans": "Obey Alaska Division of Forestry burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved changing to gravel interior highway (Elliott Highway / AK-2)",
+      "road_conditions": "Winding gravel highway with frost heaves, mud in rain, and steep grades.",
+      "vehicle_recommendation": "Normal low clearance car can access paved/main gravel turnouts in dry summer; high clearance 4x4 recommended for side spurs",
+      "scores": {
+        "road_grade": 6,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 6
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Weak / Intermittent",
+      "verizon_reliability": "1-2 bars 4G LTE near Fox/Fairbanks junction; 0-1 bar further north",
+      "att_reliability": "1-2 bars 4G LTE",
+      "tmobile_reliability": "No signal",
+      "terrain_obstruction_risk": "Moderate (Interior Alaska hills restrict tower line of sight)",
+      "distance_from_tower_corridor_miles": 28.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Gravel Turnout Parking",
+      "White Mountains NRA Trailhead Proximity",
+      "Boreal Forest Shade"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 3,
+      "distance_to_library_score": 3,
+      "distance_to_gym_score": 3,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Fairbanks, AK",
+        "distance_miles": 48.0,
+        "services_available": [
+          "Full City Services",
+          "International Airport",
+          "Hospital",
+          "Costco / Walmart",
+          "Public Library"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Late May thaw: cool (45-60°F), muddy roads.",
+      "summer": "65-80°F, continuous daylight, intense mosquitoes.",
+      "fall": "August-September: Golden aspen/birch foliage, crisp 30-50°F, Aurora viewing.",
+      "winter": "Severe sub-zero arctic weather (-20 to -40°F), ice and snow."
+    },
+    "dangers_and_hazards": [
+      "Grizzly and Black Bears active",
+      "Frost heaves and road damage on Elliott Highway",
+      "Mosquitoes in summer"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Boreal forest quiet",
+      "common_human_made_sounds": [
+        "Occasional truck driving on Elliott Highway",
+        "High aircraft contrails"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Black Spruce",
+        "Paper Birch",
+        "Quaking Aspen",
+        "Lingonberry (Vaccinium vitis-idaea)"
+      ],
+      "common_animals": [
+        "Alaskan Moose",
+        "Black Bear",
+        "Grizzly Bear",
+        "Snowshoe Hare (Lepus americanus)"
+      ]
+    },
+    "human_demographics_and_culture": "White Mountains NRA backpackers, gold prospectors, interior Alaska nomads, and northern lights hunters.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Tanana Athabascan traditions honor the interior hills and rivers as sacred ancestral lands.",
+      "energetic_and_spiritual_features": "Calming boreal forest energy, stellar Aurora viewing."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Wickersham Dome Trail (White Mountains NRA)",
+        "length_miles": 7.0,
+        "difficulty": "Moderate",
+        "features": "Boreal forest path climbing to open tundra ridge with panoramic interior views"
+      }
+    ],
+    "public_reviews_summary": "Great free primitive stop off the Elliott Highway before heading deeper into the bush. Quiet boreal woods and fantastic Northern Lights.",
+    "other_data": "Bortle Class 1 night sky. Easy access.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ak-kasilof-river-blm-beach",
+    "name": "Kasilof River BLM Dispersed Beach Primitive Camping",
+    "state": "Alaska",
+    "county": "Kenai Peninsula Borough",
+    "coordinates": {
+      "latitude": 60.3412,
+      "longitude": -151.3218,
+      "elevation_ft": 15
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management / State of Alaska DNR",
+      "type": "BLM / State DNR",
+      "phone": "(907) 267-1246",
+      "website": "https://www.blm.gov/alaska"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for primitive camping on public river mouth beach",
+      "stay_limit": "14 days maximum stay",
+      "guidelines": "Primitive camping permitted on public beach sand/gravel flats near Kasilof River mouth. Camp well above high tide line."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Use portable toilet or WAG bag pack-out. Do not bury waste in tidally influenced beach sand.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather driftwood along beach line only.",
+      "safety_requirements": "Campfires in stone rings above high tide line. Extinguish cold to touch with ocean water.",
+      "seasonal_fire_bans": "Obey Alaska Division of Forestry burn alerts."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway to packed gravel beach access road (Sterling Highway / Kasilof River Road)",
+      "road_conditions": "Paved highway leading to firm sand/gravel beach access.",
+      "vehicle_recommendation": "Normal low clearance car (park on gravel upper lot; 4x4 required if driving onto soft beach sand)",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Connectivity",
+      "verizon_reliability": "3-4 bars 5G/LTE (25-60 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 5G LTE",
+      "terrain_obstruction_risk": "Low (Flat Cook Inlet ocean coast)",
+      "distance_from_tower_corridor_miles": 2.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Cook Inlet Ocean Coast Views",
+      "Kasilof River Salmon Access",
+      "Driftwood Fire Pits",
+      "High-speed 5G Cellular Internet"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 9,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Soldotna / Kenai, AK",
+        "distance_miles": 14.5,
+        "services_available": [
+          "Fred Meyer / Safeway",
+          "Gas Stations",
+          "Central Peninsula Hospital",
+          "Public Library",
+          "Auto Repair",
+          "Gyms"
+        ]
+      },
+      {
+        "town_name": "Anchorage, AK",
+        "distance_miles": 145.0,
+        "services_available": [
+          "Full International City Services",
+          "Costco",
+          "Major Hospitals",
+          "International Airport"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "45-55°F, cool ocean breezes, lingering snow banks.",
+      "summer": "60-70°F, dipnet salmon fishing season (July), 20+ hours daylight, ocean fog.",
+      "fall": "Cool 40-50°F, crisp coastal air, low crowds.",
+      "winter": "Cool 15-30°F, sea ice in Cook Inlet, snow on beach."
+    },
+    "dangers_and_hazards": [
+      "High ocean tides (camp strictly above high tide line)",
+      "Brown Bears (Grizzlies) active along salmon river corridor",
+      "Soft sand traps if driving 2WD vehicles on beach"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Ocean waves and gulls",
+      "common_human_made_sounds": [
+        "Salmon dipnetters during July peak season",
+        "Distant commercial fishing boat engines"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Beach Rye Grass (Leymus mollis)",
+        "Sitka Spruce (Picea sitchensis)",
+        "Kenai Birch (Betula kenaica)"
+      ],
+      "common_animals": [
+        "Brown Bear (Grizzly)",
+        "Kenai Moose",
+        "Bald Eagle",
+        "Beluga Whale (Delphinapterus leucas in Cook Inlet)",
+        "King & Red Salmon"
+      ]
+    },
+    "human_demographics_and_culture": "Kenai Peninsula salmon anglers, ocean digital nomads, beachcombers, and vanlifers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Dena'ina Athabascan indigenous traditions revere Cook Inlet and the Kasilof River mouth as sacred salmon gift waters.",
+      "energetic_and_spiritual_features": "Ocean tide grounding energy, majestic views of Redoubt & Spurr volcanoes across Cook Inlet, fast 5G connectivity."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Kasilof River Beach Walk",
+        "length_miles": 4.0,
+        "difficulty": "Easy (Beach Walk)",
+        "features": "Coastal ocean flat walk, volcano views across Cook Inlet, eagle watching"
+      }
+    ],
+    "public_reviews_summary": "Top choice for ocean-front free primitive camping on the Kenai Peninsula. Stunning views of active volcanoes across the inlet and fast 5G cell internet.",
+    "other_data": "Bortle Class 2 night sky. Abundant beach driftwood.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "alaska-006",
+    "name": "Finger Mountain Dispersed Area - Dalton Highway BLM",
+    "state": "Alaska",
+    "county": "Yukon-Koyukuk Census Area",
+    "coordinates": {
+      "latitude": 66.3512,
+      "longitude": -150.8123,
+      "elevation_ft": 2200.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Central Yukon Field Office",
+      "type": "Federal",
+      "phone": "(907) 474-2200",
+      "website": "https://www.blm.gov/alaska"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive BLM dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed camping allowed along Dalton Highway pullouts. Pack out all human waste and garbage. Strict bear safety rules."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Pack out human waste via wag-bag or bury 6 inches deep in tundra topsoil 200 ft from drainages.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy. Bear canister mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring firewood; no wood gathering in Arctic tundra.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to tundra fire bans in dry June."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved gravel and dirt Dalton Highway",
+      "road_conditions": "Dalton Highway gravel with heavy industrial truck traffic, mud, and pot holes.",
+      "vehicle_recommendation": "High clearance 4x4 or sturdy truck required; carry 2 full-sized spare tires.",
+      "scores": {
+        "road_grade": 5,
+        "road_terrain_difficulty": 8,
+        "supply_run_pain": 10
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "No Service (1/5 Stars)",
+      "verizon_reliability": "0 bars",
+      "att_reliability": "0 bars",
+      "tmobile_reliability": "0 bars",
+      "terrain_obstruction_risk": "Low - open arctic tundra, but complete lack of cell towers",
+      "distance_from_tower_corridor_miles": 98.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Arctic Circle Crossing Nearby",
+      "Alpine Tundra Solitude",
+      "Midnight Sun (Summer)",
+      "Aurora Borealis (Fall)"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 1,
+      "distance_to_library_score": 1,
+      "distance_to_gym_score": 1,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Coldfoot, AK",
+        "distance_miles": 42.0,
+        "services_available": [
+          "Gas Pump",
+          "Basic Cafe",
+          "Post Office"
+        ]
+      },
+      {
+        "town_name": "Fairbanks, AK",
+        "distance_miles": 210.0,
+        "services_available": [
+          "Full Urban Services",
+          "Hospital",
+          "Airport",
+          "Walmart"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Breakup season; extreme mud and ice.",
+      "summer": "24-hour Midnight Sun (55-68°F) with intense mosquitoes.",
+      "fall": "Golden tundra color (August-Sept) with Aurora Borealis.",
+      "winter": "Severe Arctic cold (-30 to -50°F); dangerous."
+    },
+    "dangers_and_hazards": [
+      "Grizzly and Black Bear Encounters",
+      "Industrial Haul Truck Traffic",
+      "Extreme Remote Isolation"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Arctic Tundra Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Occasional distant haul truck engine brake",
+        "Tundra wind"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Arctic Tundra Moss",
+        "Dwarf Birch",
+        "Cottongrass"
+      ],
+      "common_animals": [
+        "Grizzly Bear",
+        "Caribou",
+        "Dall Sheep",
+        "Arctic Fox",
+        "Raven"
+      ]
+    },
+    "human_demographics_and_culture": "Koyukon Athabascan indigenous territory and Trans-Alaska Pipeline haul road culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Koyukon Athabascan traditions hold deep reverence for the sacred tundra animal spirits.",
+      "energetic_and_spiritual_features": "Vast open Arctic wilderness north of the Arctic Circle under the Midnight Sun."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Finger Mountain Alpine Tundra Trail",
+        "length_miles": 1.0,
+        "difficulty": "Easy",
+        "features": "Granite tors, alpine tundra vegetation, Arctic valley vistas"
+      }
+    ],
+    "public_reviews_summary": "Bucket-list Arctic tundra adventure north of the Arctic Circle; zero cell service requires Starlink or satellite communication.",
+    "other_data": "Carry extra fuel, food, and two spare tires.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "alaska-007",
+    "name": "Brushkana Creek Dispersed Area - Denali Highway BLM",
+    "state": "Alaska",
+    "county": "Matanuska-Susitna Borough",
+    "coordinates": {
+      "latitude": 63.2112,
+      "longitude": -148.4512,
+      "elevation_ft": 2900.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Glennallen Field Office",
+      "type": "Federal",
+      "phone": "(907) 822-3217",
+      "website": "https://www.blm.gov/alaska"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive BLM dispersed camping outside developed loop)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed camping allowed along Denali Highway pullouts. Pack out all trash. Strict bear food safety."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6 inches deep in tundra topsoil 200 ft from Brushkana Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy. Bear canister mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down spruce wood.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to state fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved gravel Denali Highway",
+      "road_conditions": "135-mile unpaved gravel road; ruts, loose rocks, and washboards.",
+      "vehicle_recommendation": "Sturdy truck, SUV, or high clearance camper recommended; carry spare tire.",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 6,
+        "supply_run_pain": 8
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "No Service (1/5 Stars)",
+      "verizon_reliability": "0 bars",
+      "att_reliability": "0 bars",
+      "tmobile_reliability": "0 bars",
+      "terrain_obstruction_risk": "Moderate in Alaska Range valley",
+      "distance_from_tower_corridor_miles": 55.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Alaska Range Snowcap Views",
+      "Grayling Fly Fishing",
+      "Tundra Berry Picking",
+      "Dark Sky Aurora Borealis"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 2,
+      "distance_to_library_score": 2,
+      "distance_to_gym_score": 1,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Cantwell, AK",
+        "distance_miles": 30.0,
+        "services_available": [
+          "Gas Station",
+          "General Store",
+          "Diner"
+        ]
+      },
+      {
+        "town_name": "Fairbanks, AK",
+        "distance_miles": 150.0,
+        "services_available": [
+          "Full Urban Services",
+          "Hospital",
+          "Walmart",
+          "Airport"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Snow melts late May.",
+      "summer": "Mild tundra summer (60-72°F) with long daylight.",
+      "fall": "Vibrant red tundra color (August-Sept) with Northern Lights.",
+      "winter": "Road unplowed; closed to vehicles."
+    },
+    "dangers_and_hazards": [
+      "Grizzly Bear Habitat",
+      "Remote Tire Punctures",
+      "Sudden Frosts in August"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Subarctic Wilderness Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Brushkana Creek flow",
+        "Wind through dwarf birch"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Black Spruce",
+        "Dwarf Willow",
+        "Blueberry",
+        "Lingonberry"
+      ],
+      "common_animals": [
+        "Grizzly Bear",
+        "Moose",
+        "Caribou",
+        "Arctic Grayling",
+        "Ptarmigan"
+      ]
+    },
+    "human_demographics_and_culture": "Ahtna Athabascan ancestral lands and historic Denali pioneer highway heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Ahtna Athabascan tradition honors the sacred peaks of the Alaska Range.",
+      "energetic_and_spiritual_features": "Panoramic wilderness framed by the snowcapped peaks of the Alaska Range."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Brushkana Creek Tundra Ridge Walk",
+        "length_miles": 3.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Subarctic tundra, grayling fishing stream, Alaska Range vistas"
+      }
+    ],
+    "public_reviews_summary": "Unbelievable Alaska Range wilderness driving route; complete disconnection requiring Starlink for internet.",
+    "other_data": "Excellent Arctic grayling fishing in Brushkana Creek.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "alaska-008",
+    "name": "Hatcher Pass Dispersed Area - State Management Area",
+    "state": "Alaska",
+    "county": "Matanuska-Susitna Borough",
+    "coordinates": {
+      "latitude": 61.7845,
+      "longitude": -149.2812,
+      "elevation_ft": 3800.0
+    },
+    "management_agency": {
+      "name": "Alaska Department of Natural Resources (DNR)",
+      "type": "State",
+      "phone": "(907) 745-3974",
+      "website": "https://dnr.alaska.gov"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state dispersed camping outside park fee lots)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed camping allowed on state public lands along Fishhook / Willow Creek Road outside developed Independence Mine state park lots. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6 inches deep 200 ft from alpine streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy. Bear safety mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring firewood; no wood gathering in alpine tundra.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to DNR fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved road transitioning to gravel mountain pass",
+      "road_conditions": "Paved from Palmer/Wasilla, turns to steep narrow gravel pass road.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD to lower valley; high clearance / 4WD for upper pass.",
+      "scores": {
+        "road_grade": 6,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great on Lower Slopes (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "3 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate in Talkeetna mountain cirque",
+      "distance_from_tower_corridor_miles": 12.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Talkeetna Mountain Alpine Peaks",
+      "Historic Gold Mine Ruins Nearby",
+      "Alpine Lake Views",
+      "Dark Sky Aurora"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Palmer, AK",
+        "distance_miles": 16.0,
+        "services_available": [
+          "Full Groceries",
+          "Hospital",
+          "Gas Stations",
+          "Hardware"
+        ]
+      },
+      {
+        "town_name": "Wasilla, AK",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Walmart",
+          "Target",
+          "All Urban Services"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Snow lingers into June.",
+      "summer": "Pleasant alpine summer (60-70°F).",
+      "fall": "Golden tundra colors (Aug-Sept) with Northern Lights.",
+      "winter": "Snow sports paradise; road closed over pass."
+    },
+    "dangers_and_hazards": [
+      "Avalanche Danger in Winter/Spring",
+      "Bear Encounters",
+      "Steep Mountain Drops"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Alpine Cirque Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Alpine stream flow",
+        "Occasional visitor car pass"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Alpine Tundra",
+        "Fireweed",
+        "Dwarf Birch",
+        "Blueberry"
+      ],
+      "common_animals": [
+        "Hoary Marmot",
+        "Pika",
+        "Arctic Ground Squirrel",
+        "Black Bear",
+        "Dall Sheep"
+      ]
+    },
+    "human_demographics_and_culture": "Dena'ina Athabascan territory and 1930s Independence Mine hard-rock gold mining culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Dena'ina Athabascan tradition honors the Talkeetna peaks as sacred hunting lands.",
+      "energetic_and_spiritual_features": "Dramatic glacial alpine bowls surrounded by sharp granite peaks."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "April Bowl Trail",
+        "length_miles": 2.2,
+        "difficulty": "Moderate",
+        "features": "Alpine tarn lakes, granite spires, 360-degree mountain panorama"
+      }
+    ],
+    "public_reviews_summary": "World-class alpine scenery just 20 minutes from Palmer with solid cell service on lower mountain slopes.",
+    "other_data": "Visit Independence Mine State Historical Park nearby.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "alaska-009",
+    "name": "Skilak Lake Dispersed Area - Kenai National Wildlife Refuge",
+    "state": "Alaska",
+    "county": "Kenai Peninsula Borough",
+    "coordinates": {
+      "latitude": 60.4812,
+      "longitude": -150.3412,
+      "elevation_ft": 350.0
+    },
+    "management_agency": {
+      "name": "U.S. Fish and Wildlife Service - Kenai NWR",
+      "type": "Federal",
+      "phone": "(907) 262-7021",
+      "website": "https://www.fws.gov/refuge/kenai"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFWS dispersed camping outside fee loops)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Primitive dispersed camping allowed at designated pullouts along Skilak Loop Road outside fee campgrounds. Pack out all trash. Strict bear food regulations."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6 inches deep 200 ft from Skilak Lake / Kenai River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy. Approved bear container mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFWS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel loop road",
+      "road_conditions": "Well-maintained gravel Skilak Loop Road off Sterling Highway.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Good (3.5/5 Stars)",
+      "verizon_reliability": "3 bars 4G LTE",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "2 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate along lake shoreline",
+      "distance_from_tower_corridor_miles": 8.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Glacial Turquoise Lake Views",
+      "Kenai River Salmon Fishing Nearby",
+      "Wildlife Viewing",
+      "Dark Sky Stargazing"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Soldotna, AK",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Fred Meyer",
+          "Hospital",
+          "Gas Stations",
+          "Gear Shops",
+          "Gyms"
+        ]
+      },
+      {
+        "town_name": "Sterling, AK",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Gas Station",
+          "Grocery Store",
+          "Tackle Shops"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush coastal spring (50-62°F).",
+      "summer": "Mild pleasant summer (62-72°F).",
+      "fall": "Crisp autumn salmon run season.",
+      "winter": "Snow and ice on lake; freezing cold."
+    },
+    "dangers_and_hazards": [
+      "High Density Brown Bear (Grizzly) Habitat",
+      "Cold Glacial Water Hazards"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Kenai Glacial Lake Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Loon calls across water",
+        "Gentle lake wave lap"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Spruce",
+        "Paper Birch",
+        "Kenai Willow",
+        "Fireweed"
+      ],
+      "common_animals": [
+        "Brown Bear (Grizzly)",
+        "Black Bear",
+        "Kenai Moose",
+        "Bald Eagle",
+        "Sockeye Salmon"
+      ]
+    },
+    "human_demographics_and_culture": "Dena'ina Athabascan ancestral lands and Kenai Peninsula salmon fishing heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Dena'ina tradition reveres Skilak Lake as a sacred fishing lake of life.",
+      "energetic_and_spiritual_features": "Glacial turquoise lake water reflecting the Kenai Mountains."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Skilak Lookout Trail",
+        "length_miles": 2.6,
+        "difficulty": "Moderate",
+        "features": "Panoramic views of Skilak Lake, Kenai River valley, birch forests"
+      }
+    ],
+    "public_reviews_summary": "Stunning glacial lake setting in the heart of Kenai wildlife refuge with usable cell service.",
+    "other_data": "High brown bear concentration during salmon runs; carry bear spray.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "alaska-010",
+    "name": "Chena River Primitive Area - Chena River State Rec Area",
+    "state": "Alaska",
+    "county": "Fairbanks North Star Borough",
+    "coordinates": {
+      "latitude": 64.9123,
+      "longitude": -146.5412,
+      "elevation_ft": 750.0
+    },
+    "management_agency": {
+      "name": "Alaska State Parks - Northern Region",
+      "type": "State",
+      "phone": "(907) 451-2695",
+      "website": "https://dnr.alaska.gov/parks"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state dispersed camping along river pullouts)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed at unpaved pullouts along Chena Hot Springs Road outside developed fee campgrounds. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6 inches deep 200 ft from Chena River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy. Bear safety mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to state fire bans during dry June."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved highway to dirt river pullouts",
+      "road_conditions": "Paved Chena Hot Springs Road with smooth gravel dirt pullouts.",
+      "vehicle_recommendation": "Accessible by all low-clearance 2WD passenger cars and RVs.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low along Chena River valley floor",
+      "distance_from_tower_corridor_miles": 6.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Chena River Canoeing & Fishing",
+      "Hot Springs Proximity",
+      "Midnight Sun",
+      "Aurora Borealis Viewing"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Fairbanks, AK",
+        "distance_miles": 28.0,
+        "services_available": [
+          "Full Urban Services",
+          "Hospital",
+          "Walmart",
+          "Airport",
+          "Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Breakup season in May.",
+      "summer": "Warm interior Alaska summer (72-85°F) with Midnight Sun.",
+      "fall": "Golden autumn birches (Aug-Sept) with world-class Aurora Borealis.",
+      "winter": "Extreme interior cold (-20 to -40°F) with Northern Lights."
+    },
+    "dangers_and_hazards": [
+      "Black Bear and Grizzly Habitat",
+      "Moose Encounters"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Boreal Forest River Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Chena River water flow",
+        "Occasional road car pass"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Paper Birch",
+        "White Spruce",
+        "Quaking Aspen",
+        "Fireweed"
+      ],
+      "common_animals": [
+        "Moose",
+        "Black Bear",
+        "Grizzly Bear",
+        "Beaver",
+        "Arctic Grayling"
+      ]
+    },
+    "human_demographics_and_culture": "Tanana Athabascan ancestral territory and Fairbanks interior pioneer heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Tanana Athabascan tradition honors the Chena River as a vital interior salmon and trade arterial.",
+      "energetic_and_spiritual_features": "Pristine boreal river forest under the glowing Northern Lights."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Angel Rocks Trail",
+        "length_miles": 3.5,
+        "difficulty": "Moderate",
+        "features": "Granite rock tors, Chena River valley panorama, boreal forest"
+      }
+    ],
+    "public_reviews_summary": "Easy paved access, close to Fairbanks and Chena Hot Springs, with reliable cell service and phenomenal Aurora Borealis viewing.",
+    "other_data": "Short drive to Chena Hot Springs resort.",
+    "last_updated": "2026-09-12"
+  }
+]

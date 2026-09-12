@@ -1,0 +1,1330 @@
+[
+  {
+    "id": "ar-ozark-falling-water",
+    "name": "Falling Water Creek Dispersed Camping - Ozark National Forest",
+    "state": "Arkansas",
+    "county": "Searcy County / Pope County",
+    "coordinates": {
+      "latitude": 35.7012,
+      "longitude": -92.9384,
+      "elevation_ft": 1150
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Big Piney Ranger District",
+      "type": "USFS",
+      "phone": "(479) 284-3150",
+      "website": "https://www.fs.usda.gov/osfnf"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for dispersed primitive camping",
+      "stay_limit": "14 consecutive days within a 30-day period",
+      "guidelines": "Dispersed camping is allowed throughout the Big Piney Ranger District on national forest lands. Must be set back 100ft from streams, water bodies, and designated trails."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method required: dig 6 to 8 inches deep into rich forest soil at least 200 feet from Falling Water Creek or tributaries. Pack out all paper products.",
+      "trash_policy": "Strict Leave No Trace. All trash must be packed out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted free of charge for campsite fires.",
+      "safety_requirements": "Use established rock fire pits. Clear away leaf litter 10 feet around fire. Ensure fire is cold to touch before leaving.",
+      "seasonal_fire_bans": "Subject to Arkansas Forestry Division burn bans during autumn drought periods."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved gravel and dirt forest service road (FS 1205)",
+      "road_conditions": "Winding gravel forest road along creek drainage with potholes, loose stone, and narrow turnouts.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (accessible along main FS 1205 gravel road in dry conditions; high clearance recommended for side spurs)",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 6
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Weak to Variable (Deep Ozark Hollow)",
+      "verizon_reliability": "1-2 bars 4G LTE on ridge clearings; 0-1 bar down near creek bed",
+      "att_reliability": "1-2 bars 4G LTE near road high points",
+      "tmobile_reliability": "No signal / Emergency only",
+      "terrain_obstruction_risk": "High (Steep Ozark bluffs and dense hardwood forest canopy cause severe line-of-sight obstruction)",
+      "distance_from_tower_corridor_miles": 11.2,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Perennial Stream Access (Falling Water Creek - filtration mandatory)",
+      "Established Rock Fire Rings",
+      "Lush Hardwood Canopy Shade",
+      "Natural Waterfall Pools"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 4,
+      "distance_to_library_score": 3,
+      "distance_to_gym_score": 2,
+      "terrain_score": 9,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Marshall, AR",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware Store",
+          "Pharmacy",
+          "Searcy County Library"
+        ]
+      },
+      {
+        "town_name": "Russellville, AR",
+        "distance_miles": 42.5,
+        "services_available": [
+          "Walmart Supercenter",
+          "24/7 Gyms",
+          "St. Mary's Regional Medical Center",
+          "Full City Services"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "60-75°F, high waterfall flow, lush ferns and dogwood blooms, frequent severe rainstorms.",
+      "summer": "Hot and humid (85-92°F), lush green canopy, high insect activity (ticks/chiggers), popular swimming hole dips.",
+      "fall": "Vibrant Ozark fall foliage, 55-75°F, dry forest roads, prime camping season.",
+      "winter": "Cool 35-55°F daytime, sub-freezing nights, occasional light snow dustings on bluffs."
+    },
+    "dangers_and_hazards": [
+      "Flash flooding along creek beds following heavy Ozark thunderstorms",
+      "Venomous snakes: Copperheads and Cottonmouths near water",
+      "Heavy infestation of seed ticks and chiggers in high grass and leaf litter",
+      "Slick wet limestone bluffs near waterfalls"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "10/10 - Rushing creek water and forest silence",
+      "common_human_made_sounds": [
+        "Occasional passing dual-sport motorcycle or side-by-side vehicle",
+        "High-altitude commercial aircraft"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine (Pinus echinata)",
+        "White Oak (Quercus alba)",
+        "Flowering Dogwood (Cornus florida)",
+        "Ozark Witch Hazel (Hamamelis vernalis)",
+        "Maidenhair Fern (Adiantum pedatum)"
+      ],
+      "common_animals": [
+        "Black Bear (Ursus americanus)",
+        "White-tailed Deer",
+        "Elk (Cervus canadensis - reestablished in nearby Boxley Valley)",
+        "Agkistrodon contortrix (Copperhead)",
+        "Pileated Woodpecker (Dryocopus pileatus)"
+      ]
+    },
+    "human_demographics_and_culture": "Backcountry waterfall hunters, Ozark trail backpackers, solo digital nomads with satellite internet, and local anglers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Osage and Cherokee traditional lore regards the ancient Ozark mountain bluffs and hidden waterfall springs as places of deep spiritual healing and water elemental spirits.",
+      "energetic_and_spiritual_features": "High negative ion concentration from tumbling waterfalls creates a noticeable uplifting, stress-relieving natural field. Deep acoustic sanctuary."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Falling Water Falls Trail",
+        "length_miles": 0.5,
+        "difficulty": "Easy",
+        "features": "Direct access to 10-foot cascading waterfall pool"
+      },
+      {
+        "trail_name": "Ozark Highlands Trail (Richland Creek Section)",
+        "length_miles": 16.5,
+        "difficulty": "Strenuous",
+        "features": "Remote wilderness canyons, twin waterfalls, sandstone bluffs"
+      }
+    ],
+    "public_reviews_summary": "Stunning natural beauty with turquoise water pools and lush forest canopy. Cell service is weak down in the hollow, making a cell booster or Starlink essential for heavy remote work.",
+    "other_data": "Bortle Class 2 night sky. Abundant deadwood for campfires.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ar-ouachita-albert-pike-dispersed",
+    "name": "Albert Pike Area Dispersed Camping - Ouachita National Forest",
+    "state": "Arkansas",
+    "county": "Montgomery County / Polk County",
+    "coordinates": {
+      "latitude": 34.3789,
+      "longitude": -93.8812,
+      "elevation_ft": 720
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Caddo-Mena Ranger District",
+      "type": "USFS",
+      "phone": "(479) 394-2382",
+      "website": "https://www.fs.usda.gov/ouachita"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free for dispersed primitive camping in general national forest lands",
+      "stay_limit": "14 days maximum stay",
+      "guidelines": "Dispersed camping is permitted throughout general forest lands outside the closed loop area. Campsites must be located at least 100ft away from water sources."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Standard cat-hole method: dig 6 inches deep, 200 feet from streams and trails. Pack out all wipes and trash.",
+      "trash_policy": "Leave No Trace strictly enforced. No trash receptacles in primitive areas."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only.",
+      "safety_requirements": "Extinguish fires completely with river water.",
+      "seasonal_fire_bans": "Obey fire restrictions during drought."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved changing to gravel Forest Service Road (FS 73 / FS 106)",
+      "road_conditions": "Main road is well-graded gravel; side roads can be rocky with shallow low-water stream crossings.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (accessible along main FS 73 gravel corridor)",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Weak / Spotty",
+      "verizon_reliability": "1-2 bars 4G LTE on higher ridge turnouts",
+      "att_reliability": "1 bar 4G LTE near main road intersections",
+      "tmobile_reliability": "No signal",
+      "terrain_obstruction_risk": "High (Ouachita mountain ridges restrict cell tower signals)",
+      "distance_from_tower_corridor_miles": 12.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Little Missouri River Access",
+      "Shaded Pine & Oak Sites",
+      "Primitive Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 4,
+      "distance_to_library_score": 3,
+      "distance_to_gym_score": 2,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Glenwood, AR",
+        "distance_miles": 20.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Pharmacy",
+          "Hardware",
+          "Public Library"
+        ]
+      },
+      {
+        "town_name": "Hot Springs, AR",
+        "distance_miles": 52.0,
+        "services_available": [
+          "Full City Services",
+          "Hospitals",
+          "Gyms",
+          "National Park Visitor Center"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "60-75°F, lush vegetation, crystal-clear river swimming, high spring flood risk.",
+      "summer": "Hot 88-95°F, humid, swimming hole relief, afternoon storms.",
+      "fall": "Pleasant 55-75°F, brilliant hardwood leaf colors, dry weather.",
+      "winter": "Cool 35-55°F, crisp clear nights, rare snow."
+    },
+    "dangers_and_hazards": [
+      "CRITICAL: Flash flooding along the Little Missouri River valley (rapid water level rise after heavy upstream rain)",
+      "Copperheads and Timber Rattlesnakes active spring through autumn",
+      "Ticks and chiggers in high brush"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - River sounds and mountain tranquility",
+      "common_human_made_sounds": [
+        "Occasional passing vehicle on FS 73",
+        "High aircraft contrails"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "Post Oak",
+        "Sweetgum (Liquidambar styraciflua)",
+        "Wild Hydrangea"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Black Bear",
+        "Wild Turkey",
+        "Ouachita Madtom (rare endemic fish in clean rivers)"
+      ]
+    },
+    "human_demographics_and_culture": "River kayakers, Ouachita Trail backpackers, quartz crystal prospectors, and vanlifers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Caddo indigenous lore honors the Ouachita (meaning 'good hunting ground') mountains and quartz crystal veins as powerful conduits of Earth energy.",
+      "energetic_and_spiritual_features": "Rich subterranean quartz crystal deposits throughout the Ouachita range generate strong natural piezo-electric ground frequencies."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Little Missouri National Recreation Trail",
+        "length_miles": 16.0,
+        "difficulty": "Moderate",
+        "features": "Winding river trail, rocky bluffs, cascading rapids"
+      }
+    ],
+    "public_reviews_summary": "Peaceful river primitive camping surrounded by pine forest. Campers must monitor weather forecasts closely for flood warnings.",
+    "other_data": "Bortle Class 3 dark sky. Excellent clear river water.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ar-sylamore-white-river-dispersed",
+    "name": "Sylamore Ranger District Dispersed Primitive Camping - Ozark NF",
+    "state": "Arkansas",
+    "county": "Stone County",
+    "coordinates": {
+      "latitude": 35.9412,
+      "longitude": -92.1814,
+      "elevation_ft": 680
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Sylamore Ranger District",
+      "type": "USFS",
+      "phone": "(870) 269-3228",
+      "website": "https://www.fs.usda.gov/osfnf"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required",
+      "stay_limit": "14 consecutive days max stay limit",
+      "guidelines": "Dispersed primitive camping permitted on general national forest lands along Sylamore Creek and White River surroundings. Must be set back 100ft from streams."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6-8 inches deep in forest soil, 200 feet from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only.",
+      "safety_requirements": "Campfires in established rock fire rings only. Extinguish cold to touch.",
+      "seasonal_fire_bans": "Obey Arkansas Forestry burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved highway changing to unpaved gravel forest roads (FS 1102 / FS 1110)",
+      "road_conditions": "Washboard gravel roads with small washboards and dips.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (accessible on main gravel forest roads in dry weather)",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Internet",
+      "verizon_reliability": "3-4 bars 4G LTE (15-35 Mbps download)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate (Rolling Ozark plateau hills)",
+      "distance_from_tower_corridor_miles": 3.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Sylamore Creek Access (Filter required)",
+      "Ozark Folk Center Proximity",
+      "Established Rock Fire Rings",
+      "Shaded Hardwood Canopy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Mountain View, AR",
+        "distance_miles": 9.5,
+        "services_available": [
+          "Grocery Stores",
+          "Gas Stations",
+          "Pharmacy",
+          "Stone County Library",
+          "Ozark Health Medical Clinic",
+          "Folk Music Square"
+        ]
+      },
+      {
+        "town_name": "Batesville, AR",
+        "distance_miles": 38.0,
+        "services_available": [
+          "Walmart Supercenter",
+          "White River Health Hospital",
+          "24/7 Gyms",
+          "Full Commercial Services"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "60-75°F, blooming dogwoods, spring trout fishing, pleasant rain.",
+      "summer": "Hot and humid (85-92°F), creek swimming hole relief, high tick activity.",
+      "fall": "Spectacular Ozark autumn leaf foliage (55-72°F daytime, 40-50°F nights), dry roads.",
+      "winter": "Cool 35-52°F, freezing nights, quiet forest."
+    },
+    "dangers_and_hazards": [
+      "Copperheads and Timber Rattlesnakes near rocky creeks",
+      "Ticks and chiggers in brush"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Creek water and forest quiet",
+      "common_human_made_sounds": [
+        "Acoustic folk music picking in distance near Mountain View town square",
+        "Occasional camper vehicle"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Oak",
+        "Shortleaf Pine",
+        "Flowering Dogwood",
+        "Sycamore"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Smallmouth Bass (Micropterus dolomieu in clean streams)",
+        "Copperhead"
+      ]
+    },
+    "human_demographics_and_culture": "Folk musicians (Mountain View is the Folk Music Capital of the World), mountain bikers (Syllamo trail network), fly anglers, and digital nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Osage indigenous traditions revere the Ozark bluffs and clear spring creeks of Stone County as sacred healing waters.",
+      "energetic_and_spiritual_features": "Acoustic musical heritage energy, pristine karst spring water, peaceful Ozark hill sanctuary."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Syllamo Mountain Bike & Hiking Trail Network",
+        "length_miles": 50.0,
+        "difficulty": "Moderate to Strenuous",
+        "features": "World-class singletrack through Ozark hardwood forests and rock bluffs"
+      }
+    ],
+    "public_reviews_summary": "Incredible free primitive camping near Mountain View. Outstanding acoustic music culture in town, pristine trout streams, and fast 4G cell internet.",
+    "other_data": "Bortle Class 2 night sky. Abundant firewood.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ar-buffalo-river-erbie-dispersed",
+    "name": "Erbie / Woolum Dispersed Camping - Buffalo National River",
+    "state": "Arkansas",
+    "county": "Newton County",
+    "coordinates": {
+      "latitude": 36.0812,
+      "longitude": -93.1214,
+      "elevation_ft": 820
+    },
+    "management_agency": {
+      "name": "National Park Service - Buffalo National River Headquarters",
+      "type": "NPS",
+      "phone": "(870) 439-2202",
+      "website": "https://www.nps.gov/buff"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for backcountry gravel bar primitive camping along river",
+      "stay_limit": "14 consecutive days max stay limit",
+      "guidelines": "Free primitive gravel bar camping permitted along the Buffalo River corridor at least 1/2 mile outside developed fee campgrounds. Leave No Trace mandatory."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6-8 inches deep in gravel/soil, 200 feet from Buffalo River. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out. Zero trash bins on gravel bars."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed driftwood along river gravel bars only.",
+      "safety_requirements": "Campfires on gravel bars below high water mark. Extinguish cold to touch with river water.",
+      "seasonal_fire_bans": "Obey NPS fire alerts."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved dirt and gravel river valley road (Erbie Road / Woolum Access)",
+      "road_conditions": "Washboard dirt gravel road crossing Ozark hills. Low-water river crossings require care.",
+      "vehicle_recommendation": "Normal low clearance car can reach Erbie trailhead; high clearance recommended for low-water gravel river bars",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Weak to Moderate (Bluff Canyon Shadow)",
+      "verizon_reliability": "2-3 bars 4G LTE on high bluff points; 0-1 bar down on river gravel bars",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "No signal",
+      "terrain_obstruction_risk": "High (500-foot limestone bluffs obstruct cell tower line of sight)",
+      "distance_from_tower_corridor_miles": 7.5,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "National River Gravel Bar Camping",
+      "500-foot Limestone Bluff Views",
+      "Driftwood Fire Pits",
+      "Crystal-Clear River Swimming"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 4,
+      "distance_to_gym_score": 3,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Jasper / Harrison, AR",
+        "distance_miles": 14.5,
+        "services_available": [
+          "Walmart Supercenter",
+          "Gas Stations",
+          "Outfitter Shops",
+          "Newton County Library",
+          "North Arkansas Regional Medical Center"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "60-75°F, peak river float season (kayak/canoe rapids), wild elk viewing in Boxley Valley.",
+      "summer": "Hot and humid (85-92°F), swimming hole relief, low water river floats.",
+      "fall": "World-class Ozark bluff fall foliage (55-70°F daytime, 35-45°F nights), prime camping.",
+      "winter": "Cool 35-50°F, freezing nights, total river solitude."
+    },
+    "dangers_and_hazards": [
+      "Rapid flash flooding on Buffalo River after upstream rainstorms",
+      "500-foot vertical limestone bluff drop-offs",
+      "Copperheads and Cottonmouths near water"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "10/10 - Pure river and bluff canyon silence",
+      "common_human_made_sounds": [
+        "Occasional canoeist paddling past on Buffalo River",
+        "High aircraft contrails"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Oak",
+        "Shortleaf Pine",
+        "Sycamore",
+        "River Birch (Betula nigra)",
+        "Ozark Wildflowers"
+      ],
+      "common_animals": [
+        "Elk (Cervus canadensis - Boxley Valley herd)",
+        "Bald Eagle",
+        "Smallmouth Bass",
+        "Black Bear",
+        "Beaver"
+      ]
+    },
+    "human_demographics_and_culture": "Canoe & kayak paddlers, Buffalo River trail backpackers, wildlife photographers, and digital nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Osage indigenous traditions revere America's first National River and its towering limestone bluffs as sacred ancestral spirit waters.",
+      "energetic_and_spiritual_features": "Profound canyon river acoustics, high negative ion waterfall energy, pristine dark night skies."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Buffalo River Trail (Erbie to Ozark Section)",
+        "length_miles": 8.5,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Winding bluff trail with dramatic vistas over Buffalo National River"
+      }
+    ],
+    "public_reviews_summary": "Camping on a massive gravel bar beneath 500-foot limestone bluffs along America's first National River is an unforgettable experience. Cell service is spotty down in the canyon, so bring Starlink or enjoy being unplugged.",
+    "other_data": "Bortle Class 2 night sky. Abundant driftwood.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "arkansas-005",
+    "name": "Richland Creek Wilderness Dispersed Camping Area",
+    "state": "Arkansas",
+    "county": "Searcy",
+    "coordinates": {
+      "latitude": 35.7952,
+      "longitude": -92.9341,
+      "elevation_ft": 1420.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Ozark-St. Francis National Forests (Big Piney Ranger District)",
+      "type": "Federal",
+      "phone": "(479) 284-3150",
+      "website": "https://www.fs.usda.gov/osfnf"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night, no permits or fees required for dispersed camping)",
+      "stay_limit": "14 days maximum stay within a 30-day period",
+      "guidelines": "Dispersed primitive camping permitted along forest roads outside developed campgrounds. Leave No Trace principles strictly required. Camp at least 100 feet away from streams and trails."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury human waste in a cat-hole 6 to 8 inches deep, located at least 200 feet from water sources and trails. Pack out all toilet paper and personal hygiene products.",
+      "trash_policy": "Pack it in, pack it out. No trash collection service. Leave site cleaner than you found it."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood may be collected freely nearby. Do not cut live standing trees or transport wood from outside Arkansas to prevent emerald ash borer spread.",
+      "safety_requirements": "Use existing rock fire rings. Douse fire completely with water until cold to the touch before sleeping or leaving.",
+      "seasonal_fire_bans": "Subject to county burn bans during dry summer and autumn periods."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel and dirt forest service roads",
+      "road_conditions": "Narrow gravel roads with occasional ruts and loose stone. Steep inclines in places.",
+      "vehicle_recommendation": "High clearance 2WD car or CUV can access main pullouts in dry weather; 4x4 recommended after heavy rain.",
+      "scores": {
+        "road_grade": 6,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 6
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2/5 Stars)",
+      "verizon_reliability": "1-2 bars 4G LTE on high ridge pullouts, drops in deep creek hollows",
+      "att_reliability": "1 bar 4G LTE spotty",
+      "tmobile_reliability": "No signal in valleys, spotty on ridges",
+      "terrain_obstruction_risk": "High - dense hardwood canopy and steep Ozark bluff walls obstruct line of sight to cell towers",
+      "distance_from_tower_corridor_miles": 14.5,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Dispersed Fire Rings",
+      "Scenic Creek Access",
+      "Primitive Flat Pullouts",
+      "Dark Sky Star Observation"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 4,
+      "distance_to_library_score": 4,
+      "distance_to_gym_score": 3,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Marshall, AR",
+        "distance_miles": 22.4,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Local Restaurants"
+        ]
+      },
+      {
+        "town_name": "Russellville, AR",
+        "distance_miles": 46.1,
+        "services_available": [
+          "Supercenter",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center",
+          "Mechanic"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool to mild, damp weather with roaring waterfalls and blooming dogwoods. High risk of flash flooding near creeks.",
+      "summer": "Hot and humid with temperatures reaching 90-95°F. Ticks and chiggers abundant; creek swims offer relief.",
+      "fall": "Crisp dry air with vibrant Ozark hardwood fall foliage in October and November. Ideal primitive camping weather.",
+      "winter": "Cold temperatures dropping below freezing at night (20-30°F). Occasional light snowfall or ice storms."
+    },
+    "dangers_and_hazards": [
+      "Black Bears",
+      "Venomous Snakes (Copperheads, Timber Rattlesnakes)",
+      "Flash Flooding near Richland Creek",
+      "Ticks and Chiggers",
+      "Cell Phone Dead Zones"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Very Peaceful (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Distant gravel road traffic",
+        "High altitude aircraft"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "White Oak",
+        "Dogwood",
+        "Wild Azalea",
+        "Ozark Bladdernut"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "White-tailed Deer",
+        "Elk",
+        "Wild Turkey",
+        "Pileated Woodpecker"
+      ]
+    },
+    "human_demographics_and_culture": "Deep Ozark mountain heritage characterized by folk traditions, bluegrass music, independent homesteading, and timber management.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Ozark folklore speaks of the 'Gawggy', a legendary creature said to inhabit the remote bluff shelters of Richland Creek.",
+      "energetic_and_spiritual_features": "Ancient sandstone bluffs and clear water springs create an uplifting, grounding atmosphere prized by quiet seekers."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Richland Creek Wilderness Trail to Falling Water Falls",
+        "length_miles": 5.6,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Scenic waterfalls, limestone bluffs, pristine creek swimming holes"
+      }
+    ],
+    "public_reviews_summary": "Campers love the pristine wilderness solitude, emerald swimming holes, and star-filled skies, but warn about rough gravel roads and non-existent cell service in the hollows.",
+    "other_data": "Pack all supplies beforehand as local gas stations have limited hours. High water makes creek crossings impassable after spring heavy rains.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "arkansas-006",
+    "name": "Richland Creek Dispersed Area - Ozark National Forest",
+    "state": "Arkansas",
+    "county": "Searcy",
+    "coordinates": {
+      "latitude": 35.8123,
+      "longitude": -92.9412,
+      "elevation_ft": 1400.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Ozark-St. Francis National Forests",
+      "type": "Federal",
+      "phone": "(870) 446-5122",
+      "website": "https://www.fs.usda.gov/osfnf"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside developed loop)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed camping allowed along Forest Service roads outside developed wilderness area. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Richland Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel dirt mountain road",
+      "road_conditions": "Winding gravel forest road with steep grades and washboard.",
+      "vehicle_recommendation": "High clearance 2WD/4WD recommended.",
+      "scores": {
+        "road_grade": 5,
+        "road_terrain_difficulty": 6,
+        "supply_run_pain": 6
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair / Spotty (2.5/5 Stars)",
+      "verizon_reliability": "2 bars 4G LTE (Ridge tops)",
+      "att_reliability": "1-2 bars 4G LTE",
+      "tmobile_reliability": "1 bar 4G LTE",
+      "terrain_obstruction_risk": "High inside deep Ozark creek hollows",
+      "distance_from_tower_corridor_miles": 18.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Richland Creek Waterfalls",
+      "Ozark Mountain Hollow Views",
+      "Wilderness Gateway",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 4,
+      "distance_to_library_score": 4,
+      "distance_to_gym_score": 2,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Jasper, AR",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Gas Station",
+          "Grocery Store",
+          "Hardware",
+          "Diner"
+        ]
+      },
+      {
+        "town_name": "Harrison, AR",
+        "distance_miles": 42.0,
+        "services_available": [
+          "Full City Services",
+          "Hospital",
+          "Walmart",
+          "Gear Shops"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush spring waterfalls (60-72°F).",
+      "summer": "Warm humid summer (85-92°F) with creek swimming.",
+      "fall": "Spectacular Ozark autumn foliage.",
+      "winter": "Cool winter (38-50°F)."
+    },
+    "dangers_and_hazards": [
+      "Flash Floods in Narrow Hollows",
+      "Venomous Snakes",
+      "Steep Slippery Rock Slopes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Ozark Hollow Waterfall Quiet (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Waterfalls and creek roar",
+        "Songbird chorus"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "White Oak",
+        "Sugar Maple",
+        "Beech"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "White-tailed Deer",
+        "Elk",
+        "Wild Turkey",
+        "Smallmouth Bass"
+      ]
+    },
+    "human_demographics_and_culture": "Osage ancestral lands and Ozark mountain pioneer heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Osage tradition reveres the pristine Ozark bluffs and spring-fed mountain creeks.",
+      "energetic_and_spiritual_features": "Crystal clear Ozark mountain streams carving deep sandstone bluff hollows."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Richland Falls & Twin Falls Trail",
+        "length_miles": 5.5,
+        "difficulty": "Strenuous",
+        "features": "Cascading waterfalls, sandstone bluffs, turquoise creek pools"
+      }
+    ],
+    "public_reviews_summary": "World-class Ozark waterfall country; cell service is spotty in hollows so Starlink is recommended.",
+    "other_data": "Best waterfall flows occur in spring.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "arkansas-007",
+    "name": "Eagle Rock Dispersed Area - Ouachita National Forest",
+    "state": "Arkansas",
+    "county": "Montgomery",
+    "coordinates": {
+      "latitude": 34.3512,
+      "longitude": -93.8123,
+      "elevation_ft": 950.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Ouachita National Forest",
+      "type": "Federal",
+      "phone": "(479) 394-2382",
+      "website": "https://www.fs.usda.gov/ouachita"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside developed recreation area)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Forest Service pullouts outside Albert Pike day-use area. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Little Missouri River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel Forest Service road; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great on Ridge (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "3 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate on ridge pullouts",
+      "distance_from_tower_corridor_miles": 8.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Little Missouri River Swimming",
+      "Eagle Rock Loop Trail Access",
+      "Shortleaf Pine Shade",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Glenwood, AR",
+        "distance_miles": 18.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diner"
+        ]
+      },
+      {
+        "town_name": "Hot Springs, AR",
+        "distance_miles": 45.0,
+        "services_available": [
+          "Full City Services",
+          "Hospital",
+          "Walmart",
+          "Thermal Baths"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush spring green (62-74°F).",
+      "summer": "Warm summer (85-92°F) with river swimming.",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cool winter (40-52°F)."
+    },
+    "dangers_and_hazards": [
+      "Flash Floods in Little Missouri River",
+      "Copperhead Snakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Ouachita Pine River Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "River water flow",
+        "Pine needle wind"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "Loblolly Pine",
+        "White Oak",
+        "Dogwood"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Black Bear",
+        "Wild Turkey",
+        "Smallmouth Bass"
+      ]
+    },
+    "human_demographics_and_culture": "Caddo indigenous heritage and Ouachita mountain lumber history.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Caddo traditional territory; Ouachita mountains feature East-West mountain ridge alignments.",
+      "energetic_and_spiritual_features": "Crystal clear Little Missouri river flowing through quartz-bearing Ouachita pine ridges."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Eagle Rock Loop Trail (Winding Stairs Section)",
+        "length_miles": 4.5,
+        "difficulty": "Moderate",
+        "features": "Winding stairs rapids, quartz rock outcrops, pine ridge vistas"
+      }
+    ],
+    "public_reviews_summary": "Incredible swimming holes along the Little Missouri River with reliable cell service on ridge pullouts.",
+    "other_data": "Winding Stairs is a famous local scenic swimming spot.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "arkansas-008",
+    "name": "Sylamore Dispersed Area - Sylamore Ranger District",
+    "state": "Arkansas",
+    "county": "Stone",
+    "coordinates": {
+      "latitude": 35.9812,
+      "longitude": -92.1412,
+      "elevation_ft": 850.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Ozark National Forest",
+      "type": "Federal",
+      "phone": "(870) 269-3228",
+      "website": "https://www.fs.usda.gov/osfnf"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside Blanchard fee zone)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free dispersed primitive camping on national forest pullouts along Green Mountain road (FR 1102). Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Sylamore Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel Forest Service road; smooth dirt pullouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate on ridge tops",
+      "distance_from_tower_corridor_miles": 7.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Sylamore Creek Swimming",
+      "Blanchard Springs Caverns Proximity",
+      "Mountain Biking Trails",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 5,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Mountain View, AR",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Folk Music Capital",
+          "Grocery Stores",
+          "Hospital",
+          "Gas",
+          "Hardware"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush green Ozark spring (62-74°F).",
+      "summer": "Warm summer (85-92°F) with cool cave air & swimming.",
+      "fall": "Spectacular autumn foliage.",
+      "winter": "Cool winter (38-50°F)."
+    },
+    "dangers_and_hazards": [
+      "Flash Floods in Creek Hollows",
+      "Ticks in Spring"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Ozark Pine & Hardwood Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Creek flow",
+        "Fiddle music echoes from Mountain View"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "White Oak",
+        "Dogwood",
+        "Redbud"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Gray Fox",
+        "Black Bear",
+        "Ozark Hellbender"
+      ]
+    },
+    "human_demographics_and_culture": "Osage ancestral lands and Mountain View traditional Ozark folk music culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Blanchard Springs subterranean cavern system carved through ancient limestone over millions of years.",
+      "energetic_and_spiritual_features": "Crystal clear spring waters pouring from deep limestone caverns into Sylamore Creek."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Syllamo Mountain Bike & Hike Trail",
+        "length_miles": 7.5,
+        "difficulty": "Moderate",
+        "features": "Sandstone bluffs, pine forest singletrack, creek vistas"
+      }
+    ],
+    "public_reviews_summary": "Top choice near Mountain View for free pine forest camping, mountain biking, and Blanchard Caverns visits with strong cell service.",
+    "other_data": "Visit Blanchard Springs Caverns nearby.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "arkansas-009",
+    "name": "White Rock Mountain Dispersed Area - Ozark NF",
+    "state": "Arkansas",
+    "county": "Franklin",
+    "coordinates": {
+      "latitude": 35.6812,
+      "longitude": -93.9412,
+      "elevation_ft": 2250.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Boston Mountain District",
+      "type": "Federal",
+      "phone": "(479) 667-2191",
+      "website": "https://www.fs.usda.gov/osfnf"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside peak rim fee area)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free dispersed primitive camping on national forest pullouts along FR 1003 approaching White Rock Mountain. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from mountain drainages. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel mountain forest road",
+      "road_conditions": "Graded gravel Forest Service road climbing mountain ridge; smooth when dry.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low on 2,250-foot mountain rim",
+      "distance_from_tower_corridor_miles": 6.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "2,250-Foot Ozark Mountain Panoramic Views",
+      "Sunset Bluff Overlooks",
+      "Ozark Highlands Trail Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Ozark, AR",
+        "distance_miles": 20.0,
+        "services_available": [
+          "Grocery Store",
+          "Hospital",
+          "Gas Stations",
+          "Hardware"
+        ]
+      },
+      {
+        "town_name": "Fayetteville, AR",
+        "distance_miles": 42.0,
+        "services_available": [
+          "Full Urban Services",
+          "University of Arkansas",
+          "REI",
+          "Walmart"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush mountain spring (60-72°F).",
+      "summer": "Cool mountain breezes (78-85°F vs 95°F in valley).",
+      "fall": "World-class Ozark autumn foliage.",
+      "winter": "Cool winter (35-48°F) with light snow."
+    },
+    "dangers_and_hazards": [
+      "Sheer Bluff Rim Drop-offs",
+      "High Wind Gusts"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Mountain Crest Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Mountain wind over bluffs",
+        "Hawk screeches"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "White Oak",
+        "Hickory",
+        "Wild Azalea"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Black Bear",
+        "Broad-winged Hawk",
+        "Scarlet Tanager"
+      ]
+    },
+    "human_demographics_and_culture": "Osage ancestral lands and 1930s Civilian Conservation Corps (CCC) mountain build heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "CCC workers constructed stone bluffs and pavilions atop White Rock Mountain in 1935.",
+      "energetic_and_spiritual_features": "Highest mountain peak in the region commanding 360-degree views across the Boston Mountains."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "White Rock Rim Trail",
+        "length_miles": 2.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Sandstone bluffs, 360-degree Ozark panoramas, CCC stone structures"
+      }
+    ],
+    "public_reviews_summary": "Unmatched 360-degree Ozark mountain sunset views with blazing 5G cell service on the mountain rim.",
+    "other_data": "Ozark Highlands Trail connection point.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "arkansas-010",
+    "name": "Caney Creek Wilderness Dispersed Area - Ouachita NF",
+    "state": "Arkansas",
+    "county": "Polk",
+    "coordinates": {
+      "latitude": 34.4123,
+      "longitude": -94.2812,
+      "elevation_ft": 1100.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Mena Ranger District",
+      "type": "Federal",
+      "phone": "(479) 394-2382",
+      "website": "https://www.fs.usda.gov/ouachita"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along FR 38 outside wilderness boundary. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Caney Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel Forest Service road; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great on Ridge (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "3 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate on elevated forest pullouts",
+      "distance_from_tower_corridor_miles": 8.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Caney Creek Wilderness Access",
+      "Pine & Hardwood Shade",
+      "Creek Swimming",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Mena, AR",
+        "distance_miles": 18.0,
+        "services_available": [
+          "Grocery Stores",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush spring green (60-72°F).",
+      "summer": "Warm summer (84-90°F) with creek swimming.",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cool winter (38-50°F)."
+    },
+    "dangers_and_hazards": [
+      "Flash Floods in Caney Creek",
+      "Copperhead Snakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Wilderness Edge Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Caney creek water flow",
+        "Pine wind"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "White Oak",
+        "American Beech",
+        "Sweetgum"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Black Bear",
+        "Wild Turkey",
+        "Smallmouth Bass"
+      ]
+    },
+    "human_demographics_and_culture": "Caddo indigenous heritage and Polk County timber history.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Caney Creek Wilderness protects 14,460 acres of untouched Ouachita mountain forest.",
+      "energetic_and_spiritual_features": "Pristine wilderness edge stream flowing over polished Ouachita quartz stones."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Caney Creek Wilderness Trail",
+        "length_miles": 9.5,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Old-growth hardwoods, crystal clear creek crossings, mountain ridges"
+      }
+    ],
+    "public_reviews_summary": "Peaceful wilderness edge camping near Mena with reliable cell service and crystal clear stream swimming.",
+    "other_data": "18 miles from Mena.",
+    "last_updated": "2026-09-12"
+  }
+]

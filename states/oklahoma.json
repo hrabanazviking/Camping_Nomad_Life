@@ -1,0 +1,1272 @@
+[
+  {
+    "id": "ok-ouachita-talimena-scenic-drive",
+    "name": "Talimena Scenic Drive Dispersed Primitive Camping - Ouachita National Forest",
+    "state": "Oklahoma",
+    "county": "Le Flore County",
+    "coordinates": {
+      "latitude": 34.6812,
+      "longitude": -94.7814,
+      "elevation_ft": 2150
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Tiak / Choctaw Ranger District",
+      "type": "USFS",
+      "phone": "(918) 653-2991",
+      "website": "https://www.fs.usda.gov/ouachita"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for general forest dispersed camping",
+      "stay_limit": "14 consecutive days max stay within 30-day period",
+      "guidelines": "Dispersed primitive camping permitted throughout national forest lands along OK-1 (Talimena Scenic Drive). Must be set back 100ft from trails and water bodies."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6 inches deep in rocky soil, 200 feet from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only.",
+      "safety_requirements": "Campfires in established rock fire rings only. Extinguish cold to touch with water.",
+      "seasonal_fire_bans": "Obey Oklahoma Department of Agriculture drought fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved scenic highway changing to gravel forest service roads (OK-1 / FS 6000)",
+      "road_conditions": "Paved main ridge drive; gravel side forest roads are steep with small washboards and rocks.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (easily accessible along main paved scenic highway turnouts)",
+      "scores": {
+        "road_grade": 6,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Internet",
+      "verizon_reliability": "3-4 bars 5G/LTE (25-50 Mbps download on high ridge turnouts)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 5G LTE",
+      "terrain_obstruction_risk": "Low on ridge crests; Moderate in deep southern valleys",
+      "distance_from_tower_corridor_miles": 3.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Panoramic Winding Ridge Overlook Views",
+      "Ouachita National Recreation Trail Access",
+      "Established Rock Fire Rings",
+      "High-speed 5G Cellular Internet"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Talihina, OK",
+        "distance_miles": 12.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Propane",
+          "Pharmacy",
+          "Choctaw Nation Health Center",
+          "Public Library"
+        ]
+      },
+      {
+        "town_name": "Poteau / Fort Smith, AR",
+        "distance_miles": 38.0,
+        "services_available": [
+          "Walmart Supercenter",
+          "Gyms",
+          "Hospitals",
+          "Full Commercial Services"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "60-75°F, blooming wild redbud and dogwood, spring rainstorms.",
+      "summer": "Warm 85-92°F, but pleasant ridge breeze compared to lowland heat.",
+      "fall": "Spectacular Ouachita mountain autumn colors (60-75°F daytime, 40-50°F nights), ideal camping weather.",
+      "winter": "Cool 35-55°F, freezing night temperatures, occasional ridge ice dustings."
+    },
+    "dangers_and_hazards": [
+      "High mountain wind gusts on exposed ridge pullouts",
+      "Copperheads and Timber Rattlesnakes near rocky outcrops",
+      "Black Bears present in Ouachita NF - store food securely"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Mountain ridge wind quiet",
+      "common_human_made_sounds": [
+        "Occasional motorcycle touring on Talimena Drive",
+        "High-altitude aircraft contrails"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "Post Oak (Quercus stellata)",
+        "Hickory",
+        "Flowering Dogwood",
+        "Highbush Blueberry"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Black Bear",
+        "Wild Turkey",
+        "Timber Rattlesnake",
+        "Roadrunner"
+      ]
+    },
+    "human_demographics_and_culture": "Talimena Drive touring drivers, Ouachita Trail backpackers, digital nomads, Choctaw Nation citizens, and autumn color tourists.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Choctaw indigenous traditions revere the high Kiamichi and Ouachita mountain ridges as sacred elevated places of spiritual vision and lightning guardians.",
+      "energetic_and_spiritual_features": "High elevation ridge vitality, subterranean quartz crystal resonance, 360-degree sunset horizons."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Ouachita National Recreation Trail (Section 1 - Talimena)",
+        "length_miles": 18.0,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Winding ridge trail along crest of Winding Stair Mountain"
+      }
+    ],
+    "public_reviews_summary": "Incredible high-elevation mountain boondocking along the Talimena Drive. Breathtaking sunset views and blazing fast 5G cell internet.",
+    "other_data": "Bortle Class 3 night sky. Great solar panel placement on south-facing ridge sites.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ok-ouachita-nf-winding-stair",
+    "name": "Ouachita National Forest Winding Stair Mountain Dispersed Camping",
+    "state": "Oklahoma",
+    "county": "Le Flore County",
+    "coordinates": {
+      "latitude": 34.7214,
+      "longitude": -94.8812,
+      "elevation_ft": 2450
+    },
+    "management_agency": {
+      "name": "US Forest Service - Ouachita National Forest (Oklahoma Ranger District)",
+      "type": "USFS",
+      "phone": "(918) 653-2991",
+      "website": "https://www.fs.usda.gov/ouachita"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Dispersed Primitive Camping (zero fee outside developed fee campgrounds)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted along Talimena Scenic Drive pullouts (OK 1) and Forest Road 6010. Camp 100ft minimum from trails."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6 inches deep in soil 200 feet from streams. Pack out all paper.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down shortleaf pine and oak wood collection permitted.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully extinguish before leaving.",
+      "seasonal_fire_bans": "Fall dry weather pine burn warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved Talimena Scenic Drive (OK 1) to gravel Forest Roads",
+      "road_conditions": "Paved scenic ridge highway main access, smooth gravel pullouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance vehicles.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / High Ridge Mountain Elevation",
+      "verizon_reliability": "4-5 bars 4G/5G LTE (25-60 Mbps download)",
+      "att_reliability": "4-5 bars 4G/5G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low along 2,450ft mountain ridge line",
+      "distance_from_tower_corridor_miles": 3.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Panoramic 360-Degree Ouachita Mountain Ridge Views",
+      "Shortleaf Pine Canopy Shade",
+      "Flat Gravel Van Pullouts",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Talihina / Poteau, OK",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Supermarket",
+          "Gas Stations",
+          "Public Library",
+          "Hospital",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "55-72°F, green Ouachita pine growth, spring dogwood bloom.",
+      "summer": "78-90°F, high mountain elevation breeze escape from Oklahoma heat.",
+      "fall": "55-75°F, world-class Talimena Drive autumn foliage.",
+      "winter": "32-52°F, mild winters, dusting of mountain snow."
+    },
+    "dangers_and_hazards": [
+      "High wind gusts along exposed mountain ridge line",
+      "Black bears in Ouachita National Forest"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - High mountain wind through pine trees",
+      "common_human_made_sounds": [
+        "Occasional motorcycle on Talimena Scenic Drive"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "Post Oak",
+        "Winged Elm",
+        "Wild Azalea"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "White-tailed Deer",
+        "Roadrunner",
+        "Broad-winged Hawk"
+      ]
+    },
+    "human_demographics_and_culture": "Choctaw Nation ancestral territory, Oklahoma mountain roadtrippers, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Traditional Choctaw Nation lands honoring Winding Stair Mountain as a sacred high lookout ridge.",
+      "energetic_and_spiritual_features": "Exhilarating 2,450ft Ouachita mountain ridge energy, sweeping sunset horizon vistas."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Ouachita National Recreation Trail (Section 1)",
+        "length_miles": 8.0,
+        "difficulty": "Moderate",
+        "features": "Winding Stair ridge crest, rocky pines, valley vistas"
+      }
+    ],
+    "public_reviews_summary": "Oklahoma's best free high-elevation mountain camping. Fast 5G cell signal along Talimena Drive, cool mountain air, and 100% free USFS access.",
+    "other_data": "Ouachita National Forest. Free dispersed camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "ok-mcgee-creek-natural-scenic-area",
+    "name": "McGee Creek Natural Scenic Area Primitive Backpack Campsites",
+    "state": "Oklahoma",
+    "county": "Atoka County",
+    "coordinates": {
+      "latitude": 34.3812,
+      "longitude": -95.8812,
+      "elevation_ft": 650
+    },
+    "management_agency": {
+      "name": "Oklahoma Department of Wildlife Conservation (ODWC) / State Parks",
+      "type": "State ODWC",
+      "phone": "(580) 889-3750",
+      "website": "https://www.wildlifedepartment.com"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Free ODWC Primitive Backpacking Permit required at trailhead (zero cost)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive backpacking camping permitted along 25+ miles of trails in McGee Creek Natural Scenic Area. No motorized vehicles allowed."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6 inches deep in soil 200 feet from McGee Creek and reservoirs. Pack out all paper.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on site.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Fall dry weather burn warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway to gravel entrance road to trailhead parking lot",
+      "road_conditions": "Smooth gravel trailhead parking access.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Atoka US 69 Tower Line",
+      "verizon_reliability": "3-4 bars 4G LTE on ridge trails",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate across Ouachita foothill ridges",
+      "distance_from_tower_corridor_miles": 3.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Ouachita Pine & Oak Forest Campsites",
+      "McGee Creek Water Source (Filter mandatory)",
+      "Trailhead Parking Lot",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Atoka / Antlers, OK",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Supermarket",
+          "Gas Stations",
+          "Atoka County Library",
+          "Hospital",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "55-72°F, blooming wild azaleas, spring creek flows.",
+      "summer": "78-90°F, warm Southern Oklahoma summer days under oak canopy.",
+      "fall": "55-75°F, colorful Ouachita foothill autumn foliage.",
+      "winter": "32-52°F, mild winter, dry sunny days."
+    },
+    "dangers_and_hazards": [
+      "Ticks in summer months (use permethrin)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Creek water trickles and pine forest wind",
+      "common_human_made_sounds": [
+        "Occasional backpacker on trail"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "Post Oak",
+        "Flowering Dogwood",
+        "French Mulberry"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Bobcat",
+        "Smallmouth Bass"
+      ]
+    },
+    "human_demographics_and_culture": "Choctaw Nation ancestral territory, Oklahoma outdoorsmen, backpackers, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Traditional Choctaw Nation territory honoring the pristine pine hills and clear waters of Atoka County.",
+      "energetic_and_spiritual_features": "Relaxing pine ridge quietness, pristine creek water solitude."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "McGee Creek Natural Scenic Trail System",
+        "length_miles": 10.5,
+        "difficulty": "Moderate",
+        "features": "Shortleaf pine forest, rocky creek ravines, wildlife watching"
+      }
+    ],
+    "public_reviews_summary": "Oklahoma's hidden wilderness gem. Free primitive backpacking camping, quiet pine ridges, fast cell internet near Atoka, and zero fees.",
+    "other_data": "Oklahoma ODWC Natural Scenic Area. Free permit required at trailhead.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "oklahoma-004",
+    "name": "Ouachita National Forest Beech Creek Dispersed Zone",
+    "state": "Oklahoma",
+    "county": "Le Flore",
+    "coordinates": {
+      "latitude": 34.6812,
+      "longitude": -94.6214,
+      "elevation_ft": 1420.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Ouachita National Forest (Oklahoma Ranger District)",
+      "type": "Federal",
+      "phone": "(918) 653-2991",
+      "website": "https://www.fs.usda.gov/ouachita"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive wilderness dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Beech Creek National Scenic Area trails and forest roads. Camp 100 ft from water. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from Beech Creek. Pack out paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in existing stone fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS dry autumn burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest service roads",
+      "road_conditions": "Graded gravel roads with flat forest pullouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2.5/5 Stars)",
+      "verizon_reliability": "2 bars 4G LTE on ridge tops",
+      "att_reliability": "2 bars 4G LTE",
+      "tmobile_reliability": "1 bar 4G LTE",
+      "terrain_obstruction_risk": "Moderate - Ouachita mountain pine-hardwood ridges",
+      "distance_from_tower_corridor_miles": 8.2,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Beech Creek Water Access",
+      "Shortleaf Pine Canopy",
+      "Primitive Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Heavener, OK",
+        "distance_miles": 16.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Poteau, OK",
+        "distance_miles": 28.0,
+        "services_available": [
+          "Supercenter",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush spring greening with clear mountain stream flow.",
+      "summer": "Warm days (85-92°F) with shaded pine forest and creek swims.",
+      "fall": "Vibrant Ouachita mountain autumn foliage in October.",
+      "winter": "Cool to chilly winter (30-48°F) with light periodic snow."
+    },
+    "dangers_and_hazards": [
+      "Black Bears",
+      "Timber Rattlesnakes & Copperheads",
+      "Ticks and Chiggers"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Ouachita Pine Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Distant forest service road vehicle",
+        "High altitude aircraft"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "White Oak",
+        "American Beech",
+        "Dogwood"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Ouachita Dusky Salamander"
+      ]
+    },
+    "human_demographics_and_culture": "Southeastern Oklahoma Choctaw nation and Ouachita mountain timber heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Choctaw history honors the sacred Ouachita mountains as ancient spirit-guided pine ridges.",
+      "energetic_and_spiritual_features": "Quiet beech groves and pine ridges radiate a peaceful, restorative energy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Beech Creek National Scenic Trail",
+        "length_miles": 6.4,
+        "difficulty": "Moderate",
+        "features": "Old-growth beech trees, mountain stream crossings, pine ridges"
+      }
+    ],
+    "public_reviews_summary": "Gorgeous pine and old-growth beech forest primitive camping in eastern Oklahoma's mountains.",
+    "other_data": "Filter all drinking water taken from Beech Creek.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "oklahoma-005",
+    "name": "Black Kettle National Grassland Dispersed Primitive Zone",
+    "state": "Oklahoma",
+    "county": "Roger Mills",
+    "coordinates": {
+      "latitude": 35.6812,
+      "longitude": -99.6812,
+      "elevation_ft": 2150.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Cibola National Forest and National Grasslands",
+      "type": "Federal",
+      "phone": "(580) 497-2143",
+      "website": "https://www.fs.usda.gov/cibola"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed grassland camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed across 31,000 acres of open grassland units outside developed recreation areas. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from lakes and washes.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Clear ground 10 ft around fire ring. Extinguish cold due to high wind hazards.",
+      "seasonal_fire_bans": "Subject to USFS high prairie fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel prairie roads",
+      "road_conditions": "Graded gravel roads with flat grassland pullouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Good (3.5/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "3 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open rolling red bed prairie and oak shinnery",
+      "distance_from_tower_corridor_miles": 3.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Red Bed Prairie Vistas",
+      "Lake Access (Dead Indian Lake)",
+      "Dark Sky Star Observation"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 5,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Cheyenne, OK",
+        "distance_miles": 7.2,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Local Dining"
+        ]
+      },
+      {
+        "town_name": "Elk City, OK",
+        "distance_miles": 24.5,
+        "services_available": [
+          "Supercenter",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Vast prairie winds and blooming wild poppies.",
+      "summer": "Hot high plains summer (88-96°F) with cool prairie nights.",
+      "fall": "Crisp autumn weather with golden prairie grass.",
+      "winter": "Cold prairie winter (22-40°F) with light snow."
+    },
+    "dangers_and_hazards": [
+      "High Prairie Wildfire Hazard & High Winds",
+      "Prairie Rattlesnakes",
+      "Dehydration in Summer"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Prairie Wind Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Distant cattle oil pumpjack hum",
+        "High altitude flights"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shinnery Oak",
+        "Little Bluestem",
+        "Plains Cottonwood",
+        "Soapweed Yucca"
+      ],
+      "common_animals": [
+        "Lesser Prairie-Chicken",
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Coyote",
+        "Bobwhite Quail"
+      ]
+    },
+    "human_demographics_and_culture": "Western Oklahoma red bed prairie cattle ranching and Cheyenne-Arapaho historic heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Cheyenne history honors the sacred rolling red bed prairies of Chief Black Kettle.",
+      "energetic_and_spiritual_features": "Wide open red soil horizons create a peaceful, grounding atmosphere."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Black Kettle Prairie Trail",
+        "length_miles": 5.0,
+        "difficulty": "Easy",
+        "features": "Rolling red bed hills, shinnery oak groves, wildlife lake views"
+      }
+    ],
+    "public_reviews_summary": "Extremely peaceful free grassland camping with great cell coverage and starry night skies.",
+    "other_data": "Check local fire danger warnings before lighting camp stoves.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "oklahoma-006",
+    "name": "Kiamichi River Dispersed Area - Ouachita NF",
+    "state": "Oklahoma",
+    "county": "Le Flore",
+    "coordinates": {
+      "latitude": 34.7123,
+      "longitude": -94.7412,
+      "elevation_ft": 1150.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Ouachita National Forest (Choctaw District)",
+      "type": "Federal",
+      "phone": "(918) 653-2991",
+      "website": "https://www.fs.usda.gov/ouachita"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free dispersed primitive camping on national forest pullouts along Kiamichi Spine Road / FS 6000. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Kiamichi River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel mountain forest road",
+      "road_conditions": "Graded gravel Forest Service road along mountain ridge; smooth when dry.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate on Kiamichi mountain ridge",
+      "distance_from_tower_corridor_miles": 6.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Kiamichi Mountain Ridge Views",
+      "Ouachita Pine Forest Canopy",
+      "Kiamichi River Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Talihina, OK",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush mountain spring (62-74°F).",
+      "summer": "Warm summer (85-92°F) with pine shade.",
+      "fall": "Crisp Talimena Drive autumn foliage.",
+      "winter": "Cool winter (38-50°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Area",
+      "Copperhead & Timber Rattlesnakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Ouachita Mountain Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through shortleaf pine needles",
+        "Creek flow"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "Post Oak",
+        "Sweetgum",
+        "Dogwood"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Black Bear",
+        "Wild Turkey",
+        "Smallmouth Bass"
+      ]
+    },
+    "human_demographics_and_culture": "Choctaw Nation ancestral lands and Talimena Scenic Drive mountain heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Capital of the Choctaw Nation in Indian Territory after the 1830s Trail of Tears relocation.",
+      "energetic_and_spiritual_features": "Dramatic East-West Ouachita mountain ridge lines overlooking pine forest valleys."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Ouachita National Recreation Trail (Kiamichi Section)",
+        "length_miles": 5.0,
+        "difficulty": "Moderate",
+        "features": "Pine ridge walk, Kiamichi valley overlooks, mountain stream crossings"
+      }
+    ],
+    "public_reviews_summary": "Beautiful shortleaf pine mountain basecamp near Talihina with dependable cell service.",
+    "other_data": "Talimena Scenic Drive starts nearby.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "oklahoma-007",
+    "name": "Point of Rocks Dispersed Area - Cimarron National Grassland",
+    "state": "Kansas",
+    "county": "Morton",
+    "coordinates": {
+      "latitude": 37.1412,
+      "longitude": -101.8412,
+      "elevation_ft": 3450.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Cimarron National Grassland",
+      "type": "Federal",
+      "phone": "(620) 697-4621",
+      "website": "https://www.fs.usda.gov/psicc"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on open public grassland pullouts along Santa Fe Trail route. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Cimarron River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring firewood; no wood gathering on shortgrass prairie.",
+      "safety_requirements": "Campfires strictly in metal fire pans. Extinguish cold.",
+      "seasonal_fire_bans": "Strict USFS stage fire bans in dry spring/summer."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel grassland road",
+      "road_conditions": "Graded gravel access road; smooth when dry.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 4G LTE",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - open Cimarron River valley",
+      "distance_from_tower_corridor_miles": 7.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Santa Fe National Historic Trail Ruts",
+      "Point of Rocks Sandstone Bluff Views",
+      "Cimarron River Valley",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 8,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Elkhart, KS",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diner"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "High winds spring (60-72°F).",
+      "summer": "Warm High Plains summer (88-96°F) with cool nights.",
+      "fall": "Crisp dry autumn days.",
+      "winter": "Cold windy winter (25-40°F)."
+    },
+    "dangers_and_hazards": [
+      "High Plains Prairie Winds",
+      "Severe Thunderstorms",
+      "Dust Storms"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "High Plains Prairie Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Prairie wind",
+        "Lark sparrow songs"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Buffalograss",
+        "Blue Grama",
+        "Yucca",
+        "Cottonwood"
+      ],
+      "common_animals": [
+        "Pronghorn Antelope",
+        "Lesser Prairie-Chicken",
+        "Prairie Dog",
+        "Coyote"
+      ]
+    },
+    "human_demographics_and_culture": "Comanche and Kiowa ancestral lands and Santa Fe Trail pioneer wagon route heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Point of Rocks was a major landmark for 19th-century Santa Fe Trail wagon trains seeking water along the dry Cimarron Route.",
+      "energetic_and_spiritual_features": "Sandstone bluffs rising 100 feet above the Cimarron River prairie valley."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Santa Fe Trail Companion Trail",
+        "length_miles": 3.0,
+        "difficulty": "Easy",
+        "features": "Historic 1800s wagon ruts, Point of Rocks bluff overlooks, shortgrass prairie"
+      }
+    ],
+    "public_reviews_summary": "Peaceful historic Santa Fe Trail prairie basecamp near Elkhart with strong 4G cell service.",
+    "other_data": "Authentic 1800s wagon ruts preserved.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "oklahoma-008",
+    "name": "McGee Creek Primitive Area - McGee Creek State Park & WMA",
+    "state": "Oklahoma",
+    "county": "Atoka",
+    "coordinates": {
+      "latitude": 34.3512,
+      "longitude": -95.8412,
+      "elevation_ft": 650.0
+    },
+    "management_agency": {
+      "name": "Oklahoma Department of Wildlife Conservation (ODWC)",
+      "type": "State",
+      "phone": "(580) 889-3754",
+      "website": "https://www.wildlifedepartment.com"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive WMA dispersed camping with valid OK hunting/fishing or conservation land pass)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on designated public WMA pullouts outside state park fee area. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from McGee Creek Lake. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to state fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel WMA access road",
+      "road_conditions": "Graded gravel access road; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate around lake coves",
+      "distance_from_tower_corridor_miles": 7.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "McGee Creek Reservoir Shoreline",
+      "Trophy Bass Fishing",
+      "McGee Creek Bugaboo Canyon Trail Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Atoka, OK",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Grocery Store",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush green lake spring (62-74°F).",
+      "summer": "Warm summer (85-92°F) with lake swimming.",
+      "fall": "Crisp autumn fishing days.",
+      "winter": "Cool winter (38-50°F)."
+    },
+    "dangers_and_hazards": [
+      "Copperhead & Cottonmouth Snakes",
+      "Lake Water Hazards"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Lake Cove Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "McGee Creek lake wave lap",
+        "Pine wind"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "Post Oak",
+        "Hickory",
+        "Dogwood"
+      ],
+      "common_animals": [
+        "Large-mouth Bass",
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Bald Eagle"
+      ]
+    },
+    "human_demographics_and_culture": "Choctaw Nation ancestral lands and Oklahoma trophy bass fishing culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "8,900-acre natural bugaboo canyon wilderness zone surrounding McGee Creek reservoir.",
+      "energetic_and_spiritual_features": "Quiet oak and pine forest hills descending into clear lake coves."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "McGee Creek Bugaboo Canyon Trail",
+        "length_miles": 4.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Lake shoreline, rocky canyon overlooks, pine-hardwood canopy"
+      }
+    ],
+    "public_reviews_summary": "Quiet trophy bass lake camping near Atoka with great hiking trails and dependable cell service.",
+    "other_data": "Conservation land pass or hunting/fishing license required.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "oklahoma-009",
+    "name": "Honobia Creek Dispersed Area - Honobia Creek WMA",
+    "state": "Oklahoma",
+    "county": "Pushmataha",
+    "coordinates": {
+      "latitude": 34.5812,
+      "longitude": -95.1412,
+      "elevation_ft": 950.0
+    },
+    "management_agency": {
+      "name": "Oklahoma Department of Wildlife Conservation (ODWC)",
+      "type": "State",
+      "phone": "(405) 521-3851",
+      "website": "https://www.wildlifedepartment.com"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive WMA dispersed camping with valid OK hunting/fishing or Honobia land pass)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free primitive dispersed camping on public WMA pullouts along forest roads. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Little River / streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to state fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel WMA roads; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate on mountain forest pullouts",
+      "distance_from_tower_corridor_miles": 7.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Little River Fly Fishing",
+      "Kiamichi Mountain Foothills",
+      "Pine Forest Shade",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Antlers / Clayton, OK",
+        "distance_miles": 16.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush mountain spring (62-74°F).",
+      "summer": "Warm summer (85-92°F) with stream pools.",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cool winter (38-50°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Habitat",
+      "Copperhead Snakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Kiamichi Foothills Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Little River stream flow",
+        "Pine wind"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "Loblolly Pine",
+        "White Oak",
+        "Dogwood"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Black Bear",
+        "Wild Turkey",
+        "Smallmouth Bass"
+      ]
+    },
+    "human_demographics_and_culture": "Choctaw Nation ancestral lands and Kiamichi mountain timber & Sasquatch folklore culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Honobia is famous in regional folklore as the heart of southeastern Oklahoma's Bigfoot / Sasquatch legend country.",
+      "energetic_and_spiritual_features": "Dense shortleaf pine forest hills rolling down to the Little River."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Little River Trail",
+        "length_miles": 3.5,
+        "difficulty": "Easy to Moderate",
+        "features": "Stream side walking, shortleaf pine forest, smallmouth bass pools"
+      }
+    ],
+    "public_reviews_summary": "Peaceful pine mountain stream basecamp near Antlers with solid cell service and Bigfoot folklore.",
+    "other_data": "Honobia Bigfoot Festival held nearby annually.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "oklahoma-010",
+    "name": "Wichita Mountains BLM Dispersed Area",
+    "state": "Oklahoma",
+    "county": "Comanche",
+    "coordinates": {
+      "latitude": 34.7812,
+      "longitude": -98.6412,
+      "elevation_ft": 1650.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) / USFWS",
+      "type": "Federal",
+      "phone": "(580) 429-3222",
+      "website": "https://www.blm.gov/oklahoma"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive BLM dispersed camping outside wildlife refuge boundary)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free primitive dispersed camping on public BLM lands surrounding the Wichita Mountains Wildlife Refuge. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from dry washes. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring firewood; no wood gathering in granite hills.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to BLM stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved highway to gravel dirt pullouts",
+      "road_conditions": "Paved OK-49 with smooth gravel side pullouts.",
+      "vehicle_recommendation": "Accessible by all low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low - open granite prairie plain",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Ancient Granite Mountain Peak Views",
+      "Bison & Longhorn Viewing Proximity",
+      "Mount Scott Proximity",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 6,
+      "terrain_score": 10,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Medicine Park / Lawton, OK",
+        "distance_miles": 10.0,
+        "services_available": [
+          "Full City Services",
+          "Hospital",
+          "Walmart",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush prairie spring (62-74°F).",
+      "summer": "Warm summer (88-95°F) with prairie breezes.",
+      "fall": "Crisp clear autumn days.",
+      "winter": "Cool winter (38-50°F)."
+    },
+    "dangers_and_hazards": [
+      "Bison & Longhorn Distance Rules (Stay 50 yds away)",
+      "Rattlesnakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Granite Prairie Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Prairie wind over granite domes",
+        "Elk bugles in fall"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Post Oak",
+        "Blackjack Oak",
+        "Little Bluestem",
+        "Prickly Pear"
+      ],
+      "common_animals": [
+        "American Bison",
+        "Texas Longhorn",
+        "Rocky Mountain Elk",
+        "Prairie Dog",
+        "Collared Lizard"
+      ]
+    },
+    "human_demographics_and_culture": "Comanche and Kiowa ancestral lands and Medicine Park granite cobblestone resort culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "500-million-year-old pink granite mountain peaks rising out of the mixed-grass prairie, sacred to Comanche and Kiowa nations.",
+      "energetic_and_spiritual_features": "Massive weathered pink granite boulders framing rolling bison prairies."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Forty Foot Hole & Kite Trail",
+        "length_miles": 3.0,
+        "difficulty": "Moderate",
+        "features": "Granite gorge, clear stream waterfalls, bison viewing, bouldering"
+      }
+    ],
+    "public_reviews_summary": "Spectacular pink granite mountain views near Medicine Park with wild bison herds and blazing 5G cell service.",
+    "other_data": "10 minutes from Medicine Park cobblestone resort.",
+    "last_updated": "2026-09-12"
+  }
+]

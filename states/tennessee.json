@@ -1,0 +1,1281 @@
+[
+  {
+    "id": "tn-cherokee-tellico-river",
+    "name": "Tellico River Corridor Dispersed Camping - Cherokee National Forest",
+    "state": "Tennessee",
+    "county": "Monroe County",
+    "coordinates": {
+      "latitude": 35.3412,
+      "longitude": -84.1814,
+      "elevation_ft": 1650
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Tellico Ranger District",
+      "type": "USFS",
+      "phone": "(423) 397-8455",
+      "website": "https://www.fs.usda.gov/cherokee"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for general dispersed primitive camping outside developed fee campgrounds",
+      "stay_limit": "14 consecutive days max stay within 30-day period",
+      "guidelines": "Dispersed primitive camping permitted on general national forest lands along Tellico River Road (FS 210) and side forest service roads. Must be set back 100ft from water bodies."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6-8 inches deep in organic soil, at least 200 feet from Tellico River. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out. Black bears active: bear canister or vehicle storage mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only within forest.",
+      "safety_requirements": "Campfires in established rock fire rings only. Extinguish cold to touch with river water.",
+      "seasonal_fire_bans": "Obey Tennessee Division of Forestry burn bans during dry spring/autumn."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved scenic road changing to unpaved gravel forest road (FS 210 / Tellico River Road)",
+      "road_conditions": "Paved main road along river; gravel side forest roads have small washboards and dips.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (easily accessible along main river road in dry weather)",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate / High Point Dependent",
+      "verizon_reliability": "2-3 bars 4G LTE on higher turnouts; spotty down near river gorge",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate (Southern Appalachian mountain ridges restrict cell signal)",
+      "distance_from_tower_corridor_miles": 5.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Tellico River Blue-Ribbon Trout Access",
+      "Bald River Falls Proximity",
+      "Established Rock Fire Rings",
+      "Shaded Appalachian Hardwood Canopy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Tellico Plains, TN",
+        "distance_miles": 12.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Fly Shops",
+          "Tellico Plains Public Library",
+          "Clinic"
+        ]
+      },
+      {
+        "town_name": "Madisonville / Athens, TN",
+        "distance_miles": 26.0,
+        "services_available": [
+          "Walmart Supercenter",
+          "Starr Regional Medical Center",
+          "24/7 Gyms",
+          "Full Commercial Services"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "60-75°F, high river waterfall flow, blooming mountain laurel, spring rainstorms.",
+      "summer": "75-85°F, pleasant mountain temperature, river swimming holes, shaded canopy.",
+      "fall": "Spectacular Appalachian autumn foliage (55-70°F daytime, 35-45°F nights), prime camping.",
+      "winter": "Cool 35-50°F, freezing nights, occasional mountain snow dustings."
+    },
+    "dangers_and_hazards": [
+      "Black Bears active in Cherokee NF - store food securely",
+      "Copperheads and Timber Rattlesnakes near rocky outcrops",
+      "High river currents after heavy mountain rain"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - River rapids and forest quiet",
+      "common_human_made_sounds": [
+        "Occasional fly angler truck on river road",
+        "High commercial aircraft contrails"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Eastern Hemlock",
+        "Tulip Poplar",
+        "White Oak",
+        "Rhododendron maximum",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Brown Trout (Salmo trutta in river)",
+        "Red-spotted Newt"
+      ]
+    },
+    "human_demographics_and_culture": "Fly anglers, Cherohala Skyway motorcycle tourists, backcountry backpackers, and digital nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Cherokee indigenous traditions revere the Tellico River valley as sacred ancestral fishing grounds guarded by river spirits.",
+      "energetic_and_spiritual_features": "Flowing mountain river energy, ancient Southern Appalachian forest peace, clean mountain air."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Bald River Falls Trail",
+        "length_miles": 5.6,
+        "difficulty": "Moderate",
+        "features": "Winding trail along 90-foot cascading waterfall gorge"
+      }
+    ],
+    "public_reviews_summary": "Beautiful primitive camping along the famous Tellico River in East Tennessee. Great trout fishing, scenic waterfalls, and solid cell service.",
+    "other_data": "Bortle Class 3 night sky. Abundant firewood.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "tn-cherokee-nf-citico-creek",
+    "name": "Citico Creek Wilderness Dispersed Primitive Camping",
+    "state": "Tennessee",
+    "county": "Monroe County",
+    "coordinates": {
+      "latitude": 35.4812,
+      "longitude": -84.0812,
+      "elevation_ft": 1250
+    },
+    "management_agency": {
+      "name": "US Forest Service - Cherokee National Forest (Tellico Ranger District)",
+      "type": "USFS",
+      "phone": "(423) 397-8455",
+      "website": "https://www.fs.usda.gov/cherokee"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Cherokee NF Wilderness Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted along Citico Creek Road (FR 85) pullouts and wilderness boundary trails. Camp 100ft minimum from creek."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in organic soil 200 feet from Citico Creek. Pack out all hygiene items.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on site.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Fall dry leaf fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved Cherohala Skyway to gravel Forest Service Road (FR 85)",
+      "road_conditions": "Graded gravel access road, flat creek turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance vehicles.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate / Cherohala Ridge Signal",
+      "verizon_reliability": "3-4 bars 4G LTE on high Cherohala Skyway ridge pullouts",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate inside deep creek gorge; high on ridge line",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Pristine Appalachian Wilderness Creek Campsites",
+      "Citico Creek Trout Stream Access",
+      "Hardwood Canopy Shade",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Tellico Plains, TN",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Save-A-Lot Grocery",
+          "Gas Stations",
+          "Tellico Plains Library",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Madisonville, TN",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Walmart Supercenter",
+          "Monroe County Hospital",
+          "24/7 Gyms",
+          "Full Services"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "55-72°F, blooming wild azaleas, roaring trout streams.",
+      "summer": "75-88°F, refreshing mountain stream swimming weather.",
+      "fall": "50-70°F, world-class Great Smoky Mountain autumn foliage.",
+      "winter": "30-48°F, mild winter, crisp mountain air."
+    },
+    "dangers_and_hazards": [
+      "Black bears in Cherokee National Forest (bear hang or canister mandatory)",
+      "Flash flooding in creek during heavy rain"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Roaring trout stream water and songbirds",
+      "common_human_made_sounds": [
+        "Occasional fly angler on stream"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Tulip Poplar (Tennessee state tree)",
+        "Hemlock",
+        "Rhododendron",
+        "Sugar Maple"
+      ],
+      "common_animals": [
+        "Native Brook Trout",
+        "Black Bear",
+        "White-tailed Deer",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Cherokee ancestral homeland (Overhill Cherokee villages), Appalachian outdoorsmen, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Ancestral territory of the Overhill Cherokee who honored Citico Creek as a sacred trout stream of life.",
+      "energetic_and_spiritual_features": "Refreshing Appalachian mountain water energy, peaceful old-growth forest quietness."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Citico Creek Wilderness Trail",
+        "length_miles": 8.0,
+        "difficulty": "Moderate",
+        "features": "Hemlock groves, trout stream pools, wilderness cascades"
+      }
+    ],
+    "public_reviews_summary": "Incredible free wilderness creek camping in East Tennessee. Crystal clear trout water, fast cell service on the Cherohala Skyway ridge, and 100% free USFS access.",
+    "other_data": "Cherokee National Forest. Free dispersed wilderness camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "tn-big-south-fork-nra-backcountry",
+    "name": "Big South Fork National River & Recreation Area Backcountry Camping",
+    "state": "Tennessee",
+    "county": "Scott / Fentress County",
+    "coordinates": {
+      "latitude": 36.4812,
+      "longitude": -84.6812,
+      "elevation_ft": 1450
+    },
+    "management_agency": {
+      "name": "National Park Service (NPS) - Big South Fork NRA",
+      "type": "Federal NPS",
+      "phone": "(423) 569-9778",
+      "website": "https://www.nps.gov/biso"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - Free NPS Backcountry Camping Permit required online (zero cost)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed backcountry primitive camping permitted throughout Big South Fork NRA along river and cliff trail networks. Camp 100ft minimum from trails."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in organic soil 200 feet from Big South Fork River. Pack out hygiene products.",
+      "trash_policy": "Strict Leave No Trace."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Dead and down wood gathering permitted on site.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Fall leaf dry weather fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved state highway to gravel NPS park roads (Divide Road)",
+      "road_conditions": "Graded gravel access roads, flat trailhead parking.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Oneida & Hwy 27 Tower Line",
+      "verizon_reliability": "3-4 bars 4G LTE near Divide Road ridge trailheads",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate inside deep sandstone river gorge",
+      "distance_from_tower_corridor_miles": 4.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Sandstone Bluff & Arch Overlook Campsites",
+      "Big South Fork River Water Source (Filter mandatory)",
+      "Hardwood Canopy Shade",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Oneida / Jamestown, TN",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Walmart Supercenter / Kroger",
+          "Gas Stations",
+          "Scott County Library",
+          "Hospital",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "55-72°F, blooming wild azaleas, roaring river rapids.",
+      "summer": "75-88°F, pleasant river gorge swimming weather.",
+      "fall": "52-72°F, spectacular Cumberland Plateau autumn foliage.",
+      "winter": "30-48°F, mild winter, crisp mountain air."
+    },
+    "dangers_and_hazards": [
+      "Sandstone cliff drop-offs",
+      "Black bears in Big South Fork NRA (bear hang or canister recommended)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - River rapids thunder and mountain breeze",
+      "common_human_made_sounds": [
+        "Occasional backpacker on trail"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "White Oak",
+        "Hemlock",
+        "Rhododendron"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "White-tailed Deer",
+        "Smallmouth Bass",
+        "Pileated Woodpecker"
+      ]
+    },
+    "human_demographics_and_culture": "Cherokee ancestral lands, Cumberland Plateau outdoorsmen, NPS river guides, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Famous for massive sandstone natural arches (Twin Arches). Sacred Cherokee territory honoring the gorge waters.",
+      "energetic_and_spiritual_features": "Exhilarating sandstone arch mountain energy, pristine river gorge solitude."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Twin Arches Loop Trail",
+        "length_miles": 4.6,
+        "difficulty": "Moderate",
+        "features": "Massive 100ft sandstone natural arches, rock shelters, hardwood forest"
+      }
+    ],
+    "public_reviews_summary": "Top free backcountry camping in Tennessee's Big South Fork NPS area. Massive natural rock arches, fast cell internet near Oneida, and free NPS access.",
+    "other_data": "NPS Big South Fork NRA. Free permit required online.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "tennessee-004",
+    "name": "Big Frog Wilderness Primitive Dispersed Zone - Cherokee National Forest",
+    "state": "Tennessee",
+    "county": "Polk",
+    "coordinates": {
+      "latitude": 35.0125,
+      "longitude": -84.4512,
+      "elevation_ft": 2450.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Cherokee National Forest (Ocoee Ranger District)",
+      "type": "Federal",
+      "phone": "(423) 338-3300",
+      "website": "https://www.fs.usda.gov/cherokee"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive wilderness dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive wilderness camping allowed along Big Frog Trail system. Camp at least 100 feet from trails and water. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out wilderness policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in existing stone fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS dry autumn burn restrictions."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest service roads",
+      "road_conditions": "Graded gravel roads to trailhead parking lots; hike required for wilderness spots.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2/5 Stars)",
+      "verizon_reliability": "1-2 bars 4G LTE on high mountain peaks",
+      "att_reliability": "1 bar 4G LTE",
+      "tmobile_reliability": "No signal in deep valleys",
+      "terrain_obstruction_risk": "High - Southern Appalachian mountain ridges and dense canopy",
+      "distance_from_tower_corridor_miles": 11.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Mountain Stream Water Access",
+      "Appalachian Ridge Vistas",
+      "Primitive Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Ducktown, TN",
+        "distance_miles": 12.4,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Cleveland, TN",
+        "distance_miles": 28.5,
+        "services_available": [
+          "Supercenters",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush Appalachian forest greening with roaring mountain streams.",
+      "summer": "Pleasant mountain summer days (78-85°F) with cool night air.",
+      "fall": "Vibrant Southern Appalachian fall foliage colors in October.",
+      "winter": "Cold mountain winter (25-42°F) with light snow."
+    },
+    "dangers_and_hazards": [
+      "Black Bears (Bear canisters/hang mandatory)",
+      "Venomous Snakes (Timber Rattlesnakes, Copperheads)",
+      "Remote Wilderness Isolation"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Deep Appalachian Wilderness Quiet (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "High altitude commercial flights"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Chestnut Oak",
+        "Tulip Poplar",
+        "Rosebay Rhododendron",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Red-backed Salamander"
+      ]
+    },
+    "human_demographics_and_culture": "Southern Appalachian mountain wilderness, Ocoee whitewater, and timber tradition.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Cherokee traditions honor Big Frog Mountain as a sacred high mountain peak guarded by thunder spirits.",
+      "energetic_and_spiritual_features": "Unbroken wilderness expanse spanning over 8,000 acres provides profound stillness."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Big Frog Mountain Trail & Benton MacKaye Trail",
+        "length_miles": 8.5,
+        "difficulty": "Strenuous",
+        "features": "4,200-ft summit vistas, old growth hardwood ravines, wilderness solitude"
+      }
+    ],
+    "public_reviews_summary": "Classic Southern Appalachian wilderness backpacking with complete solitude near Ocoee River.",
+    "other_data": "Store all food securely from black bears.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "tennessee-005",
+    "name": "Prentice Cooper State Forest Dispersed Primitive Spot",
+    "state": "Tennessee",
+    "county": "Marion",
+    "coordinates": {
+      "latitude": 35.1412,
+      "longitude": -85.4124,
+      "elevation_ft": 1780.0
+    },
+    "management_agency": {
+      "name": "Tennessee Department of Agriculture - Division of Forestry",
+      "type": "State",
+      "phone": "(423) 658-5151",
+      "website": "https://www.tn.gov/agriculture/forests"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state forest camping at designated sites)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Primitive camping permitted at designated campsites along Cumberland Trail and rim road pullouts (Snooper's Rock area). Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from Tennessee River gorge.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in existing stone fire rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to TN Division of Forestry dry weather burn bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest service roads",
+      "road_conditions": "Graded gravel roads with flat Cumberland plateau pullouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE on plateau rim",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low on plateau rim; high down inside Tennessee River Gorge",
+      "distance_from_tower_corridor_miles": 2.4,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Tennessee River Gorge Overlook (Snooper's Rock)",
+      "Cumberland Trail Access",
+      "Primitive Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 10,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Jasper, TN",
+        "distance_miles": 12.4,
+        "services_available": [
+          "Supermarket",
+          "Gas Station",
+          "Hardware Store",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Chattanooga, TN",
+        "distance_miles": 18.5,
+        "services_available": [
+          "Metropolitan Amenities",
+          "Hospitals",
+          "Public Library",
+          "Gym & Fitness Centers",
+          "Airport"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush Cumberland Plateau foliage and blooming wild azaleas.",
+      "summer": "Warm days (82-88°F) with cool breezes along river gorge rim.",
+      "fall": "Spectacular Tennessee River Gorge autumn leaf display in October.",
+      "winter": "Cool to chilly winter (30-48°F) with light periodic snow."
+    },
+    "dangers_and_hazards": [
+      "Vertical Sandstone Cliff Drop-offs",
+      "Copperheads & Timber Rattlesnakes",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Tranquil Gorge Rim Atmosphere (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Distant barge horn on Tennessee River",
+        "Overhead commercial flights"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "Chestnut Oak",
+        "Mountain Laurel",
+        "Virginia Pine"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Bald Eagle",
+        "Osprey"
+      ]
+    },
+    "human_demographics_and_culture": "Cumberland Plateau timber, rock climbing, and Chattanooga outdoor recreation culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Cherokee traditions honor the Tennessee River Gorge ('The Grand Canyon of Tennessee') as a sacred river passage.",
+      "energetic_and_spiritual_features": "Snooper's Rock bluff overlooking the S-curves of the Tennessee River radiates breathtaking natural grandeur."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Cumberland Trail - Snooper's Rock & Mullins Cove Loop",
+        "length_miles": 6.8,
+        "difficulty": "Moderate",
+        "features": "Snooper's Rock overlook, sandstone bluffs, Tennessee River Gorge views"
+      }
+    ],
+    "public_reviews_summary": "Incredible free camping views over the Tennessee River Gorge with blazing fast 5G cell internet close to Chattanooga.",
+    "other_data": "Check state forest website for seasonal managed hunt closures.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "tennessee-006",
+    "name": "Tellico River Dispersed Area - Cherokee National Forest",
+    "state": "Tennessee",
+    "county": "Monroe",
+    "coordinates": {
+      "latitude": 35.3512,
+      "longitude": -84.1234,
+      "elevation_ft": 1450.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Cherokee National Forest (Tellico District)",
+      "type": "Federal",
+      "phone": "(423) 253-8400",
+      "website": "https://www.fs.usda.gov/cherokee"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside developed fee loops)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free dispersed primitive camping on national forest pullouts along Tellico River Road (FS 210). Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Tellico River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy. Bear safety mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved forest road to gravel side spurs",
+      "road_conditions": "Paved FS 210 with smooth gravel dirt turnouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate along river corridor",
+      "distance_from_tower_corridor_miles": 6.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Tellico River Trout Fishing",
+      "Bald River Falls Proximity",
+      "Cherohala Skyway Gateway",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Tellico Plains, TN",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware",
+          "Outfitters",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush mountain spring (60-72°F).",
+      "summer": "Pleasant summer (78-85°F) with cold river swimming.",
+      "fall": "Spectacular Smoky Mountain autumn foliage.",
+      "winter": "Cool winter (35-48°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Habitat",
+      "Rapid River Currents near Waterfalls"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Mountain River Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Tellico River water roar",
+        "Songbird calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Hemlock",
+        "Tulip Poplar",
+        "White Pine",
+        "Rhododendron"
+      ],
+      "common_animals": [
+        "Rainbow Trout",
+        "Black Bear",
+        "White-tailed Deer",
+        "Wild Turkey"
+      ]
+    },
+    "human_demographics_and_culture": "Cherokee Nation ancestral heartland and Cherohala Skyway mountain culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Cherokee ancestral lands of Great Tellico town along the mountain river.",
+      "energetic_and_spiritual_features": "Crystal clear mountain river flowing over polished Appalachian boulders under hemlocks."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Bald River Falls Trail",
+        "length_miles": 5.6,
+        "difficulty": "Moderate",
+        "features": "90-foot Bald River waterfall, gorge walking, mountain stream pools"
+      }
+    ],
+    "public_reviews_summary": "Incredible mountain trout stream camping right off the Cherohala Skyway with solid cell service.",
+    "other_data": "90-foot Bald River Falls nearby.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "tennessee-007",
+    "name": "Citico Creek Dispersed Area - Cherokee National Forest",
+    "state": "Tennessee",
+    "county": "Monroe",
+    "coordinates": {
+      "latitude": 35.4812,
+      "longitude": -84.0812,
+      "elevation_ft": 1300.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Tellico Ranger District",
+      "type": "Federal",
+      "phone": "(423) 253-8400",
+      "website": "https://www.fs.usda.gov/cherokee"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along Citico Creek Road (FS 85) outside wilderness boundary. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Citico Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy. Bear safety mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel Forest Service road; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate along stream valley",
+      "distance_from_tower_corridor_miles": 7.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Citico Creek Wilderness Access",
+      "Native Trout Fishing",
+      "Rhododendron Canopies",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Vonore / Madisonville, TN",
+        "distance_miles": 16.0,
+        "services_available": [
+          "Grocery Stores",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush green spring (60-72°F).",
+      "summer": "Pleasant summer (78-85°F) with stream pools.",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cool winter (35-48°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Habitat",
+      "Flash Floods in Stream Valley"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Wilderness Creek Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Citico Creek stream flow",
+        "Songbird calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Hemlock",
+        "Rosebay Rhododendron",
+        "Mountain Laurel",
+        "Tulip Tree"
+      ],
+      "common_animals": [
+        "Trout",
+        "Black Bear",
+        "White-tailed Deer",
+        "Smoky Mountain Salamander"
+      ]
+    },
+    "human_demographics_and_culture": "Cherokee ancestral lands and Citico Creek wilderness conservation heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Citico Creek Wilderness protects 16,000 acres of old-growth hardwood forest and native trout streams.",
+      "energetic_and_spiritual_features": "Crystal clear mountain stream flowing through dense rhododendron tunnels."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Citico Creek Wilderness Trail",
+        "length_miles": 6.0,
+        "difficulty": "Moderate",
+        "features": "Stream crossings, old-growth hardwoods, native trout pools"
+      }
+    ],
+    "public_reviews_summary": "Peaceful stream side wilderness basecamp near Tellico Plains with dependable cell service.",
+    "other_data": "Bordered by 16,000-acre Citico Creek Wilderness.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "tennessee-008",
+    "name": "Big Frog Dispersed Area - Cherokee National Forest",
+    "state": "Tennessee",
+    "county": "Polk",
+    "coordinates": {
+      "latitude": 35.0812,
+      "longitude": -84.4812,
+      "elevation_ft": 1600.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Ocoee Ranger District",
+      "type": "Federal",
+      "phone": "(423) 338-3300",
+      "website": "https://www.fs.usda.gov/cherokee"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along FS Road 221 outside wilderness boundary. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Ocoee River / streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel Forest Service road; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate on mountain ridge pullouts",
+      "distance_from_tower_corridor_miles": 6.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Ocoee River Whitewater Rafting Proximity",
+      "Big Frog Wilderness Access",
+      "Appalachian Mountain Views",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Ducktown / Copperhill, TN",
+        "distance_miles": 10.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Hardware",
+          "Whitewater Outfitters",
+          "Diners"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush mountain spring (60-72°F).",
+      "summer": "Warm summer (80-86°F) with whitewater rafting.",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cool winter (35-48°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Habitat",
+      "Copperhead & Timber Rattlesnakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Mountain Ridge Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through shortleaf pine canopy",
+        "Songbird calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "Chestnut Oak",
+        "Sourwood",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Black Bear",
+        "Wild Turkey",
+        "Broad-winged Hawk"
+      ]
+    },
+    "human_demographics_and_culture": "Cherokee ancestral lands and Ocoee River Olympic whitewater rafting culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Big Frog Mountain rises to 4,224 feet, connecting directly into Georgia's Cohutta Wilderness.",
+      "energetic_and_spiritual_features": "Quiet mountain ridge pullouts commanding views of the Ocoee River gorge."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Big Frog Mountain Trail",
+        "length_miles": 5.5,
+        "difficulty": "Strenuous",
+        "features": "Ascends to 4,224-foot summit, old-growth hardwoods, wilderness panorama"
+      }
+    ],
+    "public_reviews_summary": "Excellent free mountain basecamp near the Ocoee River whitewater center with reliable cell service.",
+    "other_data": "1996 Olympic Whitewater Rafting venue nearby.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "tennessee-009",
+    "name": "Watauga Lake Dispersed Area - Cherokee NF",
+    "state": "Tennessee",
+    "county": "Carter",
+    "coordinates": {
+      "latitude": 36.3123,
+      "longitude": -82.0812,
+      "elevation_ft": 1980.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Watauga Ranger District",
+      "type": "Federal",
+      "phone": "(423) 735-1500",
+      "website": "https://www.fs.usda.gov/cherokee"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside developed fee sites)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along Watauga Lake shoreline roads. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Watauga Lake. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved highway to gravel forest roads",
+      "road_conditions": "Paved US-321 with smooth gravel forest side turnouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low along Watauga Lake shoreline",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Watauga Lake Shoreline Views",
+      "Appalachian Trail Access",
+      "Boating & Swimming",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 9,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Elizabethton / Johnson City, TN",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Full City Services",
+          "Hospital",
+          "Walmart",
+          "Gas Stations",
+          "Hardware"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush mountain spring (58-70°F).",
+      "summer": "Pleasant summer (78-85°F) with mountain lake swimming.",
+      "fall": "Spectacular autumn foliage.",
+      "winter": "Cool winter (32-45°F)."
+    },
+    "dangers_and_hazards": [
+      "Lake Water Hazards",
+      "Black Bear Habitat"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Mountain Lake Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Watauga Lake wave lap",
+        "Occasional boat hum"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Pine",
+        "Eastern Hemlock",
+        "Chestnut Oak",
+        "Rhododendron"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Bald Eagle",
+        "Smallmouth Bass",
+        "Black Bear"
+      ]
+    },
+    "human_demographics_and_culture": "Cherokee ancestral lands and East Tennessee Appalachian trail culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "High elevation mountain lake situated at 1,980 feet elevation, completely surrounded by Cherokee National Forest.",
+      "energetic_and_spiritual_features": "Pristine blue mountain lake reflecting the surrounding Appalachian peaks."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Appalachian Trail (Watauga Lake Section)",
+        "length_miles": 4.0,
+        "difficulty": "Moderate",
+        "features": "Watauga Lake overlooks, AT shelter, hardwood forest"
+      }
+    ],
+    "public_reviews_summary": "Stunning mountain lake camping right on the Appalachian Trail with blazing 5G cell service.",
+    "other_data": "AT hikers frequently pass through.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "tennessee-010",
+    "name": "Prentice Cooper Dispersed Area - State Forest",
+    "state": "Tennessee",
+    "county": "Marion",
+    "coordinates": {
+      "latitude": 35.1412,
+      "longitude": -85.4123,
+      "elevation_ft": 1800.0
+    },
+    "management_agency": {
+      "name": "Tennessee Division of Forestry",
+      "type": "State",
+      "phone": "(423) 658-5151",
+      "website": "https://www.tn.gov/agriculture/forests"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state forest dispersed camping outside managed hunting dates)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on state forest pullouts along Game Reserve Road. Pack out all trash. Check managed hunt dates."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Tennessee River gorge rim. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to state fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded dirt and gravel forest road",
+      "road_conditions": "Graded gravel forest road; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 5G",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low on 1,800-foot Walden Ridge plateau",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Tennessee River Gorge Panorama Views",
+      "Snooper's Rock Overlook",
+      "Cumberland Trail Access",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 7,
+      "terrain_score": 10,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Chattanooga, TN",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Major Metropolitan Services",
+          "Hospitals",
+          "REI",
+          "Walmart",
+          "Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush mountain spring (60-72°F).",
+      "summer": "Warm summer (82-88°F) with mountain ridge breezes.",
+      "fall": "Spectacular Tennessee River Gorge fall foliage.",
+      "winter": "Cool winter (35-48°F)."
+    },
+    "dangers_and_hazards": [
+      "1,000-Foot Tennessee River Gorge Cliff Drops",
+      "Managed Hunt Dates Closure"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Gorge Overlook Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Wind over gorge rim",
+        "Distant river barge horn"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Shortleaf Pine",
+        "Chestnut Oak",
+        "Virginia Pine",
+        "Mountain Laurel"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Wild Turkey",
+        "Osprey",
+        "Bald Eagle",
+        "Gray Fox"
+      ]
+    },
+    "human_demographics_and_culture": "Cherokee ancestral lands and Chattanooga outdoor climbing & trail culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Snooper's Rock overlook commands a famous horseshoe bend view of the 1,000-foot deep Tennessee River Gorge.",
+      "energetic_and_spiritual_features": "Breathtaking 1,000-foot cliff drop looking down at the winding Tennessee River."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Cumberland Trail (Snooper's Rock Section)",
+        "length_miles": 6.0,
+        "difficulty": "Moderate",
+        "features": "Snooper's Rock horseshoe bend overlook, rock overhangs, pine ridge"
+      }
+    ],
+    "public_reviews_summary": "World-class Tennessee River Gorge views at Snooper's Rock just 25 minutes from downtown Chattanooga with blazing 5G cell service.",
+    "other_data": "Check state forest managed hunt dates before visiting.",
+    "last_updated": "2026-09-12"
+  }
+]

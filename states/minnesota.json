@@ -1,0 +1,1281 @@
+[
+  {
+    "id": "mn-superior-sawbill-dispersed",
+    "name": "Sawbill Trail Dispersed Primitive Camping - Superior National Forest",
+    "state": "Minnesota",
+    "county": "Cook County",
+    "coordinates": {
+      "latitude": 47.7812,
+      "longitude": -90.7184,
+      "elevation_ft": 1450
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Tofte Ranger District",
+      "type": "USFS",
+      "phone": "(218) 663-8060",
+      "website": "https://www.fs.usda.gov/superior"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for general forest dispersed camping outside Boundary Waters Canoe Area Wilderness (BWCAW)",
+      "stay_limit": "14 consecutive days max stay limit",
+      "guidelines": "Dispersed primitive camping permitted on general national forest lands outside BWCAW boundary. Campsites must be set back at least 150 feet from trails and lakes."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6-8 inches deep in glacial topsoil, 200 feet from lakes and streams. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace. Black bears active: bear canister or vehicle storage mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only within forest.",
+      "safety_requirements": "Campfires in established rock fire rings only. Extinguish cold to touch with lake water.",
+      "seasonal_fire_bans": "Obey Minnesota DNR / USFS fire danger warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Unpaved gravel forest road (Sawbill Trail / Cook County Road 2)",
+      "road_conditions": "Washboard gravel road with dust, small rocks, and frost heaves.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (accessible along main Sawbill Trail gravel corridor in dry conditions)",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Moderate / Tower Corridor Dependent",
+      "verizon_reliability": "2-3 bars 4G LTE near Tofte/MN-61 end; 1 bar near BWCAW entry",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "1 bar / Emergency only",
+      "terrain_obstruction_risk": "Moderate (Glacial boreal forest topography)",
+      "distance_from_tower_corridor_miles": 7.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Glacial Lake Water Access (Filter required)",
+      "Boreal Pine & Birch Canopy",
+      "BWCAW Entry Proximity",
+      "Established Rock Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 3,
+      "terrain_score": 9,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Tofte / Lutsen, MN",
+        "distance_miles": 16.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Stations",
+          "Restaurants",
+          "Outfitter Stores",
+          "Medical Clinic"
+        ]
+      },
+      {
+        "town_name": "Grand Marais, MN",
+        "distance_miles": 34.0,
+        "services_available": [
+          "Full Supermarkets",
+          "Cook County North Shore Hospital",
+          "Public Library",
+          "Outdoor Gear Outfitters"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "May thaw: cool (40-55°F), high blackfly season (June), lingering snowmelt.",
+      "summer": "70-80°F, ideal North Shore summer, pleasant Lake Superior breeze, cool nights (50-55°F).",
+      "fall": "Breathtaking boreal fall colors (50-65°F daytime, freezing 25-35°F nights), prime camping.",
+      "winter": "Severe sub-zero boreal winter (-15 to 20°F), heavy snowpack, Northern Lights."
+    },
+    "dangers_and_hazards": [
+      "Black Bears active in Superior NF - bear-proof food storage mandatory",
+      "Blackflies and mosquitoes in June",
+      "Hypothermia risk during sudden cold autumn rainstorms"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "10/10 - Pure boreal wilderness silence",
+      "common_human_made_sounds": [
+        "Occasional canoeist vehicle on Sawbill Trail",
+        "Common Loon calls across glacial lakes"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White White Pine (Pinus strobus)",
+        "Red Pine",
+        "Paper Birch",
+        "Quaking Aspen",
+        "Black Spruce"
+      ],
+      "common_animals": [
+        "Moose",
+        "Gray Wolf (Canis lupus - Superior NF wolf packs)",
+        "Black Bear",
+        "Common Loon",
+        "Canada Lynx (Lynx canadensis - rare)"
+      ]
+    },
+    "human_demographics_and_culture": "BWCAW canoe wilderness paddlers, Superior Hiking Trail backpackers, wolf researchers, digital nomads, and Aurora photographers.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Ojibwe indigenous traditions honor the boreal lakes and ancient pine forests of the Arrowhead region as sacred domains of the 'Gichi-Manitou' (Great Spirit) and water spirits.",
+      "energetic_and_spiritual_features": "Profound boreal wilderness silence, glacial lake purity, pristine Northern Lights atmosphere."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Superior Hiking Trail (Temperance River Section)",
+        "length_miles": 8.5,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Winding river gorge, cascading waterfalls, boreal forest overlooks"
+      }
+    ],
+    "public_reviews_summary": "Unmatched North Woods primitive camping experience. Unbelievable silence, pristine air, and solid cell signal near Tofte.",
+    "other_data": "Bortle Class 1-2 night sky. Outstanding Aurora Borealis viewing.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "mn-superior-nf-dispersed-primitive",
+    "name": "Superior National Forest Dispersed Primitive Camping",
+    "state": "Minnesota",
+    "county": "Cook / Lake County",
+    "coordinates": {
+      "latitude": 47.7812,
+      "longitude": -90.6512,
+      "elevation_ft": 1420
+    },
+    "management_agency": {
+      "name": "US Forest Service - Superior National Forest (Gunflint Ranger District)",
+      "type": "USFS",
+      "phone": "(218) 387-3200",
+      "website": "https://www.fs.usda.gov/superior"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Dispersed Primitive Camping (zero fee outside Boundary Waters Canoe Area Wilderness)",
+      "stay_limit": "14 consecutive days limit",
+      "guidelines": "Dispersed camping at established forest road pullouts and rustic hunter sites throughout Superior National Forest outside BWCAW."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in glacial soil 200 feet from lakes and streams. Pack out all paper.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Abundant dead and down birch and pine wood gathering permitted.",
+      "safety_requirements": "Campfires in established rock rings only. Soak completely with lake water before leaving.",
+      "seasonal_fire_bans": "Spring/summer dry forest fire bans occasionally enforced."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel / Dirt Forest Roads (FR 153 / Sawbill Trail pullouts)",
+      "road_conditions": "Graded gravel, washboard sections, logging truck traffic.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance vehicles with care.",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 4,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair / Tower Highway Line",
+      "verizon_reliability": "2-3 bars 4G LTE near main county roads",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate (Dense boreal forest pine canopy blocks signal in low spots)",
+      "distance_from_tower_corridor_miles": 6.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Primitive Boreal Forest Campsites",
+      "Glacial Lake Access",
+      "Northern Lights (Aurora Borealis) Stargazing",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Grand Marais, MN",
+        "distance_miles": 18.0,
+        "services_available": [
+          "Cook County Whole Foods / Supermarket",
+          "Gas Stations",
+          "Public Library",
+          "Outfitters",
+          "Hospital"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "35-52°F, ice-out on lakes, crisp boreal air.",
+      "summer": "65-78°F, warm sunny days, cool crisp lake nights.",
+      "fall": "42-60°F, vibrant yellow birch foliage, autumn northern lights.",
+      "winter": "-10 to 20°F, deep boreal snow, winter snowshoeing and dog sledding."
+    },
+    "dangers_and_hazards": [
+      "Black bears (bear canister or bear hang mandatory for food)",
+      "Biting black flies and mosquitoes in June/July",
+      "Freezing cold water temperatures in lakes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "10/10 - Loon calls, wolf howls, and wind through white pines",
+      "common_human_made_sounds": [
+        "Occasional logging truck on distant forest road"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Pine",
+        "Red Pine",
+        "Paper Birch",
+        "Balsam Fir",
+        "Wild Blueberry"
+      ],
+      "common_animals": [
+        "Common Loon",
+        "Moose",
+        "Gray Wolf",
+        "Black Bear",
+        "Lynx",
+        "Walleye"
+      ]
+    },
+    "human_demographics_and_culture": "Canoeists, North Shore wilderness lovers, anglers, winter woodsmen.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Ojibwe (Anishinaabe) ancestral lands rich with legends of Maymaygwaysiwuk (water spirits) and deep forest reverence.",
+      "energetic_and_spiritual_features": "Hauntingly beautiful loon calls, pristine glacial lake stillness, dark sky aurora energy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Superior Hiking Trail (SHT) - Oberg Mountain Loop",
+        "length_miles": 4.5,
+        "difficulty": "Moderate",
+        "features": "Lake Superior views, boreal forest bluffs, autumn foliage"
+      }
+    ],
+    "public_reviews_summary": "Serene Northwoods primitive camping in Superior National Forest. Free dispersed sites near Grand Marais with incredible loon calls and aurora night skies.",
+    "other_data": "Free USFS dispersed land outside BWCAW boundary.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "mn-chippewa-nf-suomi-hills",
+    "name": "Chippewa National Forest Suomi Hills Primitive Backpacking",
+    "state": "Minnesota",
+    "county": "Itasca County",
+    "coordinates": {
+      "latitude": 47.4812,
+      "longitude": -93.6512,
+      "elevation_ft": 1350
+    },
+    "management_agency": {
+      "name": "US Forest Service - Chippewa National Forest (Deer River Ranger District)",
+      "type": "USFS",
+      "phone": "(218) 246-2123",
+      "website": "https://www.fs.usda.gov/chippewa"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Dispersed Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted at designated backcountry lake sites throughout Suomi Hills semi-primitive non-motorized area. Camp 100ft minimum from lakes."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Use wilderness pit privy at backcountry campsite clearing or dig cat-hole 6-8 inches deep in organic soil 200ft from lakes. Pack out paper.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Abundant dead and down birch and pine wood collection permitted.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Spring dry leaf forest fire warnings."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved MN Hwy 38 (Edge of the Wilderness Scenic Byway) to gravel trailhead parking lot",
+      "road_conditions": "Paved scenic main highway access, smooth gravel trailhead parking.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Highway 38 Tower Line",
+      "verizon_reliability": "3-4 bars 4G LTE near highway trailhead entrance",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate across rolling glacial moraine hills",
+      "distance_from_tower_corridor_miles": 3.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Pristine Glacial Lake Shoreline Campsites",
+      "Pit Privy Toilet",
+      "Canoe & Kayak Lake Access",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 9,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Grand Rapids, MN",
+        "distance_miles": 16.0,
+        "services_available": [
+          "L&M Fleet / Super One",
+          "Target / Walmart",
+          "Grand Rapids Public Library",
+          "Grand Itasca Hospital",
+          "24/7 Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "40-55°F, ice-out on glacial lakes, crisp Northwoods air.",
+      "summer": "68-80°F, ideal Minnesota Northwoods summer camping weather, cool lake breezes.",
+      "fall": "45-62°F, spectacular sugar maple and birch autumn foliage.",
+      "winter": "10-25°F, heavy snowpack, cross-country ski and snowshoe paradise."
+    },
+    "dangers_and_hazards": [
+      "Black bears in Chippewa NF (bear hang or canister recommended)",
+      "Mosquitoes in June/July"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "10/10 - Common loon calls and wind through white pines",
+      "common_human_made_sounds": [
+        "Occasional canoe paddle stroke on lake"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Pine",
+        "Red Pine",
+        "Paper Birch",
+        "Sugar Maple"
+      ],
+      "common_animals": [
+        "Common Loon",
+        "Bald Eagle (highest nesting density in US)",
+        "White-tailed Deer",
+        "Walleye"
+      ]
+    },
+    "human_demographics_and_culture": "Ojibwe (Anishinaabe) Leech Lake Band ancestral lands, Minnesota Northwoods woodsmen, nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Ojibwe territory honoring the pristine glacial lakes and sacred bald eagles of the Chippewa forest.",
+      "energetic_and_spiritual_features": "Haunting loon calls, serene glacial lake reflections."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Suomi Hills Trail Loop",
+        "length_miles": 8.5,
+        "difficulty": "Moderate",
+        "features": "Glacial lakes, rolling hardwood moraines, white pine groves"
+      }
+    ],
+    "public_reviews_summary": "Incredible free primitive lakeshore camping in Minnesota's Chippewa National Forest. Pristine glacial lakes, fast cell internet near Grand Rapids, and 100% free USFS access.",
+    "other_data": "Chippewa National Forest. Free dispersed primitive camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "minnesota-004",
+    "name": "Finland State Forest Dispersed Primitive Camping Area",
+    "state": "Minnesota",
+    "county": "Lake",
+    "coordinates": {
+      "latitude": 47.4125,
+      "longitude": -91.2148,
+      "elevation_ft": 1420.0
+    },
+    "management_agency": {
+      "name": "Minnesota Department of Natural Resources (DNR) - Forestry",
+      "type": "State",
+      "phone": "(218) 834-1400",
+      "website": "https://www.dnr.state.mn.us"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night, no fees required for primitive dispersed state forest sites)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed at pullout sites along forest service roads. Camp 50 ft from water and roads. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep in cat-holes 200 feet from streams and lakes. Pack out paper products.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down firewood locally.",
+      "safety_requirements": "Campfires permitted in existing rock rings. Douse cold with water.",
+      "seasonal_fire_bans": "Subject to Minnesota DNR dry period burn restrictions."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest service roads",
+      "road_conditions": "Well-maintained gravel roads with flat forest pullouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2.5/5 Stars)",
+      "verizon_reliability": "2 bars 4G LTE",
+      "att_reliability": "2 bars 4G LTE",
+      "tmobile_reliability": "1 bar 4G LTE",
+      "terrain_obstruction_risk": "Moderate - North Shore Sawtooth Mountain ridges",
+      "distance_from_tower_corridor_miles": 7.2,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Primitive Fire Rings",
+      "Trout Stream Water Access",
+      "Boreal Pine Forest Shade"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Silver Bay, MN",
+        "distance_miles": 12.4,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Local Dining"
+        ]
+      },
+      {
+        "town_name": "Two Harbors, MN",
+        "distance_miles": 38.5,
+        "services_available": [
+          "Supermarket",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush spring greening with roaring baptism river waterfalls.",
+      "summer": "Cool Lake Superior breezes (68-78°F), escaping Midwest heat.",
+      "fall": "Vibrant North Shore maple and birch autumn colors in September.",
+      "winter": "Cold boreal winter (-10 to 20°F) with heavy snowpack."
+    },
+    "dangers_and_hazards": [
+      "Black Bears",
+      "Timber Wolves",
+      "Mosquitoes and Blackflies (June)",
+      "Severe Winter Cold"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Deep Boreal Silence (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Occasional logging vehicle",
+        "High altitude aircraft"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Spruce",
+        "Balsam Fir",
+        "Paper Birch",
+        "Thimbleberry"
+      ],
+      "common_animals": [
+        "Moose",
+        "Gray Wolf",
+        "Black Bear",
+        "Canada Lynx",
+        "Ruffed Grouse"
+      ]
+    },
+    "human_demographics_and_culture": "Minnesota North Shore Finnish homesteading, logging, and Superior Hiking Trail culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Ojibwe legends honor the spirit guardians of the Sawtooth Mountains and pristine northern waters.",
+      "energetic_and_spiritual_features": "Boreal spruce forest and rushing river streams provide a deeply grounding natural peace."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Superior Hiking Trail - Finland Section",
+        "length_miles": 7.2,
+        "difficulty": "Moderate to Strenuous",
+        "features": "Sawtooth ridge overlooks, baptism river gorge, boreal forest path"
+      }
+    ],
+    "public_reviews_summary": "Great free camping near Lake Superior and the Superior Hiking Trail with incredible fall colors.",
+    "other_data": "Store all food securely from black bears.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "minnesota-005",
+    "name": "Chippewa National Forest Dispersed Primitive Spots",
+    "state": "Minnesota",
+    "county": "Cass",
+    "coordinates": {
+      "latitude": 47.1812,
+      "longitude": -94.2148,
+      "elevation_ft": 1320.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Chippewa National Forest (Walker Ranger District)",
+      "type": "Federal",
+      "phone": "(218) 547-1044",
+      "website": "https://www.fs.usda.gov/chippewa"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed forest camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along forest service roads outside developed campgrounds. Camp at least 100 feet from water. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep in cat-holes 200 feet from lakes.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared ground rings. Douse cold.",
+      "seasonal_fire_bans": "Subject to USFS dry weather fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Gravel forest service roads",
+      "road_conditions": "Smooth gravel roads with flat forest pullouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Good (3.5/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "3 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - gentle lake and pine forest terrain",
+      "distance_from_tower_corridor_miles": 4.1,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Primitive Fire Rings",
+      "Glacial Lake Access",
+      "Bald Eagle Nesting Views"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 7,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Walker, MN",
+        "distance_miles": 8.5,
+        "services_available": [
+          "Supermarket",
+          "Gas Station",
+          "Hardware Store",
+          "Public Library",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Bemidji, MN",
+        "distance_miles": 32.0,
+        "services_available": [
+          "Supercenters",
+          "Hospital",
+          "Gym & Fitness Center",
+          "University City Amenities"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lakes thaw in April; eagle pair nesting and wild spring greening.",
+      "summer": "Warm summer days (75-84°F) with lake swimming and walleye fishing.",
+      "fall": "Crisp autumn weather with golden aspen reflections on lakes.",
+      "winter": "Cold winter (-5 to 20°F); ice fishing on frozen lakes."
+    },
+    "dangers_and_hazards": [
+      "Black Bears",
+      "Mosquitoes",
+      "Ticks"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Tranquil Lake Pines (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Distant boat motor hum on lake",
+        "Passing forest road car"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Red Pine (Norway Pine)",
+        "White Pine",
+        "Paper Birch",
+        "Wild Rice"
+      ],
+      "common_animals": [
+        "Bald Eagle (Highest Density in Lower 48)",
+        "Common Loon",
+        "White-tailed Deer",
+        "Walleye"
+      ]
+    },
+    "human_demographics_and_culture": "Minnesota Northwoods Ojibwe reservation and lake resort fishing culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Ojibwe traditions honor the sacred Bald Eagle (Migizi) as a messenger of courage and wisdom.",
+      "energetic_and_spiritual_features": "Tall red pine groves and calm lake waters provide a serene spiritual haven."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Heartland State Trail & Shingobee Trail",
+        "length_miles": 6.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Red pine forests, lake overlooks, paved multi-use and dirt trail loops"
+      }
+    ],
+    "public_reviews_summary": "Incredible eagle watching, beautiful tall red pines, and reliable cell signal for digital work.",
+    "other_data": "Check local bald eagle protection zone boundaries during spring nesting.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "minnesota-006",
+    "name": "Tomahawk Dispersed Area - Superior National Forest",
+    "state": "Minnesota",
+    "county": "Lake",
+    "coordinates": {
+      "latitude": 47.7123,
+      "longitude": -91.4512,
+      "elevation_ft": 1450.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Superior National Forest",
+      "type": "Federal",
+      "phone": "(218) 365-7600",
+      "website": "https://www.fs.usda.gov/superior"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping outside BWCAW fee boundary)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free dispersed primitive camping on national forest pullouts along Tomahawk Road (FR 377). Pack out all trash. Food storage rules strictly enforced due to black bears."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from lakes and streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy. Bear safety mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel Forest Service road; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate under Northwoods pine canopy",
+      "distance_from_tower_corridor_miles": 7.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Boundary Waters Wilderness Gateway",
+      "Boreal Forest Canopy",
+      "Freshwater Lake Fishing",
+      "Dark Sky Aurora Borealis"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Ely, MN",
+        "distance_miles": 18.0,
+        "services_available": [
+          "BWCA Outfitters",
+          "Grocery Store",
+          "Hospital",
+          "Gas",
+          "Hardware"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool Northwoods spring (50-62°F).",
+      "summer": "Pleasant summer (72-82°F) with lake swimming.",
+      "fall": "Spectacular northern autumn colors & Aurora.",
+      "winter": "Cold snowy winter (10-25°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Habitat",
+      "Spring Mosquitoes & Blackflies"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Northwoods Boreal Silence (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Loon calls",
+        "Wind through white pines"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Pine",
+        "Red Pine",
+        "Balsam Fir",
+        "Paper Birch"
+      ],
+      "common_animals": [
+        "Black Bear",
+        "Gray Wolf",
+        "Moose",
+        "Common Loon",
+        "Walleye"
+      ]
+    },
+    "human_demographics_and_culture": "Ojibwe (Anishinaabe) ancestral lands and Voyageur canoe heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Historic Voyageur fur trade canoe routes connected through these glacial lakes.",
+      "energetic_and_spiritual_features": "Pristine glacial boreal forest bordering the Boundary Waters Wilderness."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Birch Lake Overlook Trail",
+        "length_miles": 3.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Glacial lake vistas, white pine groves, granite outcrops"
+      }
+    ],
+    "public_reviews_summary": "Top choice free basecamp on the edge of Ely and the Boundary Waters with solid cell service.",
+    "other_data": "No BWCA permit required for camping outside wilderness boundary.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "minnesota-007",
+    "name": "Suomi Hills Dispersed Area - Chippewa National Forest",
+    "state": "Minnesota",
+    "county": "Itasca",
+    "coordinates": {
+      "latitude": 47.4812,
+      "longitude": -93.6412,
+      "elevation_ft": 1380.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Chippewa National Forest",
+      "type": "Federal",
+      "phone": "(218) 326-7100",
+      "website": "https://www.fs.usda.gov/chippewa"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on national forest pullouts along Scenic Highway (MN-38) forest roads. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from lakes/streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved scenic highway to gravel forest roads",
+      "road_conditions": "Paved MN-38 Scenic Byway with smooth gravel forest side turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low along MN-38 corridor",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Glacial Lake Shorelines",
+      "MN-38 Edge of the Wilderness Scenic Byway",
+      "Northern Pike Fishing",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Grand Rapids, MN",
+        "distance_miles": 16.0,
+        "services_available": [
+          "Full Groceries",
+          "Hospital",
+          "Target",
+          "Walmart",
+          "Hardware"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush spring green (52-64°F).",
+      "summer": "Warm pleasant summer (75-84°F) with lake swimming.",
+      "fall": "Spectacular hardwood fall color panorama.",
+      "winter": "Snowy winter (12-28°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Habitat",
+      "Ticks in Spring Brush"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Glacial Lake Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through red pines",
+        "Loon calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Red Pine",
+        "White Pine",
+        "Sugar Maple",
+        "Paper Birch"
+      ],
+      "common_animals": [
+        "Bald Eagle",
+        "White-tailed Deer",
+        "Black Bear",
+        "Walleye",
+        "Loon"
+      ]
+    },
+    "human_demographics_and_culture": "Ojibwe ancestral territory and Edge of the Wilderness scenic byway culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Chippewa National Forest holds the highest breeding population density of Bald Eagles in the lower 48 states.",
+      "energetic_and_spiritual_features": "Rolling glacial moraine hills covered in old-growth red pines surrounding pristine clear lakes."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Suomi Hills Semi-Primitive Hiking Trail",
+        "length_miles": 4.5,
+        "difficulty": "Easy to Moderate",
+        "features": "Glacial lakes, old-growth red pines, boardwalks, eagle viewing"
+      }
+    ],
+    "public_reviews_summary": "Gorgeous glacial lake hiking area along the Edge of the Wilderness byway with fast 5G cell service.",
+    "other_data": "High density of nesting bald eagles.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "minnesota-008",
+    "name": "Finland Dispersed Area - Finland State Forest",
+    "state": "Minnesota",
+    "county": "Lake",
+    "coordinates": {
+      "latitude": 47.4123,
+      "longitude": -91.2812,
+      "elevation_ft": 1400.0
+    },
+    "management_agency": {
+      "name": "Minnesota Department of Natural Resources (DNR)",
+      "type": "State",
+      "phone": "(218) 834-1400",
+      "website": "https://www.dnr.state.mn.us"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state forest dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on state forest lands along County Road 7 / forest roads. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to DNR fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel forest roads; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate on elevated North Shore ridge",
+      "distance_from_tower_corridor_miles": 6.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Lake Superior North Shore Proximity",
+      "Superior Hiking Trail Access",
+      "River Waterfalls",
+      "Dark Sky Aurora"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 7,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Silver Bay, MN",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware",
+          "Clinic"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool North Shore spring (48-60°F).",
+      "summer": "Cool refreshing summer (68-78°F) with Lake Superior breezes.",
+      "fall": "Spectacular North Shore autumn foliage.",
+      "winter": "Deep snow sports winter (15-28°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Habitat",
+      "Spring Blackflies"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "North Shore Boreal Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Baptism River flow",
+        "Pine wind"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "White Spruce",
+        "Paper Birch",
+        "Quaking Aspen",
+        "Thimbleberry"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Black Bear",
+        "Moose",
+        "Ruffed Grouse",
+        "Steelhead Trout"
+      ]
+    },
+    "human_demographics_and_culture": "Anishinaabe ancestral lands and Finnish pioneer homestead heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Settled by Finnish immigrants in the 1890s who built traditional log saunas along boreal riverbanks.",
+      "energetic_and_spiritual_features": "High ridge boreal forest overlooking the vast blue waters of Lake Superior."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Superior Hiking Trail (Finland Section)",
+        "length_miles": 5.0,
+        "difficulty": "Moderate",
+        "features": "Baptism River gorges, birch forest, Lake Superior overlooks"
+      }
+    ],
+    "public_reviews_summary": "Incredible free North Shore basecamp minutes from Lake Superior and the Superior Hiking Trail with dependable cell service.",
+    "other_data": "Close to Tettegouche State Park.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "minnesota-009",
+    "name": "Paul Bunyan Dispersed Area - Paul Bunyan State Forest",
+    "state": "Minnesota",
+    "county": "Hubbard",
+    "coordinates": {
+      "latitude": 47.0812,
+      "longitude": -94.8412,
+      "elevation_ft": 1420.0
+    },
+    "management_agency": {
+      "name": "Minnesota Department of Natural Resources (DNR)",
+      "type": "State",
+      "phone": "(218) 732-3309",
+      "website": "https://www.dnr.state.mn.us"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state forest dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free dispersed primitive camping on state forest lands along forest roads. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from lakes/streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to DNR fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel state forest roads; smooth dirt turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars and camper vans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low under pine forest canopy",
+      "distance_from_tower_corridor_miles": 5.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Glacial Lake Shorelines",
+      "Paul Bunyan State Trail Access",
+      "Pine Forest Shade",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 7,
+      "distance_to_gym_score": 6,
+      "terrain_score": 8,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Park Rapids, MN",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Grocery Stores",
+          "Hospital",
+          "Gas Stations",
+          "Hardware",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush pine spring (52-65°F).",
+      "summer": "Warm pleasant summer (76-85°F) with lake swimming.",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Snowy winter (15-28°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear Habitat",
+      "Ticks in Spring"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Pine Forest Lake Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through jack pines",
+        "Loon calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Jack Pine",
+        "Red Pine",
+        "Paper Birch",
+        "Wild Strawberry"
+      ],
+      "common_animals": [
+        "White-tailed Deer",
+        "Black Bear",
+        "Loon",
+        "Walleye",
+        "Red Squirrel"
+      ]
+    },
+    "human_demographics_and_culture": "Ojibwe ancestral lands and Paul Bunyan lumberjack folklore culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Heart of legendary Paul Bunyan and Babe the Blue Ox lumberjack folklore country.",
+      "energetic_and_spiritual_features": "Quiet glacial pine forest rolling across sandy moraine hills."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Paul Bunyan State Forest Trail",
+        "length_miles": 5.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Pine forests, glacial lake overlooks, wildflower swales"
+      }
+    ],
+    "public_reviews_summary": "Peaceful pine forest lake camping near Park Rapids with blazing 5G cell service.",
+    "other_data": "Short drive to Itasca State Park (Headwaters of Mississippi River).",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "minnesota-010",
+    "name": "Beltrami Dispersed Area - Beltrami Island State Forest",
+    "state": "Minnesota",
+    "county": "Lake of the Woods",
+    "coordinates": {
+      "latitude": 48.6123,
+      "longitude": -95.2812,
+      "elevation_ft": 1180.0
+    },
+    "management_agency": {
+      "name": "Minnesota Department of Natural Resources (DNR)",
+      "type": "State",
+      "phone": "(218) 386-1304",
+      "website": "https://www.dnr.state.mn.us"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive state forest dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed on state forest lands along forest roads. Pack out all trash. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from peatland swales. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to DNR fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel forest roads; sandy turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD passenger cars on main gravel roads.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair to Good (3.5/5 Stars)",
+      "verizon_reliability": "3 bars 4G LTE",
+      "att_reliability": "3 bars 4G LTE",
+      "tmobile_reliability": "2 bars 4G LTE",
+      "terrain_obstruction_risk": "Low - flat peatland pine ridge plain",
+      "distance_from_tower_corridor_miles": 12.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Vast Northwoods Solitude",
+      "Peatland Pine Islands",
+      "Lake of the Woods Proximity",
+      "Dark Sky Aurora"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 3,
+      "terrain_score": 8,
+      "quietness_score": 10
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Baudette, MN",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Grocery Store",
+          "Hospital",
+          "Gas Stations",
+          "Hardware"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Breezy spring (48-60°F).",
+      "summer": "Pleasant summer (72-82°F) with cool nights.",
+      "fall": "Crisp autumn foliage & Aurora.",
+      "winter": "Severe cold winter (5-20°F)."
+    },
+    "dangers_and_hazards": [
+      "Black Bear & Wolf Habitat",
+      "Spring Blackflies & Mosquitoes"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Peatland Boreal Silence (Quietness Score: 10/10)",
+      "common_human_made_sounds": [
+        "Wind through jack pines",
+        "Wolf howls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Jack Pine",
+        "Tamarack",
+        "Black Spruce",
+        "Bog Laurel"
+      ],
+      "common_animals": [
+        "Gray Wolf",
+        "Black Bear",
+        "Moose",
+        "Great Gray Owl",
+        "Sharp-tailed Grouse"
+      ]
+    },
+    "human_demographics_and_culture": "Red Lake Ojibwe ancestral lands and 1930s Resettlement Administration homestead history.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Second largest state forest in Minnesota, protecting over 669,000 acres of peatlands and jack pine ridges.",
+      "energetic_and_spiritual_features": "Profound remote boreal silence stretching north toward Lake of the Woods."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Hayes Lake State Park Trail Connection",
+        "length_miles": 4.0,
+        "difficulty": "Easy",
+        "features": "Jack pine ridges, bog boardwalks, river dam overlooks"
+      }
+    ],
+    "public_reviews_summary": "Vast, solitary boreal forest landscape with wolf pack howls and usable 4G cell service.",
+    "other_data": "669,000 acres of public state forest land.",
+    "last_updated": "2026-09-12"
+  }
+]

@@ -1,0 +1,1344 @@
+[
+  {
+    "id": "wa-okanogan-wenatchee-icicle-creek",
+    "name": "Icicle Creek Dispersed Primitive Camping - Okanogan-Wenatchee NF",
+    "state": "Washington",
+    "county": "Chelan County",
+    "coordinates": {
+      "latitude": 47.5812,
+      "longitude": -120.7814,
+      "elevation_ft": 2150
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Wenatchee River Ranger District",
+      "type": "USFS",
+      "phone": "(509) 548-2550",
+      "website": "https://www.fs.usda.gov/okawen"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - No fees, no permits required for general dispersed primitive camping (outside designated fee campgrounds)",
+      "stay_limit": "14 consecutive days max stay within 30-day period",
+      "guidelines": "Dispersed primitive camping permitted on general national forest lands along Icicle Creek Road (FS 7600). Campsites set back 100ft from Icicle Creek and Enchantments Wilderness boundary."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Cathole method: dig 6 inches deep in granitic forest soil, 200 feet from Icicle Creek. Pack out toilet paper.",
+      "trash_policy": "Strict Leave No Trace pack-it-in pack-it-out. Black bear & Grizzly territory: bear canister or hard-sided vehicle storage mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and downed wood only within forest.",
+      "safety_requirements": "Campfires in established rock fire rings only. Extinguish cold to touch with creek water.",
+      "seasonal_fire_bans": "Stage 1 and Stage 2 fire restrictions strictly enforced in late summer (July-September)."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved scenic road changing to unpaved gravel forest service road (Icicle Creek Road / FS 7600)",
+      "road_conditions": "Paved main access road; gravel upper section has washboards and small rocks.",
+      "vehicle_recommendation": "Normal low clearance front wheel drive car (easily accessible along main Icicle Road in dry weather)",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong Cellular Internet",
+      "verizon_reliability": "3-4 bars 5G/LTE (20-50 Mbps download near Leavenworth end)",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 5G LTE",
+      "terrain_obstruction_risk": "Moderate (Granite mountain walls restrict signal in upper canyon)",
+      "distance_from_tower_corridor_miles": 4.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Glacial River Access (Icicle Creek - filter required)",
+      "Enchantments Wilderness Proximity",
+      "Granite Mountain Peak Views",
+      "High-speed 5G Cellular Internet"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 6,
+      "terrain_score": 10,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Leavenworth, WA",
+        "distance_miles": 8.5,
+        "services_available": [
+          "Dan's Food Market",
+          "Gas Stations",
+          "Outdoor Outfitters",
+          "Leavenworth Public Library",
+          "Cascade Medical Center"
+        ]
+      },
+      {
+        "town_name": "Wenatchee, WA",
+        "distance_miles": 32.0,
+        "services_available": [
+          "Full City Services",
+          "Confluence Health Hospital",
+          "Costco / Target",
+          "24/7 Gyms"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Late May thaw: cold (45-60°F), high glacial snowmelt runoff, lush forest greenery.",
+      "summer": "75-88°F, ideal Pacific Northwest summer, dry sunny weather, cool nights (50-55°F).",
+      "fall": "Spectacular Cascade autumn foliage & golden larch (50-65°F daytime, 30-40°F nights), prime camping.",
+      "winter": "Cold mountain winter (20-35°F), heavy snowpack, upper Icicle road snow-covered."
+    },
+    "dangers_and_hazards": [
+      "Black Bears and Cougars active in Cascades",
+      "High fast-moving water currents in Icicle Creek",
+      "Wildfire smoke during late summer Cascade fire season"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "8/10 - Rushing glacial stream soundscape",
+      "common_human_made_sounds": [
+        "Occasional climber or hiker vehicle on Icicle Road",
+        "Enchantments backpackers"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Douglas Fir",
+        "Ponderosa Pine",
+        "Western Redcedar (Thuja plicata)",
+        "Vine Maple (Acer circinatum)",
+        "Thimbleberry (Rubus parviflorus)"
+      ],
+      "common_animals": [
+        "Mule Deer",
+        "Black Bear",
+        "Mountain Goat (on high Enchantment crags)",
+        "Cascade Red Fox",
+        "Harlequin Duck (Histrionicus histrionicus)"
+      ]
+    },
+    "human_demographics_and_culture": "World-class alpine rock climbers (Icicle Canyon), Enchantments backpackers, Leavenworth digital nomads, and trail runners.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Yakama and Wenatchi indigenous traditions revere Icicle Creek canyon and the Stuart Range as sacred ancestral spirit mountains and salmon waters.",
+      "energetic_and_spiritual_features": "Profound granite mountain energy, high atmospheric ionization from glacial rushing water, fast 5G connectivity."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Icicle Ridge Trail",
+        "length_miles": 6.0,
+        "difficulty": "Strenuous",
+        "features": "Steep switchbacks leading to panoramic views of Leavenworth valley and Stuart Range"
+      }
+    ],
+    "public_reviews_summary": "Top-tier free primitive camping spot in Washington State. World-class mountain scenery, rushing river sounds, and dependable 5G cell internet.",
+    "other_data": "Bortle Class 2 night sky. Abundant firewood.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "wa-olympic-nf-skokomish-river-road",
+    "name": "South Fork Skokomish River Dispersed Primitive Camping",
+    "state": "Washington",
+    "county": "Mason County",
+    "coordinates": {
+      "latitude": 47.3812,
+      "longitude": -123.3214,
+      "elevation_ft": 750
+    },
+    "management_agency": {
+      "name": "US Forest Service - Olympic National Forest (Hood Canal Ranger District)",
+      "type": "USFS",
+      "phone": "(360) 765-2200",
+      "website": "https://www.fs.usda.gov/olympic"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Dispersed Primitive Camping (zero fee)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed camping at designated pullouts along South Fork Skokomish River Road (FR 2353). Camp 100ft minimum from river."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in rich rainforest moss soil 200 feet from river. Pack out all hygiene items.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Abundant dead and down hemlock and cedar wood gathering permitted.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Late summer Western Washington dry burn bans enforced."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved county road to paved/gravel Forest Service Road (FR 2353)",
+      "road_conditions": "Paved main access to smooth gravel river pullouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair to Moderate / Hood Canal Corridor Signal",
+      "verizon_reliability": "2-3 bars 4G LTE near main highway junction",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate (Dense temperate rainforest canopy and river valley walls)",
+      "distance_from_tower_corridor_miles": 5.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Pristine Rainforest Riverfront Campsites",
+      "Old Growth Cedar & Douglas Fir Canopy",
+      "Clear Turquoise Skokomish River Access",
+      "Flat Dirt/Gravel Vehicle Pullouts"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Shelton, WA",
+        "distance_miles": 18.0,
+        "services_available": [
+          "Fred Meyer / Safeway",
+          "Gas Stations",
+          "Mason County Library",
+          "Hospital",
+          "Gyms",
+          "Hardware Stores"
+        ]
+      },
+      {
+        "town_name": "Hoodsport, WA",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Local Market",
+          "Hood Canal Marina",
+          "Gas Station",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "48-62°F, lush green rainforest moss growth, misty showers.",
+      "summer": "70-82°F, prime Olympic Peninsula summer weather, clear blue skies.",
+      "fall": "50-65°F, salmon runs in river, golden bigleaf maple leaves.",
+      "winter": "38-48°F, heavy rainforest precipitation, rare snow in lower river valley."
+    },
+    "dangers_and_hazards": [
+      "Fast-moving river currents during spring rain runoff",
+      "Falling dead cedar/hemlock tree limbs during windstorms",
+      "Black bears in Olympic National Forest"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Rushing river soundscape and forest rain drop taps",
+      "common_human_made_sounds": [
+        "Infrequent vehicle on forest road"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Western Red Cedar",
+        "Douglas Fir",
+        "Western Hemlock",
+        "Sword Fern",
+        "Moss-draped Bigleaf Maple"
+      ],
+      "common_animals": [
+        "Roosevelt Elk",
+        "Chum & Coho Salmon",
+        "Bald Eagle",
+        "Black Bear",
+        "Northern Spotted Owl"
+      ]
+    },
+    "human_demographics_and_culture": "Skokomish Tribal nation lands heritage, Pacific Northwest rainforest hikers, anglers, digital nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Ancestral territory of the Skokomish (Tuwaduq) people who honor the river as the sacred lifeblood of their salmon culture.",
+      "energetic_and_spiritual_features": "Enchanting ancient rainforest energy, majestic emerald river pools, soothing mossy tranquility."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "South Fork Skokomish River Trail",
+        "length_miles": 10.2,
+        "difficulty": "Moderate",
+        "features": "Old-growth rainforest trees, river gorge bridges, mossy fern flats"
+      }
+    ],
+    "public_reviews_summary": "Magical Olympic Peninsula rainforest primitive camping. Crystal clear river water, ancient red cedars, and easy 2WD driving outside Shelton.",
+    "other_data": "Olympic National Forest. Free dispersed primitive camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "wa-mt-baker-snoqualmie-nf-middle-fork",
+    "name": "Middle Fork Snoqualmie River Road Dispersed Camping",
+    "state": "Washington",
+    "county": "King County",
+    "coordinates": {
+      "latitude": 47.5214,
+      "longitude": -121.5412,
+      "elevation_ft": 1050
+    },
+    "management_agency": {
+      "name": "US Forest Service - Mt. Baker-Snoqualmie National Forest (Snoqualmie Ranger District)",
+      "type": "USFS",
+      "phone": "(425) 888-1421",
+      "website": "https://www.fs.usda.gov/mbs"
+    },
+    "rules_and_regulations": {
+      "cost": "100% Free - USFS Dispersed Primitive Camping (zero fee outside developed fee campgrounds)",
+      "stay_limit": "14 consecutive days stay limit",
+      "guidelines": "Dispersed primitive camping permitted at designated pullouts along Middle Fork Snoqualmie River Road (FR 56). Camp 100ft minimum from river."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Dig cat-hole 6-8 inches deep in rich rainforest soil 200 feet from Snoqualmie River. Pack out hygiene products.",
+      "trash_policy": "Strict Pack-In / Pack-Out."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Abundant dead and down cedar and hemlock wood collection permitted.",
+      "safety_requirements": "Campfires in established rock fire rings only. Fully douse with water before vacating.",
+      "seasonal_fire_bans": "Late summer Western Washington dry burn bans enforced."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved I-90 to paved Middle Fork Road (FR 56) to gravel pullouts",
+      "road_conditions": "Paved main access road, smooth gravel turnouts.",
+      "vehicle_recommendation": "Accessible by standard 2WD low clearance passenger cars.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Strong / Seattle Metro Tower Corridor",
+      "verizon_reliability": "4-5 bars 4G/5G LTE near North Bend entrance",
+      "att_reliability": "4-5 bars 4G/5G LTE",
+      "tmobile_reliability": "3-4 bars 4G LTE",
+      "terrain_obstruction_risk": "Low to Moderate inside Cascade river valley",
+      "distance_from_tower_corridor_miles": 3.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Cascade Rainforest Riverfront Campsites",
+      "Old-Growth Douglas Fir & Red Cedar Shade",
+      "Clear Turquoise Snoqualmie River Access",
+      "Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 7,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "North Bend / Snoqualmie, WA",
+        "distance_miles": 10.0,
+        "services_available": [
+          "Safeway / QFC",
+          "Gas Stations",
+          "Snoqualmie Public Library",
+          "Hospital",
+          "REI Outlet",
+          "24/7 Gyms"
+        ]
+      },
+      {
+        "town_name": "Seattle Metro, WA",
+        "distance_miles": 35.0,
+        "services_available": [
+          "Full Major Metro Services",
+          "Trader Joe's / Costco",
+          "Hospitals"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "48-62°F, green rainforest moss growth, misty mountain showers.",
+      "summer": "72-85°F, prime Pacific Northwest summer weather, clear blue skies.",
+      "fall": "50-65°F, golden bigleaf maple foliage, crisp nights.",
+      "winter": "38-48°F, heavy rainforest precipitation, dusting of snow on peaks."
+    },
+    "dangers_and_hazards": [
+      "Fast river currents during spring snow melt",
+      "Black bears in Cascade mountains (store food securely)"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "9/10 - Rushing river soundscape and rainforest breeze",
+      "common_human_made_sounds": [
+        "Occasional forest road vehicle"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Douglas Fir",
+        "Western Red Cedar",
+        "Western Hemlock",
+        "Sword Fern",
+        "Bigleaf Maple"
+      ],
+      "common_animals": [
+        "Roosevelt Elk",
+        "Black Bear",
+        "Bald Eagle",
+        "Coho Salmon",
+        "Cascade Frog"
+      ]
+    },
+    "human_demographics_and_culture": "Snoqualmie Tribal nation ancestral lands, Seattle outdoor athletes, trail runners, digital nomads.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Ancestral territory of the Snoqualmie Tribe who honor Snoqualmie Falls and the mountain river valley as the sacred place of creation.",
+      "energetic_and_spiritual_features": "Enchanting Cascade rainforest energy, roaring turquoise river water clarity."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Middle Fork Snoqualmie River Trail",
+        "length_miles": 12.0,
+        "difficulty": "Moderate",
+        "features": "Suspension footbridge, old-growth red cedars, river gorge views"
+      }
+    ],
+    "public_reviews_summary": "The single best free nomad camping spot close to Seattle. Blazing 5G cell internet, crystal clear Cascade river water, and 15 minutes to North Bend's Safeway and cafes.",
+    "other_data": "Mt. Baker-Snoqualmie National Forest. Free dispersed primitive camping.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "washington-004",
+    "name": "Bacon Creek Dispersed Primitive Zone - North Cascades National Forest",
+    "state": "Washington",
+    "county": "Skagit",
+    "coordinates": {
+      "latitude": 48.6125,
+      "longitude": -121.4124,
+      "elevation_ft": 640.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Mt. Baker-Snoqualmie National Forest (Mt. Baker Ranger District)",
+      "type": "Federal",
+      "phone": "(360) 856-5700",
+      "website": "https://www.fs.usda.gov/mbs"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed forest camping along Bacon Creek Road)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed at pullout sites along Bacon Creek Road (FR 1060) outside North Cascades National Park boundary. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from Bacon Creek and Skagit River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in existing stone fire rings. Extinguish cold with creek water.",
+      "seasonal_fire_bans": "Subject to USFS dry summer fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved SR-20 to gravel forest service road",
+      "road_conditions": "Paved North Cascades Highway to gravel forest pullouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair (2.5/5 Stars)",
+      "verizon_reliability": "2 bars 4G LTE near highway turnoff",
+      "att_reliability": "2 bars 4G LTE",
+      "tmobile_reliability": "1 bar 4G LTE",
+      "terrain_obstruction_risk": "High - steep Cascades glacier mountain canyon and massive Douglas fir canopy",
+      "distance_from_tower_corridor_miles": 6.5,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Glacial Skagit River / Bacon Creek Water Access",
+      "Cascade Mountain Glacier Peak Views",
+      "Old-Growth Rainforest Canopy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Marblemount, WA",
+        "distance_miles": 6.8,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "Outfitter",
+          "Restaurants"
+        ]
+      },
+      {
+        "town_name": "Sedro-Woolley, WA",
+        "distance_miles": 42.0,
+        "services_available": [
+          "Supermarket",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush Pacific Northwest rainforest greening with rushing glacial melt streams.",
+      "summer": "Pleasant Cascade summer (72-80°F) with clear mountain views.",
+      "fall": "Crisp autumn weather with golden bigleaf maple leaves along river.",
+      "winter": "Cold PNW winter (30-40°F) with rain and snow in upper elevation."
+    },
+    "dangers_and_hazards": [
+      "Grizzly Bears & Black Bears (Food storage required)",
+      "Rushing Glacial Whitewater Currents",
+      "Falling Tree Branches in Old Growth Forest"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "PNW Rainforest Audio (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Distant SR-20 traffic hum",
+        "High altitude aircraft"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Douglas Fir",
+        "Western Red Cedar",
+        "Western Hemlock",
+        "Sword Fern",
+        "Bigleaf Maple"
+      ],
+      "common_animals": [
+        "Bald Eagle (Winter Nesting Colony)",
+        "Grizzly Bear",
+        "Black Bear",
+        "Roosevelt Elk",
+        "Chinook Salmon"
+      ]
+    },
+    "human_demographics_and_culture": "Pacific Northwest North Cascades timber, salmon conservation, and mountain climbing culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Coast Salish traditions honor the glacier peaks and salmon rivers of Skagit as sacred life force realms.",
+      "energetic_and_spiritual_features": "Giant 500-year-old cedar trees and turquoise glacial waters evoke profound reverence."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Bacon Creek Trail & Skagit River Trail",
+        "length_miles": 5.8,
+        "difficulty": "Moderate",
+        "features": "Old-growth rainforest, turquoise river views, North Cascades peak vistas"
+      }
+    ],
+    "public_reviews_summary": "Magical Pacific Northwest old-growth rainforest camping near North Cascades National Park.",
+    "other_data": "Store all food in bear-proof containers.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "washington-005",
+    "name": "Salmon La Sac Dispersed Primitive Zone - Okanogan-Wenatchee National Forest",
+    "state": "Washington",
+    "county": "Kittitas",
+    "coordinates": {
+      "latitude": 47.4125,
+      "longitude": -121.1214,
+      "elevation_ft": 2420.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Okanogan-Wenatchee National Forest (Cle Elum Ranger District)",
+      "type": "Federal",
+      "phone": "(509) 852-1100",
+      "website": "https://www.fs.usda.gov/okawen"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive dispersed forest camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping allowed along Cle Elum River Road (FR 4330) outside developed fee loops. Camp 100 ft from river. Leave No Trace."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 feet from Cle Elum River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead and down wood locally.",
+      "safety_requirements": "Campfires permitted in cleared stone rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS dry summer fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved county road to gravel forest service road",
+      "road_conditions": "Paved access roads to gravel river turnouts.",
+      "vehicle_recommendation": "Accessible by standard FWD passenger car.",
+      "scores": {
+        "road_grade": 3,
+        "road_terrain_difficulty": 3,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Good (3/5 Stars)",
+      "verizon_reliability": "3 bars 4G LTE",
+      "att_reliability": "2-3 bars 4G LTE",
+      "tmobile_reliability": "2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate - Alpine Cascade mountain valley",
+      "distance_from_tower_corridor_miles": 5.8,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Cle Elum River Water Access",
+      "Alpine Cascade Peak Vistas",
+      "Primitive Stone Fire Rings"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 6,
+      "distance_to_gym_score": 5,
+      "terrain_score": 9,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Roslyn, WA",
+        "distance_miles": 14.5,
+        "services_available": [
+          "Grocery Store",
+          "Gas Station",
+          "Hardware Store",
+          "Historic Saloon & Dining"
+        ]
+      },
+      {
+        "town_name": "Cle Elum, WA",
+        "distance_miles": 18.0,
+        "services_available": [
+          "Supermarket",
+          "Hospital",
+          "Public Library",
+          "Gym & Fitness Center"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Cool spring weather with roaring snowmelt in Cle Elum River.",
+      "summer": "Sunny Cascade summer (75-84°F) with river swimming and mountain views.",
+      "fall": "Crisp autumn weather with golden larch foliage in October.",
+      "winter": "Cold mountain winter (20-35°F) with snowpack; snowmobile hub."
+    },
+    "dangers_and_hazards": [
+      "Black Bears & Cougars",
+      "Cold Whitewater Currents",
+      "High Wildfire Danger in Summer"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Cascade River Audio (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Occasional forest road vehicle",
+        "High altitude aircraft"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Ponderosa Pine",
+        "Douglas Fir",
+        "Western Larch",
+        "Vine Maple"
+      ],
+      "common_animals": [
+        "Cascade Roosevelt Elk",
+        "Black Bear",
+        "Cougar",
+        "Kokanee Salmon",
+        "Osprey"
+      ]
+    },
+    "human_demographics_and_culture": "Central Washington Cascade mountain timber, historic coal mining (Roslyn), and alpine outdoor recreation culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Yakama and Kittitas traditions honor the headwaters of the Cle Elum River as sacred mountain grounds.",
+      "energetic_and_spiritual_features": "Rushing clear mountain waters against ponderosa pine peaks generate an invigorating energy."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Cle Elum River Trail & Waptus Lake Trail",
+        "length_miles": 8.0,
+        "difficulty": "Moderate",
+        "features": "Clear alpine river path, granite peaks, ponderosa pine groves"
+      }
+    ],
+    "public_reviews_summary": "Gorgeous Alpine Cascade river camping near Roslyn with easy access and good cell service.",
+    "other_data": "Filter all water taken from Cle Elum River.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "washington-006",
+    "name": "Smackout Pass Dispersed Camping - Colville National Forest",
+    "state": "Washington",
+    "county": "Pend Oreille",
+    "coordinates": {
+      "latitude": 48.7845,
+      "longitude": -117.5123,
+      "elevation_ft": 3600.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Colville National Forest",
+      "type": "Federal",
+      "phone": "(509) 442-3141",
+      "website": "https://www.fs.usda.gov/colville"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed camping allowed along Forest Service roads. Food storage rules strictly enforced due to Grizzly bear recovery zone. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy. Bear canister mandatory."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Graded gravel Forest Service road (FR 1900); minor potholes.",
+      "vehicle_recommendation": "Accessible by standard low-clearance FWD sedans.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 3
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Good (3.5/5 Stars)",
+      "verizon_reliability": "2-3 bars 4G LTE",
+      "att_reliability": "2 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate under dense timber canopy",
+      "distance_from_tower_corridor_miles": 12.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Cedar & Pine Forest Canopy",
+      "Mountain Meadow Solitude",
+      "Huckleberry Picking",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 6,
+      "distance_to_library_score": 5,
+      "distance_to_gym_score": 4,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Ione, WA",
+        "distance_miles": 12.0,
+        "services_available": [
+          "Gas Station",
+          "General Store",
+          "Cafe",
+          "Post Office"
+        ]
+      },
+      {
+        "town_name": "Colville, WA",
+        "distance_miles": 45.0,
+        "services_available": [
+          "Full City Services",
+          "Walmart",
+          "Hospital",
+          "Hardware"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Rainy mountain spring (52-64°F).",
+      "summer": "Pleasant sunny summer (75-85°F).",
+      "fall": "Crisp autumn days.",
+      "winter": "Snow blocks pass Nov-May."
+    },
+    "dangers_and_hazards": [
+      "Grizzly and Black Bear Habitat",
+      "Moose Encounters",
+      "Winter Snow Blockage"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Northwest Forest Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through tall cedar canopy",
+        "Bird calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Western Red Cedar",
+        "Douglas Fir",
+        "Huckleberry",
+        "Sword Fern"
+      ],
+      "common_animals": [
+        "Grizzly Bear",
+        "Black Bear",
+        "Gray Wolf",
+        "Moose",
+        "Lynx"
+      ]
+    },
+    "human_demographics_and_culture": "Kalispel Tribe traditional territory and Selkirk mountain timber culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Traditional huckleberry harvesting and medicine gathering grounds of the Kalispel Tribe.",
+      "energetic_and_spiritual_features": "Deep ancient cedar forest canopy providing profound tranquility."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Smackout Pass Trail",
+        "length_miles": 3.5,
+        "difficulty": "Easy to Moderate",
+        "features": "Ancient cedar groves, huckleberry patches, mountain views"
+      }
+    ],
+    "public_reviews_summary": "Peaceful lush mountain forest with usable cell service in elevated clearings.",
+    "other_data": "Certified bear canister or food hanging mandatory.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "washington-007",
+    "name": "Toats Coulee Dispersed Area - Okanogan National Forest",
+    "state": "Washington",
+    "county": "Okanogan",
+    "coordinates": {
+      "latitude": 48.8812,
+      "longitude": -119.7418,
+      "elevation_ft": 2800.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Okanogan-Wenatchee NF",
+      "type": "Federal",
+      "phone": "(509) 486-2186",
+      "website": "https://www.fs.usda.gov/okawen"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed camping allowed along Toats Coulee Creek forest road. Keep camp 100 ft back from creek bank. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from creek. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Graded gravel forest road",
+      "road_conditions": "Well-maintained Forest Service gravel road.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 4
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair / Spotty (2.5/5 Stars)",
+      "verizon_reliability": "2-3 bars 4G LTE",
+      "att_reliability": "2 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate inside coulee canyon",
+      "distance_from_tower_corridor_miles": 14.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Creek Side Camping",
+      "Aspen & Ponderosa Canopy",
+      " Pasayten Wilderness Gateway",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 5,
+      "distance_to_library_score": 4,
+      "distance_to_gym_score": 3,
+      "terrain_score": 9,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Loomis, WA",
+        "distance_miles": 8.0,
+        "services_available": [
+          "General Store",
+          "Gas Pump",
+          "Tavern"
+        ]
+      },
+      {
+        "town_name": "Tonasket, WA",
+        "distance_miles": 26.0,
+        "services_available": [
+          "Groceries",
+          "Hardware Store",
+          "Gas Stations",
+          "Medical Clinic"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Sunny dry spring (60-72°F).",
+      "summer": "Warm sunny summer (82-90°F).",
+      "fall": "Crisp autumn foliage.",
+      "winter": "Cold winter (25-38°F) with snow."
+    },
+    "dangers_and_hazards": [
+      "Late Summer Wildfire Risk",
+      "Black Bears",
+      "Rattlesnakes in Lower Coulee"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Mountain Creek Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Creek water flow",
+        "Wind through ponderosas"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Ponderosa Pine",
+        "Quaking Aspen",
+        "Douglas Fir"
+      ],
+      "common_animals": [
+        "Mule Deer",
+        "Black Bear",
+        "Bighorn Sheep",
+        "Rainbow Trout"
+      ]
+    },
+    "human_demographics_and_culture": "Okanogan valley gold mining and ranching heritage.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Okanogan tribe traditional valley hunting grounds.",
+      "energetic_and_spiritual_features": "Pristine mountain stream flowing through dry interior forest coulee."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Toats Coulee Creek Trail",
+        "length_miles": 4.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Creek side walking, aspen groves, bighorn sheep viewing"
+      }
+    ],
+    "public_reviews_summary": "Gorgeous creek side camping gateway to the Pasayten Wilderness; spotty cell service.",
+    "other_data": "Bring fishing rod for creek trout.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "washington-008",
+    "name": "Middle Fork Snoqualmie Dispersed Area - Mount Baker-Snoqualmie NF",
+    "state": "Washington",
+    "county": "King",
+    "coordinates": {
+      "latitude": 47.5512,
+      "longitude": -121.5412,
+      "elevation_ft": 1100.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Mount Baker-Snoqualmie NF",
+      "type": "Federal",
+      "phone": "(425) 888-1421",
+      "website": "https://www.fs.usda.gov/mbs"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping in pullouts beyond paved section)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed camping allowed in designated pullouts along Middle Fork Road past paved corridor. Pack out all garbage."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from Snoqualmie River. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved road transitioning to smooth gravel",
+      "road_conditions": "Paved for first 12 miles; smooth gravel pullouts beyond.",
+      "vehicle_recommendation": "Accessible by all low-clearance FWD sedans.",
+      "scores": {
+        "road_grade": 1,
+        "road_terrain_difficulty": 1,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "3-4 bars 4G LTE",
+      "att_reliability": "3 bars 4G LTE",
+      "tmobile_reliability": "2-3 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate under tall rainforest canopy",
+      "distance_from_tower_corridor_miles": 10.0,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Old-Growth Rainforest Canopy",
+      "River Swimming & Kayaking",
+      "Close to Seattle Metro",
+      "Trailhead Access"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 7,
+      "terrain_score": 9,
+      "quietness_score": 7
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "North Bend, WA",
+        "distance_miles": 14.0,
+        "services_available": [
+          "Full Groceries",
+          "Gas Stations",
+          "Gear Shops",
+          "Urgent Care"
+        ]
+      },
+      {
+        "town_name": "Seattle, WA",
+        "distance_miles": 42.0,
+        "services_available": [
+          "Major Metropolitan Services"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush rainy spring (55-65°F).",
+      "summer": "Mild sunny summer (72-80°F).",
+      "fall": "Rainy autumn with glowing bigleaf maples.",
+      "winter": "Cool rainy winter (38-45°F)."
+    },
+    "dangers_and_hazards": [
+      "Swift River Currents",
+      "Falling Tree Branches during Storms",
+      "Black Bears"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Temperate Rainforest (Quietness Score: 7/10)",
+      "common_human_made_sounds": [
+        "Occasional hiker car pass",
+        "Snoqualmie River roar"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Douglas Fir",
+        "Western Hemlock",
+        "Mossy Bigleaf Maple",
+        "Sword Fern"
+      ],
+      "common_animals": [
+        "Roosevelt Elk",
+        "Black Bear",
+        "Bald Eagle",
+        "Salmon"
+      ]
+    },
+    "human_demographics_and_culture": "Snoqualmie Tribe ancestral heritage and Cascade rainforest outdoor recreation culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Snoqualmie Tribe sacred traditions honor the river valley as ancestral life source.",
+      "energetic_and_spiritual_features": "Giant moss-draped old growth hemlock trees creating deep rainforest stillness."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Middle Fork Snoqualmie River Trail",
+        "length_miles": 6.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Old-growth rainforest, river suspension bridges, mountain views"
+      }
+    ],
+    "public_reviews_summary": "Unbelievable old-growth rainforest camping under an hour from Seattle with dependable cell service.",
+    "other_data": "Extremely popular on summer weekends.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "washington-009",
+    "name": "Babyshoe Pass Dispersed Area - Gifford Pinchot NF",
+    "state": "Washington",
+    "county": "Skamania",
+    "coordinates": {
+      "latitude": 46.2214,
+      "longitude": -121.5889,
+      "elevation_ft": 4300.0
+    },
+    "management_agency": {
+      "name": "U.S. Forest Service - Gifford Pinchot NF",
+      "type": "Federal",
+      "phone": "(509) 395-3400",
+      "website": "https://www.fs.usda.gov/giffordpinchot"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive USFS dispersed camping)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Dispersed primitive camping along Forest Road 23 near Babyshoe Pass. Camp in established turnouts. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from streams. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Gather dead down wood only.",
+      "safety_requirements": "Campfires in cleared rock rings. Extinguish cold.",
+      "seasonal_fire_bans": "Subject to USFS stage fire bans."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved forest road to gravel spurs",
+      "road_conditions": "Paved and hard-packed gravel Forest Road 23.",
+      "vehicle_recommendation": "Accessible by low-clearance 2WD passenger cars.",
+      "scores": {
+        "road_grade": 2,
+        "road_terrain_difficulty": 2,
+        "supply_run_pain": 5
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Fair / Spotty (2.5/5 Stars)",
+      "verizon_reliability": "2-3 bars 4G LTE",
+      "att_reliability": "2 bars 4G LTE",
+      "tmobile_reliability": "1-2 bars 4G LTE",
+      "terrain_obstruction_risk": "Moderate under high mountain forest canopy",
+      "distance_from_tower_corridor_miles": 15.0,
+      "cellular_internet_dependable": false
+    },
+    "amenities": [
+      "Mount Adams Volcano Views",
+      "Huckleberry Fields",
+      "Subalpine Meadows",
+      "PCT Access Nearby"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 4,
+      "distance_to_library_score": 4,
+      "distance_to_gym_score": 3,
+      "terrain_score": 10,
+      "quietness_score": 9
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Trout Lake, WA",
+        "distance_miles": 16.0,
+        "services_available": [
+          "General Store",
+          "Gas Station",
+          "Cafe"
+        ]
+      },
+      {
+        "town_name": "White Salmon, WA",
+        "distance_miles": 42.0,
+        "services_available": [
+          "Full Groceries",
+          "Gear Shops",
+          "Hospital",
+          "Restaurants"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Snow blocks pass until June.",
+      "summer": "Pleasant alpine summer (70-78°F).",
+      "fall": "Crisp autumn huckleberry season.",
+      "winter": "Impassable; heavy snow."
+    },
+    "dangers_and_hazards": [
+      "Active Volcano Proximity (Mt. Adams)",
+      "Black Bears",
+      "Snow Blockage into June"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Subalpine Cascade Quiet (Quietness Score: 9/10)",
+      "common_human_made_sounds": [
+        "Wind through noble fir canopy",
+        "Bird calls"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Noble Fir",
+        "Mountain Hemlock",
+        "Huckleberry",
+        "Beargrass"
+      ],
+      "common_animals": [
+        "Elk",
+        "Black Bear",
+        "Cascade Frog",
+        "Pika"
+      ]
+    },
+    "human_demographics_and_culture": "Yakama Nation traditional territory and Cascade volcano outdoor climbing culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Yakama Nation tradition reveres Mount Adams (Pahto) as a sacred medicine mountain.",
+      "energetic_and_spiritual_features": "Panoramic views of Mount Adams snowcap looming over subalpine meadows."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Pacific Crest Trail (Babyshoe Pass Section)",
+        "length_miles": 5.0,
+        "difficulty": "Moderate",
+        "features": "PCT alpine ridge hike, Mount Adams vistas, huckleberry fields"
+      }
+    ],
+    "public_reviews_summary": "Incredible Mount Adams volcano views and huckleberry picking with spotty cell service.",
+    "other_data": "PCT hikers frequently pass through in late summer.",
+    "last_updated": "2026-09-12"
+  },
+  {
+    "id": "washington-010",
+    "name": "Yakima River Canyon Dispersed Area - BLM Wenatchee",
+    "state": "Washington",
+    "county": "Kittitas",
+    "coordinates": {
+      "latitude": 46.8123,
+      "longitude": -120.4612,
+      "elevation_ft": 1400.0
+    },
+    "management_agency": {
+      "name": "Bureau of Land Management (BLM) - Wenatchee Field Office",
+      "type": "Federal",
+      "phone": "(509) 665-2100",
+      "website": "https://www.blm.gov/washington"
+    },
+    "rules_and_regulations": {
+      "cost": "Free ($0/night primitive BLM dispersed camping on ridge roads above canyon)",
+      "stay_limit": "14 days maximum stay limit",
+      "guidelines": "Free primitive dispersed camping on BLM ridge lands above the canyon outside fee recreation sites. Pack out all trash."
+    },
+    "waste_disposal_rules": {
+      "poop_disposal": "Bury waste 6-8 inches deep 200 ft from canyon rim. Pack out toilet paper.",
+      "trash_policy": "Strict Pack-It-In Pack-It-Out policy."
+    },
+    "campfire_rules": {
+      "permitted": true,
+      "firewood_policy": "Bring firewood; no wood gathering in cheatgrass.",
+      "safety_requirements": "Campfires strictly contained in metal fire pans. Douse cold.",
+      "seasonal_fire_bans": "Extremely strict BLM summer burn bans due to high cheatgrass wildfire hazard."
+    },
+    "access_and_road_conditions": {
+      "road_type": "Paved canyon road to dirt ridge tracks",
+      "road_conditions": "Paved SR-821 leads to steep dirt/gravel ridge pullouts.",
+      "vehicle_recommendation": "High clearance 2WD/4WD recommended for top ridge pullouts.",
+      "scores": {
+        "road_grade": 4,
+        "road_terrain_difficulty": 5,
+        "supply_run_pain": 2
+      }
+    },
+    "nomad_connectivity_rating": {
+      "overall_rating": "Great (4.5/5 Stars)",
+      "verizon_reliability": "4 bars 5G/4G LTE",
+      "att_reliability": "3-4 bars 4G LTE",
+      "tmobile_reliability": "3-4 bars 5G",
+      "terrain_obstruction_risk": "Low on high ridge tops",
+      "distance_from_tower_corridor_miles": 5.5,
+      "cellular_internet_dependable": true
+    },
+    "amenities": [
+      "Basalt Canyon Rim Views",
+      "Yakima River Fishing Nearby",
+      "Bighorn Sheep Habitat",
+      "Dark Sky Astronomy"
+    ],
+    "location_scores": {
+      "distance_to_groceries_score": 8,
+      "distance_to_library_score": 8,
+      "distance_to_gym_score": 7,
+      "terrain_score": 9,
+      "quietness_score": 8
+    },
+    "nearest_supply_towns": [
+      {
+        "town_name": "Ellensburg, WA",
+        "distance_miles": 12.0,
+        "services_available": [
+          "CWU Campus",
+          "Full Groceries",
+          "Hospital",
+          "Hardware",
+          "Gyms"
+        ]
+      },
+      {
+        "town_name": "Yakima, WA",
+        "distance_miles": 22.0,
+        "services_available": [
+          "Regional Urban Services",
+          "Airport",
+          "Medical Centers"
+        ]
+      }
+    ],
+    "seasonal_weather_effects": {
+      "spring": "Lush green canyon spring (62-74°F).",
+      "summer": "Warm to hot summer (85-95°F) with bright sun.",
+      "fall": "Crisp golden autumn days.",
+      "winter": "Cool winter (35-45°F)."
+    },
+    "dangers_and_hazards": [
+      "High Summer Wildfire Hazard",
+      "Rattlesnakes",
+      "High Canyon Winds"
+    ],
+    "acoustic_environment": {
+      "quietness_rating": "Basalt Canyon Quiet (Quietness Score: 8/10)",
+      "common_human_made_sounds": [
+        "Distant SR-821 vehicle pass",
+        "Canyon wind"
+      ]
+    },
+    "flora_and_fauna": {
+      "common_plants_and_trees": [
+        "Big Sagebrush",
+        "Bluebunch Wheatgrass",
+        "Cheatgrass"
+      ],
+      "common_animals": [
+        "Rocky Mountain Bighorn Sheep",
+        "Golden Eagle",
+        "Blueback Trout",
+        "Coyote"
+      ]
+    },
+    "human_demographics_and_culture": "Yakama Nation ancestral territory and Columbia Basin fly fishing culture.",
+    "spiritual_and_folklore_data": {
+      "nature_spirits_and_mythological_lore": "Deep basalt gorge carved through Columbia River basalt flows over millions of years.",
+      "energetic_and_spiritual_features": "High ridge overlooks commanding 360-degree views of the Yakima River canyon."
+    },
+    "nearby_hiking_trails": [
+      {
+        "trail_name": "Umtanum Creek Canyon Trail",
+        "length_miles": 3.0,
+        "difficulty": "Easy to Moderate",
+        "features": "Suspension bridge over Yakima River, basalt canyon walls, apple orchards"
+      }
+    ],
+    "public_reviews_summary": "Incredible desert canyon sunset views and world-class blue-ribbon fly fishing with blazing 5G cell service.",
+    "other_data": "Extremely strict summer campfire bans enforced.",
+    "last_updated": "2026-09-12"
+  }
+]
