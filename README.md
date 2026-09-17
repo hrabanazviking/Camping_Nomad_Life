@@ -57,3 +57,15 @@ Run the built-in validator to verify schema compliance:
 ```bash
 python3 validate_dataset.py
 ```
+
+---
+
+## ☕ Support the Project
+
+If you enjoy my open-source projects and want to help support continued development, research, testing, and experimentation, you can leave a tip through PayPal:
+
+**[Support my work on PayPal.Me](https://www.paypal.com/paypalme/volmarrwyrd)**
+
+Support is always appreciated, but never required. Using, sharing, testing, contributing to, or starring the projects helps too. 🖤⚙️ᚱ
+
+---
