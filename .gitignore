@@ -1,12 +1,6 @@
-*.md
-!README.md
-__pycache__
-example*
-test*
-docs
-.env
-
+# .gitignore
 # --- user-data guard (Volmarr ecosystem law, 2026-11-26: user data is never committed) ---
+.env
 .env.*
 *.pem
 *.key
